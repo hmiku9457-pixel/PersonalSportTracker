@@ -4,7 +4,13 @@ function row(cells, className = '') {
 
   for (const value of cells) {
     const td = document.createElement('td');
-    td.textContent = value;
+
+    if (value instanceof Node) {
+      td.append(value);
+    } else {
+      td.textContent = value;
+    }
+
     tr.append(td);
   }
   return tr;
@@ -207,9 +213,23 @@ function f1ConstructorsStandings(data) {
   return createTable(
     ['#', 'Team', 'Pkt.'],
     data.constructors.map(team => {
-      const drivers = team.currentDrivers?.length ? ` (${team.currentDrivers.join(', ')})` : '';
+      const teamLabel = document.createElement('span');
+      teamLabel.className = 'constructor-team';
+
+      const teamName = document.createElement('span');
+      teamName.className = 'constructor-team__name';
+      teamName.textContent = team.name;
+      teamLabel.append(teamName);
+
+      if (team.currentDrivers?.length) {
+        const drivers = document.createElement('span');
+        drivers.className = 'constructor-team__drivers';
+        drivers.textContent = `(${team.currentDrivers.join(', ')})`;
+        teamLabel.append(drivers);
+      }
+
       return {
-        cells: [team.position, `${team.name}${drivers}`, team.points],
+        cells: [team.position, teamLabel, team.points],
         className: f1PodiumClass(team.position)
       };
     })

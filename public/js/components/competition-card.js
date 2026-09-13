@@ -160,7 +160,7 @@ function footballContent(data) {
   layout.className = 'competition-layout competition-layout--football';
 
   const standings = createTable(
-    ['Rang', 'Team', 'Sp.', 'Pkt.', 'TD', 'Tore'],
+    ['#', 'Team', 'Sp.', 'Pkt.', 'TD', 'Tore'],
     data.standings.map(team => ({
       cells: [
         team.position,

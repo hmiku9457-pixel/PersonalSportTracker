@@ -1,0 +1,54 @@
+{
+  "season": 2026,
+  "competitions": [
+    {
+      "id": "f1",
+      "name": "Formel 1",
+      "sport": "motorsport",
+      "source": "jolpica",
+      "order": 1,
+      "enabled": true
+    },
+    {
+      "id": "bundesliga",
+      "name": "1. Bundesliga",
+      "sport": "football",
+      "source": "openligadb",
+      "shortcut": "bl1",
+      "order": 2,
+      "enabled": true
+    },
+    {
+      "id": "bundesliga2",
+      "name": "2. Bundesliga",
+      "sport": "football",
+      "source": "openligadb",
+      "shortcut": "bl2",
+      "order": 3,
+      "enabled": true
+    },
+    {
+      "id": "liga3",
+      "name": "3. Liga",
+      "sport": "football",
+      "source": "openligadb",
+      "shortcut": "bl3",
+      "order": 4,
+      "enabled": true
+    },
+    {
+      "id": "champions-league",
+      "name": "Champions League",
+      "sport": "football",
+      "source": "openligadb",
+      "shortcut": "ucl",
+      "order": 5,
+      "enabled": true,
+      "zones": [
+        { "from": 1, "to": 8, "name": "Achtelfinale" },
+        { "from": 9, "to": 24, "name": "Playoffs" },
+        { "from": 25, "to": 36, "name": "Ausgeschieden" }
+      ]
+    }
+  ]
+}

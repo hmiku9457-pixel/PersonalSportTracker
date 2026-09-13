@@ -1,0 +1,12 @@
+{
+  "name": "personal-sport-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update-data": "node scripts/update-all.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

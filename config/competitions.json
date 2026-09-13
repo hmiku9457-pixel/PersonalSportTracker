@@ -16,7 +16,15 @@
       "source": "openligadb",
       "shortcut": "bl1",
       "order": 2,
-      "enabled": true
+      "enabled": true,
+      "tableHighlights": [
+        { "from": 1, "to": 1, "type": "champion" },
+        { "from": 2, "to": 4, "type": "champions-league" },
+        { "from": 5, "to": 5, "type": "europa-league" },
+        { "from": 6, "to": 6, "type": "conference-league" },
+        { "from": 16, "to": 16, "type": "relegation-playoff" },
+        { "from": 17, "to": 18, "type": "relegation" }
+      ]
     },
     {
       "id": "bundesliga2",
@@ -25,7 +33,14 @@
       "source": "openligadb",
       "shortcut": "bl2",
       "order": 3,
-      "enabled": true
+      "enabled": true,
+      "tableHighlights": [
+        { "from": 1, "to": 1, "type": "champion" },
+        { "from": 2, "to": 2, "type": "promotion" },
+        { "from": 3, "to": 3, "type": "promotion-playoff" },
+        { "from": 16, "to": 16, "type": "relegation-playoff" },
+        { "from": 17, "to": 18, "type": "relegation" }
+      ]
     },
     {
       "id": "liga3",
@@ -34,7 +49,13 @@
       "source": "openligadb",
       "shortcut": "bl3",
       "order": 4,
-      "enabled": true
+      "enabled": true,
+      "tableHighlights": [
+        { "from": 1, "to": 1, "type": "champion" },
+        { "from": 2, "to": 2, "type": "promotion" },
+        { "from": 3, "to": 3, "type": "promotion-playoff" },
+        { "from": 17, "to": 20, "type": "relegation" }
+      ]
     },
     {
       "id": "champions-league",
@@ -48,6 +69,10 @@
         { "from": 1, "to": 8, "name": "Achtelfinale" },
         { "from": 9, "to": 24, "name": "Playoffs" },
         { "from": 25, "to": 36, "name": "Ausgeschieden" }
+      ],
+      "tableHighlights": [
+        { "from": 1, "to": 8, "type": "champions-league" },
+        { "from": 9, "to": 24, "type": "champions-league-playoff" }
       ]
     }
   ]

@@ -41,3 +41,7 @@ In den Repository-Einstellungen unter **Settings → Pages → Build and deploym
 3. Fußball Best-/Worst-Case-Szenarien (zunächst iterativ pro Spieltag)
 4. Detailansichten je Wettbewerb
 5. später optional: F2, F3, DFB-Pokal, CL-K.-o.-Phase, Premier League
+
+## Seiten
+
+`index.html` und `details.html` liegen im Repository-Root. Der Pages-Workflow kopiert beim Build alle Root-HTML-Dateien nach `public/`, sodass CSS/JS/Daten weiterhin relativ aus `public/` geladen werden.

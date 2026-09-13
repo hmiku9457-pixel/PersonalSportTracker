@@ -16,35 +16,100 @@ function eventDateTime(event) {
   return `${event.date}T${event.time ?? '00:00:00Z'}`;
 }
 
+function driverName(driver) {
+  return `${driver?.givenName ?? ''} ${driver?.familyName ?? ''}`.trim();
+}
+
+function normalizeRaceResult(result) {
+  return {
+    position: Number(result.position),
+    driverId: result.Driver?.driverId ?? '',
+    driverName: driverName(result.Driver),
+    shortName: result.Driver?.code ?? result.Driver?.familyName ?? '',
+    familyName: result.Driver?.familyName ?? '',
+    constructorId: result.Constructor?.constructorId ?? '',
+    constructorName: result.Constructor?.name ?? '',
+    points: Number(result.points ?? 0),
+    status: result.status ?? null
+  };
+}
+
+function normalizeScheduledRace(race) {
+  if (!race) return null;
+
+  return {
+    id: `${race.season}-${race.round}`,
+    round: Number(race.round),
+    name: race.raceName,
+    date: eventDateTime(race),
+    circuit: race.Circuit?.circuitName ?? null,
+    locality: race.Circuit?.Location?.locality ?? null,
+    country: race.Circuit?.Location?.country ?? null,
+    hasSprint: Boolean(race.Sprint),
+    sprintDate: race.Sprint ? eventDateTime(race.Sprint) : null
+  };
+}
+
 export async function fetchF1Competition(competition) {
-  const [driversPayload, constructorsPayload, racesPayload] = await Promise.all([
+  const [driversPayload, constructorsPayload, racesPayload, lastResultsPayload] = await Promise.all([
     fetchJson(`${BASE_URL}/current/driverstandings/?${JSON_QUERY}`),
     fetchJson(`${BASE_URL}/current/constructorstandings/?${JSON_QUERY}`),
-    fetchJson(`${BASE_URL}/current/races/?${JSON_QUERY}`)
+    fetchJson(`${BASE_URL}/current/races/?${JSON_QUERY}`),
+    fetchJson(`${BASE_URL}/current/last/results/?${JSON_QUERY}`)
   ]);
 
   const driverList = standingsList(driversPayload).DriverStandings ?? [];
   const constructorList = standingsList(constructorsPayload).ConstructorStandings ?? [];
   const races = racesList(racesPayload);
+  const lastRaceRaw = racesList(lastResultsPayload)[0] ?? null;
+  const lastRaceResults = (lastRaceRaw?.Results ?? []).map(normalizeRaceResult);
+  const lastCompletedRound = Number(lastRaceRaw?.round ?? 0);
   const now = Date.now();
 
-  const drivers = driverList.map(entry => ({
-    driverId: entry.Driver.driverId,
-    name: `${entry.Driver.givenName} ${entry.Driver.familyName}`,
-    shortName: entry.Driver.code ?? entry.Driver.familyName,
-    position: Number(entry.position),
-    points: Number(entry.points),
-    wins: Number(entry.wins ?? 0),
-    constructorIds: (entry.Constructors ?? []).map(item => item.constructorId)
-  }));
+  const currentConstructorByDriver = new Map(
+    lastRaceResults.map(result => [result.driverId, result.constructorId])
+  );
 
-  const constructors = constructorList.map(entry => ({
-    constructorId: entry.Constructor.constructorId,
-    name: entry.Constructor.name,
-    position: Number(entry.position),
-    points: Number(entry.points),
-    wins: Number(entry.wins ?? 0)
-  }));
+  const drivers = driverList.map(entry => {
+    const historicalConstructorIds = (entry.Constructors ?? []).map(item => item.constructorId);
+    return {
+      driverId: entry.Driver.driverId,
+      name: driverName(entry.Driver),
+      shortName: entry.Driver.code ?? entry.Driver.familyName,
+      familyName: entry.Driver.familyName,
+      position: Number(entry.position),
+      points: Number(entry.points),
+      wins: Number(entry.wins ?? 0),
+      constructorIds: historicalConstructorIds,
+      currentConstructorId: currentConstructorByDriver.get(entry.Driver.driverId)
+        ?? historicalConstructorIds.at(-1)
+        ?? null
+    };
+  });
+
+  const constructors = constructorList.map(entry => {
+    const constructorId = entry.Constructor.constructorId;
+    const latestRaceDrivers = lastRaceResults
+      .filter(result => result.constructorId === constructorId)
+      .map(result => result.familyName)
+      .filter(Boolean);
+
+    const fallbackDrivers = drivers
+      .filter(driver => driver.currentConstructorId === constructorId)
+      .map(driver => driver.familyName)
+      .filter(Boolean);
+
+    const currentDrivers = [...new Set([...latestRaceDrivers, ...fallbackDrivers])].slice(0, 2);
+
+    return {
+      constructorId,
+      name: entry.Constructor.name,
+      position: Number(entry.position),
+      points: Number(entry.points),
+      wins: Number(entry.wins ?? 0),
+      currentDrivers
+    };
+  });
 
   const remainingEvents = [];
 
@@ -76,6 +141,10 @@ export async function fetchF1Competition(competition) {
 
   remainingEvents.sort((a, b) => Date.parse(a.date) - Date.parse(b.date));
 
+  const nextRaceRaw = races
+    .filter(race => Number(race.round) > lastCompletedRound)
+    .sort((a, b) => Number(a.round) - Number(b.round))[0] ?? null;
+
   return {
     competition: {
       id: competition.id,
@@ -91,6 +160,13 @@ export async function fetchF1Competition(competition) {
     },
     drivers,
     constructors,
+    lastRace: lastRaceRaw ? {
+      round: Number(lastRaceRaw.round),
+      name: lastRaceRaw.raceName,
+      date: eventDateTime(lastRaceRaw),
+      results: lastRaceResults
+    } : null,
+    nextRace: normalizeScheduledRace(nextRaceRaw),
     remainingEvents
   };
 }

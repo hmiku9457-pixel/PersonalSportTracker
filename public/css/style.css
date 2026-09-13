@@ -1,8 +1,16 @@
 :root {
-  color-scheme: light dark;
+  color-scheme: dark;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   background: #111318;
   color: #f3f4f6;
+
+  --bg: #111318;
+  --card: #191c23;
+  --card-alt: #20242c;
+  --border: #2b303a;
+  --border-soft: #282d36;
+  --muted: #a9b0bd;
+  --text-soft: #bfc6d2;
 }
 
 * {
@@ -12,11 +20,10 @@
 body {
   margin: 0;
   min-width: 320px;
-  background: #111318;
+  background: var(--bg);
   color: #f3f4f6;
 }
 
-/* Gesamte verfügbare Fensterbreite nutzen */
 .page-header,
 main {
   width: calc(100% - 32px);
@@ -24,54 +31,86 @@ main {
 }
 
 .page-header {
-  padding: 32px 0 20px;
+  padding: 28px 0 20px;
+  text-align: center;
+}
+
+.page-header__top {
+  position: relative;
+  min-height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .page-header h1 {
-  margin: 0 0 8px;
+  margin: 0;
   font-size: clamp(1.8rem, 4vw, 2.6rem);
+}
+
+.page-header__nav {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.header-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 38px;
+  padding: 8px 14px;
+  color: #f3f4f6;
+  background: var(--card-alt);
+  border: 1px solid #39404c;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.header-button:hover {
+  background: #2a303a;
 }
 
 .page-header p,
 .card-meta {
-  margin: 0;
-  color: #a9b0bd;
+  margin: 6px 0 0;
+  color: var(--muted);
 }
 
 /*
- * Masonry-artiges Layout.
- *
- * Durch die kleinere Spaltenbreite können auf großen Monitoren
- * problemlos 4, 5 oder mehr Karten nebeneinander dargestellt werden.
+ * Masonry-artiges Spaltenlayout ohne feste Maximalbreite.
+ * Ab ca. 680 px pro Karte können auf großen/ultrawide Displays
+ * vier oder mehr Wettbewerbe nebeneinander stehen.
  */
 .competition-grid {
-  column-width: 300px;
+  column-width: 680px;
   column-gap: 16px;
   padding-bottom: 40px;
 }
 
-/* Einzelne Wettbewerbskarte */
 .competition-card {
   display: inline-block;
   width: 100%;
   margin: 0 0 16px;
-
-  background: #191c23;
-  border: 1px solid #2b303a;
+  background: var(--card);
+  border: 1px solid var(--border);
   border-radius: 12px;
   overflow: hidden;
-
   break-inside: avoid;
   vertical-align: top;
 }
 
 .competition-card > header {
-  padding: 16px 18px;
-  border-bottom: 1px solid #2b303a;
+  padding: 15px 18px;
+  border-bottom: 1px solid var(--border);
 }
 
 .competition-card h2,
-.competition-card h3 {
+.competition-card h3,
+.competition-card h4 {
   margin: 0;
 }
 
@@ -79,105 +118,267 @@ main {
   font-size: 1.15rem;
 }
 
-.competition-card h3 {
-  padding: 16px 14px 8px;
-  font-size: 1rem;
+.competition-panel > h3 {
+  padding: 12px 12px 10px;
+  background: #171a20;
+  border-bottom: 1px solid var(--border-soft);
+  font-size: 0.9rem;
+}
+
+.standings-stack h4 {
+  padding: 10px 10px 7px;
+  color: var(--text-soft);
+  font-size: 0.82rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
 }
 
 .card-meta {
-  margin-top: 5px;
-  font-size: 0.8rem;
+  font-size: 0.78rem;
 }
 
-/*
- * Keine eigene Scrollfläche.
- * Die Karte wächst entsprechend ihrer Tabelle.
- */
 .table-wrap {
   width: 100%;
   max-height: none;
   overflow: visible;
 }
 
+.competition-layout {
+  display: grid;
+  grid-template-columns: minmax(300px, 1.35fr) minmax(205px, 0.9fr) minmax(175px, 0.72fr);
+  align-items: start;
+}
+
+.competition-panel {
+  min-width: 0;
+  border-right: 1px solid var(--border);
+}
+
+.competition-panel:last-child {
+  border-right: 0;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
   table-layout: auto;
-  font-size: 0.88rem;
+  font-size: 0.84rem;
 }
 
 th,
 td {
-  padding: 8px 10px;
+  padding: 7px 8px;
   text-align: left;
-  border-bottom: 1px solid #282d36;
+  border-bottom: 1px solid var(--border-soft);
   white-space: normal;
   overflow-wrap: anywhere;
 }
 
 th {
-  background: #20242c;
-  color: #bfc6d2;
-  font-size: 0.75rem;
+  background: var(--card-alt);
+  color: var(--text-soft);
+  font-size: 0.7rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.04em;
 }
 
-/*
- * Abwechselnde Zeilenfarben.
- * Dadurch kann eine Tabellenposition leichter verfolgt werden.
- */
 tbody tr:nth-child(odd) {
-  background: #191c23;
+  background: var(--card);
 }
 
 tbody tr:nth-child(even) {
-  background: #20242c;
+  background: var(--card-alt);
 }
 
-/* Zeile beim Darüberfahren zusätzlich hervorheben */
 tbody tr:hover {
   background: #2a303a;
 }
 
-/* Positionsspalte */
 th:first-child,
 td:first-child {
-  width: 42px;
+  width: 38px;
   text-align: right;
-  color: #a9b0bd;
+  color: var(--muted);
 }
 
-/* Punktespalte / letzte Spalte */
 th:last-child,
 td:last-child {
   text-align: right;
 }
 
-/* Keine zusätzliche Linie am Tabellenende */
 tbody tr:last-child td {
   border-bottom: 0;
 }
 
-/*
- * Mittlere Bildschirmgrößen:
- * Etwas kompakter, damit weiterhin mehrere Karten nebeneinander passen.
- */
-@media (max-width: 1000px) {
-  .competition-grid {
-    column-width: 280px;
-  }
-
-  th,
-  td {
-    padding: 8px 8px;
-    font-size: 0.84rem;
-  }
+/* Besondere Tabellenpositionen. Die Zebra-Farbe bleibt erhalten;
+   hervorgehoben wird vor allem die Positionszelle. */
+tbody tr[class*="zone-"] td:first-child {
+  font-weight: 700;
+  color: #fff;
+  box-shadow: inset 4px 0 0 var(--zone-color);
+  background: var(--zone-background);
 }
 
-/* Mobile Darstellung */
-@media (max-width: 600px) {
+.zone-gold,
+.zone-champion {
+  --zone-color: #d4af37;
+  --zone-background: rgb(212 175 55 / 22%);
+}
+
+.zone-silver {
+  --zone-color: #c0c0c0;
+  --zone-background: rgb(192 192 192 / 20%);
+}
+
+.zone-bronze {
+  --zone-color: #cd7f32;
+  --zone-background: rgb(205 127 50 / 22%);
+}
+
+.zone-champions-league {
+  --zone-color: #4285f4;
+  --zone-background: rgb(66 133 244 / 20%);
+}
+
+.zone-champions-league-playoff {
+  --zone-color: rgb(66 133 244 / 52%);
+  --zone-background: rgb(66 133 244 / 9%);
+}
+
+.zone-europa-league {
+  --zone-color: #ef8b2c;
+  --zone-background: rgb(239 139 44 / 20%);
+}
+
+.zone-conference-league,
+.zone-promotion {
+  --zone-color: #3da66b;
+  --zone-background: rgb(61 166 107 / 20%);
+}
+
+.zone-promotion-playoff {
+  --zone-color: rgb(61 166 107 / 52%);
+  --zone-background: rgb(61 166 107 / 9%);
+}
+
+.zone-relegation {
+  --zone-color: #d94a4a;
+  --zone-background: rgb(217 74 74 / 20%);
+}
+
+.zone-relegation-playoff {
+  --zone-color: rgb(217 74 74 / 52%);
+  --zone-background: rgb(217 74 74 / 9%);
+}
+
+.fixture-list,
+.race-summary,
+.next-event {
+  padding: 10px;
+}
+
+.matchday-name,
+.event-name {
+  margin: 0 0 9px;
+  color: #f0f2f5;
+  font-weight: 700;
+  font-size: 0.86rem;
+}
+
+.fixture-item {
+  padding: 7px 0;
+  border-bottom: 1px solid var(--border-soft);
+}
+
+.fixture-item:last-child {
+  border-bottom: 0;
+}
+
+.fixture-teams {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  gap: 6px;
+  align-items: center;
+  font-size: 0.79rem;
+}
+
+.fixture-team {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.fixture-team--home {
+  text-align: right;
+}
+
+.fixture-score {
+  min-width: 30px;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.fixture-time {
+  display: block;
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 0.68rem;
+  text-align: center;
+}
+
+.event-detail {
+  margin: 7px 0 0;
+  color: var(--text-soft);
+  font-size: 0.8rem;
+  line-height: 1.4;
+}
+
+.event-badge {
+  display: inline-block;
+  margin: 12px 0 0;
+  padding: 5px 8px;
+  border: 1px solid #485161;
+  border-radius: 999px;
+  color: #dbe1e9;
+  background: #222731;
+  font-size: 0.72rem;
+}
+
+.panel-placeholder {
+  margin: 0;
+  padding: 14px 12px;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+/* Detailseite ist bereits für die späteren Szenario-Module vorbereitet. */
+.details-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 16px;
+  padding-bottom: 40px;
+}
+
+.detail-card {
+  min-height: 150px;
+  padding: 18px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+.detail-card h2 {
+  margin: 0 0 10px;
+  font-size: 1.05rem;
+}
+
+.detail-card p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+@media (max-width: 760px) {
   .page-header,
   main {
     width: calc(100% - 20px);
@@ -187,23 +388,38 @@ tbody tr:last-child td {
     padding-top: 20px;
   }
 
+  .page-header__top {
+    display: grid;
+    gap: 10px;
+  }
+
+  .page-header__nav {
+    position: static;
+    transform: none;
+  }
+
   .competition-grid {
     column-width: auto;
     column-count: 1;
     column-gap: 0;
   }
 
-  .competition-card {
-    margin-bottom: 16px;
+  .competition-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .competition-panel {
+    border-right: 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .competition-panel:last-child {
+    border-bottom: 0;
   }
 
   th,
   td {
-    padding: 8px 9px;
-    font-size: 0.82rem;
-  }
-
-  th {
-    font-size: 0.72rem;
+    padding: 7px 7px;
+    font-size: 0.8rem;
   }
 }

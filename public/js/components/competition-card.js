@@ -160,9 +160,16 @@ function footballContent(data) {
   layout.className = 'competition-layout competition-layout--football';
 
   const standings = createTable(
-    ['#', 'Team', 'Sp.', 'Pkt.'],
+    ['Rang', 'Team', 'Sp.', 'Pkt.', 'TD', 'Tore'],
     data.standings.map(team => ({
-      cells: [team.position, team.name, team.played, team.points],
+      cells: [
+        team.position,
+        team.name,
+        team.played,
+        team.points,
+        team.goalDifference > 0 ? `+${team.goalDifference}` : team.goalDifference,
+        team.goalsFor
+      ],
       className: footballHighlightClass(data, team.position)
     })),
     'football-standings-table'

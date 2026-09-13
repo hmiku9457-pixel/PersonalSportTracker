@@ -150,7 +150,7 @@ main {
 
 .competition-layout--football {
   grid-template-columns:
-    minmax(340px, 1.5fr)
+    minmax(410px, 1.65fr)
     repeat(3, minmax(140px, 0.75fr));
 }
 
@@ -254,20 +254,35 @@ tbody tr:last-child td {
   overflow-wrap: normal;
 }
 
+.football-standings-table th:nth-child(n+3),
+.football-standings-table td:nth-child(n+3) {
+  white-space: nowrap;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
 .football-standings-table th:nth-child(3),
 .football-standings-table td:nth-child(3) {
   width: 42px;
   min-width: 42px;
-  white-space: nowrap;
-  text-align: right;
 }
 
 .football-standings-table th:nth-child(4),
 .football-standings-table td:nth-child(4) {
   width: 48px;
   min-width: 48px;
-  white-space: nowrap;
-  text-align: right;
+}
+
+.football-standings-table th:nth-child(5),
+.football-standings-table td:nth-child(5) {
+  width: 44px;
+  min-width: 44px;
+}
+
+.football-standings-table th:nth-child(6),
+.football-standings-table td:nth-child(6) {
+  width: 46px;
+  min-width: 46px;
 }
 
 

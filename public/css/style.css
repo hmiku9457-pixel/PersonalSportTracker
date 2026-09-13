@@ -270,6 +270,26 @@ tbody tr:last-child td {
   text-align: right;
 }
 
+
+/* Konstrukteurs-WM: Teamname oben, aktuelle Fahrer bewusst in eigener Zeile. */
+.constructor-team {
+  display: block;
+  min-width: 0;
+}
+
+.constructor-team__name {
+  display: block;
+  font-weight: 600;
+}
+
+.constructor-team__drivers {
+  display: block;
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 0.76rem;
+  line-height: 1.25;
+}
+
 /* F1-Rennergebnis bleibt auch bei längeren Fahrer-/Teamnamen einzeilig. */
 .race-results-table {
   font-size: 0.78rem;

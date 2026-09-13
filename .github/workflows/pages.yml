@@ -1,8 +1,6 @@
 name: Update sports data and deploy Pages
 
 on:
-  push:
-    branches: [main]
   schedule:
     - cron: "17 5 * * *"
   workflow_dispatch:
@@ -36,7 +34,7 @@ jobs:
 
       - name: Prepare site
         run: cp index.html public/index.html
-      
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

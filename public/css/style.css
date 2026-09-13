@@ -86,7 +86,7 @@ main {
  * Auf großen/ultrawide Displays sind weiterhin mehrere Karten nebeneinander möglich.
  */
 .competition-grid {
-  column-width: 760px;
+  column-width: 1050px;
   column-gap: 16px;
   padding-bottom: 40px;
 }
@@ -150,8 +150,8 @@ main {
 
 .competition-layout--football {
   grid-template-columns:
-    minmax(410px, 1.65fr)
-    repeat(3, minmax(140px, 0.75fr));
+    minmax(422px, 1.65fr)
+    repeat(3, minmax(210px, 1.125fr));
 }
 
 .competition-layout--f1 {
@@ -281,8 +281,8 @@ tbody tr:last-child td {
 
 .football-standings-table th:nth-child(6),
 .football-standings-table td:nth-child(6) {
-  width: 46px;
-  min-width: 46px;
+  width: 58px;
+  min-width: 58px;
 }
 
 

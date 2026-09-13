@@ -39,13 +39,14 @@ main {
 }
 
 /*
- * Masonry-artiges Layout:
- * Karten werden in Spalten angeordnet und rutschen direkt
- * unter die jeweils vorherige Karte derselben Spalte.
+ * Masonry-artiges Layout.
+ *
+ * Durch die kleinere Spaltenbreite können auf großen Monitoren
+ * problemlos 4, 5 oder mehr Karten nebeneinander dargestellt werden.
  */
 .competition-grid {
-  column-width: 420px;
-  column-gap: 20px;
+  column-width: 300px;
+  column-gap: 16px;
   padding-bottom: 40px;
 }
 
@@ -53,7 +54,7 @@ main {
 .competition-card {
   display: inline-block;
   width: 100%;
-  margin: 0 0 20px;
+  margin: 0 0 16px;
 
   background: #191c23;
   border: 1px solid #2b303a;
@@ -65,7 +66,7 @@ main {
 }
 
 .competition-card > header {
-  padding: 18px 20px;
+  padding: 16px 18px;
   border-bottom: 1px solid #2b303a;
 }
 
@@ -74,8 +75,12 @@ main {
   margin: 0;
 }
 
+.competition-card h2 {
+  font-size: 1.15rem;
+}
+
 .competition-card h3 {
-  padding: 18px 16px 8px;
+  padding: 16px 14px 8px;
   font-size: 1rem;
 }
 
@@ -85,8 +90,8 @@ main {
 }
 
 /*
- * Tabellen bekommen keine eigene Scrollfläche.
- * Die Karte wächst entsprechend der Anzahl ihrer Zeilen.
+ * Keine eigene Scrollfläche.
+ * Die Karte wächst entsprechend ihrer Tabelle.
  */
 .table-wrap {
   width: 100%;
@@ -98,12 +103,12 @@ table {
   width: 100%;
   border-collapse: collapse;
   table-layout: auto;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
 }
 
 th,
 td {
-  padding: 9px 12px;
+  padding: 8px 10px;
   text-align: left;
   border-bottom: 1px solid #282d36;
   white-space: normal;
@@ -113,16 +118,33 @@ td {
 th {
   background: #20242c;
   color: #bfc6d2;
-  font-size: 0.78rem;
+  font-size: 0.75rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.04em;
 }
 
+/*
+ * Abwechselnde Zeilenfarben.
+ * Dadurch kann eine Tabellenposition leichter verfolgt werden.
+ */
+tbody tr:nth-child(odd) {
+  background: #191c23;
+}
+
+tbody tr:nth-child(even) {
+  background: #20242c;
+}
+
+/* Zeile beim Darüberfahren zusätzlich hervorheben */
+tbody tr:hover {
+  background: #2a303a;
+}
+
 /* Positionsspalte */
 th:first-child,
 td:first-child {
-  width: 44px;
+  width: 42px;
   text-align: right;
   color: #a9b0bd;
 }
@@ -133,17 +155,28 @@ td:last-child {
   text-align: right;
 }
 
-/* Letzte Tabellenzeile ohne unnötige Abschlusslinie */
+/* Keine zusätzliche Linie am Tabellenende */
 tbody tr:last-child td {
   border-bottom: 0;
 }
 
-/* Etwas bessere Lesbarkeit beim Überfahren */
-tbody tr:hover {
-  background: #1f232b;
+/*
+ * Mittlere Bildschirmgrößen:
+ * Etwas kompakter, damit weiterhin mehrere Karten nebeneinander passen.
+ */
+@media (max-width: 1000px) {
+  .competition-grid {
+    column-width: 280px;
+  }
+
+  th,
+  td {
+    padding: 8px 8px;
+    font-size: 0.84rem;
+  }
 }
 
-/* Mobile Darstellung: eine einzige Spalte */
+/* Mobile Darstellung */
 @media (max-width: 600px) {
   .page-header,
   main {

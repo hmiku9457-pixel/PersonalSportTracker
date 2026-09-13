@@ -10,8 +10,10 @@ function row(cells, className = '') {
   return tr;
 }
 
-function createTable(headers, rows) {
+function createTable(headers, rows, className = '') {
   const table = document.createElement('table');
+  if (className) table.className = className;
+
   const thead = document.createElement('thead');
   const headerRow = document.createElement('tr');
 
@@ -95,9 +97,9 @@ function placeholder(text) {
   return p;
 }
 
-function createMatchday(matchday, showResult) {
+function createMatchday(matchday, { showResult = false, emptyText = 'Kein Spieltag vorhanden.' } = {}) {
   if (!matchday?.matches?.length) {
-    return placeholder(showResult ? 'Noch kein abgeschlossener Spieltag.' : 'Noch kein kommender Spieltag vorhanden.');
+    return placeholder(emptyText);
   }
 
   const wrapper = document.createElement('div');
@@ -118,6 +120,7 @@ function createMatchday(matchday, showResult) {
     const home = document.createElement('span');
     home.className = 'fixture-team fixture-team--home';
     home.textContent = match.homeShortName || match.homeTeam;
+    home.title = match.homeTeam || home.textContent;
 
     const middle = document.createElement('strong');
     middle.className = 'fixture-score';
@@ -130,6 +133,7 @@ function createMatchday(matchday, showResult) {
     const away = document.createElement('span');
     away.className = 'fixture-team';
     away.textContent = match.awayShortName || match.awayTeam;
+    away.title = match.awayTeam || away.textContent;
 
     teams.append(home, middle, away);
 
@@ -159,32 +163,47 @@ function footballContent(data) {
 
   layout.append(
     createPanel('Tabelle', standings, 'competition-panel--standings'),
-    createPanel('Letzter Spieltag', createMatchday(data.lastMatchday, true)),
-    createPanel('Nächster Spieltag', createMatchday(data.nextMatchday, false))
+    createPanel(
+      'Letzter Spieltag',
+      createMatchday(data.lastMatchday, {
+        showResult: true,
+        emptyText: 'Noch kein abgeschlossener Spieltag.'
+      }),
+      'competition-panel--matchday'
+    ),
+    createPanel(
+      'Aktueller Spieltag',
+      createMatchday(data.currentMatchday, {
+        showResult: false,
+        emptyText: 'Aktuell ist kein Spieltag angesetzt.'
+      }),
+      'competition-panel--matchday'
+    ),
+    createPanel(
+      'Nächster Spieltag',
+      createMatchday(data.nextMatchday, {
+        showResult: false,
+        emptyText: 'Kein weiterer Spieltag vorhanden.'
+      }),
+      'competition-panel--matchday'
+    )
   );
 
   return layout;
 }
 
-function f1Standings(data) {
-  const wrapper = document.createElement('div');
-  wrapper.className = 'standings-stack';
-
-  const driversHeading = document.createElement('h4');
-  driversHeading.textContent = 'Fahrer-WM';
-  wrapper.append(driversHeading);
-  wrapper.append(createTable(
+function f1DriversStandings(data) {
+  return createTable(
     ['#', 'Fahrer', 'Pkt.'],
     data.drivers.map(driver => ({
       cells: [driver.position, driver.name, driver.points],
       className: f1PodiumClass(driver.position)
     }))
-  ));
+  );
+}
 
-  const constructorsHeading = document.createElement('h4');
-  constructorsHeading.textContent = 'Konstrukteurs-WM';
-  wrapper.append(constructorsHeading);
-  wrapper.append(createTable(
+function f1ConstructorsStandings(data) {
+  return createTable(
     ['#', 'Team', 'Pkt.'],
     data.constructors.map(team => {
       const drivers = team.currentDrivers?.length ? ` (${team.currentDrivers.join(', ')})` : '';
@@ -193,9 +212,7 @@ function f1Standings(data) {
         className: f1PodiumClass(team.position)
       };
     })
-  ));
-
-  return wrapper;
+  );
 }
 
 function f1LastRace(data) {
@@ -214,7 +231,8 @@ function f1LastRace(data) {
     data.lastRace.results.map(result => ({
       cells: [result.position, result.driverName, result.constructorName],
       className: f1PodiumClass(result.position)
-    }))
+    })),
+    'race-results-table'
   ));
 
   return wrapper;
@@ -260,9 +278,10 @@ function f1Content(data) {
   layout.className = 'competition-layout competition-layout--f1';
 
   layout.append(
-    createPanel('WM-Stände', f1Standings(data), 'competition-panel--standings'),
-    createPanel('Letztes Rennen', f1LastRace(data)),
-    createPanel('Aktuelles / nächstes Rennen', f1NextRace(data))
+    createPanel('Fahrer-WM', f1DriversStandings(data), 'competition-panel--f1-drivers'),
+    createPanel('Letztes Rennen', f1LastRace(data), 'competition-panel--f1-last-race'),
+    createPanel('Nächstes Rennen', f1NextRace(data), 'competition-panel--f1-next-race'),
+    createPanel('Konstrukteurs-WM', f1ConstructorsStandings(data), 'competition-panel--f1-constructors')
   );
 
   return layout;

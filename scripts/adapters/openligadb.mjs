@@ -50,10 +50,16 @@ function matchdaySummary(matches) {
     groupMatches.length > 0 && groupMatches.every(match => match.matchIsFinished)
   );
 
-  const lastCompleted = completed.at(-1) ?? null;
-  const nextOpen = ordered.find(([, groupMatches]) =>
+  const currentIndex = ordered.findIndex(([, groupMatches]) =>
     groupMatches.some(match => !match.matchIsFinished)
-  ) ?? null;
+  );
+
+  const current = currentIndex >= 0 ? ordered[currentIndex] : null;
+  const next = currentIndex >= 0 ? (ordered[currentIndex + 1] ?? null) : null;
+  const currentOrder = current?.[0] ?? Number.POSITIVE_INFINITY;
+  const lastCompleted = completed.filter(([order]) => order < currentOrder).at(-1)
+    ?? completed.at(-1)
+    ?? null;
 
   const toSummary = groupEntry => {
     if (!groupEntry) return null;
@@ -71,7 +77,8 @@ function matchdaySummary(matches) {
 
   return {
     lastMatchday: toSummary(lastCompleted),
-    nextMatchday: toSummary(nextOpen)
+    currentMatchday: toSummary(current),
+    nextMatchday: toSummary(next)
   };
 }
 
@@ -105,7 +112,7 @@ export async function fetchFootballCompetition(competition, season) {
       return String(a.date).localeCompare(String(b.date));
     });
 
-  const { lastMatchday, nextMatchday } = matchdaySummary(matches);
+  const { lastMatchday, currentMatchday, nextMatchday } = matchdaySummary(matches);
 
   return {
     competition: {
@@ -121,6 +128,7 @@ export async function fetchFootballCompetition(competition, season) {
     tableHighlights: competition.tableHighlights ?? [],
     standings,
     lastMatchday,
+    currentMatchday,
     nextMatchday,
     remainingFixtures
   };

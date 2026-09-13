@@ -45,3 +45,10 @@ In den Repository-Einstellungen unter **Settings → Pages → Build and deploym
 ## Seiten
 
 `index.html` und `details.html` liegen im Repository-Root. Der Pages-Workflow kopiert beim Build alle Root-HTML-Dateien nach `public/`, sodass CSS/JS/Daten weiterhin relativ aus `public/` geladen werden.
+
+## Layout-Update v4
+
+- F1: Fahrer-WM links, letztes Rennergebnis mittig, nächstes Rennen rechts oben und Konstrukteurs-WM rechts darunter.
+- F1-Rennergebnisse bleiben bei langen Fahrer-/Teamnamen einzeilig.
+- Fußball: Tabelle, letzter, aktueller und nächster Spieltag werden nebeneinander dargestellt.
+- Vereinsnamen in den Spieltagslisten bleiben einzeilig; bei Platzmangel werden sie gekürzt dargestellt und sind per Hover vollständig lesbar.

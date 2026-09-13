@@ -82,11 +82,11 @@ main {
 
 /*
  * Masonry-artiges Spaltenlayout ohne feste Maximalbreite.
- * Ab ca. 680 px pro Karte können auf großen/ultrawide Displays
- * vier oder mehr Wettbewerbe nebeneinander stehen.
+ * Die Karten bleiben breit genug für die Ergebnis-/Spieltagsspalten.
+ * Auf großen/ultrawide Displays sind weiterhin mehrere Karten nebeneinander möglich.
  */
 .competition-grid {
-  column-width: 680px;
+  column-width: 760px;
   column-gap: 16px;
   padding-bottom: 40px;
 }
@@ -145,8 +145,20 @@ main {
 
 .competition-layout {
   display: grid;
-  grid-template-columns: minmax(300px, 1.35fr) minmax(205px, 0.9fr) minmax(175px, 0.72fr);
   align-items: start;
+}
+
+.competition-layout--football {
+  grid-template-columns:
+    minmax(230px, 1.2fr)
+    repeat(3, minmax(165px, 0.9fr));
+}
+
+.competition-layout--f1 {
+  grid-template-columns: minmax(220px, 0.95fr) minmax(255px, 1.12fr) minmax(220px, 0.95fr);
+  grid-template-areas:
+    "drivers last next"
+    "drivers last constructors";
 }
 
 .competition-panel {
@@ -154,8 +166,32 @@ main {
   border-right: 1px solid var(--border);
 }
 
-.competition-panel:last-child {
+.competition-layout--football .competition-panel:last-child {
   border-right: 0;
+}
+
+.competition-panel--f1-drivers {
+  grid-area: drivers;
+}
+
+.competition-panel--f1-last-race {
+  grid-area: last;
+}
+
+.competition-panel--f1-next-race {
+  grid-area: next;
+  border-right: 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.competition-panel--f1-constructors {
+  grid-area: constructors;
+  border-right: 0;
+}
+
+.competition-layout--football .competition-panel--matchday > h3,
+.competition-layout--football .matchday-name {
+  text-align: center;
 }
 
 table {
@@ -209,6 +245,19 @@ td:last-child {
 
 tbody tr:last-child td {
   border-bottom: 0;
+}
+
+/* F1-Rennergebnis bleibt auch bei längeren Fahrer-/Teamnamen einzeilig. */
+.race-results-table {
+  font-size: 0.78rem;
+}
+
+.race-results-table th:nth-child(2),
+.race-results-table th:nth-child(3),
+.race-results-table td:nth-child(2),
+.race-results-table td:nth-child(3) {
+  white-space: nowrap;
+  overflow-wrap: normal;
 }
 
 /* Besondere Tabellenpositionen. Die Zebra-Farbe bleibt erhalten;
@@ -305,7 +354,10 @@ tbody tr[class*="zone-"] td:first-child {
 
 .fixture-team {
   min-width: 0;
-  overflow-wrap: anywhere;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow-wrap: normal;
 }
 
 .fixture-team--home {
@@ -405,10 +457,12 @@ tbody tr[class*="zone-"] td:first-child {
   }
 
   .competition-layout {
-    grid-template-columns: 1fr;
+    display: block;
   }
 
-  .competition-panel {
+  .competition-panel,
+  .competition-panel--f1-next-race,
+  .competition-panel--f1-constructors {
     border-right: 0;
     border-bottom: 1px solid var(--border);
   }

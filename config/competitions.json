@@ -71,8 +71,9 @@
         { "from": 25, "to": 36, "name": "Ausgeschieden" }
       ],
       "tableHighlights": [
-        { "from": 1, "to": 8, "type": "champions-league" },
-        { "from": 9, "to": 24, "type": "champions-league-playoff" }
+        { "from": 1, "to": 8, "type": "promotion" },
+        { "from": 9, "to": 24, "type": "champions-league-playoff" },
+        { "from": 25, "to": 36, "type": "relegation" }
       ]
     }
   ]

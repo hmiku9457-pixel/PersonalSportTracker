@@ -33,7 +33,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Prepare site
-        run: cp index.html public/index.html
+        run: cp ./*.html public/
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

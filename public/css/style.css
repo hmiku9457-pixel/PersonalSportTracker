@@ -150,7 +150,7 @@ main {
 
 .competition-layout--football {
   grid-template-columns:
-    minmax(230px, 1.2fr)
+    minmax(300px, 1.6fr)
     repeat(3, minmax(165px, 0.9fr));
 }
 
@@ -245,6 +245,60 @@ td:last-child {
 
 tbody tr:last-child td {
   border-bottom: 0;
+}
+
+
+/* Spezifische Spaltenbreiten für die Haupttabellen. */
+.football-standings-table th:nth-child(2),
+.football-standings-table td:nth-child(2) {
+  width: auto;
+}
+
+.football-standings-table th:nth-child(3),
+.football-standings-table td:nth-child(3) {
+  width: 46px;
+  min-width: 46px;
+  white-space: nowrap;
+  text-align: right;
+}
+
+.football-standings-table th:nth-child(4),
+.football-standings-table td:nth-child(4) {
+  width: 54px;
+  min-width: 54px;
+  white-space: nowrap;
+  text-align: right;
+}
+
+/* Der Teamname bekommt dadurch den verbleibenden, deutlich größeren Platz. */
+.football-standings-table th:nth-child(2),
+.football-standings-table td:nth-child(2) {
+  padding-left: 9px;
+  padding-right: 10px;
+}
+
+.constructors-standings-table th:nth-child(3),
+.constructors-standings-table td:nth-child(3) {
+  width: 54px;
+  min-width: 54px;
+  white-space: nowrap;
+}
+
+.constructor-team {
+  min-width: 0;
+  line-height: 1.25;
+}
+
+.constructor-team__name {
+  display: block;
+}
+
+.constructor-team__drivers {
+  display: block;
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  line-height: 1.2;
 }
 
 /* F1-Rennergebnis bleibt auch bei längeren Fahrer-/Teamnamen einzeilig. */

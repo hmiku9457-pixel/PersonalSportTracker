@@ -286,6 +286,28 @@ tbody tr:last-child td {
   text-align: center;
 }
 
+/* Tore und Gegentore: Der Doppelpunkt steht in jeder Zeile exakt untereinander. */
+.goals-score {
+  display: grid;
+  grid-template-columns: 2ch 0.7ch 2ch;
+  justify-content: center;
+  align-items: baseline;
+  width: 100%;
+  font-variant-numeric: tabular-nums;
+}
+
+.goals-score__for {
+  text-align: right;
+}
+
+.goals-score__separator {
+  text-align: center;
+}
+
+.goals-score__against {
+  text-align: left;
+}
+
 
 /* Konstrukteurs-WM: Teamname oben, aktuelle Fahrer bewusst in eigener Zeile. */
 .constructor-team {

@@ -155,6 +155,27 @@ function createMatchday(matchday, { showResult = false, emptyText = 'Kein Spielt
   return wrapper;
 }
 
+
+function createGoalsCell(goalsFor, goalsAgainst) {
+  const score = document.createElement('span');
+  score.className = 'goals-score';
+
+  const goalsForEl = document.createElement('span');
+  goalsForEl.className = 'goals-score__for';
+  goalsForEl.textContent = goalsFor;
+
+  const separator = document.createElement('span');
+  separator.className = 'goals-score__separator';
+  separator.textContent = ':';
+
+  const goalsAgainstEl = document.createElement('span');
+  goalsAgainstEl.className = 'goals-score__against';
+  goalsAgainstEl.textContent = goalsAgainst;
+
+  score.append(goalsForEl, separator, goalsAgainstEl);
+  return score;
+}
+
 function footballContent(data) {
   const layout = document.createElement('div');
   layout.className = 'competition-layout competition-layout--football';
@@ -168,7 +189,7 @@ function footballContent(data) {
         team.played,
         team.points,
         team.goalDifference > 0 ? `+${team.goalDifference}` : team.goalDifference,
-        `${team.goalsFor}:${team.goalsAgainst}`
+        createGoalsCell(team.goalsFor, team.goalsAgainst)
       ],
       className: footballHighlightClass(data, team.position)
     })),

@@ -70,9 +70,7 @@ main {
 }
 
 .table-wrap {
-  overflow-x: auto;
-  max-height: 620px;
-  overflow-y: auto;
+  overflow: visible;
 }
 
 table {
@@ -86,12 +84,9 @@ td {
   padding: 9px 12px;
   text-align: left;
   border-bottom: 1px solid #282d36;
-  white-space: nowrap;
 }
 
 th {
-  position: sticky;
-  top: 0;
   background: #20242c;
   color: #bfc6d2;
   font-size: 0.78rem;

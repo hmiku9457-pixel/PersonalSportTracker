@@ -168,7 +168,7 @@ function footballContent(data) {
         team.played,
         team.points,
         team.goalDifference > 0 ? `+${team.goalDifference}` : team.goalDifference,
-        team.goalsFor
+        `${team.goalsFor}:${team.goalsAgainst}`
       ],
       className: footballHighlightClass(data, team.position)
     })),

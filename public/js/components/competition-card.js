@@ -370,11 +370,13 @@ export function createCompetitionCard(meta, data) {
   source.textContent = `Stand: ${updated}`;
 
   header.append(title, source);
-  if (meta.id === 'f1') {
+  if (meta.id === 'f1' || ['bundesliga', 'bundesliga2', 'liga3'].includes(meta.id)) {
     const detailsLink = document.createElement('a');
     detailsLink.className = 'header-button f1-detail-link';
-    detailsLink.href = './details.html';
-    detailsLink.textContent = 'F1-Details';
+    detailsLink.href = meta.id === 'f1'
+      ? './details.html'
+      : './football-details.html?league=' + encodeURIComponent(meta.id);
+    detailsLink.textContent = meta.id === 'f1' ? 'F1-Details' : 'Liga-Details';
     header.append(detailsLink);
   }
   article.append(header);

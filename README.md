@@ -60,3 +60,16 @@ In den Repository-Einstellungen unter **Settings → Pages → Build and deploym
 - Die laufende Saison wird über den Kalender überwacht. Neue Grand-Prix- und Sprintergebnisse werden nach ihrer Fälligkeit nachgetragen. Die letzten beiden Rennwochenenden werden für nachträgliche Korrekturen bis 15 Tage überprüft.
 - GitHub Actions schreibt das Archiv nach dem Abruf auf `main` zurück. Fehlende Ergebnisse werden am Folgetag erneut probiert.
 - Alte Wertungssysteme enthielten Streichresultate. Die Punktkurve zeigt dann erzielte Rennpunkte, während die offiziellen WM-Endpunkte aus der API stammen.
+
+## Bundesliga-Detailseiten (1., 2. und 3. Liga)
+
+- In jeder der drei Bundesligakarten führt **Liga-Details** zur `football-details.html?league=<liga-id>`.
+- Saisonauswahl und Ligawechsel erfolgen auf der gemeinsamen Detailseite. Die Dateien liegen unter `public/data/football/<liga-id>/<startjahr>.json` (mit `seasons.json` pro Liga).
+- Mannschaften können in Tabelle, Punkteverlauf und Spieltagsmatrix gemeinsam ausgewählt und hervorgehoben werden; die Diagrammlinien lassen sich einzeln an- oder abwählen.
+- Die Spieltagsmatrix zeigt 3/1/0 Punkte pro Verein und Spieltag, einen Punkt für einen noch offenen Termin sowie einen Strich für fehlende Begegnungen. Ein Klick auf die Zelle öffnet den Gegner, Heim-/Auswärtsspiel, Ergebnis und Datum.
+- Best-/Worst-Werte stellen vorerst **äußere mathematische Ranggrenzen** dar. Eine exakte kombinatorische Prüfung aller möglichen Restspiel-Ergebnisse ist ausdrücklich noch nicht implementiert.
+- Einmalig verfügbare historische Saisons werden aus dem OpenLigaDB-Ligakatalog ermittelt und inkrementell importiert, standardmäßig höchstens zwei Saisons **je Bundesliga und Workflow-Lauf**. `FOOTBALL_HISTORY_BATCH` steuert die Anzahl (0 bis 8).
+- Die laufende Saison wird aus dem Kalender abgeleitet (August bis Juli). Der Saisonspielplan wird wöchentlich abgeglichen. Fällige Spieltage und jüngste mögliche Korrekturen werden gezielt geladen, sonst werden gespeicherte Spielstände wiederverwendet. OpenLigaDBs Änderungsdatum hilft, unnötige vollständige Spieltagsabfragen zu vermeiden.
+- GitHub Actions persistiert die Saisonarchive für F1 und Bundesliga ins Repository. Die Champions League behält zunächst ihre bestehende Datenaufbereitung und Übersichtsansicht.
+- Das historische Angebot ist auf tatsächlich bei OpenLigaDB verfügbare und mit Ergebnissen gefüllte Spielzeiten begrenzt; ältere Saisons erscheinen erst nach Abschluss des jeweiligen Backfills.
+- Bei historischen Punktabzügen oder nachträglichen Ligastrafen kann die offizielle Tabelle von der aus einzelnen Spielen errechneten Punktekurve abweichen. Die Tabelle verwendet soweit verfügbar die von OpenLigaDB gelieferte Abschlusstabelle.

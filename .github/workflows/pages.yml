@@ -28,19 +28,19 @@ jobs:
         with:
           node-version: 22
 
-      - name: Test F1 calculations
+      - name: Test sport calculations
         run: npm test
 
       - name: Update sport data
         run: npm run update-data
 
-      - name: Persist F1 season deltas
+      - name: Persist F1 and Bundesliga season deltas
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/f1/
+          git add public/data/f1/ public/data/football/
           if ! git diff --cached --quiet; then
-            git commit -m "data: append F1 season results and historical archive"
+            git commit -m "data: update F1 and Bundesliga season archives"
             git push origin HEAD:main
           fi
 

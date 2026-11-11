@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Bundesliga-Detailansichten: Saisons, Tabellen, Punkteverlauf und Spieltagsmatrix.">
+  <title>Bundesliga – Details · Personal Sport Tracker</title>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body class="details-page football-detail">
+  <header class="page-header football-detail__header">
+    <div class="page-header__top">
+      <h1 id="football-heading">Bundesliga · Detailansicht</h1>
+      <nav class="page-header__nav" aria-label="Seitennavigation">
+        <a class="header-button" href="./index.html">Zur Übersicht</a>
+      </nav>
+    </div>
+    <div class="football-pickers">
+      <label for="football-league">Liga</label>
+      <select id="football-league">
+        <option value="bundesliga">1. Bundesliga</option>
+        <option value="bundesliga2">2. Bundesliga</option>
+        <option value="liga3">3. Liga</option>
+      </select>
+      <label for="football-season">Saison</label>
+      <select id="football-season"></select>
+      <span class="f1-muted" id="football-info" aria-live="polite"></span>
+    </div>
+  </header>
+  <main>
+    <p id="football-status" role="status">Fußballdaten werden geladen …</p>
+    <div id="football-content" class="football-detail-grid"></div>
+  </main>
+  <dialog id="football-dialog" class="f1-dialog" aria-labelledby="football-dialog-title">
+    <div class="f1-dialog__top">
+      <h2 id="football-dialog-title">Spieltag</h2>
+      <button type="button" class="f1-button" id="football-dialog-close">✕</button>
+    </div>
+    <div id="football-dialog-body"></div>
+  </dialog>
+  <script type="module" src="./js/football-details.js"></script>
+</body>
+</html>

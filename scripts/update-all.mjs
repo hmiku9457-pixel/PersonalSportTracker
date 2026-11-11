@@ -3,6 +3,7 @@ import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { refreshF1Archive } from './f1/update-seasons.mjs';
 import { fetchFootballCompetition } from './adapters/openligadb.mjs';
+import { getFootballArchiveCatalog, refreshFootballArchive } from './football/update-seasons.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dirname, '..');
@@ -16,6 +17,20 @@ const enabled = config.competitions
   .filter(item => item.enabled)
   .sort((a, b) => a.order - b.order);
 
+const bundesligaIds = new Set(['bundesliga', 'bundesliga2', 'liga3']);
+let footballCatalog = { byLeague: {} };
+try {
+  footballCatalog = await getFootballArchiveCatalog(dataDir);
+} catch (error) {
+  console.warn('Historical football catalog unavailable; current leagues still update:', error.message);
+}
+
+// Bundesliga seasons run from August into the following year. Keep config.season
+// as a floor for locally bootstrapped environments.
+const utcToday = new Date();
+const liveFootballYear = utcToday.getUTCFullYear() - (utcToday.getUTCMonth() < 7 ? 1 : 0);
+const currentFootballYear = Math.max(Number(config.season), liveFootballYear);
+
 const manifest = [];
 const failures = [];
 
@@ -25,7 +40,11 @@ for (const competition of enabled) {
   try {
     const data = competition.source === 'jolpica'
       ? await refreshF1Archive({ dataDir, competition })
-      : await fetchFootballCompetition(competition, config.season);
+      : bundesligaIds.has(competition.id)
+        ? await refreshFootballArchive({
+            dataDir, competition, currentYear: currentFootballYear, catalog: footballCatalog
+          })
+        : await fetchFootballCompetition(competition, config.season);
 
     await writeFile(
       resolve(dataDir, `${competition.id}.json`),

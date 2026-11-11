@@ -176,6 +176,24 @@ function createGoalsCell(goalsFor, goalsAgainst) {
   return score;
 }
 
+
+function createFootballTeamCell(team) {
+  const wrapper = document.createElement('span');
+  wrapper.className = 'football-team-name';
+  wrapper.title = team.name;
+
+  const full = document.createElement('span');
+  full.className = 'football-team-name__full';
+  full.textContent = team.name;
+
+  const short = document.createElement('span');
+  short.className = 'football-team-name__short';
+  short.textContent = team.shortName || team.name;
+
+  wrapper.append(full, short);
+  return wrapper;
+}
+
 function footballContent(data) {
   const layout = document.createElement('div');
   layout.className = 'competition-layout competition-layout--football';
@@ -185,7 +203,7 @@ function footballContent(data) {
     data.standings.map(team => ({
       cells: [
         team.position,
-        team.name,
+        createFootballTeamCell(team),
         team.played,
         team.points,
         team.goalDifference > 0 ? `+${team.goalDifference}` : team.goalDifference,

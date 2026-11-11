@@ -1,0 +1,3981 @@
+{
+  "schemaVersion": 1,
+  "id": "champions-league",
+  "shortcut": "ucl",
+  "year": 2025,
+  "seasonLabel": "2025/26",
+  "type": "league-phase",
+  "phase": "league",
+  "complete": true,
+  "calendarCheckedAt": "2026-11-11T23:10:36.462Z",
+  "updatedAt": "2026-11-11T23:10:36.462Z",
+  "matches": [
+    {
+      "id": "79391",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-16T16:45:00Z",
+      "updated": "2025-09-16T21:05:19.297",
+      "finished": true,
+      "homeTeamId": "1135",
+      "homeTeam": "Athletic Club",
+      "homeShortName": "Bilbao",
+      "awayTeamId": "2617",
+      "awayTeam": "FC Arsenal",
+      "awayShortName": "Arsenal",
+      "result": {
+        "home": 0,
+        "away": 2
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79392",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-16T16:45:00Z",
+      "updated": "2025-09-16T21:04:34.047",
+      "finished": true,
+      "homeTeamId": "376",
+      "homeTeam": "PSV Eindhoven",
+      "homeShortName": "PSV",
+      "awayTeamId": "4825",
+      "awayTeam": "Union Saint-Gilloise",
+      "awayShortName": "St. Gilloise",
+      "result": {
+        "home": 1,
+        "away": 3
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79393",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-16T19:00:00Z",
+      "updated": "2025-09-16T23:00:11.377",
+      "finished": true,
+      "homeTeamId": "1133",
+      "homeTeam": "Real Madrid",
+      "homeShortName": "Madrid",
+      "awayTeamId": "2557",
+      "awayTeam": "Olympique Marseille",
+      "awayShortName": "Marseille",
+      "result": {
+        "home": 2,
+        "away": 1
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79394",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-16T19:00:00Z",
+      "updated": "2025-09-16T22:54:40.36",
+      "finished": true,
+      "homeTeamId": "369",
+      "homeTeam": "Juventus Turin",
+      "homeShortName": "Juventus",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 4,
+        "away": 4
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79395",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-16T19:00:00Z",
+      "updated": "2025-09-16T22:54:02.563",
+      "finished": true,
+      "homeTeamId": "1179",
+      "homeTeam": "SL Benfica",
+      "homeShortName": "",
+      "awayTeamId": "4458",
+      "awayTeam": "Qarabag FK",
+      "awayShortName": "Qarabag Agdam",
+      "result": {
+        "home": 2,
+        "away": 3
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79396",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-16T19:00:00Z",
+      "updated": "2025-09-16T22:53:48.847",
+      "finished": true,
+      "homeTeamId": "2559",
+      "homeTeam": "Tottenham Hotspur",
+      "homeShortName": "Tottenham",
+      "awayTeamId": "4200",
+      "awayTeam": "FC Villareal",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 0
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79397",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-17T16:45:00Z",
+      "updated": "2025-09-17T20:49:21.97",
+      "finished": true,
+      "homeTeamId": "4578",
+      "homeTeam": "Slavia Prag",
+      "homeShortName": "Slavia Prag",
+      "awayTeamId": "5707",
+      "awayTeam": "FK Bodö/Glimt",
+      "awayShortName": "Bodö/Glimt",
+      "result": {
+        "home": 2,
+        "away": 2
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79398",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-17T16:45:00Z",
+      "updated": "2025-09-17T20:43:52.79",
+      "finished": true,
+      "homeTeamId": "436",
+      "homeTeam": "Olympiakos Piräus",
+      "homeShortName": "Piräus",
+      "awayTeamId": "7081",
+      "awayTeam": "Paphos FC",
+      "awayShortName": "Paphos FC",
+      "result": {
+        "home": 0,
+        "away": 0
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79399",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-17T19:00:00Z",
+      "updated": "2025-09-17T22:56:21.217",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "364",
+      "awayTeam": "Chelsea FC",
+      "awayShortName": "Chelsea FC",
+      "result": {
+        "home": 3,
+        "away": 1
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79400",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-17T19:00:00Z",
+      "updated": "2025-09-17T22:53:04.953",
+      "finished": true,
+      "homeTeamId": "455",
+      "homeTeam": "Ajax Amsterdam",
+      "homeShortName": "Ajax",
+      "awayTeamId": "733",
+      "awayTeam": "Inter Mailand",
+      "awayShortName": "Inter",
+      "result": {
+        "home": 0,
+        "away": 2
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79401",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-17T19:00:00Z",
+      "updated": "2025-09-17T22:58:14.82",
+      "finished": true,
+      "homeTeamId": "370",
+      "homeTeam": "FC Liverpool",
+      "homeShortName": "Liverpool",
+      "awayTeamId": "2549",
+      "awayTeam": "Atletico Madrid",
+      "awayShortName": "Atletico",
+      "result": {
+        "home": 3,
+        "away": 2
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79402",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-17T19:00:00Z",
+      "updated": "2025-09-17T22:52:52.14",
+      "finished": true,
+      "homeTeamId": "4363",
+      "homeTeam": "Paris Saint-Germain",
+      "homeShortName": "",
+      "awayTeamId": "1807",
+      "awayTeam": "Atalanta Bergamo",
+      "awayShortName": "Bergamo",
+      "result": {
+        "home": 4,
+        "away": 0
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79403",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-18T16:45:00Z",
+      "updated": "2025-09-18T20:39:34.973",
+      "finished": true,
+      "homeTeamId": "453",
+      "homeTeam": "FC Kopenhagen",
+      "homeShortName": "",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 2
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79404",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-18T16:45:00Z",
+      "updated": "2025-09-18T20:39:31.123",
+      "finished": true,
+      "homeTeamId": "1210",
+      "homeTeam": "FC Brügge",
+      "homeShortName": "Brügge",
+      "awayTeamId": "2547",
+      "awayTeam": "AS Monaco",
+      "awayShortName": "AS Monaco",
+      "result": {
+        "home": 4,
+        "away": 1
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79405",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-18T19:00:00Z",
+      "updated": "2025-09-18T22:58:54.34",
+      "finished": true,
+      "homeTeamId": "1075",
+      "homeTeam": "Newcastle United FC",
+      "homeShortName": "Newcastle",
+      "awayTeamId": "356",
+      "awayTeam": "FC Barcelona",
+      "awayShortName": "Barcelona",
+      "result": {
+        "home": 1,
+        "away": 2
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79406",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-18T19:00:00Z",
+      "updated": "2025-09-18T22:54:18.303",
+      "finished": true,
+      "homeTeamId": "4244",
+      "homeTeam": "Manchester City",
+      "homeShortName": "Man'City",
+      "awayTeamId": "1160",
+      "awayTeam": "SSC Neapel",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 0
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79407",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-18T19:00:00Z",
+      "updated": "2025-09-18T22:58:10.057",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "2554",
+      "awayTeam": "Galatasaray Istanbul",
+      "awayShortName": "Galatasaray",
+      "result": {
+        "home": 5,
+        "away": 1
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79408",
+      "groupOrderId": 1,
+      "groupName": "Ligaphase · Spieltag 1",
+      "date": "2025-09-18T19:00:00Z",
+      "updated": "2025-09-18T22:53:50.06",
+      "finished": true,
+      "homeTeamId": "1205",
+      "homeTeam": "Sporting CP",
+      "homeShortName": "Sporting",
+      "awayTeamId": "7082",
+      "awayTeam": "FK Kairat",
+      "awayShortName": "FKK",
+      "result": {
+        "home": 4,
+        "away": 1
+      },
+      "sourceGroupOrderId": 1
+    },
+    {
+      "id": "79409",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-09-30T16:45:00Z",
+      "updated": "2025-09-30T20:38:00.247",
+      "finished": true,
+      "homeTeamId": "7082",
+      "homeTeam": "FK Kairat",
+      "homeShortName": "FKK",
+      "awayTeamId": "1133",
+      "awayTeam": "Real Madrid",
+      "awayShortName": "Madrid",
+      "result": {
+        "home": 0,
+        "away": 5
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79410",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-09-30T16:45:00Z",
+      "updated": "2025-09-30T20:38:10.457",
+      "finished": true,
+      "homeTeamId": "1807",
+      "homeTeam": "Atalanta Bergamo",
+      "homeShortName": "Bergamo",
+      "awayTeamId": "1210",
+      "awayTeam": "FC Brügge",
+      "awayShortName": "Brügge",
+      "result": {
+        "home": 2,
+        "away": 1
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79411",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-09-30T19:00:00Z",
+      "updated": "2025-09-30T22:49:54.393",
+      "finished": true,
+      "homeTeamId": "7081",
+      "homeTeam": "Paphos FC",
+      "homeShortName": "Paphos FC",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 5
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79412",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-09-30T19:00:00Z",
+      "updated": "2025-09-30T22:57:42.78",
+      "finished": true,
+      "homeTeamId": "364",
+      "homeTeam": "Chelsea FC",
+      "homeShortName": "Chelsea FC",
+      "awayTeamId": "1179",
+      "awayTeam": "SL Benfica",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 0
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79413",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-09-30T19:00:00Z",
+      "updated": "2025-09-30T22:52:06.487",
+      "finished": true,
+      "homeTeamId": "733",
+      "homeTeam": "Inter Mailand",
+      "homeShortName": "Inter",
+      "awayTeamId": "4578",
+      "awayTeam": "Slavia Prag",
+      "awayShortName": "Slavia Prag",
+      "result": {
+        "home": 3,
+        "away": 0
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79414",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-09-30T19:00:00Z",
+      "updated": "2025-09-30T23:00:57.547",
+      "finished": true,
+      "homeTeamId": "2554",
+      "homeTeam": "Galatasaray Istanbul",
+      "homeShortName": "Galatasaray",
+      "awayTeamId": "370",
+      "awayTeam": "FC Liverpool",
+      "awayShortName": "Liverpool",
+      "result": {
+        "home": 1,
+        "away": 0
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79415",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-09-30T19:00:00Z",
+      "updated": "2025-09-30T22:51:31.24",
+      "finished": true,
+      "homeTeamId": "2549",
+      "homeTeam": "Atletico Madrid",
+      "homeShortName": "Atletico",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 5,
+        "away": 1
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79416",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-09-30T19:00:00Z",
+      "updated": "2025-09-30T22:54:50.647",
+      "finished": true,
+      "homeTeamId": "2557",
+      "homeTeam": "Olympique Marseille",
+      "homeShortName": "Marseille",
+      "awayTeamId": "455",
+      "awayTeam": "Ajax Amsterdam",
+      "awayShortName": "Ajax",
+      "result": {
+        "home": 4,
+        "away": 0
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79417",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-09-30T19:00:00Z",
+      "updated": "2025-09-30T22:57:19.98",
+      "finished": true,
+      "homeTeamId": "5707",
+      "homeTeam": "FK Bodö/Glimt",
+      "homeShortName": "Bodö/Glimt",
+      "awayTeamId": "2559",
+      "awayTeam": "Tottenham Hotspur",
+      "awayShortName": "Tottenham",
+      "result": {
+        "home": 2,
+        "away": 2
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79418",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-10-01T16:45:00Z",
+      "updated": "2025-10-01T20:38:14.843",
+      "finished": true,
+      "homeTeamId": "4458",
+      "homeTeam": "Qarabag FK",
+      "homeShortName": "Qarabag Agdam",
+      "awayTeamId": "453",
+      "awayTeam": "FC Kopenhagen",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 0
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79419",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-10-01T16:45:00Z",
+      "updated": "2025-10-01T20:38:23.537",
+      "finished": true,
+      "homeTeamId": "4825",
+      "homeTeam": "Union Saint-Gilloise",
+      "homeShortName": "St. Gilloise",
+      "awayTeamId": "1075",
+      "awayTeam": "Newcastle United FC",
+      "awayShortName": "Newcastle",
+      "result": {
+        "home": 0,
+        "away": 4
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79420",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-10-01T19:00:00Z",
+      "updated": "2025-10-01T22:52:29.79",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "1135",
+      "awayTeam": "Athletic Club",
+      "awayShortName": "Bilbao",
+      "result": {
+        "home": 4,
+        "away": 1
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79421",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-10-01T19:00:00Z",
+      "updated": "2025-10-01T22:55:59.14",
+      "finished": true,
+      "homeTeamId": "356",
+      "homeTeam": "FC Barcelona",
+      "homeShortName": "Barcelona",
+      "awayTeamId": "4363",
+      "awayTeam": "Paris Saint-Germain",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 2
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79422",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-10-01T19:00:00Z",
+      "updated": "2025-10-01T22:57:27.263",
+      "finished": true,
+      "homeTeamId": "2547",
+      "homeTeam": "AS Monaco",
+      "homeShortName": "AS Monaco",
+      "awayTeamId": "4244",
+      "awayTeam": "Manchester City",
+      "awayShortName": "Man'City",
+      "result": {
+        "home": 2,
+        "away": 2
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79423",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-10-01T19:00:00Z",
+      "updated": "2025-10-01T22:55:55.447",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "376",
+      "awayTeam": "PSV Eindhoven",
+      "awayShortName": "PSV",
+      "result": {
+        "home": 1,
+        "away": 1
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79424",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-10-01T19:00:00Z",
+      "updated": "2025-10-01T22:55:53.16",
+      "finished": true,
+      "homeTeamId": "2617",
+      "homeTeam": "FC Arsenal",
+      "homeShortName": "Arsenal",
+      "awayTeamId": "436",
+      "awayTeam": "Olympiakos Piräus",
+      "awayShortName": "Piräus",
+      "result": {
+        "home": 2,
+        "away": 0
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79425",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-10-01T19:00:00Z",
+      "updated": "2025-10-01T22:55:50.417",
+      "finished": true,
+      "homeTeamId": "4200",
+      "homeTeam": "FC Villareal",
+      "homeShortName": "",
+      "awayTeamId": "369",
+      "awayTeam": "Juventus Turin",
+      "awayShortName": "Juventus",
+      "result": {
+        "home": 2,
+        "away": 2
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79426",
+      "groupOrderId": 2,
+      "groupName": "Ligaphase · Spieltag 2",
+      "date": "2025-10-01T19:00:00Z",
+      "updated": "2025-10-01T22:55:48.073",
+      "finished": true,
+      "homeTeamId": "1160",
+      "homeTeam": "SSC Neapel",
+      "homeShortName": "",
+      "awayTeamId": "1205",
+      "awayTeam": "Sporting CP",
+      "awayShortName": "Sporting",
+      "result": {
+        "home": 2,
+        "away": 1
+      },
+      "sourceGroupOrderId": 2
+    },
+    {
+      "id": "79427",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-21T16:45:00Z",
+      "updated": "2025-10-21T20:38:44.87",
+      "finished": true,
+      "homeTeamId": "356",
+      "homeTeam": "FC Barcelona",
+      "homeShortName": "Barcelona",
+      "awayTeamId": "436",
+      "awayTeam": "Olympiakos Piräus",
+      "awayShortName": "Piräus",
+      "result": {
+        "home": 6,
+        "away": 1
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79428",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-21T16:45:00Z",
+      "updated": "2025-10-21T20:38:39.62",
+      "finished": true,
+      "homeTeamId": "7082",
+      "homeTeam": "FK Kairat",
+      "homeShortName": "FKK",
+      "awayTeamId": "7081",
+      "awayTeam": "Paphos FC",
+      "awayShortName": "Paphos FC",
+      "result": {
+        "home": 0,
+        "away": 0
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79429",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-21T19:00:00Z",
+      "updated": "2025-10-21T22:52:35.06",
+      "finished": true,
+      "homeTeamId": "4825",
+      "homeTeam": "Union Saint-Gilloise",
+      "homeShortName": "St. Gilloise",
+      "awayTeamId": "733",
+      "awayTeam": "Inter Mailand",
+      "awayShortName": "Inter",
+      "result": {
+        "home": 0,
+        "away": 4
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79430",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-21T19:00:00Z",
+      "updated": "2025-10-21T22:53:54.563",
+      "finished": true,
+      "homeTeamId": "453",
+      "homeTeam": "FC Kopenhagen",
+      "homeShortName": "",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 4
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79431",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-21T19:00:00Z",
+      "updated": "2025-10-21T22:54:54.8",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "4363",
+      "awayTeam": "Paris Saint-Germain",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 7
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79432",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-21T19:00:00Z",
+      "updated": "2025-10-21T22:53:04.527",
+      "finished": true,
+      "homeTeamId": "4200",
+      "homeTeam": "FC Villareal",
+      "homeShortName": "",
+      "awayTeamId": "4244",
+      "awayTeam": "Manchester City",
+      "awayShortName": "Man'City",
+      "result": {
+        "home": 0,
+        "away": 2
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79433",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-21T19:00:00Z",
+      "updated": "2025-10-21T22:53:29.24",
+      "finished": true,
+      "homeTeamId": "2617",
+      "homeTeam": "FC Arsenal",
+      "homeShortName": "Arsenal",
+      "awayTeamId": "2549",
+      "awayTeam": "Atletico Madrid",
+      "awayShortName": "Atletico",
+      "result": {
+        "home": 4,
+        "away": 0
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79434",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-21T19:00:00Z",
+      "updated": "2025-10-21T22:51:14.237",
+      "finished": true,
+      "homeTeamId": "1075",
+      "homeTeam": "Newcastle United FC",
+      "homeShortName": "Newcastle",
+      "awayTeamId": "1179",
+      "awayTeam": "SL Benfica",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 0
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79435",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-21T19:00:00Z",
+      "updated": "2025-10-21T22:54:58.973",
+      "finished": true,
+      "homeTeamId": "376",
+      "homeTeam": "PSV Eindhoven",
+      "homeShortName": "PSV",
+      "awayTeamId": "1160",
+      "awayTeam": "SSC Neapel",
+      "awayShortName": "",
+      "result": {
+        "home": 6,
+        "away": 2
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79436",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-22T16:45:00Z",
+      "updated": "2025-10-22T20:39:54.037",
+      "finished": true,
+      "homeTeamId": "2554",
+      "homeTeam": "Galatasaray Istanbul",
+      "homeShortName": "Galatasaray",
+      "awayTeamId": "5707",
+      "awayTeam": "FK Bodö/Glimt",
+      "awayShortName": "Bodö/Glimt",
+      "result": {
+        "home": 3,
+        "away": 1
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79437",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-22T16:45:00Z",
+      "updated": "2025-10-22T20:38:10.853",
+      "finished": true,
+      "homeTeamId": "1135",
+      "homeTeam": "Athletic Club",
+      "homeShortName": "Bilbao",
+      "awayTeamId": "4458",
+      "awayTeam": "Qarabag FK",
+      "awayShortName": "Qarabag Agdam",
+      "result": {
+        "home": 3,
+        "away": 1
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79438",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-22T19:00:00Z",
+      "updated": "2025-10-22T22:49:57.467",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "1210",
+      "awayTeam": "FC Brügge",
+      "awayShortName": "Brügge",
+      "result": {
+        "home": 4,
+        "away": 0
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79439",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-22T19:00:00Z",
+      "updated": "2025-10-22T22:58:18.16",
+      "finished": true,
+      "homeTeamId": "364",
+      "homeTeam": "Chelsea FC",
+      "homeShortName": "Chelsea FC",
+      "awayTeamId": "455",
+      "awayTeam": "Ajax Amsterdam",
+      "awayShortName": "Ajax",
+      "result": {
+        "home": 5,
+        "away": 1
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79440",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-22T19:00:00Z",
+      "updated": "2025-10-22T22:55:01.03",
+      "finished": true,
+      "homeTeamId": "1133",
+      "homeTeam": "Real Madrid",
+      "homeShortName": "Madrid",
+      "awayTeamId": "369",
+      "awayTeam": "Juventus Turin",
+      "awayShortName": "Juventus",
+      "result": {
+        "home": 1,
+        "away": 0
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79441",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-22T19:00:00Z",
+      "updated": "2025-10-22T22:53:46.927",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "370",
+      "awayTeam": "FC Liverpool",
+      "awayShortName": "Liverpool",
+      "result": {
+        "home": 1,
+        "away": 5
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79442",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-22T19:00:00Z",
+      "updated": "2025-10-22T22:56:16.19",
+      "finished": true,
+      "homeTeamId": "1807",
+      "homeTeam": "Atalanta Bergamo",
+      "homeShortName": "Bergamo",
+      "awayTeamId": "4578",
+      "awayTeam": "Slavia Prag",
+      "awayShortName": "Slavia Prag",
+      "result": {
+        "home": 0,
+        "away": 0
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79443",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-22T19:00:00Z",
+      "updated": "2025-10-22T22:59:20.773",
+      "finished": true,
+      "homeTeamId": "1205",
+      "homeTeam": "Sporting CP",
+      "homeShortName": "Sporting",
+      "awayTeamId": "2557",
+      "awayTeam": "Olympique Marseille",
+      "awayShortName": "Marseille",
+      "result": {
+        "home": 2,
+        "away": 1
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79444",
+      "groupOrderId": 3,
+      "groupName": "Ligaphase · Spieltag 3",
+      "date": "2025-10-22T19:00:00Z",
+      "updated": "2025-10-22T22:55:56.44",
+      "finished": true,
+      "homeTeamId": "2547",
+      "homeTeam": "AS Monaco",
+      "homeShortName": "AS Monaco",
+      "awayTeamId": "2559",
+      "awayTeam": "Tottenham Hotspur",
+      "awayShortName": "Tottenham",
+      "result": {
+        "home": 0,
+        "away": 0
+      },
+      "sourceGroupOrderId": 3
+    },
+    {
+      "id": "79445",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-04T17:45:00Z",
+      "updated": "2025-11-04T20:44:16.833",
+      "finished": true,
+      "homeTeamId": "4578",
+      "homeTeam": "Slavia Prag",
+      "homeShortName": "Slavia Prag",
+      "awayTeamId": "2617",
+      "awayTeam": "FC Arsenal",
+      "awayShortName": "Arsenal",
+      "result": {
+        "home": 0,
+        "away": 3
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79446",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-04T17:45:00Z",
+      "updated": "2025-11-04T20:40:47.983",
+      "finished": true,
+      "homeTeamId": "1160",
+      "homeTeam": "SSC Neapel",
+      "homeShortName": "",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 0
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79447",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-04T20:00:00Z",
+      "updated": "2025-11-04T23:07:14.557",
+      "finished": true,
+      "homeTeamId": "4363",
+      "homeTeam": "Paris Saint-Germain",
+      "homeShortName": "",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 2
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79448",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-04T20:00:00Z",
+      "updated": "2025-11-04T22:55:27.79",
+      "finished": true,
+      "homeTeamId": "370",
+      "homeTeam": "FC Liverpool",
+      "homeShortName": "Liverpool",
+      "awayTeamId": "1133",
+      "awayTeam": "Real Madrid",
+      "awayShortName": "Madrid",
+      "result": {
+        "home": 1,
+        "away": 0
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79449",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-04T20:00:00Z",
+      "updated": "2025-11-04T22:52:35.927",
+      "finished": true,
+      "homeTeamId": "369",
+      "homeTeam": "Juventus Turin",
+      "homeShortName": "Juventus",
+      "awayTeamId": "1205",
+      "awayTeam": "Sporting CP",
+      "awayShortName": "Sporting",
+      "result": {
+        "home": 1,
+        "away": 1
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79450",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-04T20:00:00Z",
+      "updated": "2025-11-04T22:57:32.937",
+      "finished": true,
+      "homeTeamId": "2549",
+      "homeTeam": "Atletico Madrid",
+      "homeShortName": "Atletico",
+      "awayTeamId": "4825",
+      "awayTeam": "Union Saint-Gilloise",
+      "awayShortName": "St. Gilloise",
+      "result": {
+        "home": 3,
+        "away": 1
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79451",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-04T20:00:00Z",
+      "updated": "2025-11-04T22:52:18.147",
+      "finished": true,
+      "homeTeamId": "2559",
+      "homeTeam": "Tottenham Hotspur",
+      "homeShortName": "Tottenham",
+      "awayTeamId": "453",
+      "awayTeam": "FC Kopenhagen",
+      "awayShortName": "",
+      "result": {
+        "home": 4,
+        "away": 0
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79452",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-04T20:00:00Z",
+      "updated": "2025-11-04T22:54:09.947",
+      "finished": true,
+      "homeTeamId": "5707",
+      "homeTeam": "FK Bodö/Glimt",
+      "homeShortName": "Bodö/Glimt",
+      "awayTeamId": "2547",
+      "awayTeam": "AS Monaco",
+      "awayShortName": "AS Monaco",
+      "result": {
+        "home": 0,
+        "away": 1
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79453",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-04T20:00:00Z",
+      "updated": "2025-11-04T22:52:56.807",
+      "finished": true,
+      "homeTeamId": "436",
+      "homeTeam": "Olympiakos Piräus",
+      "homeShortName": "Piräus",
+      "awayTeamId": "376",
+      "awayTeam": "PSV Eindhoven",
+      "awayShortName": "PSV",
+      "result": {
+        "home": 1,
+        "away": 1
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79454",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-05T17:45:00Z",
+      "updated": "2025-11-05T20:42:12.72",
+      "finished": true,
+      "homeTeamId": "4458",
+      "homeTeam": "Qarabag FK",
+      "homeShortName": "Qarabag Agdam",
+      "awayTeamId": "364",
+      "awayTeam": "Chelsea FC",
+      "awayShortName": "Chelsea FC",
+      "result": {
+        "home": 2,
+        "away": 2
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79455",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-05T17:45:00Z",
+      "updated": "2025-11-05T20:38:45.033",
+      "finished": true,
+      "homeTeamId": "7081",
+      "homeTeam": "Paphos FC",
+      "homeShortName": "Paphos FC",
+      "awayTeamId": "4200",
+      "awayTeam": "FC Villareal",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 0
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79456",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-05T20:00:00Z",
+      "updated": "2025-11-05T22:54:11.27",
+      "finished": true,
+      "homeTeamId": "733",
+      "homeTeam": "Inter Mailand",
+      "homeShortName": "Inter",
+      "awayTeamId": "7082",
+      "awayTeam": "FK Kairat",
+      "awayShortName": "FKK",
+      "result": {
+        "home": 2,
+        "away": 1
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79457",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-05T20:00:00Z",
+      "updated": "2025-11-05T22:52:20.783",
+      "finished": true,
+      "homeTeamId": "4244",
+      "homeTeam": "Manchester City",
+      "homeShortName": "Man'City",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 4,
+        "away": 1
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79458",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-05T20:00:00Z",
+      "updated": "2025-11-05T22:57:08.807",
+      "finished": true,
+      "homeTeamId": "1210",
+      "homeTeam": "FC Brügge",
+      "homeShortName": "Brügge",
+      "awayTeamId": "356",
+      "awayTeam": "FC Barcelona",
+      "awayShortName": "Barcelona",
+      "result": {
+        "home": 3,
+        "away": 3
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79459",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-05T20:00:00Z",
+      "updated": "2025-11-05T22:54:46.99",
+      "finished": true,
+      "homeTeamId": "1179",
+      "homeTeam": "SL Benfica",
+      "homeShortName": "",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 1
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79460",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-05T20:00:00Z",
+      "updated": "2025-11-05T22:55:22.933",
+      "finished": true,
+      "homeTeamId": "2557",
+      "homeTeam": "Olympique Marseille",
+      "homeShortName": "Marseille",
+      "awayTeamId": "1807",
+      "awayTeam": "Atalanta Bergamo",
+      "awayShortName": "Bergamo",
+      "result": {
+        "home": 0,
+        "away": 1
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79461",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-05T20:00:00Z",
+      "updated": "2025-11-05T22:55:36.75",
+      "finished": true,
+      "homeTeamId": "455",
+      "homeTeam": "Ajax Amsterdam",
+      "homeShortName": "Ajax",
+      "awayTeamId": "2554",
+      "awayTeam": "Galatasaray Istanbul",
+      "awayShortName": "Galatasaray",
+      "result": {
+        "home": 0,
+        "away": 3
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79462",
+      "groupOrderId": 4,
+      "groupName": "Ligaphase · Spieltag 4",
+      "date": "2025-11-05T20:00:00Z",
+      "updated": "2025-11-05T22:53:59.583",
+      "finished": true,
+      "homeTeamId": "1075",
+      "homeTeam": "Newcastle United FC",
+      "homeShortName": "Newcastle",
+      "awayTeamId": "1135",
+      "awayTeam": "Athletic Club",
+      "awayShortName": "Bilbao",
+      "result": {
+        "home": 2,
+        "away": 0
+      },
+      "sourceGroupOrderId": 4
+    },
+    {
+      "id": "79463",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-25T17:45:00Z",
+      "updated": "2025-11-25T20:37:56.187",
+      "finished": true,
+      "homeTeamId": "455",
+      "homeTeam": "Ajax Amsterdam",
+      "homeShortName": "Ajax",
+      "awayTeamId": "1179",
+      "awayTeam": "SL Benfica",
+      "awayShortName": "",
+      "result": {
+        "home": 0,
+        "away": 2
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79464",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-25T17:45:00Z",
+      "updated": "2025-11-25T20:41:18.93",
+      "finished": true,
+      "homeTeamId": "2554",
+      "homeTeam": "Galatasaray Istanbul",
+      "homeShortName": "Galatasaray",
+      "awayTeamId": "4825",
+      "awayTeam": "Union Saint-Gilloise",
+      "awayShortName": "St. Gilloise",
+      "result": {
+        "home": 0,
+        "away": 1
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79465",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-25T20:00:00Z",
+      "updated": "2025-11-26T06:20:39.663",
+      "finished": true,
+      "homeTeamId": "364",
+      "homeTeam": "Chelsea FC",
+      "homeShortName": "Chelsea FC",
+      "awayTeamId": "356",
+      "awayTeam": "FC Barcelona",
+      "awayShortName": "Barcelona",
+      "result": {
+        "home": 3,
+        "away": 0
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79466",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-25T20:00:00Z",
+      "updated": "2025-11-26T06:21:24.613",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "4200",
+      "awayTeam": "FC Villareal",
+      "awayShortName": "",
+      "result": {
+        "home": 4,
+        "away": 0
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79467",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-25T20:00:00Z",
+      "updated": "2025-11-26T06:21:43.623",
+      "finished": true,
+      "homeTeamId": "4244",
+      "homeTeam": "Manchester City",
+      "homeShortName": "Man'City",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 2
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79468",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-25T20:00:00Z",
+      "updated": "2025-11-26T06:22:51.797",
+      "finished": true,
+      "homeTeamId": "5707",
+      "homeTeam": "FK Bodö/Glimt",
+      "homeShortName": "Bodö/Glimt",
+      "awayTeamId": "369",
+      "awayTeam": "Juventus Turin",
+      "awayShortName": "Juventus",
+      "result": {
+        "home": 2,
+        "away": 3
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79469",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-25T20:00:00Z",
+      "updated": "2025-11-26T06:23:06.107",
+      "finished": true,
+      "homeTeamId": "2557",
+      "homeTeam": "Olympique Marseille",
+      "homeShortName": "Marseille",
+      "awayTeamId": "1075",
+      "awayTeam": "Newcastle United FC",
+      "awayShortName": "Newcastle",
+      "result": {
+        "home": 2,
+        "away": 1
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79470",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-25T20:00:00Z",
+      "updated": "2025-11-26T06:23:12.787",
+      "finished": true,
+      "homeTeamId": "4578",
+      "homeTeam": "Slavia Prag",
+      "homeShortName": "Slavia Prag",
+      "awayTeamId": "1135",
+      "awayTeam": "Athletic Club",
+      "awayShortName": "Bilbao",
+      "result": {
+        "home": 0,
+        "away": 0
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79471",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-25T20:00:00Z",
+      "updated": "2025-11-26T06:24:08.39",
+      "finished": true,
+      "homeTeamId": "1160",
+      "homeTeam": "SSC Neapel",
+      "homeShortName": "",
+      "awayTeamId": "4458",
+      "awayTeam": "Qarabag FK",
+      "awayShortName": "Qarabag Agdam",
+      "result": {
+        "home": 2,
+        "away": 0
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79472",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-26T17:45:00Z",
+      "updated": "2025-11-26T20:47:04.23",
+      "finished": true,
+      "homeTeamId": "7081",
+      "homeTeam": "Paphos FC",
+      "homeShortName": "Paphos FC",
+      "awayTeamId": "2547",
+      "awayTeam": "AS Monaco",
+      "awayShortName": "AS Monaco",
+      "result": {
+        "home": 2,
+        "away": 2
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79473",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-26T17:45:00Z",
+      "updated": "2025-11-26T20:44:20.55",
+      "finished": true,
+      "homeTeamId": "453",
+      "homeTeam": "FC Kopenhagen",
+      "homeShortName": "",
+      "awayTeamId": "7082",
+      "awayTeam": "FK Kairat",
+      "awayShortName": "FKK",
+      "result": {
+        "home": 3,
+        "away": 2
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79474",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-26T20:00:00Z",
+      "updated": "2025-11-26T22:55:00.217",
+      "finished": true,
+      "homeTeamId": "2617",
+      "homeTeam": "FC Arsenal",
+      "homeShortName": "Arsenal",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 3,
+        "away": 1
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79475",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-26T20:00:00Z",
+      "updated": "2025-11-26T22:56:08.293",
+      "finished": true,
+      "homeTeamId": "436",
+      "homeTeam": "Olympiakos Piräus",
+      "homeShortName": "Piräus",
+      "awayTeamId": "1133",
+      "awayTeam": "Real Madrid",
+      "awayShortName": "Madrid",
+      "result": {
+        "home": 3,
+        "away": 4
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79476",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-26T20:00:00Z",
+      "updated": "2025-11-26T22:57:02.76",
+      "finished": true,
+      "homeTeamId": "2549",
+      "homeTeam": "Atletico Madrid",
+      "homeShortName": "Atletico",
+      "awayTeamId": "733",
+      "awayTeam": "Inter Mailand",
+      "awayShortName": "Inter",
+      "result": {
+        "home": 2,
+        "away": 1
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79477",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-26T20:00:00Z",
+      "updated": "2025-11-26T22:51:34.37",
+      "finished": true,
+      "homeTeamId": "370",
+      "homeTeam": "FC Liverpool",
+      "homeShortName": "Liverpool",
+      "awayTeamId": "376",
+      "awayTeam": "PSV Eindhoven",
+      "awayShortName": "PSV",
+      "result": {
+        "home": 1,
+        "away": 4
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79478",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-26T20:00:00Z",
+      "updated": "2025-11-26T22:57:40.733",
+      "finished": true,
+      "homeTeamId": "4363",
+      "homeTeam": "Paris Saint-Germain",
+      "homeShortName": "",
+      "awayTeamId": "2559",
+      "awayTeam": "Tottenham Hotspur",
+      "awayShortName": "Tottenham",
+      "result": {
+        "home": 5,
+        "away": 3
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79479",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-26T20:00:00Z",
+      "updated": "2025-11-26T22:50:13.537",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "1807",
+      "awayTeam": "Atalanta Bergamo",
+      "awayShortName": "Bergamo",
+      "result": {
+        "home": 0,
+        "away": 3
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79480",
+      "groupOrderId": 5,
+      "groupName": "Ligaphase · Spieltag 5",
+      "date": "2025-11-26T20:00:00Z",
+      "updated": "2025-11-26T22:55:37.087",
+      "finished": true,
+      "homeTeamId": "1205",
+      "homeTeam": "Sporting CP",
+      "homeShortName": "Sporting",
+      "awayTeamId": "1210",
+      "awayTeam": "FC Brügge",
+      "awayShortName": "Brügge",
+      "result": {
+        "home": 3,
+        "away": 0
+      },
+      "sourceGroupOrderId": 5
+    },
+    {
+      "id": "79481",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-09T15:30:00Z",
+      "updated": "2025-12-09T18:23:12.87",
+      "finished": true,
+      "homeTeamId": "7082",
+      "homeTeam": "FK Kairat",
+      "homeShortName": "FKK",
+      "awayTeamId": "436",
+      "awayTeam": "Olympiakos Piräus",
+      "awayShortName": "Piräus",
+      "result": {
+        "home": 0,
+        "away": 1
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79482",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-09T17:45:00Z",
+      "updated": "2025-12-09T20:38:54.273",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "1205",
+      "awayTeam": "Sporting CP",
+      "awayShortName": "Sporting",
+      "result": {
+        "home": 3,
+        "away": 1
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79483",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-09T20:00:00Z",
+      "updated": "2025-12-10T15:00:54.607",
+      "finished": true,
+      "homeTeamId": "1807",
+      "homeTeam": "Atalanta Bergamo",
+      "homeShortName": "Bergamo",
+      "awayTeamId": "364",
+      "awayTeam": "Chelsea FC",
+      "awayShortName": "Chelsea FC",
+      "result": {
+        "home": 2,
+        "away": 1
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79484",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-09T20:00:00Z",
+      "updated": "2025-12-10T15:00:45.357",
+      "finished": true,
+      "homeTeamId": "733",
+      "homeTeam": "Inter Mailand",
+      "homeShortName": "Inter",
+      "awayTeamId": "370",
+      "awayTeam": "FC Liverpool",
+      "awayShortName": "Liverpool",
+      "result": {
+        "home": 0,
+        "away": 1
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79485",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-09T20:00:00Z",
+      "updated": "2025-12-10T15:02:13.107",
+      "finished": true,
+      "homeTeamId": "356",
+      "homeTeam": "FC Barcelona",
+      "homeShortName": "Barcelona",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 1
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79486",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-09T20:00:00Z",
+      "updated": "2025-12-10T15:04:35.463",
+      "finished": true,
+      "homeTeamId": "376",
+      "homeTeam": "PSV Eindhoven",
+      "homeShortName": "PSV",
+      "awayTeamId": "2549",
+      "awayTeam": "Atletico Madrid",
+      "awayShortName": "Atletico",
+      "result": {
+        "home": 2,
+        "away": 3
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79487",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-09T20:00:00Z",
+      "updated": "2025-12-10T15:06:58.76",
+      "finished": true,
+      "homeTeamId": "4825",
+      "homeTeam": "Union Saint-Gilloise",
+      "homeShortName": "St. Gilloise",
+      "awayTeamId": "2557",
+      "awayTeam": "Olympique Marseille",
+      "awayShortName": "Marseille",
+      "result": {
+        "home": 2,
+        "away": 3
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79488",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-09T20:00:00Z",
+      "updated": "2025-12-10T15:09:07.663",
+      "finished": true,
+      "homeTeamId": "2559",
+      "homeTeam": "Tottenham Hotspur",
+      "homeShortName": "Tottenham",
+      "awayTeamId": "4578",
+      "awayTeam": "Slavia Prag",
+      "awayShortName": "Slavia Prag",
+      "result": {
+        "home": 3,
+        "away": 0
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79489",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-09T20:00:00Z",
+      "updated": "2025-12-10T15:09:03.837",
+      "finished": true,
+      "homeTeamId": "2547",
+      "homeTeam": "AS Monaco",
+      "homeShortName": "AS Monaco",
+      "awayTeamId": "2554",
+      "awayTeam": "Galatasaray Istanbul",
+      "awayShortName": "Galatasaray",
+      "result": {
+        "home": 1,
+        "away": 0
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79490",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-10T17:45:00Z",
+      "updated": "2025-12-10T20:53:28.037",
+      "finished": true,
+      "homeTeamId": "4200",
+      "homeTeam": "FC Villareal",
+      "homeShortName": "",
+      "awayTeamId": "453",
+      "awayTeam": "FC Kopenhagen",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 3
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79491",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-10T17:45:00Z",
+      "updated": "2025-12-10T20:53:29.183",
+      "finished": true,
+      "homeTeamId": "4458",
+      "homeTeam": "Qarabag FK",
+      "homeShortName": "Qarabag Agdam",
+      "awayTeamId": "455",
+      "awayTeam": "Ajax Amsterdam",
+      "awayShortName": "Ajax",
+      "result": {
+        "home": 2,
+        "away": 4
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79492",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-10T20:00:00Z",
+      "updated": "2025-12-10T23:01:03.893",
+      "finished": true,
+      "homeTeamId": "1133",
+      "homeTeam": "Real Madrid",
+      "homeShortName": "Madrid",
+      "awayTeamId": "4244",
+      "awayTeam": "Manchester City",
+      "awayShortName": "Man'City",
+      "result": {
+        "home": 1,
+        "away": 2
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79493",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-10T20:00:00Z",
+      "updated": "2025-12-10T22:54:40.697",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "5707",
+      "awayTeam": "FK Bodö/Glimt",
+      "awayShortName": "Bodö/Glimt",
+      "result": {
+        "home": 2,
+        "away": 2
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79494",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-10T20:00:00Z",
+      "updated": "2025-12-10T22:53:18.303",
+      "finished": true,
+      "homeTeamId": "1135",
+      "homeTeam": "Athletic Club",
+      "homeShortName": "Bilbao",
+      "awayTeamId": "4363",
+      "awayTeam": "Paris Saint-Germain",
+      "awayShortName": "",
+      "result": {
+        "home": 0,
+        "away": 0
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79495",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-10T20:00:00Z",
+      "updated": "2025-12-10T22:54:17.39",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "1075",
+      "awayTeam": "Newcastle United FC",
+      "awayShortName": "Newcastle",
+      "result": {
+        "home": 2,
+        "away": 2
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79496",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-10T20:00:00Z",
+      "updated": "2025-12-10T22:54:30.513",
+      "finished": true,
+      "homeTeamId": "1210",
+      "homeTeam": "FC Brügge",
+      "homeShortName": "Brügge",
+      "awayTeamId": "2617",
+      "awayTeam": "FC Arsenal",
+      "awayShortName": "Arsenal",
+      "result": {
+        "home": 0,
+        "away": 3
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79497",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-10T20:00:00Z",
+      "updated": "2025-12-10T23:01:16.07",
+      "finished": true,
+      "homeTeamId": "1179",
+      "homeTeam": "SL Benfica",
+      "homeShortName": "",
+      "awayTeamId": "1160",
+      "awayTeam": "SSC Neapel",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 0
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79498",
+      "groupOrderId": 6,
+      "groupName": "Ligaphase · Spieltag 6",
+      "date": "2025-12-10T20:00:00Z",
+      "updated": "2025-12-10T22:52:46.593",
+      "finished": true,
+      "homeTeamId": "369",
+      "homeTeam": "Juventus Turin",
+      "homeShortName": "Juventus",
+      "awayTeamId": "7081",
+      "awayTeam": "Paphos FC",
+      "awayShortName": "Paphos FC",
+      "result": {
+        "home": 2,
+        "away": 0
+      },
+      "sourceGroupOrderId": 6
+    },
+    {
+      "id": "79499",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-20T15:30:00Z",
+      "updated": "2026-01-20T18:20:51.87",
+      "finished": true,
+      "homeTeamId": "7082",
+      "homeTeam": "FK Kairat",
+      "homeShortName": "FKK",
+      "awayTeamId": "1210",
+      "awayTeam": "FC Brügge",
+      "awayShortName": "Brügge",
+      "result": {
+        "home": 0,
+        "away": 0
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79500",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-20T17:45:00Z",
+      "updated": "2026-01-20T20:36:50.62",
+      "finished": true,
+      "homeTeamId": "5707",
+      "homeTeam": "FK Bodö/Glimt",
+      "homeShortName": "Bodö/Glimt",
+      "awayTeamId": "4244",
+      "awayTeam": "Manchester City",
+      "awayShortName": "Man'City",
+      "result": {
+        "home": 3,
+        "away": 1
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79501",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-20T20:00:00Z",
+      "updated": "2026-01-20T22:54:51.92",
+      "finished": true,
+      "homeTeamId": "1133",
+      "homeTeam": "Real Madrid",
+      "homeShortName": "Madrid",
+      "awayTeamId": "2547",
+      "awayTeam": "AS Monaco",
+      "awayShortName": "AS Monaco",
+      "result": {
+        "home": 6,
+        "away": 1
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79502",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-20T20:00:00Z",
+      "updated": "2026-01-20T22:52:30.407",
+      "finished": true,
+      "homeTeamId": "733",
+      "homeTeam": "Inter Mailand",
+      "homeShortName": "Inter",
+      "awayTeamId": "2617",
+      "awayTeam": "FC Arsenal",
+      "awayShortName": "Arsenal",
+      "result": {
+        "home": 1,
+        "away": 3
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79503",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-20T20:00:00Z",
+      "updated": "2026-01-20T22:54:41.59",
+      "finished": true,
+      "homeTeamId": "2559",
+      "homeTeam": "Tottenham Hotspur",
+      "homeShortName": "Tottenham",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 0
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79504",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-20T20:00:00Z",
+      "updated": "2026-01-20T22:57:31.747",
+      "finished": true,
+      "homeTeamId": "1205",
+      "homeTeam": "Sporting CP",
+      "homeShortName": "Sporting",
+      "awayTeamId": "4363",
+      "awayTeam": "Paris Saint-Germain",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 1
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79505",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-20T20:00:00Z",
+      "updated": "2026-01-20T22:55:10.007",
+      "finished": true,
+      "homeTeamId": "436",
+      "homeTeam": "Olympiakos Piräus",
+      "homeShortName": "Piräus",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 0
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79506",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-20T20:00:00Z",
+      "updated": "2026-01-20T22:55:28.973",
+      "finished": true,
+      "homeTeamId": "4200",
+      "homeTeam": "FC Villareal",
+      "homeShortName": "",
+      "awayTeamId": "455",
+      "awayTeam": "Ajax Amsterdam",
+      "awayShortName": "Ajax",
+      "result": {
+        "home": 1,
+        "away": 2
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79507",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-20T20:00:00Z",
+      "updated": "2026-01-20T23:00:51.563",
+      "finished": true,
+      "homeTeamId": "453",
+      "homeTeam": "FC Kopenhagen",
+      "homeShortName": "",
+      "awayTeamId": "1160",
+      "awayTeam": "SSC Neapel",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 1
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79508",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-21T17:45:00Z",
+      "updated": "2026-01-21T20:41:22.563",
+      "finished": true,
+      "homeTeamId": "4458",
+      "homeTeam": "Qarabag FK",
+      "homeShortName": "Qarabag Agdam",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 2
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79509",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-21T17:45:00Z",
+      "updated": "2026-01-21T20:41:14.643",
+      "finished": true,
+      "homeTeamId": "2554",
+      "homeTeam": "Galatasaray Istanbul",
+      "homeShortName": "Galatasaray",
+      "awayTeamId": "2549",
+      "awayTeam": "Atletico Madrid",
+      "awayShortName": "Atletico",
+      "result": {
+        "home": 1,
+        "away": 1
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79510",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-21T20:00:00Z",
+      "updated": "2026-01-22T06:57:32.667",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "4825",
+      "awayTeam": "Union Saint-Gilloise",
+      "awayShortName": "St. Gilloise",
+      "result": {
+        "home": 2,
+        "away": 0
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79511",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-21T20:00:00Z",
+      "updated": "2026-01-22T06:58:08.903",
+      "finished": true,
+      "homeTeamId": "364",
+      "homeTeam": "Chelsea FC",
+      "homeShortName": "Chelsea FC",
+      "awayTeamId": "7081",
+      "awayTeam": "Paphos FC",
+      "awayShortName": "Paphos FC",
+      "result": {
+        "home": 0,
+        "away": 0
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79512",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-21T20:00:00Z",
+      "updated": "2026-01-22T07:00:37.647",
+      "finished": true,
+      "homeTeamId": "2557",
+      "homeTeam": "Olympique Marseille",
+      "homeShortName": "Marseille",
+      "awayTeamId": "370",
+      "awayTeam": "FC Liverpool",
+      "awayShortName": "Liverpool",
+      "result": {
+        "home": 0,
+        "away": 0
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79513",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-21T20:00:00Z",
+      "updated": "2026-01-22T07:04:36.127",
+      "finished": true,
+      "homeTeamId": "4578",
+      "homeTeam": "Slavia Prag",
+      "homeShortName": "Slavia Prag",
+      "awayTeamId": "356",
+      "awayTeam": "FC Barcelona",
+      "awayShortName": "Barcelona",
+      "result": {
+        "home": 2,
+        "away": 4
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79514",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-21T20:00:00Z",
+      "updated": "2026-01-22T07:08:19.6",
+      "finished": true,
+      "homeTeamId": "1807",
+      "homeTeam": "Atalanta Bergamo",
+      "homeShortName": "Bergamo",
+      "awayTeamId": "1135",
+      "awayTeam": "Athletic Club",
+      "awayShortName": "Bilbao",
+      "result": {
+        "home": 2,
+        "away": 3
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79515",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-21T20:00:00Z",
+      "updated": "2026-01-22T07:09:47.967",
+      "finished": true,
+      "homeTeamId": "369",
+      "homeTeam": "Juventus Turin",
+      "homeShortName": "Juventus",
+      "awayTeamId": "1179",
+      "awayTeam": "SL Benfica",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 0
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79516",
+      "groupOrderId": 7,
+      "groupName": "Ligaphase · Spieltag 7",
+      "date": "2026-01-21T20:00:00Z",
+      "updated": "2026-01-22T07:11:08.437",
+      "finished": true,
+      "homeTeamId": "1075",
+      "homeTeam": "Newcastle United FC",
+      "homeShortName": "Newcastle",
+      "awayTeamId": "376",
+      "awayTeam": "PSV Eindhoven",
+      "awayShortName": "PSV",
+      "result": {
+        "home": 3,
+        "away": 0
+      },
+      "sourceGroupOrderId": 7
+    },
+    {
+      "id": "79517",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:52:51.937",
+      "finished": true,
+      "homeTeamId": "376",
+      "homeTeam": "PSV Eindhoven",
+      "homeShortName": "PSV",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 2
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79518",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:55:29.6",
+      "finished": true,
+      "homeTeamId": "1160",
+      "homeTeam": "SSC Neapel",
+      "homeShortName": "",
+      "awayTeamId": "364",
+      "awayTeam": "Chelsea FC",
+      "awayShortName": "Chelsea FC",
+      "result": {
+        "home": 2,
+        "away": 3
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79519",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T23:04:11.323",
+      "finished": true,
+      "homeTeamId": "1179",
+      "homeTeam": "SL Benfica",
+      "homeShortName": "",
+      "awayTeamId": "1133",
+      "awayTeam": "Real Madrid",
+      "awayShortName": "Madrid",
+      "result": {
+        "home": 4,
+        "away": 2
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79520",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:54:27.77",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "733",
+      "awayTeam": "Inter Mailand",
+      "awayShortName": "Inter",
+      "result": {
+        "home": 0,
+        "away": 2
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79521",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:51:05.69",
+      "finished": true,
+      "homeTeamId": "370",
+      "homeTeam": "FC Liverpool",
+      "homeShortName": "Liverpool",
+      "awayTeamId": "4458",
+      "awayTeam": "Qarabag FK",
+      "awayShortName": "Qarabag Agdam",
+      "result": {
+        "home": 6,
+        "away": 0
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79522",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:58:44.57",
+      "finished": true,
+      "homeTeamId": "356",
+      "homeTeam": "FC Barcelona",
+      "homeShortName": "Barcelona",
+      "awayTeamId": "453",
+      "awayTeam": "FC Kopenhagen",
+      "awayShortName": "",
+      "result": {
+        "home": 4,
+        "away": 1
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79523",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:56:09.39",
+      "finished": true,
+      "homeTeamId": "4244",
+      "homeTeam": "Manchester City",
+      "homeShortName": "Man'City",
+      "awayTeamId": "2554",
+      "awayTeam": "Galatasaray Istanbul",
+      "awayShortName": "Galatasaray",
+      "result": {
+        "home": 2,
+        "away": 0
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79524",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:54:20.44",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "4200",
+      "awayTeam": "FC Villareal",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 0
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79525",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:54:20.697",
+      "finished": true,
+      "homeTeamId": "2617",
+      "homeTeam": "FC Arsenal",
+      "homeShortName": "Arsenal",
+      "awayTeamId": "7082",
+      "awayTeam": "FK Kairat",
+      "awayShortName": "FKK",
+      "result": {
+        "home": 3,
+        "away": 2
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79526",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:51:18.807",
+      "finished": true,
+      "homeTeamId": "4825",
+      "homeTeam": "Union Saint-Gilloise",
+      "homeShortName": "St. Gilloise",
+      "awayTeamId": "1807",
+      "awayTeam": "Atalanta Bergamo",
+      "awayShortName": "Bergamo",
+      "result": {
+        "home": 1,
+        "away": 0
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79527",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:56:29.18",
+      "finished": true,
+      "homeTeamId": "1210",
+      "homeTeam": "FC Brügge",
+      "homeShortName": "Brügge",
+      "awayTeamId": "2557",
+      "awayTeam": "Olympique Marseille",
+      "awayShortName": "Marseille",
+      "result": {
+        "home": 3,
+        "away": 0
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79528",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:51:16.713",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "2559",
+      "awayTeam": "Tottenham Hotspur",
+      "awayShortName": "Tottenham",
+      "result": {
+        "home": 0,
+        "away": 2
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79529",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:56:44.983",
+      "finished": true,
+      "homeTeamId": "2547",
+      "homeTeam": "AS Monaco",
+      "homeShortName": "AS Monaco",
+      "awayTeamId": "369",
+      "awayTeam": "Juventus Turin",
+      "awayShortName": "Juventus",
+      "result": {
+        "home": 0,
+        "away": 0
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79530",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:58:09.51",
+      "finished": true,
+      "homeTeamId": "2549",
+      "homeTeam": "Atletico Madrid",
+      "homeShortName": "Atletico",
+      "awayTeamId": "5707",
+      "awayTeam": "FK Bodö/Glimt",
+      "awayShortName": "Bodö/Glimt",
+      "result": {
+        "home": 1,
+        "away": 2
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79531",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:57:24.537",
+      "finished": true,
+      "homeTeamId": "1135",
+      "homeTeam": "Athletic Club",
+      "homeShortName": "Bilbao",
+      "awayTeamId": "1205",
+      "awayTeam": "Sporting CP",
+      "awayShortName": "Sporting",
+      "result": {
+        "home": 2,
+        "away": 3
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79532",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:58:52.24",
+      "finished": true,
+      "homeTeamId": "455",
+      "homeTeam": "Ajax Amsterdam",
+      "homeShortName": "Ajax",
+      "awayTeamId": "436",
+      "awayTeam": "Olympiakos Piräus",
+      "awayShortName": "Piräus",
+      "result": {
+        "home": 1,
+        "away": 2
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79533",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:58:59.73",
+      "finished": true,
+      "homeTeamId": "4363",
+      "homeTeam": "Paris Saint-Germain",
+      "homeShortName": "",
+      "awayTeamId": "1075",
+      "awayTeam": "Newcastle United FC",
+      "awayShortName": "Newcastle",
+      "result": {
+        "home": 1,
+        "away": 1
+      },
+      "sourceGroupOrderId": 8
+    },
+    {
+      "id": "79534",
+      "groupOrderId": 8,
+      "groupName": "Ligaphase · Spieltag 8",
+      "date": "2026-01-28T20:00:00Z",
+      "updated": "2026-01-28T22:59:08.947",
+      "finished": true,
+      "homeTeamId": "7081",
+      "homeTeam": "Paphos FC",
+      "homeShortName": "Paphos FC",
+      "awayTeamId": "4578",
+      "awayTeam": "Slavia Prag",
+      "awayShortName": "Slavia Prag",
+      "result": {
+        "home": 4,
+        "away": 1
+      },
+      "sourceGroupOrderId": 8
+    }
+  ],
+  "teams": [
+    {
+      "teamId": "455",
+      "name": "Ajax Amsterdam",
+      "shortName": "Ajax"
+    },
+    {
+      "teamId": "2547",
+      "name": "AS Monaco",
+      "shortName": "AS Monaco"
+    },
+    {
+      "teamId": "1807",
+      "name": "Atalanta Bergamo",
+      "shortName": "Bergamo"
+    },
+    {
+      "teamId": "1135",
+      "name": "Athletic Club",
+      "shortName": "Bilbao"
+    },
+    {
+      "teamId": "2549",
+      "name": "Atletico Madrid",
+      "shortName": "Atletico"
+    },
+    {
+      "teamId": "6",
+      "name": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen"
+    },
+    {
+      "teamId": "7",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund"
+    },
+    {
+      "teamId": "364",
+      "name": "Chelsea FC",
+      "shortName": "Chelsea FC"
+    },
+    {
+      "teamId": "91",
+      "name": "Eintracht Frankfurt",
+      "shortName": "Frankfurt"
+    },
+    {
+      "teamId": "2617",
+      "name": "FC Arsenal",
+      "shortName": "Arsenal"
+    },
+    {
+      "teamId": "356",
+      "name": "FC Barcelona",
+      "shortName": "Barcelona"
+    },
+    {
+      "teamId": "40",
+      "name": "FC Bayern München",
+      "shortName": "Bayern"
+    },
+    {
+      "teamId": "1210",
+      "name": "FC Brügge",
+      "shortName": "Brügge"
+    },
+    {
+      "teamId": "453",
+      "name": "FC Kopenhagen",
+      "shortName": ""
+    },
+    {
+      "teamId": "370",
+      "name": "FC Liverpool",
+      "shortName": "Liverpool"
+    },
+    {
+      "teamId": "4200",
+      "name": "FC Villareal",
+      "shortName": ""
+    },
+    {
+      "teamId": "5707",
+      "name": "FK Bodö/Glimt",
+      "shortName": "Bodö/Glimt"
+    },
+    {
+      "teamId": "7082",
+      "name": "FK Kairat",
+      "shortName": "FKK"
+    },
+    {
+      "teamId": "2554",
+      "name": "Galatasaray Istanbul",
+      "shortName": "Galatasaray"
+    },
+    {
+      "teamId": "733",
+      "name": "Inter Mailand",
+      "shortName": "Inter"
+    },
+    {
+      "teamId": "369",
+      "name": "Juventus Turin",
+      "shortName": "Juventus"
+    },
+    {
+      "teamId": "4244",
+      "name": "Manchester City",
+      "shortName": "Man'City"
+    },
+    {
+      "teamId": "1075",
+      "name": "Newcastle United FC",
+      "shortName": "Newcastle"
+    },
+    {
+      "teamId": "436",
+      "name": "Olympiakos Piräus",
+      "shortName": "Piräus"
+    },
+    {
+      "teamId": "2557",
+      "name": "Olympique Marseille",
+      "shortName": "Marseille"
+    },
+    {
+      "teamId": "7081",
+      "name": "Paphos FC",
+      "shortName": "Paphos FC"
+    },
+    {
+      "teamId": "4363",
+      "name": "Paris Saint-Germain",
+      "shortName": ""
+    },
+    {
+      "teamId": "376",
+      "name": "PSV Eindhoven",
+      "shortName": "PSV"
+    },
+    {
+      "teamId": "4458",
+      "name": "Qarabag FK",
+      "shortName": "Qarabag Agdam"
+    },
+    {
+      "teamId": "1133",
+      "name": "Real Madrid",
+      "shortName": "Madrid"
+    },
+    {
+      "teamId": "1179",
+      "name": "SL Benfica",
+      "shortName": ""
+    },
+    {
+      "teamId": "4578",
+      "name": "Slavia Prag",
+      "shortName": "Slavia Prag"
+    },
+    {
+      "teamId": "1205",
+      "name": "Sporting CP",
+      "shortName": "Sporting"
+    },
+    {
+      "teamId": "1160",
+      "name": "SSC Neapel",
+      "shortName": ""
+    },
+    {
+      "teamId": "2559",
+      "name": "Tottenham Hotspur",
+      "shortName": "Tottenham"
+    },
+    {
+      "teamId": "4825",
+      "name": "Union Saint-Gilloise",
+      "shortName": "St. Gilloise"
+    }
+  ],
+  "standings": [
+    {
+      "teamId": "2617",
+      "name": "FC Arsenal",
+      "shortName": "Arsenal",
+      "played": 8,
+      "wins": 8,
+      "draws": 0,
+      "losses": 0,
+      "points": 24,
+      "goalsFor": 23,
+      "goalsAgainst": 4,
+      "goalDifference": 19,
+      "awayGoals": 11,
+      "awayWins": 4,
+      "opponents": [
+        "1135",
+        "436",
+        "2549",
+        "4578",
+        "40",
+        "1210",
+        "733",
+        "7082"
+      ],
+      "opponentPoints": 81,
+      "opponentGoalDifference": -16,
+      "opponentGoals": 95,
+      "position": 1
+    },
+    {
+      "teamId": "40",
+      "name": "FC Bayern München",
+      "shortName": "Bayern",
+      "played": 8,
+      "wins": 7,
+      "draws": 0,
+      "losses": 1,
+      "points": 21,
+      "goalsFor": 22,
+      "goalsAgainst": 8,
+      "goalDifference": 14,
+      "awayGoals": 10,
+      "awayWins": 3,
+      "opponents": [
+        "364",
+        "7081",
+        "1210",
+        "4363",
+        "2617",
+        "1205",
+        "4825",
+        "376"
+      ],
+      "opponentPoints": 103,
+      "opponentGoalDifference": 25,
+      "opponentGoals": 120,
+      "position": 2
+    },
+    {
+      "teamId": "2559",
+      "name": "Tottenham Hotspur",
+      "shortName": "Tottenham",
+      "played": 8,
+      "wins": 5,
+      "draws": 2,
+      "losses": 1,
+      "points": 17,
+      "goalsFor": 17,
+      "goalsAgainst": 7,
+      "goalDifference": 10,
+      "awayGoals": 7,
+      "awayWins": 1,
+      "opponents": [
+        "4200",
+        "5707",
+        "2547",
+        "453",
+        "4363",
+        "4578",
+        "7",
+        "91"
+      ],
+      "opponentPoints": 60,
+      "opponentGoalDifference": -42,
+      "opponentGoals": 94,
+      "position": 3
+    },
+    {
+      "teamId": "370",
+      "name": "FC Liverpool",
+      "shortName": "Liverpool",
+      "played": 8,
+      "wins": 5,
+      "draws": 1,
+      "losses": 2,
+      "points": 16,
+      "goalsFor": 17,
+      "goalsAgainst": 8,
+      "goalDifference": 9,
+      "awayGoals": 6,
+      "awayWins": 2,
+      "opponents": [
+        "2549",
+        "2554",
+        "91",
+        "1133",
+        "376",
+        "733",
+        "2557",
+        "4458"
+      ],
+      "opponentPoints": 85,
+      "opponentGoalDifference": -2,
+      "opponentGoals": 112,
+      "position": 4
+    },
+    {
+      "teamId": "356",
+      "name": "FC Barcelona",
+      "shortName": "Barcelona",
+      "played": 8,
+      "wins": 5,
+      "draws": 1,
+      "losses": 2,
+      "points": 16,
+      "goalsFor": 22,
+      "goalsAgainst": 14,
+      "goalDifference": 8,
+      "awayGoals": 9,
+      "awayWins": 2,
+      "opponents": [
+        "1075",
+        "4363",
+        "436",
+        "1210",
+        "364",
+        "91",
+        "4578",
+        "453"
+      ],
+      "opponentPoints": 76,
+      "opponentGoalDifference": -17,
+      "opponentGoals": 102,
+      "position": 5
+    },
+    {
+      "teamId": "1205",
+      "name": "Sporting CP",
+      "shortName": "Sporting",
+      "played": 8,
+      "wins": 5,
+      "draws": 1,
+      "losses": 2,
+      "points": 16,
+      "goalsFor": 17,
+      "goalsAgainst": 11,
+      "goalDifference": 6,
+      "awayGoals": 6,
+      "awayWins": 1,
+      "opponents": [
+        "7082",
+        "1160",
+        "2557",
+        "369",
+        "1210",
+        "40",
+        "4363",
+        "1135"
+      ],
+      "opponentPoints": 84,
+      "opponentGoalDifference": 0,
+      "opponentGoals": 103,
+      "position": 6
+    },
+    {
+      "teamId": "4244",
+      "name": "Manchester City",
+      "shortName": "Man'City",
+      "played": 8,
+      "wins": 5,
+      "draws": 1,
+      "losses": 2,
+      "points": 16,
+      "goalsFor": 15,
+      "goalsAgainst": 9,
+      "goalDifference": 6,
+      "awayGoals": 7,
+      "awayWins": 2,
+      "opponents": [
+        "1160",
+        "2547",
+        "4200",
+        "7",
+        "6",
+        "1133",
+        "5707",
+        "2554"
+      ],
+      "opponentPoints": 76,
+      "opponentGoalDifference": -18,
+      "opponentGoals": 98,
+      "position": 7
+    },
+    {
+      "teamId": "1133",
+      "name": "Real Madrid",
+      "shortName": "Madrid",
+      "played": 8,
+      "wins": 5,
+      "draws": 0,
+      "losses": 3,
+      "points": 15,
+      "goalsFor": 21,
+      "goalsAgainst": 12,
+      "goalDifference": 9,
+      "awayGoals": 11,
+      "awayWins": 2,
+      "opponents": [
+        "2557",
+        "7082",
+        "369",
+        "370",
+        "436",
+        "4244",
+        "2547",
+        "1179"
+      ],
+      "opponentPoints": 87,
+      "opponentGoalDifference": -5,
+      "opponentGoals": 91,
+      "position": 8
+    },
+    {
+      "teamId": "733",
+      "name": "Inter Mailand",
+      "shortName": "Inter",
+      "played": 8,
+      "wins": 5,
+      "draws": 0,
+      "losses": 3,
+      "points": 15,
+      "goalsFor": 15,
+      "goalsAgainst": 7,
+      "goalDifference": 8,
+      "awayGoals": 9,
+      "awayWins": 3,
+      "opponents": [
+        "455",
+        "4578",
+        "4825",
+        "7082",
+        "2549",
+        "370",
+        "2617",
+        "7"
+      ],
+      "opponentPoints": 84,
+      "opponentGoalDifference": -16,
+      "opponentGoals": 103,
+      "position": 9
+    },
+    {
+      "teamId": "4363",
+      "name": "Paris Saint-Germain",
+      "shortName": "Paris Saint-Germain",
+      "played": 8,
+      "wins": 4,
+      "draws": 2,
+      "losses": 2,
+      "points": 14,
+      "goalsFor": 21,
+      "goalsAgainst": 11,
+      "goalDifference": 10,
+      "awayGoals": 10,
+      "awayWins": 2,
+      "opponents": [
+        "1807",
+        "356",
+        "6",
+        "40",
+        "2559",
+        "1135",
+        "1205",
+        "1075"
+      ],
+      "opponentPoints": 117,
+      "opponentGoalDifference": 42,
+      "opponentGoals": 127,
+      "position": 10
+    },
+    {
+      "teamId": "1075",
+      "name": "Newcastle United FC",
+      "shortName": "Newcastle",
+      "played": 8,
+      "wins": 4,
+      "draws": 2,
+      "losses": 2,
+      "points": 14,
+      "goalsFor": 17,
+      "goalsAgainst": 7,
+      "goalDifference": 10,
+      "awayGoals": 8,
+      "awayWins": 1,
+      "opponents": [
+        "356",
+        "4825",
+        "1179",
+        "1135",
+        "2557",
+        "6",
+        "376",
+        "4363"
+      ],
+      "opponentPoints": 86,
+      "opponentGoalDifference": 1,
+      "opponentGoals": 110,
+      "position": 11
+    },
+    {
+      "teamId": "364",
+      "name": "Chelsea FC",
+      "shortName": "Chelsea FC",
+      "played": 8,
+      "wins": 4,
+      "draws": 2,
+      "losses": 2,
+      "points": 14,
+      "goalsFor": 16,
+      "goalsAgainst": 10,
+      "goalDifference": 6,
+      "awayGoals": 7,
+      "awayWins": 1,
+      "opponents": [
+        "40",
+        "1179",
+        "455",
+        "4458",
+        "356",
+        "1807",
+        "7081",
+        "1160"
+      ],
+      "opponentPoints": 93,
+      "opponentGoalDifference": -9,
+      "opponentGoals": 102,
+      "position": 12
+    },
+    {
+      "teamId": "369",
+      "name": "Juventus Turin",
+      "shortName": "Juventus",
+      "played": 8,
+      "wins": 3,
+      "draws": 4,
+      "losses": 1,
+      "points": 13,
+      "goalsFor": 14,
+      "goalsAgainst": 10,
+      "goalDifference": 4,
+      "awayGoals": 5,
+      "awayWins": 1,
+      "opponents": [
+        "7",
+        "4200",
+        "1133",
+        "1205",
+        "5707",
+        "7081",
+        "1179",
+        "2547"
+      ],
+      "opponentPoints": 81,
+      "opponentGoalDifference": -7,
+      "opponentGoals": 102,
+      "position": 13
+    },
+    {
+      "teamId": "2549",
+      "name": "Atletico Madrid",
+      "shortName": "Atletico",
+      "played": 8,
+      "wins": 4,
+      "draws": 1,
+      "losses": 3,
+      "points": 13,
+      "goalsFor": 17,
+      "goalsAgainst": 15,
+      "goalDifference": 2,
+      "awayGoals": 6,
+      "awayWins": 1,
+      "opponents": [
+        "370",
+        "91",
+        "2617",
+        "4825",
+        "733",
+        "376",
+        "2554",
+        "5707"
+      ],
+      "opponentPoints": 95,
+      "opponentGoalDifference": 13,
+      "opponentGoals": 112,
+      "position": 14
+    },
+    {
+      "teamId": "1807",
+      "name": "Atalanta Bergamo",
+      "shortName": "Bergamo",
+      "played": 8,
+      "wins": 4,
+      "draws": 1,
+      "losses": 3,
+      "points": 13,
+      "goalsFor": 10,
+      "goalsAgainst": 10,
+      "goalDifference": 0,
+      "awayGoals": 4,
+      "awayWins": 2,
+      "opponents": [
+        "4363",
+        "1210",
+        "4578",
+        "2557",
+        "91",
+        "364",
+        "1135",
+        "4825"
+      ],
+      "opponentPoints": 70,
+      "opponentGoalDifference": -28,
+      "opponentGoals": 91,
+      "position": 15
+    },
+    {
+      "teamId": "6",
+      "name": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "played": 8,
+      "wins": 3,
+      "draws": 3,
+      "losses": 2,
+      "points": 12,
+      "goalsFor": 13,
+      "goalsAgainst": 14,
+      "goalDifference": -1,
+      "awayGoals": 5,
+      "awayWins": 2,
+      "opponents": [
+        "453",
+        "376",
+        "4363",
+        "1179",
+        "4244",
+        "1075",
+        "436",
+        "4200"
+      ],
+      "opponentPoints": 81,
+      "opponentGoalDifference": -2,
+      "opponentGoals": 106,
+      "position": 16
+    },
+    {
+      "teamId": "7",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "played": 8,
+      "wins": 3,
+      "draws": 2,
+      "losses": 3,
+      "points": 11,
+      "goalsFor": 19,
+      "goalsAgainst": 17,
+      "goalDifference": 2,
+      "awayGoals": 9,
+      "awayWins": 1,
+      "opponents": [
+        "369",
+        "1135",
+        "453",
+        "4244",
+        "4200",
+        "5707",
+        "2559",
+        "733"
+      ],
+      "opponentPoints": 87,
+      "opponentGoalDifference": 0,
+      "opponentGoals": 101,
+      "position": 17
+    },
+    {
+      "teamId": "436",
+      "name": "Olympiakos Piräus",
+      "shortName": "Piräus",
+      "played": 8,
+      "wins": 3,
+      "draws": 2,
+      "losses": 3,
+      "points": 11,
+      "goalsFor": 10,
+      "goalsAgainst": 14,
+      "goalDifference": -4,
+      "awayGoals": 4,
+      "awayWins": 2,
+      "opponents": [
+        "7081",
+        "2617",
+        "356",
+        "376",
+        "1133",
+        "7082",
+        "6",
+        "455"
+      ],
+      "opponentPoints": 93,
+      "opponentGoalDifference": 8,
+      "opponentGoals": 117,
+      "position": 18
+    },
+    {
+      "teamId": "2557",
+      "name": "Olympique Marseille",
+      "shortName": "Marseille",
+      "played": 8,
+      "wins": 3,
+      "draws": 1,
+      "losses": 4,
+      "points": 10,
+      "goalsFor": 11,
+      "goalsAgainst": 11,
+      "goalDifference": 0,
+      "awayGoals": 5,
+      "awayWins": 1,
+      "opponents": [
+        "1133",
+        "455",
+        "1205",
+        "1807",
+        "1075",
+        "4825",
+        "370",
+        "1210"
+      ],
+      "opponentPoints": 97,
+      "opponentGoalDifference": 7,
+      "opponentGoals": 109,
+      "position": 19
+    },
+    {
+      "teamId": "2554",
+      "name": "Galatasaray Istanbul",
+      "shortName": "Galatasaray",
+      "played": 8,
+      "wins": 3,
+      "draws": 1,
+      "losses": 4,
+      "points": 10,
+      "goalsFor": 9,
+      "goalsAgainst": 11,
+      "goalDifference": -2,
+      "awayGoals": 4,
+      "awayWins": 1,
+      "opponents": [
+        "91",
+        "370",
+        "5707",
+        "455",
+        "4825",
+        "2547",
+        "2549",
+        "4244"
+      ],
+      "opponentPoints": 83,
+      "opponentGoalDifference": -23,
+      "opponentGoals": 97,
+      "position": 20
+    },
+    {
+      "teamId": "7081",
+      "name": "Paphos FC",
+      "shortName": "Paphos FC",
+      "played": 8,
+      "wins": 2,
+      "draws": 4,
+      "losses": 2,
+      "points": 10,
+      "goalsFor": 8,
+      "goalsAgainst": 10,
+      "goalDifference": -2,
+      "awayGoals": 0,
+      "awayWins": 0,
+      "opponents": [
+        "436",
+        "40",
+        "7082",
+        "4200",
+        "2547",
+        "369",
+        "364",
+        "4578"
+      ],
+      "opponentPoints": 75,
+      "opponentGoalDifference": -25,
+      "opponentGoals": 86,
+      "position": 21
+    },
+    {
+      "teamId": "2547",
+      "name": "AS Monaco",
+      "shortName": "AS Monaco",
+      "played": 8,
+      "wins": 2,
+      "draws": 4,
+      "losses": 2,
+      "points": 10,
+      "goalsFor": 8,
+      "goalsAgainst": 14,
+      "goalDifference": -6,
+      "awayGoals": 5,
+      "awayWins": 1,
+      "opponents": [
+        "1210",
+        "4244",
+        "2559",
+        "5707",
+        "7081",
+        "2554",
+        "1133",
+        "369"
+      ],
+      "opponentPoints": 98,
+      "opponentGoalDifference": 19,
+      "opponentGoals": 109,
+      "position": 22
+    },
+    {
+      "teamId": "4458",
+      "name": "Qarabag FK",
+      "shortName": "Qarabag Agdam",
+      "played": 8,
+      "wins": 3,
+      "draws": 1,
+      "losses": 4,
+      "points": 10,
+      "goalsFor": 13,
+      "goalsAgainst": 21,
+      "goalDifference": -8,
+      "awayGoals": 4,
+      "awayWins": 1,
+      "opponents": [
+        "1179",
+        "453",
+        "1135",
+        "364",
+        "1160",
+        "455",
+        "91",
+        "370"
+      ],
+      "opponentPoints": 73,
+      "opponentGoalDifference": -31,
+      "opponentGoals": 91,
+      "position": 23
+    },
+    {
+      "teamId": "5707",
+      "name": "FK Bodö/Glimt",
+      "shortName": "Bodö/Glimt",
+      "played": 8,
+      "wins": 2,
+      "draws": 3,
+      "losses": 3,
+      "points": 9,
+      "goalsFor": 14,
+      "goalsAgainst": 15,
+      "goalDifference": -1,
+      "awayGoals": 7,
+      "awayWins": 1,
+      "opponents": [
+        "4578",
+        "2559",
+        "2554",
+        "2547",
+        "369",
+        "7",
+        "4244",
+        "2549"
+      ],
+      "opponentPoints": 93,
+      "opponentGoalDifference": 2,
+      "opponentGoals": 104,
+      "position": 24
+    },
+    {
+      "teamId": "1179",
+      "name": "SL Benfica",
+      "shortName": "SL Benfica",
+      "played": 8,
+      "wins": 3,
+      "draws": 0,
+      "losses": 5,
+      "points": 9,
+      "goalsFor": 10,
+      "goalsAgainst": 12,
+      "goalDifference": -2,
+      "awayGoals": 2,
+      "awayWins": 1,
+      "opponents": [
+        "4458",
+        "364",
+        "1075",
+        "6",
+        "455",
+        "1160",
+        "369",
+        "1133"
+      ],
+      "opponentPoints": 92,
+      "opponentGoalDifference": 1,
+      "opponentGoals": 111,
+      "position": 25
+    },
+    {
+      "teamId": "4825",
+      "name": "Union Saint-Gilloise",
+      "shortName": "St. Gilloise",
+      "played": 8,
+      "wins": 3,
+      "draws": 0,
+      "losses": 5,
+      "points": 9,
+      "goalsFor": 8,
+      "goalsAgainst": 17,
+      "goalDifference": -9,
+      "awayGoals": 5,
+      "awayWins": 2,
+      "opponents": [
+        "376",
+        "1075",
+        "733",
+        "2549",
+        "2554",
+        "2557",
+        "40",
+        "1807"
+      ],
+      "opponentPoints": 104,
+      "opponentGoalDifference": 32,
+      "opponentGoals": 117,
+      "position": 26
+    },
+    {
+      "teamId": "376",
+      "name": "PSV Eindhoven",
+      "shortName": "PSV",
+      "played": 8,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4,
+      "points": 8,
+      "goalsFor": 16,
+      "goalsAgainst": 16,
+      "goalDifference": 0,
+      "awayGoals": 6,
+      "awayWins": 1,
+      "opponents": [
+        "4825",
+        "6",
+        "1160",
+        "436",
+        "370",
+        "2549",
+        "1075",
+        "40"
+      ],
+      "opponentPoints": 104,
+      "opponentGoalDifference": 15,
+      "opponentGoals": 113,
+      "position": 27
+    },
+    {
+      "teamId": "1210",
+      "name": "FC Brügge",
+      "shortName": "Brügge",
+      "played": 8,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4,
+      "points": 8,
+      "goalsFor": 11,
+      "goalsAgainst": 16,
+      "goalDifference": -5,
+      "awayGoals": 1,
+      "awayWins": 0,
+      "opponents": [
+        "2547",
+        "1807",
+        "40",
+        "356",
+        "1205",
+        "2617",
+        "7082",
+        "2557"
+      ],
+      "opponentPoints": 112,
+      "opponentGoalDifference": 29,
+      "opponentGoals": 119,
+      "position": 28
+    },
+    {
+      "teamId": "1135",
+      "name": "Athletic Club",
+      "shortName": "Bilbao",
+      "played": 8,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4,
+      "points": 8,
+      "goalsFor": 9,
+      "goalsAgainst": 14,
+      "goalDifference": -5,
+      "awayGoals": 4,
+      "awayWins": 1,
+      "opponents": [
+        "2617",
+        "7",
+        "4458",
+        "1075",
+        "4578",
+        "4363",
+        "1807",
+        "1205"
+      ],
+      "opponentPoints": 105,
+      "opponentGoalDifference": 25,
+      "opponentGoals": 125,
+      "position": 29
+    },
+    {
+      "teamId": "1160",
+      "name": "SSC Neapel",
+      "shortName": "SSC Neapel",
+      "played": 8,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4,
+      "points": 8,
+      "goalsFor": 9,
+      "goalsAgainst": 15,
+      "goalDifference": -6,
+      "awayGoals": 3,
+      "awayWins": 0,
+      "opponents": [
+        "4244",
+        "1205",
+        "376",
+        "91",
+        "4458",
+        "1179",
+        "453",
+        "364"
+      ],
+      "opponentPoints": 85,
+      "opponentGoalDifference": -12,
+      "opponentGoals": 109,
+      "position": 30
+    },
+    {
+      "teamId": "453",
+      "name": "FC Kopenhagen",
+      "shortName": "FC Kopenhagen",
+      "played": 8,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4,
+      "points": 8,
+      "goalsFor": 12,
+      "goalsAgainst": 21,
+      "goalDifference": -9,
+      "awayGoals": 4,
+      "awayWins": 1,
+      "opponents": [
+        "6",
+        "4458",
+        "7",
+        "2559",
+        "7082",
+        "4200",
+        "1160",
+        "356"
+      ],
+      "opponentPoints": 77,
+      "opponentGoalDifference": -20,
+      "opponentGoals": 104,
+      "position": 31
+    },
+    {
+      "teamId": "455",
+      "name": "Ajax Amsterdam",
+      "shortName": "Ajax",
+      "played": 8,
+      "wins": 2,
+      "draws": 0,
+      "losses": 6,
+      "points": 6,
+      "goalsFor": 8,
+      "goalsAgainst": 21,
+      "goalDifference": -13,
+      "awayGoals": 7,
+      "awayWins": 2,
+      "opponents": [
+        "733",
+        "2557",
+        "364",
+        "2554",
+        "1179",
+        "4458",
+        "4200",
+        "436"
+      ],
+      "opponentPoints": 80,
+      "opponentGoalDifference": -15,
+      "opponentGoals": 89,
+      "position": 32
+    },
+    {
+      "teamId": "91",
+      "name": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "played": 8,
+      "wins": 1,
+      "draws": 1,
+      "losses": 6,
+      "points": 4,
+      "goalsFor": 10,
+      "goalsAgainst": 21,
+      "goalDifference": -11,
+      "awayGoals": 4,
+      "awayWins": 0,
+      "opponents": [
+        "2554",
+        "2549",
+        "370",
+        "1160",
+        "1807",
+        "356",
+        "4458",
+        "2559"
+      ],
+      "opponentPoints": 103,
+      "opponentGoalDifference": 13,
+      "opponentGoals": 114,
+      "position": 33
+    },
+    {
+      "teamId": "4578",
+      "name": "Slavia Prag",
+      "shortName": "Slavia Prag",
+      "played": 8,
+      "wins": 0,
+      "draws": 3,
+      "losses": 5,
+      "points": 3,
+      "goalsFor": 5,
+      "goalsAgainst": 19,
+      "goalDifference": -14,
+      "awayGoals": 1,
+      "awayWins": 0,
+      "opponents": [
+        "5707",
+        "733",
+        "1807",
+        "2617",
+        "1135",
+        "2559",
+        "356",
+        "7081"
+      ],
+      "opponentPoints": 112,
+      "opponentGoalDifference": 37,
+      "opponentGoals": 118,
+      "position": 34
+    },
+    {
+      "teamId": "7082",
+      "name": "FK Kairat",
+      "shortName": "FKK",
+      "played": 8,
+      "wins": 0,
+      "draws": 2,
+      "losses": 6,
+      "points": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 18,
+      "goalDifference": -12,
+      "awayGoals": 6,
+      "awayWins": 0,
+      "opponents": [
+        "1205",
+        "1133",
+        "7081",
+        "733",
+        "453",
+        "436",
+        "1210",
+        "2617"
+      ],
+      "opponentPoints": 107,
+      "opponentGoalDifference": 22,
+      "opponentGoals": 117,
+      "position": 35
+    },
+    {
+      "teamId": "4200",
+      "name": "FC Villareal",
+      "shortName": "FC Villareal",
+      "played": 8,
+      "wins": 0,
+      "draws": 1,
+      "losses": 7,
+      "points": 1,
+      "goalsFor": 5,
+      "goalsAgainst": 18,
+      "goalDifference": -13,
+      "awayGoals": 0,
+      "awayWins": 0,
+      "opponents": [
+        "2559",
+        "369",
+        "4244",
+        "7081",
+        "7",
+        "453",
+        "455",
+        "6"
+      ],
+      "opponentPoints": 93,
+      "opponentGoalDifference": -3,
+      "opponentGoals": 106,
+      "position": 36
+    }
+  ],
+  "standingsVerified": false,
+  "groupChecks": {},
+  "groupChanges": {}
+}

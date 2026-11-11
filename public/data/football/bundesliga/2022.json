@@ -1,0 +1,5867 @@
+{
+  "schemaVersion": 1,
+  "id": "bundesliga",
+  "shortcut": "bl1",
+  "year": 2022,
+  "seasonLabel": "2022/23",
+  "complete": true,
+  "calendarCheckedAt": "2026-11-11T23:10:28.274Z",
+  "updatedAt": "2026-11-11T23:10:28.274Z",
+  "matches": [
+    {
+      "id": "63864",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2022-08-05T18:30:00Z",
+      "updated": "2022-08-14T09:42:12.96",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 6
+      }
+    },
+    {
+      "id": "63865",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2022-08-06T13:30:00Z",
+      "updated": "2023-03-12T12:25:38.537",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "63866",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2022-08-06T13:30:00Z",
+      "updated": "2022-08-06T17:30:14.553",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "63868",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2022-08-06T13:30:00Z",
+      "updated": "2022-08-06T17:23:32.847",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "63871",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2022-08-06T13:30:00Z",
+      "updated": "2023-03-12T12:24:55.59",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "63872",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2022-08-06T13:30:00Z",
+      "updated": "2022-08-06T17:25:48.177",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "63867",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2022-08-06T16:30:00Z",
+      "updated": "2022-08-06T20:27:25.107",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "63870",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2022-08-07T13:30:00Z",
+      "updated": "2022-08-07T17:34:41.223",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "63869",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2022-08-07T15:30:00Z",
+      "updated": "2022-08-07T20:34:59.85",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "63875",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2022-08-12T18:30:00Z",
+      "updated": "2022-08-12T22:22:12.793",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "63873",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2022-08-13T13:30:00Z",
+      "updated": "2022-08-13T17:31:29.99",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "63876",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2022-08-13T13:30:00Z",
+      "updated": "2022-08-13T17:26:17.273",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "63877",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2022-08-13T13:30:00Z",
+      "updated": "2022-08-13T17:25:16.47",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "63879",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2022-08-13T13:30:00Z",
+      "updated": "2022-08-13T17:24:04.263",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "63881",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2022-08-13T13:30:00Z",
+      "updated": "2022-08-13T17:31:33.163",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "63880",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2022-08-13T16:30:00Z",
+      "updated": "2022-08-13T20:25:30.157",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "63878",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2022-08-14T13:30:00Z",
+      "updated": "2022-08-14T17:33:45.813",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "63874",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2022-08-14T15:30:00Z",
+      "updated": "2022-08-14T19:50:16.85",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "63886",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2022-08-19T18:30:00Z",
+      "updated": "2022-08-19T22:26:04.537",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "63882",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2022-08-20T13:30:00Z",
+      "updated": "2022-08-20T17:31:12.403",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "63883",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2022-08-20T13:30:00Z",
+      "updated": "2022-08-20T17:30:57.497",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "63885",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2022-08-20T13:30:00Z",
+      "updated": "2022-08-20T17:30:42.827",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "63888",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2022-08-20T13:30:00Z",
+      "updated": "2022-08-20T17:31:57.327",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "63890",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2022-08-20T13:30:00Z",
+      "updated": "2022-08-20T17:31:32.327",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "63889",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2022-08-20T16:30:00Z",
+      "updated": "2022-08-20T20:24:56.587",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "63887",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2022-08-21T13:30:00Z",
+      "updated": "2022-08-21T17:26:10.877",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "63884",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2022-08-21T15:30:00Z",
+      "updated": "2022-08-21T19:26:07.753",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 7
+      }
+    },
+    {
+      "id": "63892",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2022-08-26T18:30:00Z",
+      "updated": "2022-08-26T22:39:25.267",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "63893",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2022-08-27T13:30:00Z",
+      "updated": "2022-08-27T17:25:54.2",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "63894",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2022-08-27T13:30:00Z",
+      "updated": "2022-08-27T17:25:53.107",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "63896",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2022-08-27T13:30:00Z",
+      "updated": "2022-08-27T17:25:52.14",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "63897",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2022-08-27T13:30:00Z",
+      "updated": "2022-08-27T17:25:50.653",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "63898",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2022-08-27T13:30:00Z",
+      "updated": "2022-08-27T17:25:49.843",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 6
+      }
+    },
+    {
+      "id": "63891",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2022-08-27T16:30:00Z",
+      "updated": "2022-08-27T20:27:25.64",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "63895",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2022-08-28T13:30:00Z",
+      "updated": "2022-08-28T17:28:12.477",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "63899",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2022-08-28T15:30:00Z",
+      "updated": "2022-08-28T19:27:33.543",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 4
+      }
+    },
+    {
+      "id": "63904",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2022-09-02T18:30:00Z",
+      "updated": "2022-09-02T22:24:38.257",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "63902",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2022-09-03T13:30:00Z",
+      "updated": "2022-09-03T17:28:54.12",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "63903",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2022-09-03T13:30:00Z",
+      "updated": "2022-09-03T17:30:17.957",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "63907",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2022-09-03T13:30:00Z",
+      "updated": "2022-09-03T17:30:13.817",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "63908",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2022-09-03T13:30:00Z",
+      "updated": "2022-09-03T17:28:45.247",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "63909",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2022-09-03T13:30:00Z",
+      "updated": "2022-09-03T17:28:36.447",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "63906",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2022-09-03T16:30:00Z",
+      "updated": "2022-09-03T20:23:11.84",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "63900",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2022-09-04T13:30:00Z",
+      "updated": "2022-09-04T17:23:49.633",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "63905",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2022-09-04T15:30:00Z",
+      "updated": "2022-09-04T19:29:24.007",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "63918",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2022-09-09T18:30:00Z",
+      "updated": "2022-09-09T22:29:54.683",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "63910",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2022-09-10T13:30:00Z",
+      "updated": "2022-09-10T17:25:05.06",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "63911",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2022-09-10T13:30:00Z",
+      "updated": "2022-09-10T17:24:59.28",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "63913",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2022-09-10T13:30:00Z",
+      "updated": "2022-09-10T17:27:15.72",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "63914",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2022-09-10T13:30:00Z",
+      "updated": "2022-09-10T17:25:28.937",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "63916",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2022-09-10T13:30:00Z",
+      "updated": "2022-09-10T17:21:20.76",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "63917",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2022-09-10T16:30:00Z",
+      "updated": "2022-09-10T20:31:09.93",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "63915",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2022-09-11T13:30:00Z",
+      "updated": "2022-09-11T17:27:50.293",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "63912",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2022-09-11T15:30:00Z",
+      "updated": "2022-09-11T19:21:39.657",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "63925",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2022-09-16T18:30:00Z",
+      "updated": "2022-09-16T22:25:26.82",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "63919",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2022-09-17T13:30:00Z",
+      "updated": "2022-09-17T17:27:41.92",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "63920",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2022-09-17T13:30:00Z",
+      "updated": "2022-09-17T17:27:42.7",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "63922",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2022-09-17T13:30:00Z",
+      "updated": "2022-09-17T17:27:43.53",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "63926",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2022-09-17T13:30:00Z",
+      "updated": "2022-09-17T17:27:44.31",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "63923",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2022-09-17T16:30:00Z",
+      "updated": "2022-09-17T20:25:11.803",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "63927",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2022-09-18T13:30:00Z",
+      "updated": "2022-09-18T17:23:28.037",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "63921",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2022-09-18T15:30:00Z",
+      "updated": "2022-09-18T19:25:59.973",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "63924",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2022-09-18T17:30:00Z",
+      "updated": "2022-09-18T21:22:19.963",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "63928",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2022-09-30T18:30:00Z",
+      "updated": "2022-10-02T11:44:45.65",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "63929",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2022-10-01T13:30:00Z",
+      "updated": "2022-10-01T17:25:10.717",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "63930",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2022-10-01T13:30:00Z",
+      "updated": "2022-10-01T17:25:09.407",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "63932",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2022-10-01T13:30:00Z",
+      "updated": "2022-10-02T11:45:10.373",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "63933",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2022-10-01T13:30:00Z",
+      "updated": "2022-10-01T17:25:07.467",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "63936",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2022-10-01T13:30:00Z",
+      "updated": "2022-10-01T17:25:06.327",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "63935",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2022-10-01T16:30:00Z",
+      "updated": "2022-10-01T20:20:57.813",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "63931",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2022-10-02T13:30:00Z",
+      "updated": "2022-10-02T17:28:23.46",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "63934",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2022-10-02T15:30:00Z",
+      "updated": "2022-10-02T19:27:31.71",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "63943",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2022-10-07T18:30:00Z",
+      "updated": "2022-10-08T10:08:00.723",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "63937",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2022-10-08T13:30:00Z",
+      "updated": "2022-10-08T17:23:56.02",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "63938",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2022-10-08T13:30:00Z",
+      "updated": "2022-10-08T17:29:00.057",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "63939",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2022-10-08T13:30:00Z",
+      "updated": "2022-10-09T03:57:21.433",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "63944",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2022-10-08T13:30:00Z",
+      "updated": "2022-10-08T17:29:26.29",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "63940",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2022-10-08T16:30:00Z",
+      "updated": "2022-10-09T03:57:25.807",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "63941",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2022-10-09T13:30:00Z",
+      "updated": "2022-10-09T17:28:27.67",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 5,
+        "away": 2
+      }
+    },
+    {
+      "id": "63942",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2022-10-09T15:30:00Z",
+      "updated": "2022-10-09T19:26:13.953",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "63945",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2022-10-09T17:30:00Z",
+      "updated": "2022-10-09T21:30:27.45",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "63950",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2022-10-14T18:30:00Z",
+      "updated": "2022-10-14T22:20:15.047",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "63947",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2022-10-15T13:30:00Z",
+      "updated": "2022-10-15T17:29:17.583",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "63951",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2022-10-15T13:30:00Z",
+      "updated": "2022-10-15T17:29:42.693",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "63953",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2022-10-15T13:30:00Z",
+      "updated": "2022-10-15T17:29:58.98",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "63954",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2022-10-15T13:30:00Z",
+      "updated": "2022-10-15T17:29:36.46",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "63949",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2022-10-15T16:30:00Z",
+      "updated": "2022-10-15T20:26:12.22",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "63948",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2022-10-16T13:30:00Z",
+      "updated": "2022-10-16T17:26:01.303",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "63952",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2022-10-16T15:30:00Z",
+      "updated": "2022-10-16T19:22:50.827",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "63946",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2022-10-16T17:30:00Z",
+      "updated": "2022-10-16T21:20:08.187",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "63963",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2022-10-21T18:30:00Z",
+      "updated": "2022-10-21T22:21:07.787",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "63955",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2022-10-22T13:30:00Z",
+      "updated": "2022-10-24T08:17:22.37",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "63956",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2022-10-22T13:30:00Z",
+      "updated": "2022-10-22T17:23:20.383",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "63958",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2022-10-22T13:30:00Z",
+      "updated": "2022-10-22T17:19:49.847",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "63960",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2022-10-22T13:30:00Z",
+      "updated": "2022-10-22T17:24:40.497",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "63962",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2022-10-22T13:30:00Z",
+      "updated": "2022-10-22T17:24:23.513",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "63959",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2022-10-22T16:30:00Z",
+      "updated": "2022-10-22T20:29:53.367",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "63957",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2022-10-23T13:30:00Z",
+      "updated": "2022-10-23T17:24:02.96",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "63961",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2022-10-23T15:30:00Z",
+      "updated": "2022-10-23T19:29:46.287",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "63971",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2022-10-28T18:30:00Z",
+      "updated": "2022-10-28T22:25:02.363",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "63964",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2022-10-29T13:30:00Z",
+      "updated": "2022-10-29T18:57:01.767",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 6,
+        "away": 2
+      }
+    },
+    {
+      "id": "63967",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2022-10-29T13:30:00Z",
+      "updated": "2022-10-29T17:24:06.49",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "63969",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2022-10-29T13:30:00Z",
+      "updated": "2022-10-29T17:29:31.17",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "63972",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2022-10-29T13:30:00Z",
+      "updated": "2022-10-29T17:21:17.537",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "63965",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2022-10-29T16:30:00Z",
+      "updated": "2022-10-29T20:29:57.983",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "63970",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2022-10-30T14:30:00Z",
+      "updated": "2022-10-30T19:03:57.663",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "63968",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2022-10-30T16:30:00Z",
+      "updated": "2022-10-30T19:25:14",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "63966",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2022-10-30T18:30:00Z",
+      "updated": "2022-10-30T21:25:32.267",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "63976",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2022-11-04T19:30:00Z",
+      "updated": "2022-11-04T22:28:36.44",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "63973",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2022-11-05T14:30:00Z",
+      "updated": "2022-11-05T17:26:22.847",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "63975",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2022-11-05T14:30:00Z",
+      "updated": "2022-11-05T17:22:03.213",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "63978",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2022-11-05T14:30:00Z",
+      "updated": "2022-11-05T17:27:10.76",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "63979",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2022-11-05T14:30:00Z",
+      "updated": "2022-11-05T17:26:26.813",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "63980",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2022-11-05T14:30:00Z",
+      "updated": "2022-11-05T17:22:10.95",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "63981",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2022-11-05T17:30:00Z",
+      "updated": "2022-11-05T20:25:26.037",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "63974",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2022-11-06T14:30:00Z",
+      "updated": "2022-11-06T17:18:54.597",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "63977",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2022-11-06T16:30:00Z",
+      "updated": "2022-11-06T19:21:54.487",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "63990",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2022-11-08T17:30:00Z",
+      "updated": "2022-11-08T20:29:53.743",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "63982",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2022-11-08T19:30:00Z",
+      "updated": "2022-11-08T22:27:37.967",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 6,
+        "away": 1
+      }
+    },
+    {
+      "id": "63983",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2022-11-08T19:30:00Z",
+      "updated": "2022-11-10T06:53:18.413",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "63988",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2022-11-08T19:30:00Z",
+      "updated": "2022-11-08T22:32:01.083",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "63985",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2022-11-09T17:30:00Z",
+      "updated": "2022-11-09T20:40:46.45",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "63984",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2022-11-09T19:30:00Z",
+      "updated": "2022-11-23T10:08:43.537",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "63986",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2022-11-09T19:30:00Z",
+      "updated": "2022-11-09T22:25:41.963",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "63987",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2022-11-09T19:30:00Z",
+      "updated": "2022-11-09T22:25:03.477",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "63989",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2022-11-09T19:30:00Z",
+      "updated": "2022-11-09T22:24:06.253",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "63993",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2022-11-11T19:30:00Z",
+      "updated": "2022-11-11T22:26:05.757",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "63991",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2022-11-12T14:30:00Z",
+      "updated": "2022-11-12T17:25:47.25",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "63992",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2022-11-12T14:30:00Z",
+      "updated": "2022-11-12T17:22:19.81",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "63995",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2022-11-12T14:30:00Z",
+      "updated": "2022-11-12T17:26:30.49",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "63996",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2022-11-12T14:30:00Z",
+      "updated": "2022-11-12T17:27:45.81",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "63999",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2022-11-12T14:30:00Z",
+      "updated": "2022-11-12T17:24:34.667",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "63998",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2022-11-12T17:30:00Z",
+      "updated": "2022-11-16T10:36:24.6",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "63997",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2022-11-13T14:30:00Z",
+      "updated": "2022-11-13T17:43:43.953",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "63994",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2022-11-13T16:30:00Z",
+      "updated": "2022-11-13T19:30:57.523",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "64005",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2023-01-20T19:30:00Z",
+      "updated": "2023-01-20T22:27:25.3",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64000",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2023-01-21T14:30:00Z",
+      "updated": "2023-01-21T17:25:58.327",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "64003",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2023-01-21T14:30:00Z",
+      "updated": "2023-01-21T17:26:58.893",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "64006",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2023-01-21T14:30:00Z",
+      "updated": "2023-01-21T17:26:49.183",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64007",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2023-01-21T14:30:00Z",
+      "updated": "2023-01-21T17:28:55.37",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "64008",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2023-01-21T14:30:00Z",
+      "updated": "2023-01-21T17:25:37.023",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": "64004",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2023-01-21T17:30:00Z",
+      "updated": "2023-01-21T20:23:36.793",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 7,
+        "away": 1
+      }
+    },
+    {
+      "id": "64001",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2023-01-22T14:30:00Z",
+      "updated": "2023-01-22T17:31:27.063",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    {
+      "id": "64002",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2023-01-22T16:30:00Z",
+      "updated": "2023-01-22T19:29:49.397",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "64016",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2023-01-24T17:30:00Z",
+      "updated": "2023-01-24T20:25:43.56",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 6
+      }
+    },
+    {
+      "id": "64011",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2023-01-24T19:30:00Z",
+      "updated": "2023-01-24T22:22:36.45",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64013",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2023-01-24T19:30:00Z",
+      "updated": "2023-01-24T22:25:45.027",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "64014",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2023-01-24T19:30:00Z",
+      "updated": "2023-01-24T22:28:56.243",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "64015",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2023-01-25T17:30:00Z",
+      "updated": "2023-01-25T20:28:26.567",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "64009",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2023-01-25T19:30:00Z",
+      "updated": "2023-01-25T22:24:08.59",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "64010",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2023-01-25T19:30:00Z",
+      "updated": "2023-01-25T22:27:06.723",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "64012",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2023-01-25T19:30:00Z",
+      "updated": "2023-01-25T22:24:27.893",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64017",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2023-01-25T19:30:00Z",
+      "updated": "2023-01-25T22:28:27.56",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "64024",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2023-01-27T19:30:00Z",
+      "updated": "2023-01-27T22:26:50.357",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64020",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2023-01-28T14:30:00Z",
+      "updated": "2023-01-28T17:25:00.617",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "64021",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2023-01-28T14:30:00Z",
+      "updated": "2023-01-28T17:24:35.813",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "64022",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2023-01-28T14:30:00Z",
+      "updated": "2023-01-28T17:28:55.273",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "64023",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2023-01-28T14:30:00Z",
+      "updated": "2023-01-28T17:26:55.4",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 5,
+        "away": 2
+      }
+    },
+    {
+      "id": "64026",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2023-01-28T14:30:00Z",
+      "updated": "2023-01-28T17:28:48.117",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64019",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2023-01-28T17:30:00Z",
+      "updated": "2023-01-28T20:23:49.273",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64025",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2023-01-29T14:30:00Z",
+      "updated": "2023-01-29T17:25:12.46",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "64018",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2023-01-29T16:30:00Z",
+      "updated": "2023-01-29T19:25:06.243",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "64027",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2023-02-03T19:30:00Z",
+      "updated": "2023-02-03T22:23:50.847",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "64028",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2023-02-04T14:30:00Z",
+      "updated": "2023-02-04T17:26:11.153",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 5,
+        "away": 2
+      }
+    },
+    {
+      "id": "64029",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2023-02-04T14:30:00Z",
+      "updated": "2023-02-04T17:21:02.823",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "64031",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2023-02-04T14:30:00Z",
+      "updated": "2023-02-04T17:25:07.053",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "64032",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2023-02-04T14:30:00Z",
+      "updated": "2023-02-04T17:24:51.507",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "64034",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2023-02-04T14:30:00Z",
+      "updated": "2023-02-04T17:26:39.687",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64030",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2023-02-04T17:30:00Z",
+      "updated": "2023-02-04T20:23:49.833",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "64033",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2023-02-05T14:30:00Z",
+      "updated": "2023-02-05T17:30:44.887",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "64035",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2023-02-05T16:30:00Z",
+      "updated": "2023-02-05T19:48:39.657",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "64043",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2023-02-10T19:30:00Z",
+      "updated": "2023-02-10T22:26:25.19",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "64036",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2023-02-11T14:30:00Z",
+      "updated": "2023-02-11T17:22:33.883",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "64037",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2023-02-11T14:30:00Z",
+      "updated": "2023-02-11T17:26:48.527",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64039",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2023-02-11T14:30:00Z",
+      "updated": "2023-02-11T17:23:39.95",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "64041",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2023-02-11T14:30:00Z",
+      "updated": "2023-02-11T17:25:17.097",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "64044",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2023-02-11T14:30:00Z",
+      "updated": "2023-02-11T17:29:17.107",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "64042",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2023-02-11T17:30:00Z",
+      "updated": "2023-02-11T20:29:19.373",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "64038",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2023-02-12T14:30:00Z",
+      "updated": "2023-02-12T17:30:35.317",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "64040",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2023-02-12T16:30:00Z",
+      "updated": "2023-02-12T19:24:37.697",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "64045",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2023-02-17T19:30:00Z",
+      "updated": "2023-02-17T22:24:28.933",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "64047",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2023-02-18T14:30:00Z",
+      "updated": "2023-02-18T17:27:28.89",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "64049",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2023-02-18T14:30:00Z",
+      "updated": "2023-02-18T17:26:13.81",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "64051",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2023-02-18T14:30:00Z",
+      "updated": "2023-02-18T17:24:38.37",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "64053",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2023-02-18T14:30:00Z",
+      "updated": "2023-02-18T17:24:42.587",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "64050",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2023-02-18T17:30:00Z",
+      "updated": "2023-02-18T20:56:24.153",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "64052",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2023-02-19T14:30:00Z",
+      "updated": "2023-02-19T17:28:06.647",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "64048",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2023-02-19T16:30:00Z",
+      "updated": "2023-02-19T19:27:39.547",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "64046",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2023-02-19T18:30:00Z",
+      "updated": "2023-02-20T10:23:18.347",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "64059",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2023-02-24T19:30:00Z",
+      "updated": "2023-02-28T07:24:34.973",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "64056",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2023-02-25T14:30:00Z",
+      "updated": "2023-02-25T17:29:02.797",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "64057",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2023-02-25T14:30:00Z",
+      "updated": "2023-02-25T17:29:06.763",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "64058",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2023-02-25T14:30:00Z",
+      "updated": "2023-02-25T17:29:10.07",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "64060",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2023-02-25T14:30:00Z",
+      "updated": "2023-02-25T17:29:14.337",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64062",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2023-02-25T14:30:00Z",
+      "updated": "2023-02-25T17:29:16.213",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "64061",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2023-02-25T17:30:00Z",
+      "updated": "2023-02-25T20:29:10.617",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64055",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2023-02-26T14:30:00Z",
+      "updated": "2023-02-26T17:22:18.82",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64054",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2023-02-26T16:30:00Z",
+      "updated": "2023-02-26T19:22:15.92",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "64066",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2023-03-03T19:30:00Z",
+      "updated": "2023-03-06T20:43:19.337",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64063",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2023-03-04T14:30:00Z",
+      "updated": "2023-03-04T17:27:18.797",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64065",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2023-03-04T14:30:00Z",
+      "updated": "2023-03-04T17:26:39.653",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "64067",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2023-03-04T14:30:00Z",
+      "updated": "2023-03-04T17:27:15.047",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "64068",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2023-03-04T14:30:00Z",
+      "updated": "2023-03-04T17:28:48.927",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "64070",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2023-03-04T14:30:00Z",
+      "updated": "2023-03-04T17:26:46.293",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "64069",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2023-03-04T17:30:00Z",
+      "updated": "2023-03-04T20:27:29.29",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "64064",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2023-03-05T14:30:00Z",
+      "updated": "2023-03-05T17:25:26.003",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "64071",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2023-03-05T16:30:00Z",
+      "updated": "2023-03-05T19:32:18.79",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "64076",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2023-03-10T19:30:00Z",
+      "updated": "2023-04-14T16:08:27.877",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "64072",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2023-03-11T14:30:00Z",
+      "updated": "2023-04-14T16:08:37.377",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 5,
+        "away": 3
+      }
+    },
+    {
+      "id": "64073",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2023-03-11T14:30:00Z",
+      "updated": "2023-04-14T16:08:48.607",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64075",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2023-03-11T14:30:00Z",
+      "updated": "2023-04-14T16:09:00.957",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64077",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2023-03-11T14:30:00Z",
+      "updated": "2023-04-14T16:09:14.68",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "64078",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2023-03-11T17:30:00Z",
+      "updated": "2023-04-14T16:09:25.78",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "64074",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2023-03-12T14:30:00Z",
+      "updated": "2023-04-14T16:09:36.627",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64079",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2023-03-12T16:30:00Z",
+      "updated": "2023-04-14T16:09:47.07",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "64080",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2023-03-12T18:30:00Z",
+      "updated": "2023-04-14T16:09:57.927",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64085",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2023-03-17T19:30:00Z",
+      "updated": "2023-04-14T16:01:44.15",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "64081",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2023-03-18T14:30:00Z",
+      "updated": "2023-04-14T16:01:55.227",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64083",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2023-03-18T14:30:00Z",
+      "updated": "2023-04-14T16:02:51.62",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "64086",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2023-03-18T14:30:00Z",
+      "updated": "2023-04-14T16:03:02.91",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "64088",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2023-03-18T14:30:00Z",
+      "updated": "2023-04-14T16:03:14.25",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "64084",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2023-03-18T17:30:00Z",
+      "updated": "2023-04-14T16:03:24.03",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 6,
+        "away": 1
+      }
+    },
+    {
+      "id": "64089",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2023-03-19T14:30:00Z",
+      "updated": "2023-04-14T16:03:35.413",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "64082",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2023-03-19T16:30:00Z",
+      "updated": "2023-04-14T16:03:45.93",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64087",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2023-03-19T18:30:00Z",
+      "updated": "2023-04-14T16:03:55.99",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64091",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2023-03-31T18:30:00Z",
+      "updated": "2023-04-14T15:57:57.03",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64092",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2023-04-01T13:30:00Z",
+      "updated": "2023-04-14T15:58:09.957",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64094",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2023-04-01T13:30:00Z",
+      "updated": "2023-04-14T15:58:30.847",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "64095",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2023-04-01T13:30:00Z",
+      "updated": "2023-04-14T15:58:49.02",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "64096",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2023-04-01T13:30:00Z",
+      "updated": "2023-04-14T15:59:07.283",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "64098",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2023-04-01T13:30:00Z",
+      "updated": "2023-04-14T15:59:20.507",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "64090",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2023-04-01T16:30:00Z",
+      "updated": "2023-04-14T15:59:32.9",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "64093",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2023-04-02T13:30:00Z",
+      "updated": "2023-04-18T14:35:27.167",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "64097",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2023-04-02T15:30:00Z",
+      "updated": "2023-04-14T15:59:55.14",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "64099",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2023-04-08T13:30:00Z",
+      "updated": "2023-04-14T12:33:22.417",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "64100",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2023-04-08T13:30:00Z",
+      "updated": "2023-04-12T09:52:13.67",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "64102",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2023-04-08T13:30:00Z",
+      "updated": "2023-04-12T09:51:45.38",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64104",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2023-04-08T13:30:00Z",
+      "updated": "2023-04-14T12:33:43.467",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "64107",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2023-04-08T13:30:00Z",
+      "updated": "2023-04-14T12:33:56.95",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "64105",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2023-04-08T16:30:00Z",
+      "updated": "2023-04-14T12:34:23.847",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "64103",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2023-04-09T13:30:00Z",
+      "updated": "2023-04-14T12:34:33.47",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "64101",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2023-04-09T15:30:00Z",
+      "updated": "2023-04-14T12:34:49.517",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "64106",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2023-04-09T17:30:00Z",
+      "updated": "2023-04-14T12:35:00.843",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "64112",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2023-04-14T18:30:00Z",
+      "updated": "2023-04-15T09:28:47.607",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 5,
+        "away": 2
+      }
+    },
+    {
+      "id": "64108",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2023-04-15T13:30:00Z",
+      "updated": "2023-04-15T17:42:50.263",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64110",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2023-04-15T13:30:00Z",
+      "updated": "2023-04-15T17:26:34.643",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64111",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2023-04-15T13:30:00Z",
+      "updated": "2023-04-15T17:26:32.783",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "64113",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2023-04-15T13:30:00Z",
+      "updated": "2023-04-15T17:29:33.627",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "64109",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2023-04-15T16:30:00Z",
+      "updated": "2023-04-16T19:28:15.667",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64115",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2023-04-16T13:30:00Z",
+      "updated": "2023-04-16T17:26:38.86",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "64114",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2023-04-16T15:30:00Z",
+      "updated": "2023-04-16T19:27:29.683",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64116",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2023-04-16T17:30:00Z",
+      "updated": "2023-04-16T21:22:54.597",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "64117",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2023-04-21T18:30:00Z",
+      "updated": "2023-04-21T23:24:29.323",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64119",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2023-04-22T13:30:00Z",
+      "updated": "2023-04-22T17:22:38.023",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 5
+      }
+    },
+    {
+      "id": "64123",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2023-04-22T13:30:00Z",
+      "updated": "2023-04-22T17:26:07.153",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "64124",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2023-04-22T13:30:00Z",
+      "updated": "2023-04-22T17:26:30.95",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "64125",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2023-04-22T13:30:00Z",
+      "updated": "2023-04-22T18:55:50.837",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "64120",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2023-04-22T16:30:00Z",
+      "updated": "2023-04-22T20:29:54.343",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "64122",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2023-04-23T13:30:00Z",
+      "updated": "2023-04-23T20:13:56.073",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "64118",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2023-04-23T15:30:00Z",
+      "updated": "2023-04-23T19:22:55.09",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "64121",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2023-04-23T17:30:00Z",
+      "updated": "2023-04-23T21:44:52.86",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "64127",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2023-04-28T18:30:00Z",
+      "updated": "2023-04-28T23:21:00.247",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64128",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2023-04-29T13:30:00Z",
+      "updated": "2023-04-29T17:24:52.667",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64129",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2023-04-29T13:30:00Z",
+      "updated": "2023-04-29T17:25:24.48",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "64130",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2023-04-29T13:30:00Z",
+      "updated": "2023-04-29T17:24:46.86",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "64132",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2023-04-29T13:30:00Z",
+      "updated": "2023-04-29T17:34:30.82",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64133",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2023-04-29T13:30:00Z",
+      "updated": "2023-04-29T17:22:18.767",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "64131",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2023-04-29T16:30:00Z",
+      "updated": "2023-04-30T00:35:19.523",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64126",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2023-04-30T13:30:00Z",
+      "updated": "2023-04-30T17:36:16.833",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "64134",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2023-04-30T15:30:00Z",
+      "updated": "2023-04-30T20:58:36.967",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "64136",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2023-05-05T18:30:00Z",
+      "updated": "2023-05-06T09:00:08.077",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "64142",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2023-05-05T18:30:00Z",
+      "updated": "2023-05-06T09:00:06.14",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "64135",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2023-05-06T13:30:00Z",
+      "updated": "2023-05-06T17:44:33.987",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "64138",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2023-05-06T13:30:00Z",
+      "updated": "2023-05-06T17:23:54.857",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "64139",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2023-05-06T13:30:00Z",
+      "updated": "2023-05-06T17:27:20.007",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "64140",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2023-05-06T13:30:00Z",
+      "updated": "2023-05-06T17:28:11.86",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64141",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2023-05-06T13:30:00Z",
+      "updated": "2023-05-06T17:27:14.21",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "64143",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2023-05-06T16:30:00Z",
+      "updated": "2023-05-06T20:25:27.247",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "64137",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2023-05-07T15:30:00Z",
+      "updated": "2023-05-07T19:21:11.51",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": "64148",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2023-05-12T18:30:00Z",
+      "updated": "2023-05-12T22:28:57.107",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 5,
+        "away": 2
+      }
+    },
+    {
+      "id": "64144",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2023-05-13T13:30:00Z",
+      "updated": "2023-05-13T17:23:35.8",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": "64145",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2023-05-13T13:30:00Z",
+      "updated": "2023-05-13T17:23:50.317",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "64147",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2023-05-13T13:30:00Z",
+      "updated": "2023-05-13T17:23:30.55",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "64151",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2023-05-13T13:30:00Z",
+      "updated": "2023-05-13T17:27:30.103",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "64152",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2023-05-13T13:30:00Z",
+      "updated": "2023-05-13T17:23:22.363",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64146",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2023-05-13T16:30:00Z",
+      "updated": "2023-05-13T20:34:29.557",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 5,
+        "away": 2
+      }
+    },
+    {
+      "id": "64150",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2023-05-14T13:30:00Z",
+      "updated": "2023-05-14T17:25:47.463",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64149",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2023-05-14T15:30:00Z",
+      "updated": "2023-05-14T19:43:34.16",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64156",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2023-05-19T18:30:00Z",
+      "updated": "2023-05-19T22:23:20.44",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "64157",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2023-05-20T13:30:00Z",
+      "updated": "2023-05-20T17:30:10.59",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64158",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2023-05-20T13:30:00Z",
+      "updated": "2023-05-20T17:35:41.287",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "64160",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2023-05-20T13:30:00Z",
+      "updated": "2023-05-20T17:30:37.957",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "64161",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2023-05-20T13:30:00Z",
+      "updated": "2023-05-21T15:34:41.063",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64155",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2023-05-20T16:30:00Z",
+      "updated": "2023-05-20T20:48:56.06",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "64159",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2023-05-21T13:30:00Z",
+      "updated": "2023-05-21T17:39:32.643",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "64153",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2023-05-21T15:30:00Z",
+      "updated": "2023-05-21T19:25:50.59",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "64154",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2023-05-21T17:30:00Z",
+      "updated": "2023-05-21T21:25:15.9",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "64162",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2023-05-27T13:30:00Z",
+      "updated": "2023-05-27T18:12:44.797",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "64163",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2023-05-27T13:30:00Z",
+      "updated": "2023-05-30T20:12:30.09",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "64164",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2023-05-27T13:30:00Z",
+      "updated": "2023-05-27T18:03:57.733",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "64165",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2023-05-27T13:30:00Z",
+      "updated": "2023-05-27T18:01:39.49",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "64166",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2023-05-27T13:30:00Z",
+      "updated": "2023-05-28T11:31:59.023",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "64167",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2023-05-27T13:30:00Z",
+      "updated": "2023-05-27T17:57:46.303",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "64168",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2023-05-27T13:30:00Z",
+      "updated": "2023-05-27T17:49:14.413",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "64169",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2023-05-27T13:30:00Z",
+      "updated": "2023-05-27T17:50:39.263",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "64170",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2023-05-27T13:30:00Z",
+      "updated": "2023-05-27T17:53:05.487",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    }
+  ],
+  "standings": [
+    {
+      "teamId": "40",
+      "name": "FC Bayern München",
+      "shortName": "Bayern",
+      "position": 1,
+      "played": 34,
+      "wins": 21,
+      "draws": 8,
+      "losses": 5,
+      "goalsFor": 92,
+      "goalsAgainst": 38,
+      "goalDifference": 54,
+      "points": 71
+    },
+    {
+      "teamId": "7",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "position": 2,
+      "played": 34,
+      "wins": 22,
+      "draws": 5,
+      "losses": 7,
+      "goalsFor": 83,
+      "goalsAgainst": 44,
+      "goalDifference": 39,
+      "points": 71
+    },
+    {
+      "teamId": "1635",
+      "name": "RB Leipzig",
+      "shortName": "Leipzig",
+      "position": 3,
+      "played": 34,
+      "wins": 20,
+      "draws": 6,
+      "losses": 8,
+      "goalsFor": 64,
+      "goalsAgainst": 41,
+      "goalDifference": 23,
+      "points": 66
+    },
+    {
+      "teamId": "80",
+      "name": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "position": 4,
+      "played": 34,
+      "wins": 18,
+      "draws": 8,
+      "losses": 8,
+      "goalsFor": 51,
+      "goalsAgainst": 38,
+      "goalDifference": 13,
+      "points": 62
+    },
+    {
+      "teamId": "112",
+      "name": "SC Freiburg",
+      "shortName": "Freiburg",
+      "position": 5,
+      "played": 34,
+      "wins": 17,
+      "draws": 8,
+      "losses": 9,
+      "goalsFor": 51,
+      "goalsAgainst": 44,
+      "goalDifference": 7,
+      "points": 59
+    },
+    {
+      "teamId": "6",
+      "name": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "position": 6,
+      "played": 34,
+      "wins": 14,
+      "draws": 8,
+      "losses": 12,
+      "goalsFor": 57,
+      "goalsAgainst": 49,
+      "goalDifference": 8,
+      "points": 50
+    },
+    {
+      "teamId": "91",
+      "name": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "position": 7,
+      "played": 34,
+      "wins": 13,
+      "draws": 11,
+      "losses": 10,
+      "goalsFor": 58,
+      "goalsAgainst": 52,
+      "goalDifference": 6,
+      "points": 50
+    },
+    {
+      "teamId": "131",
+      "name": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "position": 8,
+      "played": 34,
+      "wins": 13,
+      "draws": 10,
+      "losses": 11,
+      "goalsFor": 57,
+      "goalsAgainst": 48,
+      "goalDifference": 9,
+      "points": 49
+    },
+    {
+      "teamId": "81",
+      "name": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "position": 9,
+      "played": 34,
+      "wins": 12,
+      "draws": 10,
+      "losses": 12,
+      "goalsFor": 54,
+      "goalsAgainst": 55,
+      "goalDifference": -1,
+      "points": 46
+    },
+    {
+      "teamId": "87",
+      "name": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "position": 10,
+      "played": 34,
+      "wins": 11,
+      "draws": 10,
+      "losses": 13,
+      "goalsFor": 52,
+      "goalsAgainst": 55,
+      "goalDifference": -3,
+      "points": 43
+    },
+    {
+      "teamId": "65",
+      "name": "1. FC Köln",
+      "shortName": "Köln",
+      "position": 11,
+      "played": 34,
+      "wins": 10,
+      "draws": 12,
+      "losses": 12,
+      "goalsFor": 49,
+      "goalsAgainst": 54,
+      "goalDifference": -5,
+      "points": 42
+    },
+    {
+      "teamId": "175",
+      "name": "TSG Hoffenheim",
+      "shortName": "Hoffenheim",
+      "position": 12,
+      "played": 34,
+      "wins": 10,
+      "draws": 6,
+      "losses": 18,
+      "goalsFor": 48,
+      "goalsAgainst": 57,
+      "goalDifference": -9,
+      "points": 36
+    },
+    {
+      "teamId": "134",
+      "name": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "position": 13,
+      "played": 34,
+      "wins": 10,
+      "draws": 6,
+      "losses": 18,
+      "goalsFor": 51,
+      "goalsAgainst": 64,
+      "goalDifference": -13,
+      "points": 36
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum",
+      "position": 14,
+      "played": 34,
+      "wins": 10,
+      "draws": 5,
+      "losses": 19,
+      "goalsFor": 40,
+      "goalsAgainst": 72,
+      "goalDifference": -32,
+      "points": 35
+    },
+    {
+      "teamId": "95",
+      "name": "FC Augsburg",
+      "shortName": "Augsburg",
+      "position": 15,
+      "played": 34,
+      "wins": 9,
+      "draws": 7,
+      "losses": 18,
+      "goalsFor": 42,
+      "goalsAgainst": 63,
+      "goalDifference": -21,
+      "points": 34
+    },
+    {
+      "teamId": "16",
+      "name": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "position": 16,
+      "played": 34,
+      "wins": 7,
+      "draws": 12,
+      "losses": 15,
+      "goalsFor": 45,
+      "goalsAgainst": 57,
+      "goalDifference": -12,
+      "points": 33
+    },
+    {
+      "teamId": "9",
+      "name": "FC Schalke 04",
+      "shortName": "S04",
+      "position": 17,
+      "played": 34,
+      "wins": 7,
+      "draws": 10,
+      "losses": 17,
+      "goalsFor": 35,
+      "goalsAgainst": 71,
+      "goalDifference": -36,
+      "points": 31
+    },
+    {
+      "teamId": "54",
+      "name": "Hertha BSC",
+      "shortName": "Hertha",
+      "position": 18,
+      "played": 34,
+      "wins": 7,
+      "draws": 8,
+      "losses": 19,
+      "goalsFor": 42,
+      "goalsAgainst": 69,
+      "goalDifference": -27,
+      "points": 29
+    }
+  ],
+  "teams": [
+    {
+      "teamId": "65",
+      "name": "1. FC Köln",
+      "shortName": "Köln"
+    },
+    {
+      "teamId": "80",
+      "name": "1. FC Union Berlin",
+      "shortName": "Union Berlin"
+    },
+    {
+      "teamId": "81",
+      "name": "1. FSV Mainz 05",
+      "shortName": "Mainz"
+    },
+    {
+      "teamId": "6",
+      "name": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen"
+    },
+    {
+      "teamId": "7",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund"
+    },
+    {
+      "teamId": "87",
+      "name": "Borussia Mönchengladbach",
+      "shortName": "Gladbach"
+    },
+    {
+      "teamId": "91",
+      "name": "Eintracht Frankfurt",
+      "shortName": "Frankfurt"
+    },
+    {
+      "teamId": "95",
+      "name": "FC Augsburg",
+      "shortName": "Augsburg"
+    },
+    {
+      "teamId": "40",
+      "name": "FC Bayern München",
+      "shortName": "Bayern"
+    },
+    {
+      "teamId": "9",
+      "name": "FC Schalke 04",
+      "shortName": "S04"
+    },
+    {
+      "teamId": "54",
+      "name": "Hertha BSC",
+      "shortName": "Hertha"
+    },
+    {
+      "teamId": "1635",
+      "name": "RB Leipzig",
+      "shortName": "Leipzig"
+    },
+    {
+      "teamId": "112",
+      "name": "SC Freiburg",
+      "shortName": "Freiburg"
+    },
+    {
+      "teamId": "134",
+      "name": "SV Werder Bremen",
+      "shortName": "Bremen"
+    },
+    {
+      "teamId": "175",
+      "name": "TSG Hoffenheim",
+      "shortName": "Hoffenheim"
+    },
+    {
+      "teamId": "16",
+      "name": "VfB Stuttgart",
+      "shortName": "Stuttgart"
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum"
+    },
+    {
+      "teamId": "131",
+      "name": "VfL Wolfsburg",
+      "shortName": "Wolfsburg"
+    }
+  ],
+  "groupChecks": {}
+}

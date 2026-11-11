@@ -254,6 +254,19 @@ tbody tr:last-child td {
   overflow-wrap: normal;
 }
 
+
+.football-team-name {
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.football-team-name__short {
+  display: none;
+}
+
 .football-standings-table th:nth-child(n+3),
 .football-standings-table td:nth-child(n+3) {
   white-space: nowrap;
@@ -556,5 +569,69 @@ tbody tr[class*="zone-"] td:first-child {
   td {
     padding: 7px 7px;
     font-size: 0.8rem;
+  }
+
+  /* Fußballtabellen auf kleinen Displays bewusst kompakt halten. */
+  .football-standings-table {
+    table-layout: fixed;
+    font-size: 0.76rem;
+  }
+
+  .football-standings-table th,
+  .football-standings-table td {
+    padding: 7px 4px;
+  }
+
+  .football-standings-table th:first-child,
+  .football-standings-table td:first-child {
+    width: 32px;
+    min-width: 32px;
+    white-space: nowrap;
+    overflow-wrap: normal;
+    word-break: normal;
+    text-align: center;
+  }
+
+  .football-standings-table th:nth-child(2),
+  .football-standings-table td:nth-child(2) {
+    width: auto;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .football-standings-table th:nth-child(3),
+  .football-standings-table td:nth-child(3) {
+    width: 34px;
+    min-width: 34px;
+  }
+
+  .football-standings-table th:nth-child(4),
+  .football-standings-table td:nth-child(4) {
+    width: 38px;
+    min-width: 38px;
+  }
+
+  .football-standings-table th:nth-child(5),
+  .football-standings-table td:nth-child(5) {
+    width: 40px;
+    min-width: 40px;
+  }
+
+  .football-standings-table th:nth-child(6),
+  .football-standings-table td:nth-child(6) {
+    width: 54px;
+    min-width: 54px;
+  }
+
+  .football-team-name__full {
+    display: none;
+  }
+
+  .football-team-name__short {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 }

@@ -4,6 +4,7 @@ import { fileURLToPath } from 'node:url';
 import { refreshF1Archive } from './f1/update-seasons.mjs';
 import { fetchFootballCompetition } from './adapters/openligadb.mjs';
 import { getFootballArchiveCatalog, refreshFootballArchive } from './football/update-seasons.mjs';
+import { refreshUclArchive } from './football/update-ucl.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dirname, '..');
@@ -31,6 +32,19 @@ const utcToday = new Date();
 const liveFootballYear = utcToday.getUTCFullYear() - (utcToday.getUTCMonth() < 7 ? 1 : 0);
 const currentFootballYear = Math.max(Number(config.season), liveFootballYear);
 
+async function loadUclWithFallback(competition) {
+  try {
+    return await refreshUclArchive({
+      dataDir, competition, currentYear: currentFootballYear
+    });
+  } catch (error) {
+    // Preserve the existing overview when a season source is unavailable.
+    // The detail archive retries on the next scheduled run.
+    console.warn('UCL phase archive failed; keeping legacy overview:', error.message);
+    return fetchFootballCompetition(competition, currentFootballYear);
+  }
+}
+
 const manifest = [];
 const failures = [];
 
@@ -44,7 +58,9 @@ for (const competition of enabled) {
         ? await refreshFootballArchive({
             dataDir, competition, currentYear: currentFootballYear, catalog: footballCatalog
           })
-        : await fetchFootballCompetition(competition, config.season);
+        : competition.id === 'champions-league'
+          ? await loadUclWithFallback(competition)
+          : await fetchFootballCompetition(competition, config.season);
 
     await writeFile(
       resolve(dataDir, `${competition.id}.json`),

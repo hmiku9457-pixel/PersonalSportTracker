@@ -370,7 +370,7 @@ export function createCompetitionCard(meta, data) {
   source.textContent = `Stand: ${updated}`;
 
   header.append(title, source);
-  if (meta.id === 'f1' || ['bundesliga', 'bundesliga2', 'liga3'].includes(meta.id)) {
+  if (meta.id === 'f1' || ['bundesliga', 'bundesliga2', 'liga3', 'champions-league'].includes(meta.id)) {
     const detailsLink = document.createElement('a');
     detailsLink.className = 'header-button f1-detail-link';
     detailsLink.href = meta.id === 'f1'

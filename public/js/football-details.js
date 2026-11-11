@@ -1,11 +1,13 @@
 import { loadJson } from './data-loader.js';
 import { matchdayNumbers, matchdayScore, pointsSeries, teamsForSeason,
   standingsFromMatches, rankAtMatchday, teamBounds } from './football-utils.js';
+import { calculateUclStandings } from './champions-league-utils.js';
 
 const LEAGUES = {
   bundesliga: '1. Bundesliga',
   bundesliga2: '2. Bundesliga',
-  liga3: '3. Liga'
+  liga3: '3. Liga',
+  'champions-league': 'Champions League'
 };
 const leagueSelect = document.querySelector('#football-league');
 const seasonSelect = document.querySelector('#football-season');
@@ -27,6 +29,15 @@ let selectedTeam = null;
 let page = 0;
 let pageSize = calculatePageSize();
 let requestId = 0;
+const roundRankCache = new Map();
+function rankFor(teamId, round) {
+  if (leagueId !== 'champions-league')
+    return rankAtMatchday(season, teamId, round);
+  if (!roundRankCache.has(round))
+    roundRankCache.set(round, calculateUclStandings(season.matches, teams, round));
+  return roundRankCache.get(round)
+    .find(team => String(team.teamId) === String(teamId))?.position ?? null;
+}
 
 const NS = 'http://www.w3.org/2000/svg';
 const fmt = value => new Intl.NumberFormat('de-DE', { maximumFractionDigits: 0 }).format(value);
@@ -79,6 +90,12 @@ function makeTable(headers) {
   return [table, body];
 }
 function highlightLeague(position) {
+  if (leagueId === 'champions-league') {
+    if (position >= 1 && position <= 8) return 'zone-promotion';
+    if (position <= 24) return 'zone-champions-league-playoff';
+    if (position <= 36) return 'zone-relegation';
+    return '';
+  }
   if (leagueId === 'bundesliga') {
     if (position === 1) return 'zone-champion';
     if (position <= 4) return 'zone-champions-league';
@@ -91,7 +108,7 @@ function highlightLeague(position) {
     if (position === 3) return 'zone-promotion-playoff';
     if (position === 16) return 'zone-relegation-playoff';
     if (position >= 17) return 'zone-relegation';
-  } else {
+  } else if (leagueId === 'liga3') {
     if (position <= 2) return 'zone-promotion';
     if (position === 3) return 'zone-promotion-playoff';
     if (position >= 17) return 'zone-relegation';
@@ -110,7 +127,8 @@ function rowSelection(tr, team) {
   if (selectedTeam === team.teamId) tr.classList.add('football-focused');
 }
 function panelStandings() {
-  const block = panel('Tabelle · ' + (season.seasonLabel || shortSeason(season.year)));
+  const block = panel((leagueId === 'champions-league' ? 'Ligaphasen-Tabelle · ' : 'Tabelle · ') +
+    (season.seasonLabel || shortSeason(season.year)));
   const leagueRows = season.standings?.length ? season.standings : standingsFromMatches(season);
   const [table, body] = makeTable(['#', 'Team', 'Sp.', 'Pkt.', 'TD', 'Tore', 'Best*', 'Worst*']);
   for (const team of leagueRows) {
@@ -133,11 +151,18 @@ function panelStandings() {
   const remaining = season.matches.some(m => !m.finished);
   block.append(el('p', 'f1-card-note', remaining ?
     '* Best/Worst sind mathematische äußere Platzierungsgrenzen, keine nachweislich erreichbaren Szenarien. Torgleichstände, direkte Duelle und das noch ausstehende Spielprogramm können die Spanne einschränken.' :
-    'Die abgeschlossene Tabelle zeigt die endgültigen Platzierungen. Bei fehlenden offiziellen Tabellen werden die Spielresultate ausgewertet.'));
+    'Die abgeschlossene Tabelle zeigt die Endplatzierungen. Bei fehlenden offiziellen Tabellen werden Spielresultate ausgewertet.'));
+  if (leagueId === 'champions-league')
+    block.append(el('p', 'f1-card-note',
+      'Plätze 1–8: direktes Achtelfinale · 9–24: Playoffs · 25–36: ausgeschieden. ' +
+      (season.standingsVerified
+        ? 'Die Tabelle entspricht den zu den Ligaspielen passenden OpenLigaDB-Werten.'
+        : 'Bei vollständigem Gleichstand sind weitere UEFA-Kriterien möglich; daher kann die errechnete Reihenfolge abweichen.')));
   return block;
 }
 function panelChart() {
-  const block = panel('Punkteentwicklung · Teams', 'football-wide');
+  const block = panel(leagueId === 'champions-league'
+    ? 'Punkteentwicklung · Ligaphase' : 'Punkteentwicklung · Teams', 'football-wide');
   const toolbar = el('div', 'f1-chart-toolbar');
   const legend = el('div', 'f1-driver-legend');
   for (const team of teams) {
@@ -158,6 +183,12 @@ function panelChart() {
   controls.append(action('Alle', () => {
     shown = new Set(teams.map(t=>t.teamId)); render();
   }), action('Keine', () => {shown.clear(); selectedTeam = null; render();}));
+  if (leagueId === 'champions-league')
+    controls.prepend(action('Top 8', () => {
+      shown = new Set(teams.slice(0, 8).map(t => t.teamId));
+      selectedTeam = null;
+      render();
+    }));
   toolbar.append(legend, controls);
   block.append(toolbar);
   const rounds = matchdayNumbers(season);
@@ -223,7 +254,7 @@ function panelChart() {
         'aria-label':team.name+' nach Spieltag '+pt.round+': '+pt.total+' Punkte'});
       const tip=svgEl('title');
       tip.textContent=team.name+' · Spieltag '+pt.round+' · '+pt.total+
-        ' Punkte · Tabellenrang '+rankAtMatchday(season,team.teamId,pt.round);
+        ' Punkte · Tabellenrang '+rankFor(team.teamId,pt.round);
       dot.append(tip);
       dot.addEventListener('click',()=>showChartPosition(team,pt));
       dot.addEventListener('keydown',e=>{
@@ -247,7 +278,7 @@ function showChartPosition(team,point){
   render();
   const target=document.querySelector('#football-chart-readout');
   if(target) target.textContent=team.name+' · Spieltag '+point.round+' · '+point.total+
-    ' Punkte · Tabellenrang '+rankAtMatchday(season,team.teamId,point.round)+
+    ' Punkte · Tabellenrang '+rankFor(team.teamId,point.round)+
     ' (aus den bis zu diesem Spieltag erfassten Ergebnissen).';
 }
 function formatDate(value){
@@ -336,12 +367,20 @@ function render(){
   if(calculatePageSize()!==pageSize){page=0;pageSize=calculatePageSize();}
   output.replaceChildren(panelStandings(),panelChart(),panelMatrix());
   status.textContent='';
+  if (leagueId === 'champions-league')
+    output.append(el('p','f1-history-note',
+      'Auswertung ausschließlich der acht Ligaspieltage; K.-o.-Spiele zählen nicht zum Punkteverlauf. ' +
+      'Saisons vor 2024/25 nutzten ein anderes Gruppenformat und werden separat behandelt.'));
   const played=season.matches.filter(m=>m.finished).length;
   const utcNow=new Date();
   const currentYear=utcNow.getUTCFullYear()-(utcNow.getUTCMonth()<7?1:0);
   const seasonState=season.complete?'abgeschlossen':
     season.year<currentYear?'historische Daten teilweise unvollständig':'laufend';
-  info.textContent=played+' von '+season.matches.length+' Spielen · '+seasonState;
+  info.textContent=played+' von '+season.matches.length+' Spielen · '+seasonState+
+    (leagueId==='champions-league'?' · '+teams.length+' von 36 Teams':'');
+  if(leagueId==='champions-league' && teams.length!==36)
+    output.append(el('p','f1-history-note',
+      'Die Datenquelle enthält derzeit nicht alle 36 Vereine. Die Ligaphasen-Tabelle ist deshalb unvollständig.'));
 }
 async function loadSeason(year) {
   const token=++requestId;
@@ -354,6 +393,7 @@ async function loadSeason(year) {
     if(!Array.isArray(fetched.matches))throw Error('Ungültiges Saisonformat');
     season=fetched;
     teams=teamsForSeason(season);
+    roundRankCache.clear();
     shown=new Set(teams.map(t=>t.teamId));
     selectedTeam=null;
     page=0;

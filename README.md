@@ -73,3 +73,15 @@ In den Repository-Einstellungen unter **Settings → Pages → Build and deploym
 - GitHub Actions persistiert die Saisonarchive für F1 und Bundesliga ins Repository. Die Champions League behält zunächst ihre bestehende Datenaufbereitung und Übersichtsansicht.
 - Das historische Angebot ist auf tatsächlich bei OpenLigaDB verfügbare und mit Ergebnissen gefüllte Spielzeiten begrenzt; ältere Saisons erscheinen erst nach Abschluss des jeweiligen Backfills.
 - Bei historischen Punktabzügen oder nachträglichen Ligastrafen kann die offizielle Tabelle von der aus einzelnen Spielen errechneten Punktekurve abweichen. Die Tabelle verwendet soweit verfügbar die von OpenLigaDB gelieferte Abschlusstabelle.
+
+## Champions League – 36er-Ligaphase
+
+- Der Button **Liga-Details** der Champions-League-Karte öffnet `football-details.html?league=champions-league`.
+- Die Darstellung übernimmt Saisonauswahl, verknüpfte Teamauswahl, kumulierten Punkteverlauf, Spieltagsmatrix und Ergebnisdialoge der Bundesliga-Detailseiten. Die Ligatabelle zeigt Plätze 1–8 (direktes Achtelfinale), 9–24 (Playoffs) und 25–36 (ausgeschieden).
+- **Ausschließlich Saisons ab 2024/25** werden archiviert: Frühere Spielzeiten hatten das alte Gruppenformat und benötigen eine gesonderte Ansicht.
+- Der Import filtert die Phase nach Termin und Gruppenbezeichnung, ordnet die acht UEFA-Ligaspieltage auch bei abweichenden OpenLigaDB-Gruppen-IDs korrekt zu und überprüft, dass maximal 36 Vereine mit je acht Spielen und höchstens 18 Partien je Spieltag enthalten sind.
+- Qualifikation sowie sämtliche K.-o.-Spiele (einschließlich K.-o.-Playoffs) bleiben außerhalb der Ligatabelle, der Punktekurve und der Spieltagsmatrix.
+- Pro Saison wird `public/data/football/champions-league/<jahr>.json` gespeichert. Beim täglichen Durchlauf werden fällige oder kürzlich geänderte Ligaspieltage nachgetragen. Eine vollständige Kalenderprüfung erfolgt wöchentlich; abgeschlossene Ligaphasen werden nach der Korrekturfrist archiviert.
+- Die historischen Ligaphasen ab 2024/25 werden mit höchstens zwei fehlenden Spielzeiten pro Lauf importiert (`UCL_HISTORY_BATCH` steuert die Anzahl). Nur vollständig importierte Ligaphasen werden dauerhaft als historische Saisons abgelegt.
+- Wo die OpenLigaDB-Tabelle genau zu den 144 Ligaspielen passt, wird sie verwendet. Sonst wird die Tabelle anhand der Spielergebnisse und wesentlicher UEFA-Tie-Breaker berechnet; Disziplinarpunkte und UEFA-Klubkoeffizienten können dabei nicht zuverlässig rekonstruiert werden. Bei knappen Gleichständen kann die ermittelte Reihenfolge deshalb abweichen.
+- Best/Worst sind auch in der Champions League **äußere mathematische Ranggrenzen**, keine exakt simulierten Restspiel-Ergebnisse. Sie beziehen sich ausschließlich auf die Ligaphase.

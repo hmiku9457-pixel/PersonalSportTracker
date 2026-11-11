@@ -52,3 +52,11 @@ In den Repository-Einstellungen unter **Settings → Pages → Build and deploym
 - F1-Rennergebnisse bleiben bei langen Fahrer-/Teamnamen einzeilig.
 - Fußball: Tabelle, letzter, aktueller und nächster Spieltag werden nebeneinander dargestellt.
 - Vereinsnamen in den Spieltagslisten bleiben einzeilig; bei Platzmangel werden sie gekürzt dargestellt und sind per Hover vollständig lesbar.
+
+## F1-Saisonarchiv und Detailansicht
+
+- Die Detailansicht unter `details.html` lädt pro ausgewähltem Jahr eine Datei aus `public/data/f1/<jahr>.json`.
+- Abgeschlossene Saisons ab 1950 werden einmalig importiert und dauerhaft ins Repository eingecheckt. Um API-Limits zu schonen, werden pro täglichem Lauf maximal 10 noch fehlende Saisons importiert, neueste zuerst; mit `F1_HISTORY_BATCH` lässt sich das Limit ändern.
+- Die laufende Saison wird über den Kalender überwacht. Neue Grand-Prix- und Sprintergebnisse werden nach ihrer Fälligkeit nachgetragen. Die letzten beiden Rennwochenenden werden für nachträgliche Korrekturen bis 15 Tage überprüft.
+- GitHub Actions schreibt das Archiv nach dem Abruf auf `main` zurück. Fehlende Ergebnisse werden am Folgetag erneut probiert.
+- Alte Wertungssysteme enthielten Streichresultate. Die Punktkurve zeigt dann erzielte Rennpunkte, während die offiziellen WM-Endpunkte aus der API stammen.

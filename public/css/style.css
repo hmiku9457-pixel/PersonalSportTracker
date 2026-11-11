@@ -635,3 +635,112 @@ tbody tr[class*="zone-"] td:first-child {
     white-space: nowrap;
   }
 }
+
+/* Formula 1 details – isolated from the overview layout. */
+.f1-detail__header { padding-bottom: 16px; }
+.f1-season-picker {
+  margin: 18px auto 0;
+  display: flex; align-items: center; justify-content: center;
+  gap: 12px; flex-wrap: wrap;
+}
+.f1-season-picker label { color: var(--text-soft); font-weight: 600; }
+.f1-season-picker select {
+  background: var(--card-alt); border: 1px solid #495263; border-radius: 8px;
+  color: #f4f6fa; min-height: 38px; padding: 7px 28px 7px 12px;
+  font: inherit;
+}
+.f1-muted { color: var(--muted); font-size: .84rem; }
+#f1-status { color: var(--muted); margin: 0 0 12px; }
+#f1-status:empty { display: none; }
+.f1-detail-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, .8fr);
+  align-items: start; gap: 16px; padding-bottom: 48px;
+}
+.f1-detail-card { min-width: 0; overflow: hidden; }
+.f1-detail-card h2 { font-size: 1.08rem; margin-bottom: 14px; }
+.f1-detail-card.f1-wide { grid-column: 1 / -1; }
+.f1-detail-card p { line-height: 1.5; }
+.f1-standings-table { table-layout: auto; }
+.f1-standings-table th, .f1-standings-table td { font-variant-numeric: tabular-nums; }
+.f1-standings-table th:nth-child(n+3),
+.f1-standings-table td:nth-child(n+3) { text-align: center; white-space: nowrap; width: 68px; }
+.f1-standings-table th:nth-child(2),
+.f1-standings-table td:nth-child(2) { min-width: 130px; }
+.f1-standings-table td:first-child { text-align: center; }
+.f1-card-note { color: var(--muted); font-size: .76rem; margin: 12px 0 0 !important; }
+.f1-history-note { grid-column: 1/-1; color: var(--muted); font-size: .8rem; margin: 0; }
+.f1-name-with-stripe { box-shadow: inset 3px 0 var(--driver-color); padding-left: 12px; }
+.f1-selectable { cursor: pointer; }
+.f1-selectable:hover td { background: #2b3341; }
+.f1-focused td, .f1-focused th { background: #253746 !important; }
+.f1-focused td:first-child { box-shadow: inset 3px 0 #69bdff; }
+.f1-button {
+  font: inherit; cursor: pointer; border: 1px solid #3a4352; border-radius: 7px;
+  color: #f0f3f9; background: #252a34; padding: 7px 12px;
+  min-height: 34px;
+}
+.f1-button:hover:not(:disabled) { background: #303a48; }
+.f1-button:disabled { cursor: default; opacity: .35; }
+.f1-button:focus-visible, .f1-selectable:focus-visible,
+.f1-season-picker select:focus-visible, .f1-chart-point:focus-visible {
+  outline: 2px solid #9acbff; outline-offset: 2px;
+}
+.f1-chart-toolbar { display: flex; align-items: flex-start; gap: 12px; justify-content: space-between; }
+.f1-driver-legend { display: flex; flex-wrap: wrap; gap: 6px; flex: 1; }
+.f1-driver-chip { border-left: 4px solid var(--driver-color); padding: 6px 9px; font-size: .72rem; }
+.f1-driver-chip--off { opacity: .4; }
+.f1-chip-focused { outline: 2px solid #8ccaff; }
+.f1-chart-commands { display: flex; gap: 6px; }
+.f1-chart-scroll { overflow-x: auto; overflow-y: hidden; width: 100%; margin-top: 18px; }
+.f1-chart-label { fill: var(--muted); font: 12px system-ui, sans-serif; }
+.f1-chart-grid-line { stroke: #687484; stroke-width: 1; opacity: .25; }
+.f1-chart-point, .f1-chart-hit { cursor: pointer; }
+.f1-chart-readout { margin-top: 8px !important; }
+.f1-matrix-controls { display: flex; align-items: center; justify-content: flex-end; flex-wrap: wrap; gap: 12px; margin: 0 0 14px; }
+.f1-matrix-viewport { width: 100%; overflow-x: auto; }
+.f1-matrix { table-layout: fixed; min-width: 0; }
+.f1-matrix th, .f1-matrix td { text-align: center !important; padding: 4px !important; width: auto; }
+.f1-matrix th:first-child { width: 115px; min-width: 90px; text-align: left !important; }
+.f1-matrix-driver { background: var(--card-alt); overflow: hidden; }
+.f1-matrix-name { width: 100%; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; border-left: 3px solid var(--driver-color); font-size: .76rem; text-align: left; padding: 7px; }
+.f1-matrix-cell { width: 100%; min-height: 32px; padding: 5px 2px; font-variant-numeric: tabular-nums; }
+.f1-heat-empty { color: #7e8999; background: transparent; border-color: transparent; }
+.f1-heat-zero { color: #b9c0ca; background: #282c35; }
+.f1-heat-low { background: #254638; border-color: #39674b; }
+.f1-heat-mid { background: #276549; border-color: #378c60; }
+.f1-heat-high { background: #28865b; border-color: #3cae77; font-weight: 700; }
+.f1-dialog {
+  width: min(480px, calc(100vw - 24px)); max-height: 85vh;
+  overflow-y: auto; color: #f3f4f6; background: var(--card);
+  border: 1px solid #4b5666; border-radius: 12px; padding: 22px;
+}
+.f1-dialog::backdrop { background: rgba(0, 0, 0, .75); }
+.f1-dialog__top { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.f1-dialog h2 { margin: 0; font-size: 1.08rem; }
+.f1-dialog h3 { color: var(--text-soft); font-size: .88rem; margin: 18px 0 6px; }
+.f1-dialog p { margin: 6px 0; }
+.f1-dialog-driver { font-weight: 700; margin-top: 18px !important; }
+.f1-dialog-total { padding: 12px; margin-top: 18px !important; background: var(--card-alt); border-radius: 7px; }
+.competition-card > header { position: relative; }
+.f1-detail-link { position: absolute; right: 14px; top: 14px; }
+@media (max-width: 920px) {
+  .f1-detail-grid { grid-template-columns: minmax(0, 1fr); }
+  .f1-detail-card.f1-wide { grid-column: 1; }
+}
+@media (max-width: 620px) {
+  .f1-detail-card { padding: 12px; }
+  .f1-detail-card h2 { font-size: .98rem; }
+  .f1-standings-table th, .f1-standings-table td { padding: 7px 4px; font-size: .73rem; }
+  .f1-standings-table th:nth-child(2), .f1-standings-table td:nth-child(2) { min-width: 0; }
+  .f1-standings-table th:nth-child(n+3),
+  .f1-standings-table td:nth-child(n+3) { width: 54px; }
+  .f1-chart-toolbar { display: block; }
+  .f1-chart-commands { margin-top: 10px; }
+  .f1-driver-chip { font-size: .7rem; }
+  .f1-matrix th:first-child { width: 78px; }
+  .f1-matrix-name { font-size: .68rem; padding: 6px 2px; }
+  .f1-matrix-td, .f1-matrix th { padding: 3px !important; }
+  .f1-matrix-cell { font-size: .72rem; }
+  .f1-detail-link { position: static; margin-top: 10px; }
+}

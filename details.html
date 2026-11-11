@@ -3,53 +3,35 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Detailansicht des Personal Sport Trackers.">
-  <title>Details · Personal Sport Tracker</title>
+  <meta name="description" content="Formel-1-Weltmeisterschaft: Saisons, Punkteverlauf und Rennwochenenden.">
+  <title>Formel 1 – Details · Personal Sport Tracker</title>
   <link rel="stylesheet" href="./css/style.css">
 </head>
-<body class="details-page">
-  <header class="page-header">
+<body class="details-page f1-detail">
+  <header class="page-header f1-detail__header">
     <div class="page-header__top">
-      <h1>Details</h1>
+      <h1>Formel 1 · Detailansicht</h1>
       <nav class="page-header__nav" aria-label="Seitennavigation">
-        <a class="header-button" href="./index.html">Übersicht</a>
+        <a class="header-button" href="./index.html">Zur Übersicht</a>
       </nav>
     </div>
-    <p>Vorbereitete Detailansicht für die späteren Best-/Worst-Case-Szenarien.</p>
+    <div class="f1-season-picker">
+      <label for="f1-season">Saison</label>
+      <select id="f1-season" aria-label="Formel-1-Saison auswählen"></select>
+      <span id="f1-season-info" class="f1-muted" aria-live="polite"></span>
+    </div>
   </header>
-
   <main>
-    <section class="details-grid" aria-label="Detailbereiche">
-      <article class="detail-card">
-        <h2>Formel 1 · Fahrer-WM</h2>
-        <p>Hier wird die exakte Best-/Worst-Case-Berechnung für die Fahrer-WM ergänzt.</p>
-      </article>
-
-      <article class="detail-card">
-        <h2>Formel 1 · Konstrukteurs-WM</h2>
-        <p>Hier wird die exakte Best-/Worst-Case-Berechnung für die Konstrukteurs-WM ergänzt.</p>
-      </article>
-
-      <article class="detail-card">
-        <h2>1. Bundesliga</h2>
-        <p>Hier wird die Spieltag-für-Spieltag-Szenarioberechnung ergänzt.</p>
-      </article>
-
-      <article class="detail-card">
-        <h2>2. Bundesliga</h2>
-        <p>Hier wird die Spieltag-für-Spieltag-Szenarioberechnung ergänzt.</p>
-      </article>
-
-      <article class="detail-card">
-        <h2>3. Liga</h2>
-        <p>Hier wird die Spieltag-für-Spieltag-Szenarioberechnung ergänzt.</p>
-      </article>
-
-      <article class="detail-card">
-        <h2>Champions League</h2>
-        <p>Hier wird die Spieltag-für-Spieltag-Szenarioberechnung für die Ligaphase ergänzt.</p>
-      </article>
-    </section>
+    <p id="f1-status" role="status">Formel-1-Daten werden geladen …</p>
+    <div id="f1-detail-content" class="f1-detail-grid"></div>
   </main>
+  <dialog id="f1-race-dialog" class="f1-dialog" aria-labelledby="f1-dialog-title">
+    <div class="f1-dialog__top">
+      <h2 id="f1-dialog-title">Rennwochenende</h2>
+      <button type="button" class="f1-button" id="f1-dialog-close" aria-label="Details schließen">✕</button>
+    </div>
+    <div id="f1-dialog-body"></div>
+  </dialog>
+  <script type="module" src="./js/f1-details.js"></script>
 </body>
 </html>

@@ -370,6 +370,13 @@ export function createCompetitionCard(meta, data) {
   source.textContent = `Stand: ${updated}`;
 
   header.append(title, source);
+  if (meta.id === 'f1') {
+    const detailsLink = document.createElement('a');
+    detailsLink.className = 'header-button f1-detail-link';
+    detailsLink.href = './details.html';
+    detailsLink.textContent = 'F1-Details';
+    header.append(detailsLink);
+  }
   article.append(header);
 
   const content = document.createElement('div');

@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "update-data": "node scripts/update-all.mjs"
+    "update-data": "node scripts/update-all.mjs",
+    "test": "node --test"
   },
   "engines": {
     "node": ">=20"

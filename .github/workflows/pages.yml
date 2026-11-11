@@ -1,12 +1,14 @@
 name: Update sports data and deploy Pages
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "17 5 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -26,8 +28,21 @@ jobs:
         with:
           node-version: 22
 
+      - name: Test F1 calculations
+        run: npm test
+
       - name: Update sport data
         run: npm run update-data
+
+      - name: Persist F1 season deltas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/f1/
+          if ! git diff --cached --quiet; then
+            git commit -m "data: append F1 season results and historical archive"
+            git push origin HEAD:main
+          fi
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

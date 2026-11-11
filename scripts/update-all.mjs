@@ -1,7 +1,7 @@
 import { readFile, mkdir, writeFile } from 'node:fs/promises';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { fetchF1Competition } from './adapters/jolpica.mjs';
+import { refreshF1Archive } from './f1/update-seasons.mjs';
 import { fetchFootballCompetition } from './adapters/openligadb.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -24,7 +24,7 @@ for (const competition of enabled) {
 
   try {
     const data = competition.source === 'jolpica'
-      ? await fetchF1Competition(competition)
+      ? await refreshF1Archive({ dataDir, competition })
       : await fetchFootballCompetition(competition, config.season);
 
     await writeFile(

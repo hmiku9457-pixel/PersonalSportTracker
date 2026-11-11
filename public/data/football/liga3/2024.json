@@ -1,0 +1,7234 @@
+{
+  "schemaVersion": 1,
+  "id": "liga3",
+  "shortcut": "bl3",
+  "year": 2024,
+  "seasonLabel": "2024/25",
+  "complete": false,
+  "calendarCheckedAt": "2026-11-11T22:45:30.459Z",
+  "updatedAt": "2026-11-11T22:45:30.459Z",
+  "matches": [
+    {
+      "id": "72738",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2024-08-02T17:00:00Z",
+      "updated": "2024-08-02T21:05:03.39",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "72739",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2024-08-03T12:00:00Z",
+      "updated": "2024-08-03T16:10:39.373",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72741",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2024-08-03T12:00:00Z",
+      "updated": "2024-08-03T16:10:42.387",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72742",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2024-08-03T12:00:00Z",
+      "updated": "2024-08-03T16:10:44.723",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72745",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2024-08-03T12:00:00Z",
+      "updated": "2024-08-03T16:10:46.353",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "72747",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2024-08-03T12:00:00Z",
+      "updated": "2024-08-03T16:10:48.643",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "72744",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2024-08-03T14:30:00Z",
+      "updated": "2024-09-15T08:52:57.877",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72740",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2024-08-04T11:30:00Z",
+      "updated": "2024-08-04T15:26:25.117",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72743",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2024-08-04T14:30:00Z",
+      "updated": "2024-08-04T18:58:37.433",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72746",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2024-08-04T17:30:00Z",
+      "updated": "2024-08-04T21:33:00.663",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72753",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2024-08-09T17:00:00Z",
+      "updated": "2024-08-09T21:07:42.483",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "72748",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2024-08-10T12:00:00Z",
+      "updated": "2024-08-11T11:58:26.427",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72752",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2024-08-10T12:00:00Z",
+      "updated": "2024-08-11T11:58:55.003",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72755",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2024-08-10T12:00:00Z",
+      "updated": "2024-08-11T11:59:14.68",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72756",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2024-08-10T12:00:00Z",
+      "updated": "2024-08-11T12:00:15.26",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "72757",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2024-08-10T12:00:00Z",
+      "updated": "2024-08-11T12:00:12.133",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72754",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2024-08-10T14:30:00Z",
+      "updated": "2024-08-11T12:00:09.77",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72751",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2024-08-11T11:30:00Z",
+      "updated": "2024-08-11T16:04:03.327",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "72750",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2024-08-11T14:30:00Z",
+      "updated": "2024-08-11T22:14:56.103",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "72749",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2024-08-11T17:30:00Z",
+      "updated": "2024-08-11T22:14:53.89",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "72758",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2024-08-23T17:00:00Z",
+      "updated": "2024-08-24T09:14:30.16",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72760",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2024-08-24T12:00:00Z",
+      "updated": "2024-08-24T16:02:23.623",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "72761",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2024-08-24T12:00:00Z",
+      "updated": "2024-09-15T08:52:36.013",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72762",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2024-08-24T12:00:00Z",
+      "updated": "2024-08-24T16:00:29.077",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "72765",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2024-08-24T12:00:00Z",
+      "updated": "2024-08-24T16:04:11.063",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "72767",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2024-08-24T12:00:00Z",
+      "updated": "2024-08-24T16:00:15.827",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "72766",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2024-08-24T14:30:00Z",
+      "updated": "2024-08-24T18:47:25.59",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72763",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2024-08-25T11:30:00Z",
+      "updated": "2024-08-25T17:23:50.48",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "72764",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2024-08-25T14:30:00Z",
+      "updated": "2024-08-25T19:00:31.177",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72759",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2024-08-25T17:30:00Z",
+      "updated": "2024-08-26T09:25:44.347",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "72776",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2024-08-30T17:00:00Z",
+      "updated": "2024-08-30T22:19:40.12",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "72768",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2024-08-31T12:00:00Z",
+      "updated": "2024-08-31T16:04:10.373",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72769",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2024-08-31T12:00:00Z",
+      "updated": "2024-08-31T16:04:07.753",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "72771",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2024-08-31T12:00:00Z",
+      "updated": "2024-08-31T16:03:59.437",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72774",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2024-08-31T12:00:00Z",
+      "updated": "2024-08-31T16:03:39.467",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72775",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2024-08-31T12:00:00Z",
+      "updated": "2024-08-31T16:03:53.147",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72772",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2024-08-31T14:30:00Z",
+      "updated": "2024-08-31T18:37:18.193",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72770",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2024-09-01T11:30:00Z",
+      "updated": "2024-09-01T19:47:15.317",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72773",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2024-09-01T14:30:00Z",
+      "updated": "2024-09-01T19:47:44.317",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72777",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2024-09-01T17:30:00Z",
+      "updated": "2024-09-02T13:50:33.947",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72784",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2024-09-13T17:00:00Z",
+      "updated": "2024-09-14T18:22:25.733",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "72778",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2024-09-14T12:00:00Z",
+      "updated": "2024-09-15T08:52:09.413",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72779",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2024-09-14T12:00:00Z",
+      "updated": "2024-09-14T18:23:31.943",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "72781",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2024-09-14T12:00:00Z",
+      "updated": "2024-09-14T18:24:08.087",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "72782",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2024-09-14T12:00:00Z",
+      "updated": "2024-09-14T18:25:56.223",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "72785",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2024-09-14T12:00:00Z",
+      "updated": "2024-09-14T18:26:26.067",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72787",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2024-09-14T14:30:00Z",
+      "updated": "2024-09-14T18:27:04.503",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72786",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2024-09-15T11:30:00Z",
+      "updated": "2024-09-15T17:36:09.623",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "72783",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2024-09-15T14:30:00Z",
+      "updated": "2024-09-15T19:25:24.35",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "72780",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2024-09-15T17:30:00Z",
+      "updated": "2024-09-15T21:49:27.263",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72793",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2024-09-20T17:00:00Z",
+      "updated": "2024-09-20T21:17:23.417",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "72788",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2024-09-21T12:00:00Z",
+      "updated": "2024-09-21T19:18:27.297",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "72789",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2024-09-21T12:00:00Z",
+      "updated": "2024-09-21T19:18:40.12",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "72790",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2024-09-21T12:00:00Z",
+      "updated": "2024-09-21T16:00:13.203",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "72791",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2024-09-21T12:00:00Z",
+      "updated": "2024-09-21T15:57:02.343",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "72797",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2024-09-21T12:00:00Z",
+      "updated": "2024-09-21T19:07:50.643",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72794",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2024-09-21T14:30:00Z",
+      "updated": "2024-09-21T19:05:45.627",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "72796",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2024-09-22T11:30:00Z",
+      "updated": "2024-09-22T19:33:33.433",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "72795",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2024-09-22T14:30:00Z",
+      "updated": "2024-09-22T19:34:16.217",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72792",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2024-09-22T17:30:00Z",
+      "updated": "2024-09-22T21:55:42.253",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "72798",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2024-09-24T17:00:00Z",
+      "updated": "2024-09-24T22:26:06.293",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "72799",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2024-09-24T17:00:00Z",
+      "updated": "2024-09-24T22:26:37.733",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72802",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2024-09-24T17:00:00Z",
+      "updated": "2024-09-24T22:27:40.973",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    {
+      "id": "72804",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2024-09-24T17:00:00Z",
+      "updated": "2024-09-24T22:29:22.03",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 5
+      }
+    },
+    {
+      "id": "72805",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2024-09-24T17:00:00Z",
+      "updated": "2024-09-24T22:29:48.843",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "72800",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2024-09-25T17:00:00Z",
+      "updated": "2024-09-25T21:38:58.14",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "72801",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2024-09-25T17:00:00Z",
+      "updated": "2024-09-25T21:39:01.99",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "72803",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2024-09-25T17:00:00Z",
+      "updated": "2024-09-25T21:39:05.667",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72806",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2024-09-25T17:00:00Z",
+      "updated": "2024-09-25T21:39:09.593",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72807",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2024-09-25T17:00:00Z",
+      "updated": "2024-09-25T21:39:15.293",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "72814",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2024-09-27T17:00:00Z",
+      "updated": "2024-09-27T21:02:37.2",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "72809",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2024-09-28T12:00:00Z",
+      "updated": "2024-09-28T15:57:23.863",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72810",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2024-09-28T12:00:00Z",
+      "updated": "2024-09-28T15:57:20.86",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72812",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2024-09-28T12:00:00Z",
+      "updated": "2024-09-28T15:55:19.79",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72813",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2024-09-28T12:00:00Z",
+      "updated": "2024-09-28T15:55:57.14",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72817",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2024-09-28T12:00:00Z",
+      "updated": "2024-09-28T15:52:45.99",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "72811",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2024-09-28T14:30:00Z",
+      "updated": "2024-09-29T19:47:00.267",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "72816",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2024-09-29T11:30:00Z",
+      "updated": "2024-09-29T19:47:29.293",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72818",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2024-09-29T14:30:00Z",
+      "updated": "2024-09-29T19:47:32.163",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "72815",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2024-09-29T17:30:00Z",
+      "updated": "2024-09-29T21:37:47.763",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72822",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2024-10-04T17:00:00Z",
+      "updated": "2024-10-04T21:11:05.097",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72819",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2024-10-05T12:00:00Z",
+      "updated": "2024-10-05T16:19:09.43",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72824",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2024-10-05T12:00:00Z",
+      "updated": "2024-10-05T16:19:13.35",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "72825",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2024-10-05T12:00:00Z",
+      "updated": "2024-10-05T16:19:17.763",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72827",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2024-10-05T12:00:00Z",
+      "updated": "2024-10-05T16:19:21.483",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72828",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2024-10-05T12:00:00Z",
+      "updated": "2024-10-05T15:56:54.383",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72823",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2024-10-05T14:30:00Z",
+      "updated": "2024-10-05T21:05:54.39",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72826",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2024-10-06T11:30:00Z",
+      "updated": "2024-10-06T20:07:21.293",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "72820",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2024-10-06T14:30:00Z",
+      "updated": "2024-10-06T20:07:23.663",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "72821",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2024-10-06T17:30:00Z",
+      "updated": "2024-10-06T21:40:04.687",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72836",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2024-10-18T17:00:00Z",
+      "updated": "2024-10-18T21:07:01.583",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "72829",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2024-10-19T12:00:00Z",
+      "updated": "2024-10-19T20:27:30.86",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72830",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2024-10-19T12:00:00Z",
+      "updated": "2024-10-19T20:27:58.443",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72831",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2024-10-19T12:00:00Z",
+      "updated": "2024-10-19T20:29:55.537",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 3,
+        "away": 5
+      }
+    },
+    {
+      "id": "72832",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2024-10-19T12:00:00Z",
+      "updated": "2024-10-19T20:31:33.213",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 1,
+        "away": 5
+      }
+    },
+    {
+      "id": "72838",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2024-10-19T12:00:00Z",
+      "updated": "2024-10-19T20:32:02.003",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72837",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2024-10-19T14:30:00Z",
+      "updated": "2024-10-19T20:32:34.52",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "72833",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2024-10-20T11:30:00Z",
+      "updated": "2024-10-20T16:03:27.22",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "72835",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2024-10-20T14:30:00Z",
+      "updated": "2024-10-20T19:27:10.52",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "72834",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2024-10-20T17:30:00Z",
+      "updated": "2024-10-20T21:30:11.503",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "72844",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2024-10-22T17:00:00Z",
+      "updated": "2024-10-22T21:50:45.723",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72845",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2024-10-22T17:00:00Z",
+      "updated": "2024-10-22T21:51:42.397",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 4,
+        "away": 4
+      }
+    },
+    {
+      "id": "72846",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2024-10-22T17:00:00Z",
+      "updated": "2024-10-22T21:52:12.887",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "72847",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2024-10-22T17:00:00Z",
+      "updated": "2024-10-22T21:55:25.913",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "72848",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2024-10-22T17:00:00Z",
+      "updated": "2024-10-22T21:55:54.697",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72839",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2024-10-23T17:00:00Z",
+      "updated": "2024-10-23T20:57:33.48",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "72840",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2024-10-23T17:00:00Z",
+      "updated": "2024-10-23T20:57:30.41",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72841",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2024-10-23T17:00:00Z",
+      "updated": "2024-10-23T20:57:28.553",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "72842",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2024-10-23T17:00:00Z",
+      "updated": "2024-10-23T20:57:26.113",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "72843",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2024-10-23T17:00:00Z",
+      "updated": "2024-10-23T20:57:23.447",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "72856",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2024-10-25T17:00:00Z",
+      "updated": "2024-10-25T20:56:17.117",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 5,
+        "away": 3
+      }
+    },
+    {
+      "id": "72849",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2024-10-26T12:00:00Z",
+      "updated": "2024-10-26T17:32:33.933",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72852",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2024-10-26T12:00:00Z",
+      "updated": "2024-10-26T17:32:59.603",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72853",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2024-10-26T12:00:00Z",
+      "updated": "2024-10-31T14:28:59.523",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "72854",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2024-10-26T12:00:00Z",
+      "updated": "2024-10-26T17:33:57.793",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72858",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2024-10-26T12:00:00Z",
+      "updated": "2024-10-26T17:34:30.093",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72855",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2024-10-26T14:30:00Z",
+      "updated": "2024-10-26T18:59:00.993",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72857",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2024-10-27T12:30:00Z",
+      "updated": "2024-10-27T15:33:13.453",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "72851",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2024-10-27T15:30:00Z",
+      "updated": "2024-10-27T20:30:56.443",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "72850",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2024-10-27T18:30:00Z",
+      "updated": "2024-11-03T09:56:11.697",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "72866",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2024-11-01T18:00:00Z",
+      "updated": "2024-11-01T21:07:38.857",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72859",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2024-11-02T13:00:00Z",
+      "updated": "2024-11-02T20:19:42.523",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72860",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2024-11-02T13:00:00Z",
+      "updated": "2024-11-02T20:20:13.98",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72864",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2024-11-02T13:00:00Z",
+      "updated": "2024-11-02T20:20:38.463",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "72865",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2024-11-02T13:00:00Z",
+      "updated": "2024-11-02T20:21:36.67",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "72867",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2024-11-02T13:00:00Z",
+      "updated": "2024-11-02T20:22:10.083",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72868",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2024-11-02T15:30:00Z",
+      "updated": "2024-11-02T20:22:20.467",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "72863",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2024-11-03T12:30:00Z",
+      "updated": "2024-12-01T18:50:31.25",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72861",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2024-11-03T15:30:00Z",
+      "updated": "2024-11-03T18:25:31.463",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "72862",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2024-11-03T18:30:00Z",
+      "updated": "2024-12-01T18:50:32.78",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "72878",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2024-11-08T18:00:00Z",
+      "updated": "2024-11-08T20:59:56.07",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72872",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2024-11-09T13:00:00Z",
+      "updated": "2024-11-09T16:11:39.557",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "72873",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2024-11-09T13:00:00Z",
+      "updated": "2024-11-09T16:11:43.847",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "72875",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2024-11-09T13:00:00Z",
+      "updated": "2024-11-09T16:11:56.813",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "72876",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2024-11-09T13:00:00Z",
+      "updated": "2024-11-09T16:12:00.17",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "72877",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2024-11-09T13:00:00Z",
+      "updated": "2024-11-09T16:12:09.427",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "72874",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2024-11-09T15:30:00Z",
+      "updated": "2024-11-09T19:24:30.67",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72871",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2024-11-10T12:30:00Z",
+      "updated": "2024-11-10T16:04:19.123",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "72869",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2024-11-10T15:30:00Z",
+      "updated": "2024-11-10T18:44:26.13",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72870",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2024-11-10T18:30:00Z",
+      "updated": "2024-11-11T07:35:00.127",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "72881",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2024-11-22T18:00:00Z",
+      "updated": "2024-11-22T22:58:09.583",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "72879",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2024-11-23T13:00:00Z",
+      "updated": "2024-11-23T16:57:09.89",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72882",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2024-11-23T13:00:00Z",
+      "updated": "2024-11-23T16:58:59.767",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72885",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2024-11-23T13:00:00Z",
+      "updated": "2024-11-23T16:58:18.617",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72887",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2024-11-23T13:00:00Z",
+      "updated": "2024-11-23T16:58:57.157",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72888",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2024-11-23T13:00:00Z",
+      "updated": "2024-11-23T16:59:45.767",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "72884",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2024-11-23T15:30:00Z",
+      "updated": "2024-11-23T18:37:29.143",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72886",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2024-11-24T12:30:00Z",
+      "updated": "2024-11-24T15:26:02.7",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72880",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2024-11-24T15:30:00Z",
+      "updated": "2024-11-24T18:24:25.923",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "72883",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2024-11-24T18:30:00Z",
+      "updated": "2024-11-24T21:24:18.553",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "72894",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2024-11-29T18:00:00Z",
+      "updated": "2024-11-29T23:54:16.597",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72892",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2024-11-30T13:00:00Z",
+      "updated": "2024-11-30T16:00:38.763",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72895",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2024-11-30T13:00:00Z",
+      "updated": "2024-11-30T16:00:55.37",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "72896",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2024-11-30T13:00:00Z",
+      "updated": "2024-11-30T16:01:13.863",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72897",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2024-11-30T13:00:00Z",
+      "updated": "2024-11-30T16:05:22.3",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 2,
+        "away": 5
+      }
+    },
+    {
+      "id": "72898",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2024-11-30T13:00:00Z",
+      "updated": "2024-11-30T16:05:17.33",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72890",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2024-11-30T15:30:00Z",
+      "updated": "2024-11-30T18:36:42.873",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72891",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2024-12-01T12:30:00Z",
+      "updated": "2024-12-01T17:41:13.583",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72889",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2024-12-01T15:30:00Z",
+      "updated": "2024-12-01T18:32:16.94",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72893",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2024-12-01T18:30:00Z",
+      "updated": "2024-12-01T21:20:19.583",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "72908",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2024-12-06T18:00:00Z",
+      "updated": "2024-12-06T22:39:24.98",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72900",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2024-12-07T13:00:00Z",
+      "updated": "2024-12-07T17:36:58.403",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72901",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2024-12-07T13:00:00Z",
+      "updated": "2024-12-07T17:37:18.923",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72903",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2024-12-07T13:00:00Z",
+      "updated": "2024-12-07T17:37:26.557",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "72904",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2024-12-07T13:00:00Z",
+      "updated": "2024-12-07T17:37:36.937",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72906",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2024-12-07T13:00:00Z",
+      "updated": "2024-12-07T17:37:53.267",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "72905",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2024-12-07T15:30:00Z",
+      "updated": "2024-12-07T22:32:51.797",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72899",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2024-12-08T12:30:00Z",
+      "updated": "2024-12-08T19:28:15.233",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "72902",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2024-12-08T15:30:00Z",
+      "updated": "2024-12-08T19:27:14.123",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "72907",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2024-12-08T18:30:00Z",
+      "updated": "2024-12-08T21:25:47.92",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72913",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2024-12-13T18:00:00Z",
+      "updated": "2024-12-13T21:09:49.347",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72910",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2024-12-14T13:00:00Z",
+      "updated": "2024-12-14T16:45:45.533",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "72911",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2024-12-14T13:00:00Z",
+      "updated": "2024-12-14T16:45:31.9",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72914",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2024-12-14T13:00:00Z",
+      "updated": "2024-12-14T16:44:10.873",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "72915",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2024-12-14T13:00:00Z",
+      "updated": "2024-12-14T16:44:46.04",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 4,
+        "away": 6
+      }
+    },
+    {
+      "id": "72917",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2024-12-14T13:00:00Z",
+      "updated": "2024-12-14T16:45:03.73",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 5
+      }
+    },
+    {
+      "id": "72918",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2024-12-14T15:30:00Z",
+      "updated": "2024-12-15T16:49:16.34",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "72912",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2024-12-15T12:30:00Z",
+      "updated": "2024-12-15T16:57:05.043",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "72916",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2024-12-15T15:30:00Z",
+      "updated": "2024-12-15T19:26:22.167",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72909",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2024-12-15T18:30:00Z",
+      "updated": "2024-12-15T21:30:07.763",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72921",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2024-12-20T18:00:00Z",
+      "updated": "2024-12-20T21:16:42.313",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72919",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2024-12-21T13:00:00Z",
+      "updated": "2024-12-21T17:46:16.11",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "72923",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2024-12-21T13:00:00Z",
+      "updated": "2024-12-21T17:46:14.717",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "72925",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2024-12-21T13:00:00Z",
+      "updated": "2024-12-21T17:46:29.667",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "72926",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2024-12-21T13:00:00Z",
+      "updated": "2024-12-21T17:46:39.867",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72927",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2024-12-21T13:00:00Z",
+      "updated": "2024-12-21T17:46:53.76",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "72924",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2024-12-21T15:30:00Z",
+      "updated": "2024-12-21T18:38:28.69",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "72920",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2024-12-22T12:30:00Z",
+      "updated": "2024-12-22T15:33:30.553",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72928",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2024-12-22T15:30:00Z",
+      "updated": "2024-12-31T08:04:49.55",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72922",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2024-12-22T18:30:00Z",
+      "updated": "2025-03-09T14:16:44.247",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72932",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2025-01-17T18:00:00Z",
+      "updated": "2025-01-18T09:24:24.493",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72929",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2025-01-18T13:00:00Z",
+      "updated": "2025-01-18T20:42:57.52",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "72930",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2025-01-18T13:00:00Z",
+      "updated": "2025-03-09T14:16:05.033",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "72933",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2025-01-18T13:00:00Z",
+      "updated": "2025-01-18T20:43:12.29",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "72936",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2025-01-18T13:00:00Z",
+      "updated": "2025-01-18T20:43:25.377",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72940",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2025-01-18T13:00:00Z",
+      "updated": "2025-01-18T20:43:42.31",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "72939",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2025-01-18T15:30:00Z",
+      "updated": "2025-01-18T20:43:55.52",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "72934",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2025-01-19T12:30:00Z",
+      "updated": "2025-01-19T17:27:08.033",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "72937",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2025-01-19T15:30:00Z",
+      "updated": "2025-01-19T18:25:54.303",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72938",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2025-01-19T18:30:00Z",
+      "updated": "2025-01-19T21:25:29.903",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "72941",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2025-01-24T18:00:00Z",
+      "updated": "2025-01-24T21:03:28.493",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72943",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2025-01-25T13:00:00Z",
+      "updated": "2025-01-25T17:06:18.477",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "72944",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2025-01-25T13:00:00Z",
+      "updated": "2025-03-09T14:15:07.61",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "72946",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2025-01-25T13:00:00Z",
+      "updated": "2025-01-25T17:06:58.89",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72948",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2025-01-25T13:00:00Z",
+      "updated": "2025-01-25T17:07:27.81",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72950",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2025-01-25T13:00:00Z",
+      "updated": "2025-01-26T07:53:15.89",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72947",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2025-01-25T15:30:00Z",
+      "updated": "2025-01-25T18:27:44.58",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 3,
+        "away": 4
+      }
+    },
+    {
+      "id": "72949",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2025-01-26T12:30:00Z",
+      "updated": "2025-01-26T17:20:57.003",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "72942",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2025-01-26T15:30:00Z",
+      "updated": "2025-01-26T20:22:18.827",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "72945",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2025-01-26T18:30:00Z",
+      "updated": "2025-01-27T07:25:28.427",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "72957",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2025-01-31T18:00:00Z",
+      "updated": "2025-01-31T20:52:51.003",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "72952",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2025-02-01T13:00:00Z",
+      "updated": "2025-02-01T19:56:04.057",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "72953",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2025-02-01T13:00:00Z",
+      "updated": "2025-02-01T19:56:02.247",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72954",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2025-02-01T13:00:00Z",
+      "updated": "2025-02-01T19:56:30.583",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72955",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2025-02-01T13:00:00Z",
+      "updated": "2025-03-09T14:13:10.013",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "72960",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2025-02-01T13:00:00Z",
+      "updated": "2025-02-01T19:57:16.687",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72958",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2025-02-01T15:30:00Z",
+      "updated": "2025-02-01T19:57:56.217",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72951",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2025-02-02T12:30:00Z",
+      "updated": "2025-02-02T19:52:05.54",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72956",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2025-02-02T15:30:00Z",
+      "updated": "2025-02-02T19:52:33.287",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "72959",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2025-02-02T18:30:00Z",
+      "updated": "2025-02-02T22:40:01.82",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "72967",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2025-02-07T18:00:00Z",
+      "updated": "2025-02-07T21:03:50.667",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72961",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2025-02-08T13:00:00Z",
+      "updated": "2025-02-08T16:10:18.163",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72962",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2025-02-08T13:00:00Z",
+      "updated": "2025-02-08T16:10:52.08",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72964",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2025-02-08T13:00:00Z",
+      "updated": "2025-02-08T16:08:27.973",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72966",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2025-02-08T13:00:00Z",
+      "updated": "2025-02-08T16:11:27.693",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72968",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2025-02-08T13:00:00Z",
+      "updated": "2025-02-08T16:12:17.21",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72969",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2025-02-08T15:30:00Z",
+      "updated": "2025-02-09T08:09:11.59",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72965",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2025-02-09T12:30:00Z",
+      "updated": "2025-03-09T14:13:29.567",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72970",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2025-02-09T15:30:00Z",
+      "updated": "2025-02-09T18:22:49.75",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72963",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2025-02-09T18:30:00Z",
+      "updated": "2025-02-09T21:28:59.377",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72973",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2025-02-14T18:00:00Z",
+      "updated": "2025-02-14T21:00:00.853",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "72971",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2025-02-15T13:00:00Z",
+      "updated": "2025-02-15T16:00:17.967",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "72972",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2025-02-15T13:00:00Z",
+      "updated": "2025-02-15T16:00:21.857",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72974",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2025-02-15T13:00:00Z",
+      "updated": "2025-02-15T16:00:26.69",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 5
+      }
+    },
+    {
+      "id": "72978",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2025-02-15T13:00:00Z",
+      "updated": "2025-02-15T16:00:29.26",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "72980",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2025-02-15T13:00:00Z",
+      "updated": "2025-02-15T16:00:37.857",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72977",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2025-02-15T15:30:00Z",
+      "updated": "2025-02-16T07:27:30.26",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72979",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2025-02-16T12:30:00Z",
+      "updated": "2025-02-16T15:28:31.157",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72975",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2025-02-16T15:30:00Z",
+      "updated": "2025-02-16T19:35:33.587",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72976",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2025-02-16T18:30:00Z",
+      "updated": "2025-02-16T21:50:54.63",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 5,
+        "away": 2
+      }
+    },
+    {
+      "id": "72988",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2025-02-21T18:00:00Z",
+      "updated": "2025-02-21T21:03:38.753",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "72981",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2025-02-22T13:00:00Z",
+      "updated": "2025-03-09T14:11:40.28",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72984",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2025-02-22T13:00:00Z",
+      "updated": "2025-02-22T17:48:02.45",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "72986",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2025-02-22T13:00:00Z",
+      "updated": "2025-02-22T17:49:29.047",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "72987",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2025-02-22T13:00:00Z",
+      "updated": "2025-02-22T17:49:26.173",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72989",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2025-02-22T13:00:00Z",
+      "updated": "2025-02-22T17:49:22.427",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72982",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2025-02-22T15:30:00Z",
+      "updated": "2025-02-22T18:22:01.003",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "72983",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2025-02-23T12:30:00Z",
+      "updated": "2025-02-23T15:43:22.347",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "72985",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2025-02-23T15:30:00Z",
+      "updated": "2025-02-23T18:38:20.353",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "72990",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2025-02-23T18:30:00Z",
+      "updated": "2025-02-23T22:06:17.81",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "72999",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2025-02-28T18:00:00Z",
+      "updated": "2025-02-28T20:55:18.013",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72991",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2025-03-01T13:00:00Z",
+      "updated": "2025-03-01T15:58:52.82",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "72992",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2025-03-01T13:00:00Z",
+      "updated": "2025-03-01T15:55:28.537",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72993",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2025-03-01T13:00:00Z",
+      "updated": "2025-03-01T15:53:59.517",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "72994",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2025-03-01T13:00:00Z",
+      "updated": "2025-03-01T15:55:05.213",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "73000",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2025-03-01T13:00:00Z",
+      "updated": "2025-03-01T15:53:51.953",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "72995",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2025-03-01T15:30:00Z",
+      "updated": "2025-03-01T18:22:57.687",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "72998",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2025-03-02T12:30:00Z",
+      "updated": "2025-03-02T15:26:56.063",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "72997",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2025-03-02T18:30:00Z",
+      "updated": "2025-03-02T21:28:56.083",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "72996",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2025-05-07T17:00:00Z",
+      "updated": "2025-05-07T20:50:05.653",
+      "finished": false,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": null
+    },
+    {
+      "id": "73005",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2025-03-07T18:00:00Z",
+      "updated": "2025-03-07T21:03:50.547",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "73002",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2025-03-08T13:00:00Z",
+      "updated": "2025-03-09T14:10:14.003",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73003",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2025-03-08T13:00:00Z",
+      "updated": "2025-03-09T14:09:48.85",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73007",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2025-03-08T13:00:00Z",
+      "updated": "2025-03-09T14:09:15.663",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "73008",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2025-03-08T13:00:00Z",
+      "updated": "2025-03-09T14:05:45.977",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "73009",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2025-03-08T13:00:00Z",
+      "updated": "2025-03-09T14:07:49.677",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "73006",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2025-03-08T15:30:00Z",
+      "updated": "2025-03-09T14:08:25.143",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73010",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2025-03-09T12:30:00Z",
+      "updated": "2025-03-09T18:07:13.947",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "73004",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2025-03-09T15:30:00Z",
+      "updated": "2025-03-09T20:05:24.923",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73001",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2025-03-09T18:30:00Z",
+      "updated": "2025-03-09T21:42:15.187",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "73013",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2025-03-11T18:00:00Z",
+      "updated": "2025-03-11T21:24:50.853",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "73014",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2025-03-11T18:00:00Z",
+      "updated": "2025-03-11T21:25:20.453",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "73015",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2025-03-11T18:00:00Z",
+      "updated": "2025-03-11T21:24:12.587",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "73016",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2025-03-11T18:00:00Z",
+      "updated": "2025-03-11T21:26:40.57",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "73017",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2025-03-11T18:00:00Z",
+      "updated": "2025-03-11T21:25:57.777",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "73011",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2025-03-12T18:00:00Z",
+      "updated": "2025-03-12T21:21:22.75",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "73012",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2025-03-12T18:00:00Z",
+      "updated": "2025-03-12T21:21:59.93",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "73018",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2025-03-12T18:00:00Z",
+      "updated": "2025-03-12T21:22:52.623",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "73019",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2025-03-12T18:00:00Z",
+      "updated": "2025-03-12T21:23:10.023",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "73020",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2025-03-12T18:00:00Z",
+      "updated": "2025-03-12T21:23:13.497",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "73028",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2025-03-14T18:00:00Z",
+      "updated": "2025-03-14T21:42:59.88",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "73021",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2025-03-15T13:00:00Z",
+      "updated": "2025-03-15T17:04:41.467",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "73022",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2025-03-15T13:00:00Z",
+      "updated": "2025-03-15T15:59:09.537",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "73023",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2025-03-15T13:00:00Z",
+      "updated": "2025-03-15T15:59:12.017",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "73026",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2025-03-15T13:00:00Z",
+      "updated": "2025-03-15T15:59:24.563",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "73030",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2025-03-15T13:00:00Z",
+      "updated": "2025-03-15T15:59:26.71",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "73025",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2025-03-15T15:30:00Z",
+      "updated": "2025-03-15T19:40:08.083",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73027",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2025-03-16T12:30:00Z",
+      "updated": "2025-03-16T16:07:10.32",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "73029",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2025-03-16T15:30:00Z",
+      "updated": "2025-03-16T19:01:37.39",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "73024",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2025-03-16T18:30:00Z",
+      "updated": "2025-03-17T10:37:08.273",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73037",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2025-03-28T18:00:00Z",
+      "updated": "2025-03-28T20:53:42.483",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "73031",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2025-03-29T13:00:00Z",
+      "updated": "2025-03-29T17:46:40.617",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "73032",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2025-03-29T13:00:00Z",
+      "updated": "2025-03-29T17:46:49.407",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "73033",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2025-03-29T13:00:00Z",
+      "updated": "2025-03-29T17:45:11.607",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "73035",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2025-03-29T13:00:00Z",
+      "updated": "2025-03-29T17:45:38.533",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "73040",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2025-03-29T13:00:00Z",
+      "updated": "2025-03-29T17:46:02.08",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "73036",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2025-03-29T15:30:00Z",
+      "updated": "2025-03-29T18:38:54.47",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "73038",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2025-03-30T11:30:00Z",
+      "updated": "2025-03-30T15:21:06.697",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "73034",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2025-03-30T14:30:00Z",
+      "updated": "2025-03-30T19:28:25.973",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "73039",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2025-03-30T17:30:00Z",
+      "updated": "2025-03-30T21:27:41.393",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73049",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2025-04-04T17:00:00Z",
+      "updated": "2025-04-04T21:33:23.88",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "73042",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2025-04-05T12:00:00Z",
+      "updated": "2025-04-06T07:24:35.153",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "73043",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2025-04-05T12:00:00Z",
+      "updated": "2025-04-06T07:25:24.407",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73044",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2025-04-05T12:00:00Z",
+      "updated": "2025-04-06T07:26:11.653",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "73046",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2025-04-05T12:00:00Z",
+      "updated": "2025-04-06T07:26:48.413",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "73048",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2025-04-05T12:00:00Z",
+      "updated": "2025-04-06T07:27:15.657",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "73045",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2025-04-05T14:30:00Z",
+      "updated": "2025-04-06T07:27:50.873",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "73050",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2025-04-06T11:30:00Z",
+      "updated": "2025-04-06T15:32:12.963",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "73047",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2025-04-06T14:30:00Z",
+      "updated": "2025-04-06T20:04:32.393",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "73041",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2025-04-06T17:30:00Z",
+      "updated": "2025-04-06T21:31:13.497",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73051",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2025-04-08T17:00:00Z",
+      "updated": "2025-04-09T21:51:51.967",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "73052",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2025-04-08T17:00:00Z",
+      "updated": "2025-04-09T21:52:14.78",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "73055",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2025-04-08T17:00:00Z",
+      "updated": "2025-04-09T21:52:56.95",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "73056",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2025-04-08T17:00:00Z",
+      "updated": "2025-04-09T21:53:18.583",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "73057",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2025-04-08T17:00:00Z",
+      "updated": "2025-04-09T21:53:45.24",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "73053",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2025-04-09T17:00:00Z",
+      "updated": "2025-04-09T21:54:10.647",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "73054",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2025-04-09T17:00:00Z",
+      "updated": "2025-04-09T21:54:35.43",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "73058",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2025-04-09T17:00:00Z",
+      "updated": "2025-04-09T21:54:41.867",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "73059",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2025-04-09T17:00:00Z",
+      "updated": "2025-04-09T21:55:16.78",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "73060",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2025-04-09T17:00:00Z",
+      "updated": "2025-04-09T21:55:41.197",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "73064",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2025-04-11T17:00:00Z",
+      "updated": "2025-04-11T20:58:21.973",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "73062",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2025-04-12T12:00:00Z",
+      "updated": "2025-04-13T07:34:33.633",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "73066",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2025-04-12T12:00:00Z",
+      "updated": "2025-04-12T21:04:59.037",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "73067",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2025-04-12T12:00:00Z",
+      "updated": "2025-04-12T21:05:38.667",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "73068",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2025-04-12T12:00:00Z",
+      "updated": "2025-04-13T07:35:01.847",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "73069",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2025-04-12T12:00:00Z",
+      "updated": "2025-04-12T21:06:22.06",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "73070",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2025-04-12T14:30:00Z",
+      "updated": "2025-04-12T21:07:09.713",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73061",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2025-04-13T11:30:00Z",
+      "updated": "2025-04-13T19:30:26.927",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "73065",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2025-04-13T14:30:00Z",
+      "updated": "2025-04-13T19:30:41.217",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "73063",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2025-04-13T17:30:00Z",
+      "updated": "2025-04-13T21:29:59.52",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "73076",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2025-04-19T12:00:00Z",
+      "updated": "2025-04-19T15:59:05.53",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73077",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2025-04-19T12:00:00Z",
+      "updated": "2025-04-19T15:52:00.003",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "73078",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2025-04-19T12:00:00Z",
+      "updated": "2025-04-19T15:54:59.76",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "73079",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2025-04-19T12:00:00Z",
+      "updated": "2025-04-19T15:53:04.3",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "73080",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2025-04-19T12:00:00Z",
+      "updated": "2025-04-19T15:59:10.617",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "73072",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2025-04-19T14:30:00Z",
+      "updated": "2025-04-20T23:50:26.257",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "73075",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2025-04-19T14:30:00Z",
+      "updated": "2025-04-20T23:50:12.897",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "73071",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2025-04-20T11:30:00Z",
+      "updated": "2025-04-20T15:50:37.773",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "73073",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2025-04-20T14:30:00Z",
+      "updated": "2025-04-20T23:50:35.883",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "73074",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2025-04-20T17:30:00Z",
+      "updated": "2025-04-20T23:50:47.287",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73081",
+      "groupOrderId": 35,
+      "groupName": "35. Spieltag",
+      "date": "2025-04-25T17:00:00Z",
+      "updated": "2025-04-25T21:03:11.273",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "73082",
+      "groupOrderId": 35,
+      "groupName": "35. Spieltag",
+      "date": "2025-04-26T12:00:00Z",
+      "updated": "2025-04-26T16:10:11.883",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "73083",
+      "groupOrderId": 35,
+      "groupName": "35. Spieltag",
+      "date": "2025-04-26T12:00:00Z",
+      "updated": "2025-04-26T16:10:32.347",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73084",
+      "groupOrderId": 35,
+      "groupName": "35. Spieltag",
+      "date": "2025-04-26T12:00:00Z",
+      "updated": "2025-04-26T16:11:04.487",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "73085",
+      "groupOrderId": 35,
+      "groupName": "35. Spieltag",
+      "date": "2025-04-26T12:00:00Z",
+      "updated": "2025-04-26T16:11:32.173",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "73086",
+      "groupOrderId": 35,
+      "groupName": "35. Spieltag",
+      "date": "2025-04-26T12:00:00Z",
+      "updated": "2025-04-26T16:12:06.787",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "73087",
+      "groupOrderId": 35,
+      "groupName": "35. Spieltag",
+      "date": "2025-04-26T14:30:00Z",
+      "updated": "2025-04-26T18:33:37.913",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "73089",
+      "groupOrderId": 35,
+      "groupName": "35. Spieltag",
+      "date": "2025-04-27T11:30:00Z",
+      "updated": "2025-04-27T17:57:22.26",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "73090",
+      "groupOrderId": 35,
+      "groupName": "35. Spieltag",
+      "date": "2025-04-27T14:30:00Z",
+      "updated": "2025-04-27T18:34:12.49",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "73088",
+      "groupOrderId": 35,
+      "groupName": "35. Spieltag",
+      "date": "2025-04-27T17:30:00Z",
+      "updated": "2025-04-28T08:21:44.337",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "73099",
+      "groupOrderId": 36,
+      "groupName": "36. Spieltag",
+      "date": "2025-05-02T17:00:00Z",
+      "updated": "2025-05-02T20:59:20.35",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "73091",
+      "groupOrderId": 36,
+      "groupName": "36. Spieltag",
+      "date": "2025-05-03T12:00:00Z",
+      "updated": "2025-05-04T12:03:13.437",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "73092",
+      "groupOrderId": 36,
+      "groupName": "36. Spieltag",
+      "date": "2025-05-03T12:00:00Z",
+      "updated": "2025-05-04T12:04:13.633",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    {
+      "id": "73093",
+      "groupOrderId": 36,
+      "groupName": "36. Spieltag",
+      "date": "2025-05-03T12:00:00Z",
+      "updated": "2025-05-04T12:04:52.483",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73095",
+      "groupOrderId": 36,
+      "groupName": "36. Spieltag",
+      "date": "2025-05-03T12:00:00Z",
+      "updated": "2025-05-04T12:06:18.003",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "73097",
+      "groupOrderId": 36,
+      "groupName": "36. Spieltag",
+      "date": "2025-05-03T12:00:00Z",
+      "updated": "2025-05-04T12:07:01.647",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "73096",
+      "groupOrderId": 36,
+      "groupName": "36. Spieltag",
+      "date": "2025-05-03T14:30:00Z",
+      "updated": "2025-05-04T12:07:50.673",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "73100",
+      "groupOrderId": 36,
+      "groupName": "36. Spieltag",
+      "date": "2025-05-04T11:30:00Z",
+      "updated": "2025-05-04T15:28:26.163",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "73094",
+      "groupOrderId": 36,
+      "groupName": "36. Spieltag",
+      "date": "2025-05-04T14:30:00Z",
+      "updated": "2025-05-04T18:30:13.633",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "73098",
+      "groupOrderId": 36,
+      "groupName": "36. Spieltag",
+      "date": "2025-05-04T17:30:00Z",
+      "updated": "2025-05-04T21:35:46.167",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "73110",
+      "groupOrderId": 37,
+      "groupName": "37. Spieltag",
+      "date": "2025-05-09T17:00:00Z",
+      "updated": "2025-05-09T21:35:17.22",
+      "finished": true,
+      "homeTeamId": "1714",
+      "homeTeam": "Borussia Dortmund II",
+      "homeShortName": "Dortmund II",
+      "awayTeamId": "184",
+      "awayTeam": "VfB Stuttgart II",
+      "awayShortName": "Stuttgart II",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "73101",
+      "groupOrderId": 37,
+      "groupName": "37. Spieltag",
+      "date": "2025-05-10T12:00:00Z",
+      "updated": "2025-05-10T18:26:45.31",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "417",
+      "awayTeam": "1. FC Saarbrücken",
+      "awayShortName": "Saarbrücken",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "73104",
+      "groupOrderId": 37,
+      "groupName": "37. Spieltag",
+      "date": "2025-05-10T12:00:00Z",
+      "updated": "2025-05-10T18:26:43.04",
+      "finished": true,
+      "homeTeamId": "102",
+      "homeTeam": "Hansa Rostock",
+      "homeShortName": "Rostock",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "73107",
+      "groupOrderId": 37,
+      "groupName": "37. Spieltag",
+      "date": "2025-05-10T12:00:00Z",
+      "updated": "2025-05-10T18:27:21.193",
+      "finished": true,
+      "homeTeamId": "114",
+      "homeTeam": "SC Verl",
+      "homeShortName": "Verl",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "73108",
+      "groupOrderId": 37,
+      "groupName": "37. Spieltag",
+      "date": "2025-05-10T12:00:00Z",
+      "updated": "2025-05-10T18:27:30.623",
+      "finished": true,
+      "homeTeamId": "553",
+      "homeTeam": "SV Waldhof Mannheim",
+      "homeShortName": "Mannheim",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "73109",
+      "groupOrderId": 37,
+      "groupName": "37. Spieltag",
+      "date": "2025-05-10T12:00:00Z",
+      "updated": "2025-05-10T18:28:24.99",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "73102",
+      "groupOrderId": 37,
+      "groupName": "37. Spieltag",
+      "date": "2025-05-10T14:30:00Z",
+      "updated": "2025-05-10T18:29:07.09",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "Wiesbaden",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "73105",
+      "groupOrderId": 37,
+      "groupName": "37. Spieltag",
+      "date": "2025-05-11T11:30:00Z",
+      "updated": "2025-05-11T15:30:15.317",
+      "finished": true,
+      "homeTeamId": "116",
+      "homeTeam": "SpVgg Unterhaching",
+      "homeShortName": "Unterhaching",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "73106",
+      "groupOrderId": 37,
+      "groupName": "37. Spieltag",
+      "date": "2025-05-11T14:30:00Z",
+      "updated": "2025-05-11T18:24:18.68",
+      "finished": true,
+      "homeTeamId": "109",
+      "homeTeam": "Rot-Weiss Essen",
+      "homeShortName": "Rot-Weiss Essen",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "73103",
+      "groupOrderId": 37,
+      "groupName": "37. Spieltag",
+      "date": "2025-05-11T17:30:00Z",
+      "updated": "2025-05-11T21:27:59.893",
+      "finished": true,
+      "homeTeamId": "2199",
+      "homeTeam": "Viktoria Köln",
+      "homeShortName": "Viktoria Köln",
+      "awayTeamId": "1766",
+      "awayTeam": "Hannover 96 II",
+      "awayShortName": "Hannover 96 II",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "73111",
+      "groupOrderId": 38,
+      "groupName": "38. Spieltag",
+      "date": "2025-05-17T11:30:00Z",
+      "updated": "2025-05-17T20:27:28.167",
+      "finished": true,
+      "homeTeamId": "417",
+      "homeTeam": "1. FC Saarbrücken",
+      "homeShortName": "Saarbrücken",
+      "awayTeamId": "1714",
+      "awayTeam": "Borussia Dortmund II",
+      "awayShortName": "Dortmund II",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73112",
+      "groupOrderId": 38,
+      "groupName": "38. Spieltag",
+      "date": "2025-05-17T11:30:00Z",
+      "updated": "2025-05-17T20:27:54.16",
+      "finished": true,
+      "homeTeamId": "184",
+      "homeTeam": "VfB Stuttgart II",
+      "homeShortName": "Stuttgart II",
+      "awayTeamId": "109",
+      "awayTeam": "Rot-Weiss Essen",
+      "awayShortName": "Rot-Weiss Essen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "73113",
+      "groupOrderId": 38,
+      "groupName": "38. Spieltag",
+      "date": "2025-05-17T11:30:00Z",
+      "updated": "2025-05-17T20:28:20.333",
+      "finished": true,
+      "homeTeamId": "1766",
+      "homeTeam": "Hannover 96 II",
+      "homeShortName": "Hannover 96 II",
+      "awayTeamId": "102",
+      "awayTeam": "Hansa Rostock",
+      "awayShortName": "Rostock",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73114",
+      "groupOrderId": 38,
+      "groupName": "38. Spieltag",
+      "date": "2025-05-17T11:30:00Z",
+      "updated": "2025-05-17T20:28:55.49",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "114",
+      "awayTeam": "SC Verl",
+      "awayShortName": "Verl",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "73115",
+      "groupOrderId": 38,
+      "groupName": "38. Spieltag",
+      "date": "2025-05-17T11:30:00Z",
+      "updated": "2025-05-17T20:29:38.567",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "Wiesbaden",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "73116",
+      "groupOrderId": 38,
+      "groupName": "38. Spieltag",
+      "date": "2025-05-17T11:30:00Z",
+      "updated": "2025-05-17T20:30:24.607",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "116",
+      "awayTeam": "SpVgg Unterhaching",
+      "awayShortName": "Unterhaching",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "73117",
+      "groupOrderId": 38,
+      "groupName": "38. Spieltag",
+      "date": "2025-05-17T11:30:00Z",
+      "updated": "2025-05-17T20:31:35.407",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "73118",
+      "groupOrderId": 38,
+      "groupName": "38. Spieltag",
+      "date": "2025-05-17T11:30:00Z",
+      "updated": "2025-05-17T20:32:23.537",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "553",
+      "awayTeam": "SV Waldhof Mannheim",
+      "awayShortName": "Mannheim",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "73119",
+      "groupOrderId": 38,
+      "groupName": "38. Spieltag",
+      "date": "2025-05-17T11:30:00Z",
+      "updated": "2025-05-17T20:33:06.153",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "2199",
+      "awayTeam": "Viktoria Köln",
+      "awayShortName": "Viktoria Köln",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "73120",
+      "groupOrderId": 38,
+      "groupName": "38. Spieltag",
+      "date": "2025-05-17T11:30:00Z",
+      "updated": "2025-05-17T20:34:19.323",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    }
+  ],
+  "standings": [
+    {
+      "teamId": "83",
+      "name": "DSC Arminia Bielefeld",
+      "shortName": "Bielefeld",
+      "position": 1,
+      "played": 38,
+      "wins": 21,
+      "draws": 9,
+      "losses": 8,
+      "goalsFor": 64,
+      "goalsAgainst": 36,
+      "goalDifference": 28,
+      "points": 72
+    },
+    {
+      "teamId": "177",
+      "name": "Dynamo Dresden",
+      "shortName": "Dresden",
+      "position": 2,
+      "played": 38,
+      "wins": 20,
+      "draws": 10,
+      "losses": 8,
+      "goalsFor": 71,
+      "goalsAgainst": 40,
+      "goalDifference": 31,
+      "points": 70
+    },
+    {
+      "teamId": "417",
+      "name": "1. FC Saarbrücken",
+      "shortName": "Saarbrücken",
+      "position": 3,
+      "played": 38,
+      "wins": 18,
+      "draws": 11,
+      "losses": 9,
+      "goalsFor": 59,
+      "goalsAgainst": 47,
+      "goalDifference": 12,
+      "points": 65
+    },
+    {
+      "teamId": "93",
+      "name": "Energie Cottbus",
+      "shortName": "Cottbus",
+      "position": 4,
+      "played": 38,
+      "wins": 18,
+      "draws": 8,
+      "losses": 12,
+      "goalsFor": 64,
+      "goalsAgainst": 54,
+      "goalDifference": 10,
+      "points": 62
+    },
+    {
+      "teamId": "102",
+      "name": "Hansa Rostock",
+      "shortName": "Rostock",
+      "position": 5,
+      "played": 38,
+      "wins": 18,
+      "draws": 6,
+      "losses": 14,
+      "goalsFor": 54,
+      "goalsAgainst": 46,
+      "goalDifference": 8,
+      "points": 60
+    },
+    {
+      "teamId": "2199",
+      "name": "Viktoria Köln",
+      "shortName": "Viktoria Köln",
+      "position": 6,
+      "played": 38,
+      "wins": 18,
+      "draws": 5,
+      "losses": 15,
+      "goalsFor": 59,
+      "goalsAgainst": 48,
+      "goalDifference": 11,
+      "points": 59
+    },
+    {
+      "teamId": "114",
+      "name": "SC Verl",
+      "shortName": "Verl",
+      "position": 7,
+      "played": 38,
+      "wins": 15,
+      "draws": 12,
+      "losses": 11,
+      "goalsFor": 62,
+      "goalsAgainst": 55,
+      "goalDifference": 7,
+      "points": 57
+    },
+    {
+      "teamId": "109",
+      "name": "Rot-Weiss Essen",
+      "shortName": "Rot-Weiss Essen",
+      "position": 8,
+      "played": 38,
+      "wins": 16,
+      "draws": 8,
+      "losses": 14,
+      "goalsFor": 55,
+      "goalsAgainst": 54,
+      "goalDifference": 1,
+      "points": 56
+    },
+    {
+      "teamId": "174",
+      "name": "SV Wehen Wiesbaden",
+      "shortName": "Wiesbaden",
+      "position": 9,
+      "played": 38,
+      "wins": 15,
+      "draws": 10,
+      "losses": 13,
+      "goalsFor": 59,
+      "goalsAgainst": 60,
+      "goalDifference": -1,
+      "points": 55
+    },
+    {
+      "teamId": "171",
+      "name": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt",
+      "position": 10,
+      "played": 38,
+      "wins": 14,
+      "draws": 12,
+      "losses": 12,
+      "goalsFor": 72,
+      "goalsAgainst": 63,
+      "goalDifference": 9,
+      "points": 54
+    },
+    {
+      "teamId": "125",
+      "name": "TSV 1860 München",
+      "shortName": "1860 München",
+      "position": 11,
+      "played": 38,
+      "wins": 15,
+      "draws": 8,
+      "losses": 15,
+      "goalsFor": 57,
+      "goalsAgainst": 61,
+      "goalDifference": -4,
+      "points": 53
+    },
+    {
+      "teamId": "23",
+      "name": "Alemannia Aachen",
+      "shortName": "Aachen",
+      "position": 12,
+      "played": 38,
+      "wins": 12,
+      "draws": 14,
+      "losses": 12,
+      "goalsFor": 44,
+      "goalsAgainst": 44,
+      "goalDifference": 0,
+      "points": 50
+    },
+    {
+      "teamId": "66",
+      "name": "Erzgebirge Aue",
+      "shortName": "Aue",
+      "position": 13,
+      "played": 38,
+      "wins": 15,
+      "draws": 5,
+      "losses": 18,
+      "goalsFor": 52,
+      "goalsAgainst": 65,
+      "goalDifference": -13,
+      "points": 50
+    },
+    {
+      "teamId": "36",
+      "name": "VfL Osnabrück",
+      "shortName": "Osnabrück",
+      "position": 14,
+      "played": 38,
+      "wins": 13,
+      "draws": 9,
+      "losses": 16,
+      "goalsFor": 46,
+      "goalsAgainst": 55,
+      "goalDifference": -9,
+      "points": 48
+    },
+    {
+      "teamId": "184",
+      "name": "VfB Stuttgart II",
+      "shortName": "Stuttgart II",
+      "position": 15,
+      "played": 38,
+      "wins": 12,
+      "draws": 11,
+      "losses": 15,
+      "goalsFor": 49,
+      "goalsAgainst": 59,
+      "goalDifference": -10,
+      "points": 47
+    },
+    {
+      "teamId": "553",
+      "name": "SV Waldhof Mannheim",
+      "shortName": "Mannheim",
+      "position": 16,
+      "played": 38,
+      "wins": 11,
+      "draws": 13,
+      "losses": 14,
+      "goalsFor": 43,
+      "goalsAgainst": 45,
+      "goalDifference": -2,
+      "points": 46
+    },
+    {
+      "teamId": "1714",
+      "name": "Borussia Dortmund II",
+      "shortName": "Dortmund II",
+      "position": 17,
+      "played": 38,
+      "wins": 11,
+      "draws": 10,
+      "losses": 17,
+      "goalsFor": 53,
+      "goalsAgainst": 60,
+      "goalDifference": -7,
+      "points": 43
+    },
+    {
+      "teamId": "1766",
+      "name": "Hannover 96 II",
+      "shortName": "Hannover 96 II",
+      "position": 18,
+      "played": 38,
+      "wins": 9,
+      "draws": 10,
+      "losses": 19,
+      "goalsFor": 51,
+      "goalsAgainst": 70,
+      "goalDifference": -19,
+      "points": 37
+    },
+    {
+      "teamId": "119",
+      "name": "SV Sandhausen",
+      "shortName": "Sandhausen",
+      "position": 19,
+      "played": 38,
+      "wins": 9,
+      "draws": 8,
+      "losses": 21,
+      "goalsFor": 49,
+      "goalsAgainst": 69,
+      "goalDifference": -20,
+      "points": 35
+    },
+    {
+      "teamId": "116",
+      "name": "SpVgg Unterhaching",
+      "shortName": "Unterhaching",
+      "position": 20,
+      "played": 38,
+      "wins": 4,
+      "draws": 13,
+      "losses": 21,
+      "goalsFor": 40,
+      "goalsAgainst": 72,
+      "goalDifference": -32,
+      "points": 25
+    }
+  ],
+  "teams": [
+    {
+      "teamId": "417",
+      "name": "1. FC Saarbrücken",
+      "shortName": "Saarbrücken"
+    },
+    {
+      "teamId": "23",
+      "name": "Alemannia Aachen",
+      "shortName": "Aachen"
+    },
+    {
+      "teamId": "1714",
+      "name": "Borussia Dortmund II",
+      "shortName": "Dortmund II"
+    },
+    {
+      "teamId": "83",
+      "name": "DSC Arminia Bielefeld",
+      "shortName": "Bielefeld"
+    },
+    {
+      "teamId": "177",
+      "name": "Dynamo Dresden",
+      "shortName": "Dresden"
+    },
+    {
+      "teamId": "93",
+      "name": "Energie Cottbus",
+      "shortName": "Cottbus"
+    },
+    {
+      "teamId": "66",
+      "name": "Erzgebirge Aue",
+      "shortName": "Aue"
+    },
+    {
+      "teamId": "171",
+      "name": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt"
+    },
+    {
+      "teamId": "1766",
+      "name": "Hannover 96 II",
+      "shortName": "Hannover 96 II"
+    },
+    {
+      "teamId": "102",
+      "name": "Hansa Rostock",
+      "shortName": "Rostock"
+    },
+    {
+      "teamId": "109",
+      "name": "Rot-Weiss Essen",
+      "shortName": "Rot-Weiss Essen"
+    },
+    {
+      "teamId": "114",
+      "name": "SC Verl",
+      "shortName": "Verl"
+    },
+    {
+      "teamId": "116",
+      "name": "SpVgg Unterhaching",
+      "shortName": "Unterhaching"
+    },
+    {
+      "teamId": "119",
+      "name": "SV Sandhausen",
+      "shortName": "Sandhausen"
+    },
+    {
+      "teamId": "553",
+      "name": "SV Waldhof Mannheim",
+      "shortName": "Mannheim"
+    },
+    {
+      "teamId": "174",
+      "name": "SV Wehen Wiesbaden",
+      "shortName": "Wiesbaden"
+    },
+    {
+      "teamId": "125",
+      "name": "TSV 1860 München",
+      "shortName": "1860 München"
+    },
+    {
+      "teamId": "184",
+      "name": "VfB Stuttgart II",
+      "shortName": "Stuttgart II"
+    },
+    {
+      "teamId": "36",
+      "name": "VfL Osnabrück",
+      "shortName": "Osnabrück"
+    },
+    {
+      "teamId": "2199",
+      "name": "Viktoria Köln",
+      "shortName": "Viktoria Köln"
+    }
+  ],
+  "groupChecks": {}
+}

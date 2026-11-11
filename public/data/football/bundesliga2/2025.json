@@ -1,0 +1,5867 @@
+{
+  "schemaVersion": 1,
+  "id": "bundesliga2",
+  "shortcut": "bl2",
+  "year": 2025,
+  "seasonLabel": "2025/26",
+  "complete": true,
+  "calendarCheckedAt": "2026-11-11T22:45:27.441Z",
+  "updatedAt": "2026-11-11T22:45:27.441Z",
+  "matches": [
+    {
+      "id": "77576",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2025-08-01T18:30:00Z",
+      "updated": "2025-08-01T22:44:39.62",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "77577",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2025-08-02T11:00:00Z",
+      "updated": "2025-08-02T15:01:13.447",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "77578",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2025-08-02T11:00:00Z",
+      "updated": "2025-08-02T15:01:58.36",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "77580",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2025-08-02T11:00:00Z",
+      "updated": "2025-08-02T15:03:05.637",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "77582",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2025-08-02T11:00:00Z",
+      "updated": "2025-08-02T15:01:18.69",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "77584",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2025-08-02T18:30:00Z",
+      "updated": "2025-08-02T22:31:53.06",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "77579",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2025-08-03T11:30:00Z",
+      "updated": "2025-08-03T15:27:09.29",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "77581",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2025-08-03T11:30:00Z",
+      "updated": "2025-08-03T15:21:22.35",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "77583",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2025-08-03T11:30:00Z",
+      "updated": "2025-08-03T15:25:00.023",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "77589",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2025-08-08T16:30:00Z",
+      "updated": "2025-08-08T20:27:41.28",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "77591",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2025-08-08T16:30:00Z",
+      "updated": "2025-08-08T20:25:51.667",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "77587",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2025-08-09T11:00:00Z",
+      "updated": "2025-08-09T15:01:18.027",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "77592",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2025-08-09T11:00:00Z",
+      "updated": "2025-08-09T15:04:46.083",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "77593",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2025-08-09T11:00:00Z",
+      "updated": "2025-08-09T18:27:55.323",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "77588",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2025-08-09T18:30:00Z",
+      "updated": "2025-08-09T22:32:27.313",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "77585",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2025-08-10T11:30:00Z",
+      "updated": "2025-08-10T15:31:48.233",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "77586",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2025-08-10T11:30:00Z",
+      "updated": "2025-08-10T15:32:15.183",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "77590",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2025-08-10T11:30:00Z",
+      "updated": "2025-08-10T15:31:24.75",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "77594",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2025-08-22T16:30:00Z",
+      "updated": "2025-08-22T20:33:35.793",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "77601",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2025-08-22T16:30:00Z",
+      "updated": "2025-08-22T20:23:12.19",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "77595",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2025-08-23T11:00:00Z",
+      "updated": "2025-08-23T17:12:35.32",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "77596",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2025-08-23T11:00:00Z",
+      "updated": "2025-08-23T17:15:12.207",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "77597",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2025-08-23T11:00:00Z",
+      "updated": "2025-08-23T17:13:11.02",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "77600",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2025-08-23T18:30:00Z",
+      "updated": "2025-08-23T22:44:54.013",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "77598",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2025-08-24T11:30:00Z",
+      "updated": "2025-08-24T15:29:48.423",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "77599",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2025-08-24T11:30:00Z",
+      "updated": "2025-08-24T15:24:23.58",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "77602",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2025-08-24T11:30:00Z",
+      "updated": "2025-08-24T15:33:37.717",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "77608",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2025-08-29T16:30:00Z",
+      "updated": "2025-08-30T09:14:58.123",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "77609",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2025-08-29T16:30:00Z",
+      "updated": "2025-08-30T09:14:59.643",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "77603",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2025-08-30T11:00:00Z",
+      "updated": "2025-08-30T14:57:15.807",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "77604",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2025-08-30T11:00:00Z",
+      "updated": "2025-08-30T14:59:57.277",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "77610",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2025-08-30T11:00:00Z",
+      "updated": "2025-08-30T15:07:43.273",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "77606",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2025-08-30T18:30:00Z",
+      "updated": "2025-08-30T23:07:37.22",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "77605",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2025-08-31T11:30:00Z",
+      "updated": "2025-08-31T15:34:50.827",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 4,
+        "away": 5
+      }
+    },
+    {
+      "id": "77607",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2025-08-31T11:30:00Z",
+      "updated": "2025-08-31T15:37:11.68",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "77611",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2025-08-31T11:30:00Z",
+      "updated": "2025-08-31T15:24:44.363",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "77613",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2025-09-12T16:30:00Z",
+      "updated": "2025-09-12T20:49:42.1",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "77620",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2025-09-12T16:30:00Z",
+      "updated": "2025-09-12T20:49:50.093",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "77614",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2025-09-13T11:00:00Z",
+      "updated": "2025-09-13T16:02:43.763",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "77616",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2025-09-13T11:00:00Z",
+      "updated": "2025-09-13T16:03:06.12",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "77618",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2025-09-13T11:00:00Z",
+      "updated": "2025-09-13T16:03:25.15",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "77615",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2025-09-13T18:30:00Z",
+      "updated": "2025-09-13T22:26:06.27",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "77612",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2025-09-14T11:30:00Z",
+      "updated": "2025-09-14T15:35:30.49",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "77617",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2025-09-14T11:30:00Z",
+      "updated": "2025-09-14T15:27:00.863",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "77619",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2025-09-14T11:30:00Z",
+      "updated": "2025-09-14T15:27:20.52",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "77624",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2025-09-19T16:30:00Z",
+      "updated": "2025-09-21T10:22:09.793",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "77628",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2025-09-19T16:30:00Z",
+      "updated": "2025-09-21T10:24:02.217",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "77622",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2025-09-20T11:00:00Z",
+      "updated": "2025-09-21T10:24:56.563",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "77626",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2025-09-20T11:00:00Z",
+      "updated": "2025-09-21T10:25:54.667",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "77627",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2025-09-20T11:00:00Z",
+      "updated": "2025-09-21T10:27:46.537",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "77625",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2025-09-20T18:30:00Z",
+      "updated": "2025-09-20T22:30:53.393",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "77621",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2025-09-21T11:30:00Z",
+      "updated": "2025-09-21T15:25:35.33",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "77623",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2025-09-21T11:30:00Z",
+      "updated": "2025-09-21T15:31:13.843",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "77629",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2025-09-21T11:30:00Z",
+      "updated": "2025-09-21T15:33:28.8",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "77636",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2025-09-26T16:30:00Z",
+      "updated": "2025-09-26T20:29:19.36",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "77637",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2025-09-26T16:30:00Z",
+      "updated": "2025-09-26T20:31:19.127",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "77631",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2025-09-27T11:00:00Z",
+      "updated": "2025-09-27T14:59:18.443",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "77632",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2025-09-27T11:00:00Z",
+      "updated": "2025-09-27T14:59:53.197",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "77633",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2025-09-27T11:00:00Z",
+      "updated": "2025-09-27T14:56:24.083",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "77630",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2025-09-27T18:30:00Z",
+      "updated": "2025-09-27T22:40:07.133",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "77634",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2025-09-28T11:30:00Z",
+      "updated": "2025-09-28T15:30:18.413",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "77635",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2025-09-28T11:30:00Z",
+      "updated": "2025-09-28T20:44:40.743",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "77638",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2025-09-28T11:30:00Z",
+      "updated": "2025-09-28T15:30:52.04",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "77641",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2025-10-03T16:30:00Z",
+      "updated": "2025-10-03T20:36:35.06",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "77645",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2025-10-03T16:30:00Z",
+      "updated": "2025-10-03T20:30:16.967",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "77639",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2025-10-04T11:00:00Z",
+      "updated": "2025-10-04T14:56:29.547",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "77642",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2025-10-04T11:00:00Z",
+      "updated": "2025-10-04T14:57:34.587",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "77643",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2025-10-04T11:00:00Z",
+      "updated": "2025-10-04T15:01:10.08",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "77647",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2025-10-04T18:30:00Z",
+      "updated": "2025-10-04T22:29:19.633",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "77640",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2025-10-05T11:30:00Z",
+      "updated": "2025-10-05T16:01:57.043",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "77644",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2025-10-05T11:30:00Z",
+      "updated": "2025-10-05T16:03:12.037",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "77646",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2025-10-05T11:30:00Z",
+      "updated": "2025-10-05T15:30:14.417",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "77651",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2025-10-17T16:30:00Z",
+      "updated": "2025-10-17T20:29:32.53",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "77653",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2025-10-17T16:30:00Z",
+      "updated": "2025-10-17T20:34:42.9",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "77650",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2025-10-18T11:00:00Z",
+      "updated": "2025-10-19T15:40:42.957",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    {
+      "id": "77652",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2025-10-18T11:00:00Z",
+      "updated": "2025-10-18T22:53:04.82",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "77656",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2025-10-18T11:00:00Z",
+      "updated": "2025-10-18T22:53:29.353",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "77648",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2025-10-18T18:30:00Z",
+      "updated": "2025-10-18T22:27:40.353",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "77649",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2025-10-19T11:30:00Z",
+      "updated": "2025-10-19T15:27:36.853",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": "77654",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2025-10-19T11:30:00Z",
+      "updated": "2025-10-19T15:27:22.943",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "77655",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2025-10-19T11:30:00Z",
+      "updated": "2025-10-19T15:27:15.563",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "77661",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2025-10-24T16:30:00Z",
+      "updated": "2025-10-24T23:34:59.747",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "77662",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2025-10-24T16:30:00Z",
+      "updated": "2025-10-24T23:33:22.803",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "77657",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2025-10-25T11:00:00Z",
+      "updated": "2025-10-25T14:59:34.697",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "77664",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2025-10-25T11:00:00Z",
+      "updated": "2025-10-26T12:27:20.647",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "77665",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2025-10-25T11:00:00Z",
+      "updated": "2025-10-25T15:00:24.587",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "77660",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2025-10-25T18:30:00Z",
+      "updated": "2025-10-25T22:29:27.433",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "77658",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2025-10-26T12:30:00Z",
+      "updated": "2025-10-26T15:29:30.67",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "77659",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2025-10-26T12:30:00Z",
+      "updated": "2025-10-26T15:31:40.44",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "77663",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2025-10-26T12:30:00Z",
+      "updated": "2025-10-26T15:27:53.703",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "77667",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2025-10-31T17:30:00Z",
+      "updated": "2025-11-01T08:50:00.533",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "77674",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2025-10-31T17:30:00Z",
+      "updated": "2025-11-01T08:51:59.913",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "77670",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2025-11-01T12:00:00Z",
+      "updated": "2025-11-01T16:13:32.82",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "77671",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2025-11-01T12:00:00Z",
+      "updated": "2025-11-01T16:18:47.173",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "77672",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2025-11-01T12:00:00Z",
+      "updated": "2025-11-03T14:23:59.267",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "77673",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2025-11-01T19:30:00Z",
+      "updated": "2025-11-01T22:29:51.63",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "77666",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2025-11-02T12:30:00Z",
+      "updated": "2025-11-02T15:30:28.687",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "77668",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2025-11-02T12:30:00Z",
+      "updated": "2025-11-02T15:26:57.053",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "77669",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2025-11-02T12:30:00Z",
+      "updated": "2025-11-02T15:28:16.187",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "77679",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2025-11-07T17:30:00Z",
+      "updated": "2025-11-07T21:50:09.033",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "77683",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2025-11-07T17:30:00Z",
+      "updated": "2025-11-07T20:52:28.4",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "77678",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2025-11-08T12:00:00Z",
+      "updated": "2025-11-08T14:58:38.73",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "77680",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2025-11-08T12:00:00Z",
+      "updated": "2025-11-08T15:00:12.56",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "77682",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2025-11-08T12:00:00Z",
+      "updated": "2025-11-08T14:56:47.983",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "77677",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2025-11-08T19:30:00Z",
+      "updated": "2025-11-08T22:25:57.443",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "77675",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2025-11-09T12:30:00Z",
+      "updated": "2025-11-09T15:31:50.45",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "77676",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2025-11-09T12:30:00Z",
+      "updated": "2025-11-09T15:31:57.363",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "77681",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2025-11-09T12:30:00Z",
+      "updated": "2025-11-09T15:31:59.92",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "78051",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2025-11-21T17:30:00Z",
+      "updated": "2025-11-21T20:31:27.773",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78057",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2025-11-21T17:30:00Z",
+      "updated": "2025-11-21T20:31:32.937",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78052",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2025-11-22T12:00:00Z",
+      "updated": "2025-11-22T20:41:37.93",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "78053",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2025-11-22T12:00:00Z",
+      "updated": "2025-11-22T20:40:20.827",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78059",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2025-11-22T12:00:00Z",
+      "updated": "2025-11-22T15:06:20.58",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "78058",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2025-11-22T19:30:00Z",
+      "updated": "2025-11-22T22:35:25.343",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "78054",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2025-11-23T12:30:00Z",
+      "updated": "2025-11-23T15:26:28.263",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "78055",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2025-11-23T12:30:00Z",
+      "updated": "2025-11-23T15:29:55.257",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "78056",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2025-11-23T12:30:00Z",
+      "updated": "2025-11-23T15:30:09.233",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "78063",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2025-11-28T17:30:00Z",
+      "updated": "2025-11-28T20:27:20.86",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "78065",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2025-11-28T17:30:00Z",
+      "updated": "2025-11-28T20:33:32.093",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78060",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2025-11-29T12:00:00Z",
+      "updated": "2025-11-29T15:00:43.337",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "78064",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2025-11-29T12:00:00Z",
+      "updated": "2025-11-29T15:00:12.99",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "78066",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2025-11-29T12:00:00Z",
+      "updated": "2025-11-29T15:02:42.053",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "78062",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2025-11-29T19:30:00Z",
+      "updated": "2025-11-30T14:22:35.737",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "78061",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2025-11-30T12:30:00Z",
+      "updated": "2025-11-30T15:23:17.757",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "78067",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2025-11-30T12:30:00Z",
+      "updated": "2025-11-30T15:30:17.203",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78068",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2025-11-30T12:30:00Z",
+      "updated": "2025-11-30T15:31:47.943",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78071",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2025-12-05T17:30:00Z",
+      "updated": "2025-12-05T20:53:32.143",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "78076",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2025-12-05T17:30:00Z",
+      "updated": "2025-12-05T20:55:06.833",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "78069",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2025-12-06T12:00:00Z",
+      "updated": "2025-12-06T14:58:27.1",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78070",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2025-12-06T12:00:00Z",
+      "updated": "2025-12-06T15:02:46.863",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78072",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2025-12-06T12:00:00Z",
+      "updated": "2025-12-06T14:58:23.137",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "78075",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2025-12-06T19:30:00Z",
+      "updated": "2025-12-06T22:29:50.87",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "78073",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2025-12-07T12:30:00Z",
+      "updated": "2025-12-07T15:24:00.967",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "78074",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2025-12-07T12:30:00Z",
+      "updated": "2025-12-07T15:30:08.947",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "78077",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2025-12-07T12:30:00Z",
+      "updated": "2025-12-07T15:32:14.293",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78083",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2025-12-12T17:30:00Z",
+      "updated": "2025-12-12T20:28:31.697",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "78086",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2025-12-12T17:30:00Z",
+      "updated": "2025-12-12T20:28:35.003",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "78079",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2025-12-13T12:00:00Z",
+      "updated": "2025-12-13T15:13:26.057",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "78080",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2025-12-13T12:00:00Z",
+      "updated": "2025-12-13T15:13:27.633",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "78085",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2025-12-13T12:00:00Z",
+      "updated": "2025-12-13T15:13:30.45",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "78081",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2025-12-13T19:30:00Z",
+      "updated": "2025-12-13T22:44:50.93",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "78078",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2025-12-14T12:30:00Z",
+      "updated": "2025-12-14T15:24:47.28",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78082",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2025-12-14T12:30:00Z",
+      "updated": "2025-12-14T15:26:37.083",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78084",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2025-12-14T12:30:00Z",
+      "updated": "2025-12-14T15:27:33.587",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78089",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2025-12-19T17:30:00Z",
+      "updated": "2025-12-19T20:33:00.41",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "78093",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2025-12-19T17:30:00Z",
+      "updated": "2025-12-19T20:32:41.953",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78088",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2025-12-20T12:00:00Z",
+      "updated": "2025-12-20T14:57:24.43",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "78090",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2025-12-20T12:00:00Z",
+      "updated": "2025-12-20T14:54:13.693",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78091",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2025-12-20T12:00:00Z",
+      "updated": "2025-12-20T14:57:20.553",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "78087",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2025-12-20T19:30:00Z",
+      "updated": "2025-12-20T22:48:15.03",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78092",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2025-12-21T12:30:00Z",
+      "updated": "2025-12-21T15:26:34.657",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78094",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2025-12-21T12:30:00Z",
+      "updated": "2025-12-21T15:31:29.837",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78095",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2025-12-21T12:30:00Z",
+      "updated": "2025-12-21T15:26:46.503",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78102",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2026-01-16T17:30:00Z",
+      "updated": "2026-01-16T20:30:44.123",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78107",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2026-01-16T17:30:00Z",
+      "updated": "2026-01-16T20:30:28.517",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "78104",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2026-01-17T12:00:00Z",
+      "updated": "2026-01-17T19:05:23.28",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "78106",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2026-01-17T12:00:00Z",
+      "updated": "2026-01-17T19:05:07.183",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "78108",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2026-01-17T12:00:00Z",
+      "updated": "2026-01-17T19:05:01.04",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "78105",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2026-01-17T19:30:00Z",
+      "updated": "2026-01-17T22:28:13.827",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "78100",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2026-01-18T12:30:00Z",
+      "updated": "2026-01-18T15:26:10.227",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "78101",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2026-01-18T12:30:00Z",
+      "updated": "2026-01-18T15:30:46.723",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "78103",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2026-01-18T12:30:00Z",
+      "updated": "2026-01-18T15:24:38.053",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "78114",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2026-01-23T17:30:00Z",
+      "updated": "2026-01-23T20:39:10.35",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "78117",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2026-01-23T17:30:00Z",
+      "updated": "2026-01-23T20:38:57.793",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "78112",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2026-01-24T12:00:00Z",
+      "updated": "2026-01-24T14:56:36.767",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "78113",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2026-01-24T12:00:00Z",
+      "updated": "2026-01-24T14:56:39.5",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78115",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2026-01-24T12:00:00Z",
+      "updated": "2026-01-24T15:02:02.787",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "78111",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2026-01-24T19:30:00Z",
+      "updated": "2026-01-24T23:05:28.11",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78109",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2026-01-25T12:30:00Z",
+      "updated": "2026-01-25T15:26:20.937",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78110",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2026-01-25T12:30:00Z",
+      "updated": "2026-01-25T15:30:38.603",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78116",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2026-01-25T12:30:00Z",
+      "updated": "2026-01-25T15:26:08.86",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "78120",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2026-01-30T17:30:00Z",
+      "updated": "2026-01-30T20:35:56.93",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78122",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2026-01-30T17:30:00Z",
+      "updated": "2026-01-30T20:29:41.603",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78118",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2026-01-31T12:00:00Z",
+      "updated": "2026-01-31T15:01:46.093",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78119",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2026-01-31T12:00:00Z",
+      "updated": "2026-01-31T15:01:41.743",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "78124",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2026-01-31T12:00:00Z",
+      "updated": "2026-01-31T14:55:07.91",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78126",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2026-01-31T19:30:00Z",
+      "updated": "2026-01-31T22:39:38.943",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "78121",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2026-02-01T12:30:00Z",
+      "updated": "2026-02-01T15:30:33.833",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78123",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2026-02-01T12:30:00Z",
+      "updated": "2026-02-01T15:30:31.99",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "78125",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2026-02-01T12:30:00Z",
+      "updated": "2026-02-01T15:25:14.617",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78132",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2026-02-06T17:30:00Z",
+      "updated": "2026-02-06T20:36:40.303",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 4,
+        "away": 5
+      }
+    },
+    {
+      "id": "78134",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2026-02-06T17:30:00Z",
+      "updated": "2026-02-06T20:36:42.497",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78127",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2026-02-07T12:00:00Z",
+      "updated": "2026-02-07T16:46:27.197",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "78128",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2026-02-07T12:00:00Z",
+      "updated": "2026-02-07T16:46:49.11",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78133",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2026-02-07T12:00:00Z",
+      "updated": "2026-02-07T16:45:35.247",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "78131",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2026-02-07T19:30:00Z",
+      "updated": "2026-02-07T22:25:05.503",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "78129",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2026-02-08T12:30:00Z",
+      "updated": "2026-02-08T15:41:54.92",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78130",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2026-02-08T12:30:00Z",
+      "updated": "2026-02-08T15:42:27.217",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "78135",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2026-02-08T12:30:00Z",
+      "updated": "2026-02-08T15:42:09.677",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "78139",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2026-02-13T17:30:00Z",
+      "updated": "2026-02-13T20:25:27.087",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "78141",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2026-02-13T17:30:00Z",
+      "updated": "2026-02-13T20:23:34.39",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "78140",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2026-02-14T12:00:00Z",
+      "updated": "2026-02-14T14:58:10.927",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78142",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2026-02-14T12:00:00Z",
+      "updated": "2026-02-14T15:00:24.303",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "78143",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2026-02-14T12:00:00Z",
+      "updated": "2026-02-14T14:55:09.89",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "78144",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2026-02-14T19:30:00Z",
+      "updated": "2026-02-15T00:26:29.79",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78136",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2026-02-15T12:30:00Z",
+      "updated": "2026-02-15T15:33:57.053",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78137",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2026-02-15T12:30:00Z",
+      "updated": "2026-02-15T15:34:05.14",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "78138",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2026-02-15T12:30:00Z",
+      "updated": "2026-02-15T15:34:14.65",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "78145",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2026-02-20T17:30:00Z",
+      "updated": "2026-02-20T20:26:37.293",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78151",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2026-02-20T17:30:00Z",
+      "updated": "2026-02-20T20:26:39.97",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78146",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2026-02-21T12:00:00Z",
+      "updated": "2026-02-21T19:04:27.79",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "78148",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2026-02-21T12:00:00Z",
+      "updated": "2026-02-21T15:07:39.187",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "78150",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2026-02-21T12:00:00Z",
+      "updated": "2026-02-21T15:07:51.09",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78152",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2026-02-21T19:30:00Z",
+      "updated": "2026-02-21T22:26:37.967",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 5,
+        "away": 3
+      }
+    },
+    {
+      "id": "78147",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2026-02-22T12:30:00Z",
+      "updated": "2026-02-22T15:35:47.643",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 5,
+        "away": 2
+      }
+    },
+    {
+      "id": "78149",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2026-02-22T12:30:00Z",
+      "updated": "2026-02-22T15:35:55.277",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "78153",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2026-02-22T12:30:00Z",
+      "updated": "2026-02-22T15:35:44.343",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "78156",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2026-02-27T17:30:00Z",
+      "updated": "2026-02-27T20:29:17.63",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78162",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2026-02-27T17:30:00Z",
+      "updated": "2026-03-04T13:01:04.503",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "78154",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2026-02-28T12:00:00Z",
+      "updated": "2026-02-28T14:55:48.887",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78157",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2026-02-28T12:00:00Z",
+      "updated": "2026-02-28T15:06:13.13",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78161",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2026-02-28T12:00:00Z",
+      "updated": "2026-02-28T15:01:55.88",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "78159",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2026-02-28T19:30:00Z",
+      "updated": "2026-02-28T22:45:25.883",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78155",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2026-03-01T12:30:00Z",
+      "updated": "2026-03-01T15:38:49.76",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "78158",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2026-03-01T12:30:00Z",
+      "updated": "2026-03-01T15:39:07.083",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78160",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2026-03-01T12:30:00Z",
+      "updated": "2026-03-01T15:39:24.82",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78164",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2026-03-06T17:30:00Z",
+      "updated": "2026-03-06T20:27:58.237",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78170",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2026-03-06T17:30:00Z",
+      "updated": "2026-03-06T20:28:13.547",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78165",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2026-03-07T12:00:00Z",
+      "updated": "2026-03-07T15:06:47.443",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78168",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2026-03-07T12:00:00Z",
+      "updated": "2026-03-07T14:55:35.647",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "78169",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2026-03-07T12:00:00Z",
+      "updated": "2026-03-07T14:59:23.16",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "78163",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2026-03-07T19:30:00Z",
+      "updated": "2026-03-07T23:03:06.21",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "78166",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2026-03-08T12:30:00Z",
+      "updated": "2026-03-08T15:30:23.69",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "78167",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2026-03-08T12:30:00Z",
+      "updated": "2026-03-08T15:30:52.98",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78171",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2026-03-08T12:30:00Z",
+      "updated": "2026-03-08T15:34:14.163",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78173",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2026-03-13T17:30:00Z",
+      "updated": "2026-03-13T20:27:05.057",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78176",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2026-03-13T17:30:00Z",
+      "updated": "2026-03-13T20:28:24.113",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "78172",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2026-03-14T12:00:00Z",
+      "updated": "2026-03-14T15:13:50.017",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "78178",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2026-03-14T12:00:00Z",
+      "updated": "2026-03-14T15:01:18.943",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78179",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2026-03-14T12:00:00Z",
+      "updated": "2026-03-14T15:13:47.613",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "78175",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2026-03-14T19:30:00Z",
+      "updated": "2026-03-14T22:27:53.793",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78174",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2026-03-15T12:30:00Z",
+      "updated": "2026-03-15T15:27:38.41",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "78177",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2026-03-15T12:30:00Z",
+      "updated": "2026-03-15T15:49:43.68",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "78180",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2026-03-15T12:30:00Z",
+      "updated": "2026-03-15T15:24:28.46",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": "78185",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2026-03-20T17:30:00Z",
+      "updated": "2026-03-21T00:03:45.48",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "78186",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2026-03-20T17:30:00Z",
+      "updated": "2026-03-20T20:41:11.143",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78182",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2026-03-21T12:00:00Z",
+      "updated": "2026-03-21T14:57:43.79",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "78183",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2026-03-21T12:00:00Z",
+      "updated": "2026-03-21T14:52:50.377",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78187",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2026-03-21T12:00:00Z",
+      "updated": "2026-03-21T14:54:49.337",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "78188",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2026-03-21T19:30:00Z",
+      "updated": "2026-03-21T22:42:08.657",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78181",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2026-03-22T12:30:00Z",
+      "updated": "2026-03-22T15:29:59.343",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "78184",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2026-03-22T12:30:00Z",
+      "updated": "2026-03-22T15:28:56.21",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 5
+      }
+    },
+    {
+      "id": "78189",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2026-03-22T12:30:00Z",
+      "updated": "2026-03-23T17:41:03.897",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "78191",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2026-04-04T11:00:00Z",
+      "updated": "2026-04-04T15:19:36.773",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "78192",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2026-04-04T11:00:00Z",
+      "updated": "2026-04-04T15:19:10.62",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "78197",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2026-04-04T11:00:00Z",
+      "updated": "2026-04-04T15:14:34.403",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78198",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2026-04-04T18:30:00Z",
+      "updated": "2026-04-04T22:49:50.907",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "78190",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2026-04-05T11:30:00Z",
+      "updated": "2026-04-05T15:23:51.25",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "78193",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2026-04-05T11:30:00Z",
+      "updated": "2026-04-05T15:27:48.593",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78194",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2026-04-05T11:30:00Z",
+      "updated": "2026-04-05T15:24:03.673",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "78195",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2026-04-05T11:30:00Z",
+      "updated": "2026-04-05T15:27:40.673",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78196",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2026-04-05T11:30:00Z",
+      "updated": "2026-04-05T15:27:56.103",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78202",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2026-04-10T16:30:00Z",
+      "updated": "2026-04-10T20:35:49.12",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78203",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2026-04-10T16:30:00Z",
+      "updated": "2026-04-10T20:27:12.317",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "78204",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2026-04-11T11:00:00Z",
+      "updated": "2026-04-11T16:03:19.263",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "78205",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2026-04-11T11:00:00Z",
+      "updated": "2026-04-11T16:04:14.307",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "78207",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2026-04-11T11:00:00Z",
+      "updated": "2026-04-11T16:04:41.87",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "78206",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2026-04-11T18:30:00Z",
+      "updated": "2026-04-11T22:27:40.113",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "78199",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2026-04-12T11:30:00Z",
+      "updated": "2026-04-12T15:46:27.06",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "78200",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2026-04-12T11:30:00Z",
+      "updated": "2026-04-12T15:42:50.11",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78201",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2026-04-12T11:30:00Z",
+      "updated": "2026-04-14T01:08:46.037",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    {
+      "id": "78208",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2026-04-17T16:30:00Z",
+      "updated": "2026-04-17T23:45:16.63",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "78209",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2026-04-17T16:30:00Z",
+      "updated": "2026-04-17T23:49:21.873",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "78210",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2026-04-18T11:00:00Z",
+      "updated": "2026-04-18T15:15:45.637",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "78215",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2026-04-18T11:00:00Z",
+      "updated": "2026-04-18T15:15:36.033",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78216",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2026-04-18T11:00:00Z",
+      "updated": "2026-04-18T15:14:46.827",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "78211",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2026-04-18T18:30:00Z",
+      "updated": "2026-04-18T23:21:54.443",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78212",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2026-04-19T11:30:00Z",
+      "updated": "2026-04-19T16:34:34.873",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "78213",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2026-04-19T11:30:00Z",
+      "updated": "2026-04-19T15:22:49.777",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "78214",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2026-04-19T11:30:00Z",
+      "updated": "2026-04-19T16:34:21.587",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78219",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2026-04-24T16:30:00Z",
+      "updated": "2026-04-24T20:24:20.113",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "78220",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2026-04-24T16:30:00Z",
+      "updated": "2026-04-24T20:23:01.6",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "78221",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2026-04-25T11:00:00Z",
+      "updated": "2026-04-26T19:20:51.45",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "78223",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2026-04-25T11:00:00Z",
+      "updated": "2026-04-25T15:04:42.02",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "78225",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2026-04-25T11:00:00Z",
+      "updated": "2026-04-26T19:05:54.63",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "78224",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2026-04-25T18:30:00Z",
+      "updated": "2026-04-26T08:56:20.447",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "78217",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2026-04-26T11:30:00Z",
+      "updated": "2026-04-26T15:44:44.633",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78218",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2026-04-26T11:30:00Z",
+      "updated": "2026-04-26T19:04:33.847",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "78222",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2026-04-26T11:30:00Z",
+      "updated": "2026-04-26T15:42:50.603",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78226",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2026-05-02T11:00:00Z",
+      "updated": "2026-05-02T16:48:40.727",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "78233",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2026-05-02T11:00:00Z",
+      "updated": "2026-05-02T14:57:31.213",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78234",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2026-05-02T11:00:00Z",
+      "updated": "2026-05-02T14:56:35.613",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78232",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2026-05-02T18:30:00Z",
+      "updated": "2026-05-02T22:25:39.253",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78227",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2026-05-03T11:30:00Z",
+      "updated": "2026-05-03T15:29:09.273",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "78228",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2026-05-03T11:30:00Z",
+      "updated": "2026-05-03T15:27:13.823",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78229",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2026-05-03T11:30:00Z",
+      "updated": "2026-05-03T15:26:58.513",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78230",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2026-05-03T11:30:00Z",
+      "updated": "2026-05-03T15:30:57.643",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "78231",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2026-05-03T11:30:00Z",
+      "updated": "2026-05-03T15:26:14.6",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78237",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2026-05-08T16:30:00Z",
+      "updated": "2026-05-11T19:58:12.58",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "78239",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2026-05-08T16:30:00Z",
+      "updated": "2026-05-11T19:58:19.967",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "78235",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2026-05-09T11:00:00Z",
+      "updated": "2026-05-09T14:55:11.283",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "78236",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2026-05-09T11:00:00Z",
+      "updated": "2026-05-09T14:59:43.93",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78243",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2026-05-09T11:00:00Z",
+      "updated": "2026-05-09T14:59:27.91",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78240",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2026-05-09T18:30:00Z",
+      "updated": "2026-05-09T22:28:45.723",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "78238",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2026-05-10T11:30:00Z",
+      "updated": "2026-05-11T19:59:07.307",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "198",
+      "awayTeam": "SV 07 Elversberg",
+      "awayShortName": "Elversberg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "78241",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2026-05-10T11:30:00Z",
+      "updated": "2026-05-10T15:28:29.7",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "78242",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2026-05-10T11:30:00Z",
+      "updated": "2026-05-11T19:59:17.56",
+      "finished": true,
+      "homeTeamId": "188",
+      "homeTeam": "Preußen Münster",
+      "homeShortName": "Münster",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "78244",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2026-05-17T13:30:00Z",
+      "updated": "2026-05-17T17:24:54.13",
+      "finished": true,
+      "homeTeamId": "198",
+      "homeTeam": "SV 07 Elversberg",
+      "homeShortName": "Elversberg",
+      "awayTeamId": "188",
+      "awayTeam": "Preußen Münster",
+      "awayShortName": "Münster",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "78245",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2026-05-17T13:30:00Z",
+      "updated": "2026-05-17T17:24:42.013",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "78246",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2026-05-17T13:30:00Z",
+      "updated": "2026-05-17T17:24:58.29",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "78247",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2026-05-17T13:30:00Z",
+      "updated": "2026-05-17T17:29:52.33",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "78248",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2026-05-17T13:30:00Z",
+      "updated": "2026-05-17T17:27:36.48",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "78249",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2026-05-17T13:30:00Z",
+      "updated": "2026-05-17T17:24:48.1",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "78250",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2026-05-17T13:30:00Z",
+      "updated": "2026-05-17T17:29:19.027",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "78251",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2026-05-17T13:30:00Z",
+      "updated": "2026-05-17T17:27:08.63",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 6,
+        "away": 1
+      }
+    },
+    {
+      "id": "78252",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2026-05-17T13:30:00Z",
+      "updated": "2026-05-17T17:27:41.937",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    }
+  ],
+  "standings": [
+    {
+      "teamId": "9",
+      "name": "FC Schalke 04",
+      "shortName": "S04",
+      "position": 1,
+      "played": 34,
+      "wins": 21,
+      "draws": 7,
+      "losses": 6,
+      "goalsFor": 50,
+      "goalsAgainst": 31,
+      "goalDifference": 19,
+      "points": 70
+    },
+    {
+      "teamId": "198",
+      "name": "SV 07 Elversberg",
+      "shortName": "Elversberg",
+      "position": 2,
+      "played": 34,
+      "wins": 18,
+      "draws": 8,
+      "losses": 8,
+      "goalsFor": 64,
+      "goalsAgainst": 39,
+      "goalDifference": 25,
+      "points": 62
+    },
+    {
+      "teamId": "31",
+      "name": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "position": 3,
+      "played": 34,
+      "wins": 18,
+      "draws": 8,
+      "losses": 8,
+      "goalsFor": 59,
+      "goalsAgainst": 45,
+      "goalDifference": 14,
+      "points": 62
+    },
+    {
+      "teamId": "55",
+      "name": "Hannover 96",
+      "shortName": "Hannover",
+      "position": 4,
+      "played": 34,
+      "wins": 16,
+      "draws": 12,
+      "losses": 6,
+      "goalsFor": 60,
+      "goalsAgainst": 44,
+      "goalDifference": 16,
+      "points": 60
+    },
+    {
+      "teamId": "118",
+      "name": "SV Darmstadt 98",
+      "shortName": "Darmstadt",
+      "position": 5,
+      "played": 34,
+      "wins": 13,
+      "draws": 13,
+      "losses": 8,
+      "goalsFor": 57,
+      "goalsAgainst": 45,
+      "goalDifference": 12,
+      "points": 52
+    },
+    {
+      "teamId": "76",
+      "name": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "position": 6,
+      "played": 34,
+      "wins": 16,
+      "draws": 4,
+      "losses": 14,
+      "goalsFor": 52,
+      "goalsAgainst": 47,
+      "goalDifference": 5,
+      "points": 52
+    },
+    {
+      "teamId": "54",
+      "name": "Hertha BSC",
+      "shortName": "Hertha",
+      "position": 7,
+      "played": 34,
+      "wins": 14,
+      "draws": 9,
+      "losses": 11,
+      "goalsFor": 47,
+      "goalsAgainst": 44,
+      "goalDifference": 3,
+      "points": 51
+    },
+    {
+      "teamId": "79",
+      "name": "1. FC Nürnberg",
+      "shortName": "Nürnberg",
+      "position": 8,
+      "played": 34,
+      "wins": 12,
+      "draws": 10,
+      "losses": 12,
+      "goalsFor": 47,
+      "goalsAgainst": 45,
+      "goalDifference": 2,
+      "points": 46
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum",
+      "position": 9,
+      "played": 34,
+      "wins": 11,
+      "draws": 11,
+      "losses": 12,
+      "goalsFor": 49,
+      "goalsAgainst": 47,
+      "goalDifference": 2,
+      "points": 44
+    },
+    {
+      "teamId": "105",
+      "name": "Karlsruher SC",
+      "shortName": "Karlsruhe",
+      "position": 10,
+      "played": 34,
+      "wins": 12,
+      "draws": 8,
+      "losses": 14,
+      "goalsFor": 53,
+      "goalsAgainst": 64,
+      "goalDifference": -11,
+      "points": 44
+    },
+    {
+      "teamId": "177",
+      "name": "Dynamo Dresden",
+      "shortName": "Dresden",
+      "position": 11,
+      "played": 34,
+      "wins": 11,
+      "draws": 8,
+      "losses": 15,
+      "goalsFor": 54,
+      "goalsAgainst": 53,
+      "goalDifference": 1,
+      "points": 41
+    },
+    {
+      "teamId": "104",
+      "name": "Holstein Kiel",
+      "shortName": "Kiel",
+      "position": 12,
+      "played": 34,
+      "wins": 11,
+      "draws": 8,
+      "losses": 15,
+      "goalsFor": 44,
+      "goalsAgainst": 48,
+      "goalDifference": -4,
+      "points": 41
+    },
+    {
+      "teamId": "83",
+      "name": "DSC Arminia Bielefeld",
+      "shortName": "Bielefeld",
+      "position": 13,
+      "played": 34,
+      "wins": 10,
+      "draws": 9,
+      "losses": 15,
+      "goalsFor": 53,
+      "goalsAgainst": 51,
+      "goalDifference": 2,
+      "points": 39
+    },
+    {
+      "teamId": "78",
+      "name": "1. FC Magdeburg",
+      "shortName": "Magdeburg",
+      "position": 14,
+      "played": 34,
+      "wins": 12,
+      "draws": 3,
+      "losses": 19,
+      "goalsFor": 52,
+      "goalsAgainst": 58,
+      "goalDifference": -6,
+      "points": 39
+    },
+    {
+      "teamId": "74",
+      "name": "Eintracht Braunschweig",
+      "shortName": "Braunschweig",
+      "position": 15,
+      "played": 34,
+      "wins": 10,
+      "draws": 7,
+      "losses": 17,
+      "goalsFor": 36,
+      "goalsAgainst": 54,
+      "goalDifference": -18,
+      "points": 37
+    },
+    {
+      "teamId": "115",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "position": 16,
+      "played": 34,
+      "wins": 10,
+      "draws": 7,
+      "losses": 17,
+      "goalsFor": 49,
+      "goalsAgainst": 68,
+      "goalDifference": -19,
+      "points": 37
+    },
+    {
+      "teamId": "185",
+      "name": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf",
+      "position": 17,
+      "played": 34,
+      "wins": 11,
+      "draws": 4,
+      "losses": 19,
+      "goalsFor": 33,
+      "goalsAgainst": 53,
+      "goalDifference": -20,
+      "points": 37
+    },
+    {
+      "teamId": "188",
+      "name": "Preußen Münster",
+      "shortName": "Münster",
+      "position": 18,
+      "played": 34,
+      "wins": 6,
+      "draws": 12,
+      "losses": 16,
+      "goalsFor": 38,
+      "goalsAgainst": 61,
+      "goalDifference": -23,
+      "points": 30
+    }
+  ],
+  "teams": [
+    {
+      "teamId": "76",
+      "name": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern"
+    },
+    {
+      "teamId": "78",
+      "name": "1. FC Magdeburg",
+      "shortName": "Magdeburg"
+    },
+    {
+      "teamId": "79",
+      "name": "1. FC Nürnberg",
+      "shortName": "Nürnberg"
+    },
+    {
+      "teamId": "83",
+      "name": "DSC Arminia Bielefeld",
+      "shortName": "Bielefeld"
+    },
+    {
+      "teamId": "177",
+      "name": "Dynamo Dresden",
+      "shortName": "Dresden"
+    },
+    {
+      "teamId": "74",
+      "name": "Eintracht Braunschweig",
+      "shortName": "Braunschweig"
+    },
+    {
+      "teamId": "9",
+      "name": "FC Schalke 04",
+      "shortName": "S04"
+    },
+    {
+      "teamId": "185",
+      "name": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf"
+    },
+    {
+      "teamId": "55",
+      "name": "Hannover 96",
+      "shortName": "Hannover"
+    },
+    {
+      "teamId": "54",
+      "name": "Hertha BSC",
+      "shortName": "Hertha"
+    },
+    {
+      "teamId": "104",
+      "name": "Holstein Kiel",
+      "shortName": "Kiel"
+    },
+    {
+      "teamId": "105",
+      "name": "Karlsruher SC",
+      "shortName": "Karlsruhe"
+    },
+    {
+      "teamId": "188",
+      "name": "Preußen Münster",
+      "shortName": "Münster"
+    },
+    {
+      "teamId": "31",
+      "name": "SC Paderborn 07",
+      "shortName": "Paderborn"
+    },
+    {
+      "teamId": "115",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth"
+    },
+    {
+      "teamId": "198",
+      "name": "SV 07 Elversberg",
+      "shortName": "Elversberg"
+    },
+    {
+      "teamId": "118",
+      "name": "SV Darmstadt 98",
+      "shortName": "Darmstadt"
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum"
+    }
+  ],
+  "groupChecks": {}
+}

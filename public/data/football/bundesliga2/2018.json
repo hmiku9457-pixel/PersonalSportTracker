@@ -1,0 +1,5867 @@
+{
+  "schemaVersion": 1,
+  "id": "bundesliga2",
+  "shortcut": "bl2",
+  "year": 2018,
+  "seasonLabel": "2018/19",
+  "complete": true,
+  "calendarCheckedAt": "2026-11-12T13:47:01.587Z",
+  "updatedAt": "2026-11-12T13:47:01.587Z",
+  "matches": [
+    {
+      "id": "51486",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2018-08-03T18:30:00Z",
+      "updated": "2018-08-03T22:25:34.287",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "51488",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2018-08-04T11:00:00Z",
+      "updated": "2018-08-04T14:58:40.143",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "51487",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2018-08-04T13:30:00Z",
+      "updated": "2018-08-04T17:22:28.427",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51493",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2018-08-04T13:30:00Z",
+      "updated": "2018-08-04T17:23:52.45",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "51494",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2018-08-05T11:30:00Z",
+      "updated": "2018-08-05T16:25:57.143",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51489",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2018-08-05T13:30:00Z",
+      "updated": "2018-08-05T17:26:27.05",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51490",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2018-08-05T13:30:00Z",
+      "updated": "2018-08-05T17:24:09.467",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51491",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2018-08-05T13:30:00Z",
+      "updated": "2018-08-05T17:27:48.463",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51492",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2018-08-06T18:30:00Z",
+      "updated": "2018-08-07T08:00:18.773",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51499",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2018-08-10T16:30:00Z",
+      "updated": "2018-08-11T04:01:27.423",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51503",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2018-08-10T16:30:00Z",
+      "updated": "2018-08-10T23:45:58.757",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51501",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2018-08-10T18:30:00Z",
+      "updated": "2018-08-10T23:46:03.457",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51498",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2018-08-11T11:00:00Z",
+      "updated": "2018-08-11T15:24:25.353",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "51497",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2018-08-11T13:30:00Z",
+      "updated": "2018-08-11T17:28:30.713",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51500",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2018-08-12T11:30:00Z",
+      "updated": "2018-08-12T15:27:30.95",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "51496",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2018-08-12T13:30:00Z",
+      "updated": "2018-08-12T17:23:05.687",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51502",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2018-08-12T13:30:00Z",
+      "updated": "2018-08-12T17:22:43.31",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51495",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2018-08-13T18:30:00Z",
+      "updated": "2018-08-13T22:51:25.81",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51507",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2018-08-24T16:30:00Z",
+      "updated": "2018-08-27T10:40:18.87",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51509",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2018-08-24T16:30:00Z",
+      "updated": "2018-08-27T10:39:42.167",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "51505",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2018-08-25T11:00:00Z",
+      "updated": "2018-08-27T10:38:29.37",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "51511",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2018-08-25T11:00:00Z",
+      "updated": "2018-08-25T16:47:46.19",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51512",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2018-08-25T11:00:00Z",
+      "updated": "2018-08-25T16:48:34.333",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51506",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2018-08-26T11:30:00Z",
+      "updated": "2018-08-26T17:25:10.863",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51508",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2018-08-26T11:30:00Z",
+      "updated": "2018-08-27T10:27:28.303",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "51510",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2018-08-26T11:30:00Z",
+      "updated": "2018-08-27T10:22:09.63",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "51504",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2018-08-27T18:30:00Z",
+      "updated": "2018-08-28T07:43:45.317",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "51516",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2018-08-31T16:30:00Z",
+      "updated": "2018-08-31T20:36:21.697",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "51521",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2018-08-31T16:30:00Z",
+      "updated": "2018-08-31T20:36:52.29",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51514",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2018-09-01T11:00:00Z",
+      "updated": "2018-09-02T08:27:00.733",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 5,
+        "away": 3
+      }
+    },
+    {
+      "id": "51515",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2018-09-01T11:00:00Z",
+      "updated": "2018-09-02T08:28:16.893",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51517",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2018-09-02T11:30:00Z",
+      "updated": "2018-09-02T16:00:30.767",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51518",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2018-09-02T11:30:00Z",
+      "updated": "2018-09-02T17:44:56.683",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 3,
+        "away": 5
+      }
+    },
+    {
+      "id": "51519",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2018-09-02T11:30:00Z",
+      "updated": "2018-09-02T16:01:38.297",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51513",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2018-09-03T18:30:00Z",
+      "updated": "2018-09-04T10:03:36.417",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51520",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2018-09-18T16:30:00Z",
+      "updated": "2018-09-19T16:56:52.723",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51524",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2018-09-14T16:30:00Z",
+      "updated": "2018-09-14T23:07:48.523",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "51526",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2018-09-14T16:30:00Z",
+      "updated": "2018-09-15T14:00:13.373",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51522",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2018-09-15T11:00:00Z",
+      "updated": "2018-09-16T13:55:06.19",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "51527",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2018-09-15T11:00:00Z",
+      "updated": "2018-09-16T13:59:09.11",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51528",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2018-09-15T11:00:00Z",
+      "updated": "2018-09-16T14:01:40.663",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "51523",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2018-09-16T11:30:00Z",
+      "updated": "2018-09-16T17:22:38.543",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 3,
+        "away": 5
+      }
+    },
+    {
+      "id": "51525",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2018-09-16T11:30:00Z",
+      "updated": "2018-09-16T17:22:49.323",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": "51529",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2018-09-16T11:30:00Z",
+      "updated": "2018-09-16T17:23:07.217",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "51530",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2018-09-17T18:30:00Z",
+      "updated": "2018-09-17T22:59:02.36",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51535",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2018-09-21T16:30:00Z",
+      "updated": "2018-09-21T20:23:36.09",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51536",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2018-09-21T16:30:00Z",
+      "updated": "2018-09-21T20:22:10.497",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "51532",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2018-09-22T11:00:00Z",
+      "updated": "2018-09-22T18:14:29.98",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51533",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2018-09-22T11:00:00Z",
+      "updated": "2018-09-22T18:14:36.103",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51538",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2018-09-22T11:00:00Z",
+      "updated": "2018-09-22T18:14:43.337",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "51531",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2018-09-23T11:30:00Z",
+      "updated": "2018-09-23T17:52:56",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "51534",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2018-09-23T11:30:00Z",
+      "updated": "2018-09-23T17:52:50.843",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51537",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2018-09-23T11:30:00Z",
+      "updated": "2018-09-23T17:52:44.797",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51539",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2018-09-23T11:30:00Z",
+      "updated": "2018-09-23T17:52:37.873",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 4,
+        "away": 4
+      }
+    },
+    {
+      "id": "51540",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2018-09-25T16:30:00Z",
+      "updated": "2018-09-25T21:50:55.9",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51542",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2018-09-25T16:30:00Z",
+      "updated": "2018-09-25T21:51:40.853",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51543",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2018-09-25T16:30:00Z",
+      "updated": "2018-09-25T21:52:36.297",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51544",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2018-09-25T16:30:00Z",
+      "updated": "2018-09-25T21:53:50.843",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51541",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2018-09-26T16:30:00Z",
+      "updated": "2018-09-26T20:35:13.05",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51545",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2018-09-26T16:30:00Z",
+      "updated": "2018-09-26T20:36:08.143",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51547",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2018-09-26T16:30:00Z",
+      "updated": "2018-09-26T20:36:46.91",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "51548",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2018-09-26T16:30:00Z",
+      "updated": "2018-09-26T20:39:04.597",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "51546",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2018-09-27T18:30:00Z",
+      "updated": "2018-09-27T22:25:37.717",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51550",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2018-09-28T16:30:00Z",
+      "updated": "2018-09-29T12:22:02.277",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "51551",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2018-09-28T16:30:00Z",
+      "updated": "2018-09-29T12:24:40.167",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "51552",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2018-09-29T11:00:00Z",
+      "updated": "2018-09-29T15:55:40.877",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "51555",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2018-09-29T11:00:00Z",
+      "updated": "2018-09-29T15:54:08.83",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "51557",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2018-09-29T11:00:00Z",
+      "updated": "2018-09-29T15:52:22.547",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51549",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2018-09-30T11:30:00Z",
+      "updated": "2018-09-30T15:22:37.853",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51554",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2018-09-30T11:30:00Z",
+      "updated": "2018-09-30T15:22:47.51",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51556",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2018-09-30T11:30:00Z",
+      "updated": "2018-09-30T15:23:21.53",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51553",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2018-10-01T18:30:00Z",
+      "updated": "2018-10-01T22:35:41.417",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51559",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2018-10-05T16:30:00Z",
+      "updated": "2018-10-05T20:24:25.033",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51562",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2018-10-05T16:30:00Z",
+      "updated": "2018-10-05T20:24:06.673",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51564",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2018-10-06T11:00:00Z",
+      "updated": "2018-10-06T15:07:54.587",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51565",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2018-10-06T11:00:00Z",
+      "updated": "2018-10-06T15:09:15.12",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51566",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2018-10-06T11:00:00Z",
+      "updated": "2018-10-06T15:11:37.23",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51560",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2018-10-07T11:30:00Z",
+      "updated": "2018-10-07T15:30:20.757",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51561",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2018-10-07T11:30:00Z",
+      "updated": "2018-10-07T15:30:19.18",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51563",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2018-10-07T11:30:00Z",
+      "updated": "2018-10-07T15:30:24.117",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "51558",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2018-10-08T18:30:00Z",
+      "updated": "2018-10-09T09:21:05.363",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51572",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2018-10-19T16:30:00Z",
+      "updated": "2018-10-19T21:29:56.567",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "51574",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2018-10-19T16:30:00Z",
+      "updated": "2018-10-19T21:31:35.83",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51568",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2018-10-20T11:00:00Z",
+      "updated": "2018-10-20T14:52:34.253",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51569",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2018-10-20T11:00:00Z",
+      "updated": "2018-10-20T14:55:20.01",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "51573",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2018-10-20T11:00:00Z",
+      "updated": "2018-10-20T14:54:31.587",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "51567",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2018-10-21T11:30:00Z",
+      "updated": "2018-10-21T15:21:03.183",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51570",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2018-10-21T11:30:00Z",
+      "updated": "2018-10-21T15:22:46.437",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51575",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2018-10-21T11:30:00Z",
+      "updated": "2018-10-21T15:22:14.51",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51571",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2018-10-22T18:30:00Z",
+      "updated": "2018-10-22T22:21:36.503",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51580",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2018-10-26T16:30:00Z",
+      "updated": "2018-10-26T20:21:53.887",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51583",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2018-10-26T16:30:00Z",
+      "updated": "2018-10-26T20:22:50.217",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51576",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2018-10-27T11:00:00Z",
+      "updated": "2018-10-27T17:45:55.337",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51582",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2018-10-27T11:00:00Z",
+      "updated": "2018-10-27T17:46:27.047",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51584",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2018-10-27T11:00:00Z",
+      "updated": "2018-10-27T17:48:37.413",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "51578",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2018-10-28T12:30:00Z",
+      "updated": "2018-10-28T16:05:01.623",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51579",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2018-10-28T12:30:00Z",
+      "updated": "2018-10-28T16:06:03.78",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51581",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2018-10-28T12:30:00Z",
+      "updated": "2018-10-28T16:06:45.543",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51577",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2018-10-29T19:30:00Z",
+      "updated": "2018-10-30T07:49:42.22",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "51592",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2018-11-02T17:30:00Z",
+      "updated": "2018-11-02T21:33:52.09",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "51593",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2018-11-02T17:30:00Z",
+      "updated": "2018-11-02T21:15:22.147",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51586",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2018-11-03T12:00:00Z",
+      "updated": "2018-11-03T21:05:29.91",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51589",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2018-11-03T12:00:00Z",
+      "updated": "2018-11-03T20:59:14.457",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51590",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2018-11-03T12:00:00Z",
+      "updated": "2018-11-03T21:02:15.16",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "51587",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2018-11-04T12:30:00Z",
+      "updated": "2018-11-04T15:24:47.19",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51588",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2018-11-04T12:30:00Z",
+      "updated": "2018-11-04T15:24:54.063",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51591",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2018-11-04T12:30:00Z",
+      "updated": "2018-11-04T15:25:13.363",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51585",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2018-11-05T19:30:00Z",
+      "updated": "2018-11-05T22:21:54.467",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51598",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2018-11-09T17:30:00Z",
+      "updated": "2018-11-10T14:23:03.007",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51602",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2018-11-09T17:30:00Z",
+      "updated": "2018-11-12T22:06:44.53",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 4,
+        "away": 4
+      }
+    },
+    {
+      "id": "51594",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2018-11-10T12:00:00Z",
+      "updated": "2018-11-12T22:14:12.06",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 8,
+        "away": 1
+      }
+    },
+    {
+      "id": "51599",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2018-11-10T12:00:00Z",
+      "updated": "2018-11-10T14:54:16.36",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51600",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2018-11-10T12:00:00Z",
+      "updated": "2018-11-10T14:53:33.56",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "51596",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2018-11-11T12:30:00Z",
+      "updated": "2018-11-11T19:40:37.163",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "51597",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2018-11-11T12:30:00Z",
+      "updated": "2018-11-11T19:41:31.103",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51601",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2018-11-11T12:30:00Z",
+      "updated": "2018-11-12T22:16:20.687",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "51595",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2018-11-12T19:30:00Z",
+      "updated": "2018-11-12T22:22:35.277",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51605",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2018-11-23T17:30:00Z",
+      "updated": "2018-11-23T20:56:18.82",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51611",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2018-11-23T17:30:00Z",
+      "updated": "2018-11-23T20:57:25.213",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "51604",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2018-11-24T12:00:00Z",
+      "updated": "2018-11-24T15:35:33.247",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51607",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2018-11-24T12:00:00Z",
+      "updated": "2018-11-24T15:35:50.353",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51608",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2018-11-24T12:00:00Z",
+      "updated": "2018-11-24T15:36:10.667",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "51606",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2018-11-25T12:30:00Z",
+      "updated": "2018-11-25T22:21:26.33",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51609",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2018-11-25T12:30:00Z",
+      "updated": "2018-11-25T15:33:22.513",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 5
+      }
+    },
+    {
+      "id": "51610",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2018-11-25T12:30:00Z",
+      "updated": "2018-11-25T15:34:06.357",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51603",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2018-11-26T19:30:00Z",
+      "updated": "2018-11-26T22:22:22.46",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51618",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2018-11-30T17:30:00Z",
+      "updated": "2018-12-01T12:40:25.583",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51620",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2018-11-30T17:30:00Z",
+      "updated": "2018-12-01T12:41:55.717",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51612",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2018-12-01T12:00:00Z",
+      "updated": "2018-12-01T14:55:04.467",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "51614",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2018-12-01T12:00:00Z",
+      "updated": "2018-12-01T14:52:30.117",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "51615",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2018-12-01T12:00:00Z",
+      "updated": "2018-12-01T14:52:06.163",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51617",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2018-12-01T12:00:00Z",
+      "updated": "2018-12-01T14:53:07.85",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51613",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2018-12-02T12:30:00Z",
+      "updated": "2018-12-02T16:11:13.043",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "51616",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2018-12-02T12:30:00Z",
+      "updated": "2018-12-02T17:28:03.68",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51619",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2018-12-02T12:30:00Z",
+      "updated": "2018-12-02T15:43:51.02",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51621",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2018-12-07T17:30:00Z",
+      "updated": "2018-12-08T13:50:13.48",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51623",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2018-12-07T17:30:00Z",
+      "updated": "2018-12-08T13:46:11.023",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "51625",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2018-12-08T12:00:00Z",
+      "updated": "2018-12-08T14:51:32.59",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51626",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2018-12-08T12:00:00Z",
+      "updated": "2018-12-08T14:52:13.323",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "51628",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2018-12-08T12:00:00Z",
+      "updated": "2018-12-08T14:52:26.543",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "51622",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2018-12-09T12:30:00Z",
+      "updated": "2018-12-09T15:24:00.943",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51627",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2018-12-09T12:30:00Z",
+      "updated": "2018-12-09T15:22:35.74",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "51629",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2018-12-09T12:30:00Z",
+      "updated": "2018-12-09T15:22:59.973",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51624",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2018-12-10T19:30:00Z",
+      "updated": "2018-12-10T22:25:52.113",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "51631",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2018-12-14T17:30:00Z",
+      "updated": "2018-12-14T20:23:18.617",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51632",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2018-12-14T17:30:00Z",
+      "updated": "2018-12-14T20:25:00.37",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51633",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2018-12-15T12:00:00Z",
+      "updated": "2018-12-15T14:56:43.63",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51636",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2018-12-15T12:00:00Z",
+      "updated": "2018-12-15T14:55:59.923",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51638",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2018-12-15T12:00:00Z",
+      "updated": "2018-12-15T14:56:58.587",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "51634",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2018-12-16T12:30:00Z",
+      "updated": "2018-12-16T17:27:15.977",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51635",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2018-12-16T12:30:00Z",
+      "updated": "2018-12-16T15:26:53.817",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51637",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2018-12-16T12:30:00Z",
+      "updated": "2018-12-16T15:24:37.737",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51630",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2018-12-17T19:30:00Z",
+      "updated": "2018-12-17T22:19:57.55",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "51639",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2018-12-21T17:30:00Z",
+      "updated": "2018-12-21T21:24:05.367",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "51644",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2018-12-21T17:30:00Z",
+      "updated": "2018-12-21T21:24:08.337",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51641",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2018-12-22T12:00:00Z",
+      "updated": "2018-12-22T14:52:47.823",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51643",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2018-12-22T12:00:00Z",
+      "updated": "2018-12-22T14:52:52.697",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51645",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2018-12-22T12:00:00Z",
+      "updated": "2018-12-22T14:53:12.277",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "51640",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2018-12-23T12:30:00Z",
+      "updated": "2018-12-23T15:22:33.477",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "51642",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2018-12-23T12:30:00Z",
+      "updated": "2018-12-23T15:24:00.43",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "51646",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2018-12-23T12:30:00Z",
+      "updated": "2018-12-23T15:21:43.927",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "51647",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2018-12-23T12:30:00Z",
+      "updated": "2018-12-23T15:19:49.39",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 6,
+        "away": 2
+      }
+    },
+    {
+      "id": "51650",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2019-01-29T17:30:00Z",
+      "updated": "2019-01-29T22:38:35.263",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51652",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2019-01-29T19:30:00Z",
+      "updated": "2019-01-29T22:35:06.233",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51655",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2019-01-29T19:30:00Z",
+      "updated": "2019-01-29T22:36:08.653",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51656",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2019-01-29T19:30:00Z",
+      "updated": "2019-01-29T22:36:57.543",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51649",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2019-01-30T17:30:00Z",
+      "updated": "2019-01-30T20:39:08.487",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51648",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2019-01-30T19:30:00Z",
+      "updated": "2019-01-30T22:21:57.137",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51653",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2019-01-30T19:30:00Z",
+      "updated": "2019-01-30T22:21:47.4",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51654",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2019-01-30T19:30:00Z",
+      "updated": "2019-01-30T22:24:41.75",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 3,
+        "away": 4
+      }
+    },
+    {
+      "id": "51651",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2019-01-31T19:30:00Z",
+      "updated": "2019-01-31T22:25:29.647",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51659",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2019-02-01T17:30:00Z",
+      "updated": "2019-02-01T20:26:24.44",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "51660",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2019-02-01T17:30:00Z",
+      "updated": "2019-02-01T20:26:28.363",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51658",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2019-02-02T12:00:00Z",
+      "updated": "2019-02-02T14:54:39.213",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51663",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2019-02-02T12:00:00Z",
+      "updated": "2019-02-02T14:54:03.557",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51665",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2019-02-02T12:00:00Z",
+      "updated": "2019-02-02T14:53:32.81",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": "51657",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2019-02-03T12:30:00Z",
+      "updated": "2019-02-03T15:24:05.82",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51661",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2019-02-03T12:30:00Z",
+      "updated": "2019-02-03T15:21:12.647",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "51662",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2019-02-04T19:30:00Z",
+      "updated": "2019-02-05T08:40:37.107",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "51664",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2019-02-27T18:00:00Z",
+      "updated": "2019-02-27T21:22:21.717",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51667",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2019-02-08T17:30:00Z",
+      "updated": "2019-02-08T20:19:17.673",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "51668",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2019-02-08T17:30:00Z",
+      "updated": "2019-02-08T20:22:49.127",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "51669",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2019-02-09T12:00:00Z",
+      "updated": "2019-02-09T15:55:01.547",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51670",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2019-02-09T12:00:00Z",
+      "updated": "2019-02-09T15:59:07.363",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51672",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2019-02-09T12:00:00Z",
+      "updated": "2019-02-09T15:57:46.197",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51671",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2019-02-10T12:30:00Z",
+      "updated": "2019-02-10T19:18:18.653",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51673",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2019-02-10T12:30:00Z",
+      "updated": "2019-02-10T19:19:49.717",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "51674",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2019-02-10T12:30:00Z",
+      "updated": "2019-02-10T19:21:46.093",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51666",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2019-02-11T19:30:00Z",
+      "updated": "2019-02-11T22:23:17.647",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51679",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2019-02-15T17:30:00Z",
+      "updated": "2019-02-15T20:21:47.877",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51683",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2019-02-15T17:30:00Z",
+      "updated": "2019-02-15T20:25:29.693",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "51677",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2019-02-16T12:00:00Z",
+      "updated": "2019-02-16T14:52:24.667",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "51678",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2019-02-16T12:00:00Z",
+      "updated": "2019-02-16T14:53:48.857",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51680",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2019-02-16T12:00:00Z",
+      "updated": "2019-02-16T14:56:31.643",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51681",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2019-02-16T12:00:00Z",
+      "updated": "2019-02-16T14:51:11.01",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51675",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2019-02-17T12:30:00Z",
+      "updated": "2019-02-18T09:19:28.993",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51676",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2019-02-17T12:30:00Z",
+      "updated": "2019-02-18T09:17:01.063",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "51682",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2019-02-17T12:30:00Z",
+      "updated": "2019-02-18T09:17:14.41",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51687",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2019-02-22T17:30:00Z",
+      "updated": "2019-02-22T22:53:37.123",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51690",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2019-02-22T17:30:00Z",
+      "updated": "2019-02-22T20:22:24.087",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51684",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2019-02-23T12:00:00Z",
+      "updated": "2019-02-23T15:40:56.407",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "51686",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2019-02-23T12:00:00Z",
+      "updated": "2019-02-23T15:41:28.783",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "51688",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2019-02-23T12:00:00Z",
+      "updated": "2019-02-23T15:40:13.3",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51689",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2019-02-23T12:00:00Z",
+      "updated": "2019-02-23T15:41:52.673",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51685",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2019-02-24T12:30:00Z",
+      "updated": "2019-02-24T15:30:47.897",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51691",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2019-02-24T12:30:00Z",
+      "updated": "2019-02-24T15:31:07.247",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51692",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2019-02-24T12:30:00Z",
+      "updated": "2019-02-24T15:32:19.133",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51694",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2019-03-01T17:30:00Z",
+      "updated": "2019-03-02T03:20:46.417",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "51696",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2019-03-01T17:30:00Z",
+      "updated": "2019-03-02T03:21:54.15",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51698",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2019-03-02T12:00:00Z",
+      "updated": "2019-03-02T15:00:11.907",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "51699",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2019-03-02T12:00:00Z",
+      "updated": "2019-03-02T14:59:01.34",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51701",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2019-03-02T12:00:00Z",
+      "updated": "2019-03-02T14:58:11.277",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51695",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2019-03-03T12:30:00Z",
+      "updated": "2019-03-03T15:40:57.663",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51697",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2019-03-03T12:30:00Z",
+      "updated": "2019-03-03T15:40:08.973",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51700",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2019-03-03T12:30:00Z",
+      "updated": "2019-03-03T15:38:30.35",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51693",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2019-03-04T19:30:00Z",
+      "updated": "2019-03-05T07:59:31.05",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51704",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2019-03-08T17:30:00Z",
+      "updated": "2019-03-08T20:55:12.727",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51705",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2019-03-08T17:30:00Z",
+      "updated": "2019-03-08T20:54:32.667",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51702",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2019-03-09T12:00:00Z",
+      "updated": "2019-03-09T16:38:33.68",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "51703",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2019-03-09T12:00:00Z",
+      "updated": "2019-03-09T16:37:27.63",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51706",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2019-03-09T12:00:00Z",
+      "updated": "2019-03-09T17:01:30.203",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "51709",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2019-03-09T12:00:00Z",
+      "updated": "2019-03-09T16:38:01.337",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51707",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2019-03-10T12:30:00Z",
+      "updated": "2019-03-10T17:04:00.81",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "51710",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2019-03-10T12:30:00Z",
+      "updated": "2019-03-10T17:03:51.653",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51708",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2019-03-27T18:00:00Z",
+      "updated": "2019-04-04T20:54:11.63",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51712",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2019-03-15T17:30:00Z",
+      "updated": "2019-03-16T00:22:59.69",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "51718",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2019-03-15T17:30:00Z",
+      "updated": "2019-03-16T00:20:21.83",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51711",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2019-03-16T12:00:00Z",
+      "updated": "2019-03-16T14:52:03.873",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "51717",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2019-03-16T12:00:00Z",
+      "updated": "2019-03-16T14:50:10.103",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "51719",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2019-03-16T12:00:00Z",
+      "updated": "2019-03-18T07:56:16.67",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51714",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2019-03-17T12:30:00Z",
+      "updated": "2019-03-18T07:57:48.943",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "51720",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2019-03-17T12:30:00Z",
+      "updated": "2019-03-18T07:59:29.877",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "51715",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2019-03-18T19:30:00Z",
+      "updated": "2019-03-18T22:32:54.76",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "51716",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2019-04-10T16:30:00Z",
+      "updated": "2019-04-10T21:20:45.367",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 4,
+        "away": 4
+      }
+    },
+    {
+      "id": "51726",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2019-03-29T17:30:00Z",
+      "updated": "2019-03-30T20:52:11.513",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51729",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2019-03-29T17:30:00Z",
+      "updated": "2019-03-30T20:52:19.453",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51722",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2019-03-30T12:00:00Z",
+      "updated": "2019-03-30T15:15:45.947",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51723",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2019-03-30T12:00:00Z",
+      "updated": "2019-03-30T15:16:49.03",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "51725",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2019-03-30T12:00:00Z",
+      "updated": "2019-03-30T15:17:16.253",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51721",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2019-03-31T11:30:00Z",
+      "updated": "2019-03-31T15:21:55.653",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "51724",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2019-03-31T11:30:00Z",
+      "updated": "2019-03-31T15:30:11.837",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51727",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2019-03-31T11:30:00Z",
+      "updated": "2019-03-31T15:30:36.377",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51728",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2019-04-01T18:30:00Z",
+      "updated": "2019-04-01T22:37:08.437",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "51732",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2019-04-05T16:30:00Z",
+      "updated": "2019-04-05T21:24:53.823",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51733",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2019-04-05T16:30:00Z",
+      "updated": "2019-04-05T21:26:05.12",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51731",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2019-04-06T11:00:00Z",
+      "updated": "2019-04-06T15:01:20.593",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51734",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2019-04-06T11:00:00Z",
+      "updated": "2019-04-06T15:00:21.22",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "51735",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2019-04-06T11:00:00Z",
+      "updated": "2019-04-06T15:00:51.41",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51736",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2019-04-07T11:30:00Z",
+      "updated": "2019-04-07T15:23:54.827",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "51737",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2019-04-07T11:30:00Z",
+      "updated": "2019-04-07T15:23:16.92",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51738",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2019-04-07T11:30:00Z",
+      "updated": "2019-04-07T15:22:41.093",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51730",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2019-04-08T18:30:00Z",
+      "updated": "2019-04-08T22:23:17.427",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51741",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2019-04-12T16:30:00Z",
+      "updated": "2019-04-12T20:25:19.47",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51745",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2019-04-12T16:30:00Z",
+      "updated": "2019-04-12T20:25:25.363",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51743",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2019-04-13T11:00:00Z",
+      "updated": "2019-04-13T14:52:30.86",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "51746",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2019-04-13T11:00:00Z",
+      "updated": "2019-04-13T14:54:25.79",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "51747",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2019-04-13T11:00:00Z",
+      "updated": "2019-04-13T14:50:26.45",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "51740",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2019-04-14T11:30:00Z",
+      "updated": "2019-04-14T15:25:48.003",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "51742",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2019-04-14T11:30:00Z",
+      "updated": "2019-04-14T15:24:58.947",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51744",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2019-04-14T11:30:00Z",
+      "updated": "2019-04-14T15:24:20.24",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51739",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2019-04-15T18:30:00Z",
+      "updated": "2019-04-19T14:14:31.86",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51748",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2019-04-20T11:00:00Z",
+      "updated": "2019-04-20T14:53:17.72",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51749",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2019-04-20T11:00:00Z",
+      "updated": "2019-04-20T14:52:52.43",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51752",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2019-04-20T11:00:00Z",
+      "updated": "2019-04-20T14:53:57.077",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51756",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2019-04-20T11:00:00Z",
+      "updated": "2019-04-20T14:52:25.77",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51750",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2019-04-21T11:30:00Z",
+      "updated": "2019-04-21T16:56:45.157",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "51751",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2019-04-21T11:30:00Z",
+      "updated": "2019-04-21T16:57:19.857",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51753",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2019-04-21T11:30:00Z",
+      "updated": "2019-04-21T16:55:25.697",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51754",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2019-04-21T11:30:00Z",
+      "updated": "2019-04-21T16:58:55.173",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "51755",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2019-04-21T11:30:00Z",
+      "updated": "2019-04-21T17:00:08.357",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "51757",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2019-04-26T16:30:00Z",
+      "updated": "2019-04-26T20:24:28.583",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "51760",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2019-04-26T16:30:00Z",
+      "updated": "2019-04-26T20:25:03.607",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51761",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2019-04-27T11:00:00Z",
+      "updated": "2019-04-27T14:54:20.017",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "51762",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2019-04-27T11:00:00Z",
+      "updated": "2019-04-27T14:55:35",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    {
+      "id": "51764",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2019-04-27T11:00:00Z",
+      "updated": "2019-04-27T14:51:18.347",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51759",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2019-04-28T11:30:00Z",
+      "updated": "2019-04-28T15:22:15.193",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51763",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2019-04-28T11:30:00Z",
+      "updated": "2019-04-28T15:22:58.937",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "51765",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2019-04-28T11:30:00Z",
+      "updated": "2019-04-28T15:23:51.813",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "51758",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2019-04-29T18:30:00Z",
+      "updated": "2019-04-29T22:33:49.76",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51768",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2019-05-03T16:30:00Z",
+      "updated": "2019-05-03T20:23:12.33",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "51773",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2019-05-03T16:30:00Z",
+      "updated": "2019-05-03T20:24:02.863",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51766",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2019-05-04T11:00:00Z",
+      "updated": "2019-05-04T14:51:25.503",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "51770",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2019-05-04T11:00:00Z",
+      "updated": "2019-05-04T14:53:07.53",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "51772",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2019-05-04T11:00:00Z",
+      "updated": "2019-05-04T14:55:14.84",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "51767",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2019-05-05T11:30:00Z",
+      "updated": "2019-05-05T15:24:13.27",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "51769",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2019-05-05T11:30:00Z",
+      "updated": "2019-05-05T15:23:37.363",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "51771",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2019-05-05T11:30:00Z",
+      "updated": "2019-05-06T20:57:14.24",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51774",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2019-05-06T18:30:00Z",
+      "updated": "2019-05-06T22:21:40.737",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "51775",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2019-05-12T13:30:00Z",
+      "updated": "2019-05-12T17:24:12.93",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 3,
+        "away": 5
+      }
+    },
+    {
+      "id": "51776",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2019-05-12T13:30:00Z",
+      "updated": "2019-05-12T17:19:01.72",
+      "finished": true,
+      "homeTeamId": "104",
+      "homeTeam": "Holstein Kiel",
+      "homeShortName": "Kiel",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "51777",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2019-05-12T13:30:00Z",
+      "updated": "2019-05-13T09:03:19.47",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 3,
+        "away": 4
+      }
+    },
+    {
+      "id": "51778",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2019-05-12T13:30:00Z",
+      "updated": "2019-05-13T09:03:28.157",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "78",
+      "awayTeam": "1. FC Magdeburg",
+      "awayShortName": "Magdeburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "51779",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2019-05-12T13:30:00Z",
+      "updated": "2019-05-12T17:19:44.94",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "51780",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2019-05-12T13:30:00Z",
+      "updated": "2019-05-12T17:19:11.08",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "51781",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2019-05-12T13:30:00Z",
+      "updated": "2019-05-12T17:21:27.32",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "51782",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2019-05-12T13:30:00Z",
+      "updated": "2019-05-12T17:21:07.63",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "51783",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2019-05-12T13:30:00Z",
+      "updated": "2019-05-12T17:19:16.297",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "51784",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2019-05-19T13:30:00Z",
+      "updated": "2019-05-19T17:20:26.323",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "51785",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2019-05-19T13:30:00Z",
+      "updated": "2019-05-19T17:22:56.31",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "104",
+      "awayTeam": "Holstein Kiel",
+      "awayShortName": "Kiel",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51786",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2019-05-19T13:30:00Z",
+      "updated": "2019-05-19T17:23:39.787",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51787",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2019-05-19T13:30:00Z",
+      "updated": "2019-05-19T17:23:54.867",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "51788",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2019-05-19T13:30:00Z",
+      "updated": "2019-05-19T17:22:00.163",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "51789",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2019-05-19T13:30:00Z",
+      "updated": "2019-05-19T17:24:01.953",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "51790",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2019-05-19T13:30:00Z",
+      "updated": "2019-05-19T17:22:25.663",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "51791",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2019-05-19T13:30:00Z",
+      "updated": "2019-05-19T17:23:16.607",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "51792",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2019-05-19T13:30:00Z",
+      "updated": "2019-05-19T17:28:07.62",
+      "finished": true,
+      "homeTeamId": "78",
+      "homeTeam": "1. FC Magdeburg",
+      "homeShortName": "Magdeburg",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    }
+  ],
+  "standings": [
+    {
+      "teamId": "65",
+      "name": "1. FC Köln",
+      "shortName": "Köln",
+      "position": 1,
+      "played": 34,
+      "wins": 19,
+      "draws": 6,
+      "losses": 9,
+      "goalsFor": 84,
+      "goalsAgainst": 47,
+      "goalDifference": 37,
+      "points": 63
+    },
+    {
+      "teamId": "31",
+      "name": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "position": 2,
+      "played": 34,
+      "wins": 16,
+      "draws": 9,
+      "losses": 9,
+      "goalsFor": 76,
+      "goalsAgainst": 50,
+      "goalDifference": 26,
+      "points": 57
+    },
+    {
+      "teamId": "80",
+      "name": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "position": 3,
+      "played": 34,
+      "wins": 14,
+      "draws": 15,
+      "losses": 5,
+      "goalsFor": 54,
+      "goalsAgainst": 33,
+      "goalDifference": 21,
+      "points": 57
+    },
+    {
+      "teamId": "100",
+      "name": "Hamburger SV",
+      "shortName": "HSV",
+      "position": 4,
+      "played": 34,
+      "wins": 16,
+      "draws": 8,
+      "losses": 10,
+      "goalsFor": 45,
+      "goalsAgainst": 42,
+      "goalDifference": 3,
+      "points": 56
+    },
+    {
+      "teamId": "199",
+      "name": "1. FC Heidenheim 1846",
+      "shortName": "Heidenheim",
+      "position": 5,
+      "played": 34,
+      "wins": 15,
+      "draws": 10,
+      "losses": 9,
+      "goalsFor": 55,
+      "goalsAgainst": 45,
+      "goalDifference": 10,
+      "points": 55
+    },
+    {
+      "teamId": "104",
+      "name": "Holstein Kiel",
+      "shortName": "Kiel",
+      "position": 6,
+      "played": 34,
+      "wins": 13,
+      "draws": 10,
+      "losses": 11,
+      "goalsFor": 60,
+      "goalsAgainst": 51,
+      "goalDifference": 9,
+      "points": 49
+    },
+    {
+      "teamId": "83",
+      "name": "DSC Arminia Bielefeld",
+      "shortName": "Bielefeld",
+      "position": 7,
+      "played": 34,
+      "wins": 13,
+      "draws": 10,
+      "losses": 11,
+      "goalsFor": 52,
+      "goalsAgainst": 50,
+      "goalDifference": 2,
+      "points": 49
+    },
+    {
+      "teamId": "181",
+      "name": "Jahn Regensburg",
+      "shortName": "Regensburg",
+      "position": 8,
+      "played": 34,
+      "wins": 12,
+      "draws": 13,
+      "losses": 9,
+      "goalsFor": 55,
+      "goalsAgainst": 54,
+      "goalDifference": 1,
+      "points": 49
+    },
+    {
+      "teamId": "98",
+      "name": "FC St. Pauli",
+      "shortName": "St. Pauli",
+      "position": 9,
+      "played": 34,
+      "wins": 14,
+      "draws": 7,
+      "losses": 13,
+      "goalsFor": 46,
+      "goalsAgainst": 53,
+      "goalDifference": -7,
+      "points": 49
+    },
+    {
+      "teamId": "118",
+      "name": "SV Darmstadt 98",
+      "shortName": "Darmstadt",
+      "position": 10,
+      "played": 34,
+      "wins": 13,
+      "draws": 7,
+      "losses": 14,
+      "goalsFor": 45,
+      "goalsAgainst": 53,
+      "goalDifference": -8,
+      "points": 46
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum",
+      "position": 11,
+      "played": 34,
+      "wins": 11,
+      "draws": 11,
+      "losses": 12,
+      "goalsFor": 49,
+      "goalsAgainst": 50,
+      "goalDifference": -1,
+      "points": 44
+    },
+    {
+      "teamId": "177",
+      "name": "Dynamo Dresden",
+      "shortName": "Dresden",
+      "position": 12,
+      "played": 34,
+      "wins": 11,
+      "draws": 9,
+      "losses": 14,
+      "goalsFor": 41,
+      "goalsAgainst": 48,
+      "goalDifference": -7,
+      "points": 42
+    },
+    {
+      "teamId": "115",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "position": 13,
+      "played": 34,
+      "wins": 10,
+      "draws": 12,
+      "losses": 12,
+      "goalsFor": 37,
+      "goalsAgainst": 56,
+      "goalDifference": -19,
+      "points": 42
+    },
+    {
+      "teamId": "66",
+      "name": "Erzgebirge Aue",
+      "shortName": "Aue",
+      "position": 14,
+      "played": 34,
+      "wins": 11,
+      "draws": 7,
+      "losses": 16,
+      "goalsFor": 43,
+      "goalsAgainst": 47,
+      "goalDifference": -4,
+      "points": 40
+    },
+    {
+      "teamId": "119",
+      "name": "SV Sandhausen",
+      "shortName": "Sandhausen",
+      "position": 15,
+      "played": 34,
+      "wins": 9,
+      "draws": 11,
+      "losses": 14,
+      "goalsFor": 45,
+      "goalsAgainst": 52,
+      "goalDifference": -7,
+      "points": 38
+    },
+    {
+      "teamId": "171",
+      "name": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt",
+      "position": 16,
+      "played": 34,
+      "wins": 9,
+      "draws": 8,
+      "losses": 17,
+      "goalsFor": 43,
+      "goalsAgainst": 55,
+      "goalDifference": -12,
+      "points": 35
+    },
+    {
+      "teamId": "78",
+      "name": "1. FC Magdeburg",
+      "shortName": "Magdeburg",
+      "position": 17,
+      "played": 34,
+      "wins": 6,
+      "draws": 13,
+      "losses": 15,
+      "goalsFor": 35,
+      "goalsAgainst": 53,
+      "goalDifference": -18,
+      "points": 31
+    },
+    {
+      "teamId": "107",
+      "name": "MSV Duisburg",
+      "shortName": "Duisburg",
+      "position": 18,
+      "played": 34,
+      "wins": 6,
+      "draws": 10,
+      "losses": 18,
+      "goalsFor": 39,
+      "goalsAgainst": 65,
+      "goalDifference": -26,
+      "points": 28
+    }
+  ],
+  "teams": [
+    {
+      "teamId": "199",
+      "name": "1. FC Heidenheim 1846",
+      "shortName": "Heidenheim"
+    },
+    {
+      "teamId": "65",
+      "name": "1. FC Köln",
+      "shortName": "Köln"
+    },
+    {
+      "teamId": "78",
+      "name": "1. FC Magdeburg",
+      "shortName": "Magdeburg"
+    },
+    {
+      "teamId": "80",
+      "name": "1. FC Union Berlin",
+      "shortName": "Union Berlin"
+    },
+    {
+      "teamId": "83",
+      "name": "DSC Arminia Bielefeld",
+      "shortName": "Bielefeld"
+    },
+    {
+      "teamId": "177",
+      "name": "Dynamo Dresden",
+      "shortName": "Dresden"
+    },
+    {
+      "teamId": "66",
+      "name": "Erzgebirge Aue",
+      "shortName": "Aue"
+    },
+    {
+      "teamId": "171",
+      "name": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt"
+    },
+    {
+      "teamId": "98",
+      "name": "FC St. Pauli",
+      "shortName": "St. Pauli"
+    },
+    {
+      "teamId": "100",
+      "name": "Hamburger SV",
+      "shortName": "HSV"
+    },
+    {
+      "teamId": "104",
+      "name": "Holstein Kiel",
+      "shortName": "Kiel"
+    },
+    {
+      "teamId": "181",
+      "name": "Jahn Regensburg",
+      "shortName": "Regensburg"
+    },
+    {
+      "teamId": "107",
+      "name": "MSV Duisburg",
+      "shortName": "Duisburg"
+    },
+    {
+      "teamId": "31",
+      "name": "SC Paderborn 07",
+      "shortName": "Paderborn"
+    },
+    {
+      "teamId": "115",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth"
+    },
+    {
+      "teamId": "118",
+      "name": "SV Darmstadt 98",
+      "shortName": "Darmstadt"
+    },
+    {
+      "teamId": "119",
+      "name": "SV Sandhausen",
+      "shortName": "Sandhausen"
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum"
+    }
+  ],
+  "groupChecks": {}
+}

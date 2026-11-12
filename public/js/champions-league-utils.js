@@ -128,27 +128,87 @@ export function calculateUclStandings(matches, teams, throughRound = 8) {
       sum+(byId.get(id)?.goalDifference??0),0);
     t.opponentGoals=t.opponents.reduce((sum,id)=>sum+(byId.get(id)?.goalsFor??0),0);
   }
-  result.sort((a,b)=>
+  // UEFA Art. 18 / UEFA explanatory note (2026/27):
+  // MD1–7: only the first five criteria; remaining ties SHARE a rank.
+  // After all 144 league matches: opponent statistics also apply.
+  const finalTable = throughRound >= UCL_MATCHDAYS && isCompleteUclLeaguePhase(matches);
+  const primary = (a,b) =>
     b.points-a.points || b.goalDifference-a.goalDifference ||
     b.goalsFor-a.goalsFor || b.awayGoals-a.awayGoals ||
-    b.wins-a.wins || b.awayWins-a.awayWins ||
+    b.wins-a.wins || b.awayWins-a.awayWins;
+  const extra = (a,b) =>
     b.opponentPoints-a.opponentPoints ||
     b.opponentGoalDifference-a.opponentGoalDifference ||
-    b.opponentGoals-a.opponentGoals ||
-    a.name.localeCompare(b.name,'de'));
-  result.forEach((t,i)=>{t.position=i+1;});
+    b.opponentGoals-a.opponentGoals;
+  const ranked = (a,b) => primary(a,b) || (finalTable ? extra(a,b) : 0);
+  result.sort((a,b)=>ranked(a,b) ||
+    (a.shortName||a.name).localeCompare(b.shortName||b.name,'de'));
+  result.forEach((team,index)=>{
+    const previous=result[index-1];
+    const isEqual = index>0 && ranked(previous,team)===0;
+    team.position = !finalTable && isEqual ? previous.position : index+1;
+    team.provisionalTie = !finalTable && isEqual;
+    team.tieBreakUnresolved = finalTable && isEqual;
+  });
+  // Mark entire tied groups, especially when they span qualification boundaries.
+  for(let start=0;start<result.length;){
+    let end=start;
+    while(end+1<result.length && ranked(result[end],result[end+1])===0)end++;
+    const crossing=(start<8 && end>=8) || (start<24 && end>=24);
+    if(end>start)for(let i=start;i<=end;i++){
+      result[i].provisionalTie=!finalTable;
+      result[i].tieBreakUnresolved=finalTable;
+      result[i].tieCrossesZone=crossing;
+      result[i].tiedWith=end-start+1;
+    }
+    start=end+1;
+  }
   return result;
 }
-export function preferOfficialUclTable(computed, official) {
+export function preferOfficialUclTable(computed, official, finalTable = false) {
   if (!Array.isArray(official) || computed.length!==UCL_CLUBS || official.length!==UCL_CLUBS)
     return { standings:computed, verified:false };
   const lookup=new Map(computed.map(t=>[String(t.teamId),t]));
-  if(!official.every(t=>{
+  const equal=official.every(t=>{
     const x=lookup.get(String(t.teamId));
     return x && Number(t.points)===x.points && Number(t.played)===x.played &&
       Number(t.goalDifference)===x.goalDifference && Number(t.goalsFor)===x.goalsFor;
-  })) return { standings:computed, verified:false };
-  return { standings:official, verified:true };
+  });
+  if (!equal) return { standings:computed, verified:false };
+  // A provider may number two equal-rank teams consecutively in its API.
+  // Preserve UEFA's shared interim ranking even when provider totals match.
+  return { standings:finalTable ? official : computed, verified:true };
+}
+
+// Conservative proven outer limits. These are NOT exact attainable finishes.
+// In particular, all opponents cannot independently win every remaining game.
+// The total remaining point budget rules out some implausible worst positions.
+export function calculateUclRankLimits(season, teamId) {
+  const table=season.standings ?? [];
+  const own=table.find(t=>String(t.teamId)===String(teamId));
+  if(!own) return {best:null,worst:null,exact:false};
+  const matches=season.matches ?? [];
+  const unfinished=matches.filter(m=>!m.finished);
+  if(!unfinished.length) return {best:Number(own.position),worst:Number(own.position),exact:!own.tieBreakUnresolved};
+  const remainFor=id=>unfinished.filter(m=>
+    String(m.homeTeamId)===String(id)||String(m.awayTeamId)===String(id)).length;
+  const minimum=Number(own.points);
+  const maximum=minimum+remainFor(teamId)*3;
+  const opponents=table.filter(t=>String(t.teamId)!==String(teamId));
+  const best=1+opponents.filter(t=>Number(t.points)>maximum).length;
+  const deficits=opponents.filter(t=>
+    Number(t.points)+remainFor(t.teamId)*3>=minimum)
+    .map(t=>Math.max(0,minimum-Number(t.points)))
+    .sort((a,b)=>a-b);
+  const totalAdditionalPoints=unfinished.length*3;
+  let required=0,numberOfPossibleOvertakes=0;
+  for(const deficit of deficits){
+    if(required+deficit>totalAdditionalPoints)break;
+    required+=deficit;
+    numberOfPossibleOvertakes++;
+  }
+  const worst=Math.min(table.length,Math.max(best,numberOfPossibleOvertakes+1));
+  return {best,worst,exact:false};
 }
 export function uclZone(position) {
   if(position>=1 && position<=8)return 'direct';

@@ -1,7 +1,7 @@
 import { loadJson } from './data-loader.js';
 import { matchdayNumbers, matchdayScore, pointsSeries, teamsForSeason,
   standingsFromMatches, rankAtMatchday, teamBounds } from './football-utils.js';
-import { calculateUclStandings } from './champions-league-utils.js';
+import { calculateUclStandings, calculateUclRankLimits, preferOfficialUclTable, isCompleteUclLeaguePhase } from './champions-league-utils.js';
 
 const LEAGUES = {
   bundesliga: '1. Bundesliga',
@@ -89,8 +89,9 @@ function makeTable(headers) {
   table.append(thead, body);
   return [table, body];
 }
-function highlightLeague(position) {
+function highlightLeague(position, team = null) {
   if (leagueId === 'champions-league') {
+    if (team?.tieCrossesZone) return ''; // Qualification boundary not resolved by UEFA interim criteria.
     if (position >= 1 && position <= 8) return 'zone-promotion';
     if (position <= 24) return 'zone-champions-league-playoff';
     if (position <= 36) return 'zone-relegation';
@@ -130,13 +131,17 @@ function panelStandings() {
   const block = panel((leagueId === 'champions-league' ? 'Ligaphasen-Tabelle · ' : 'Tabelle · ') +
     (season.seasonLabel || shortSeason(season.year)));
   const leagueRows = season.standings?.length ? season.standings : standingsFromMatches(season);
-  const [table, body] = makeTable(['#', 'Team', 'Sp.', 'Pkt.', 'TD', 'Tore', 'Best*', 'Worst*']);
+  const [table, body] = makeTable(['#', 'Team', 'Sp.', 'Pkt.', 'TD', 'Tore',
+    leagueId==='champions-league' ? 'Best ≥' : 'Best*',
+    leagueId==='champions-league' ? 'Worst ≤' : 'Worst*']);
   for (const team of leagueRows) {
-    const tr = el('tr', highlightLeague(team.position));
+    const tr = el('tr', highlightLeague(team.position, team));
     const info = teams.find(item => String(item.teamId) === String(team.teamId)) || team;
-    const bounds = teamBounds(season, team.teamId);
+    const bounds = leagueId==='champions-league' ?
+      calculateUclRankLimits(season, team.teamId) : teamBounds(season, team.teamId);
     const columns = [
-      team.position, team.name, team.played, team.points,
+      (leagueId==='champions-league' && team.provisionalTie ? team.position+'=' : team.position),
+      team.name, team.played, team.points,
       team.goalDifference > 0 ? '+' + team.goalDifference : team.goalDifference,
       team.goalsFor + ':' + team.goalsAgainst,
       bounds.best ? bounds.best + '.' : '–', bounds.worst ? bounds.worst + '.' : '–'
@@ -150,14 +155,18 @@ function panelStandings() {
   block.append(table);
   const remaining = season.matches.some(m => !m.finished);
   block.append(el('p', 'f1-card-note', remaining ?
-    '* Best/Worst sind mathematische äußere Platzierungsgrenzen, keine nachweislich erreichbaren Szenarien. Torgleichstände, direkte Duelle und das noch ausstehende Spielprogramm können die Spanne einschränken.' :
+    (leagueId==='champions-league'
+      ? 'Best ≥ / Worst ≤: Nachweisbare äußere Ranggrenzen, keine garantiert erreichbaren Platzierungen. '+
+        'Die Gesamtpunktzahl aller ausstehenden Spiele wird berücksichtigt; genaue Restspiel-Szenarien sind noch nicht vollständig optimiert.'
+      : '* Best/Worst sind mathematische äußere Platzierungsgrenzen, keine nachweislich erreichbaren Szenarien. Torgleichstände, direkte Duelle und das noch ausstehende Spielprogramm können die Spanne einschränken.') :
     'Die abgeschlossene Tabelle zeigt die Endplatzierungen. Bei fehlenden offiziellen Tabellen werden Spielresultate ausgewertet.'));
   if (leagueId === 'champions-league')
     block.append(el('p', 'f1-card-note',
       'Plätze 1–8: direktes Achtelfinale · 9–24: Playoffs · 25–36: ausgeschieden. ' +
-      (season.standingsVerified
-        ? 'Die Tabelle entspricht den zu den Ligaspielen passenden OpenLigaDB-Werten.'
-        : 'Bei vollständigem Gleichstand sind weitere UEFA-Kriterien möglich; daher kann die errechnete Reihenfolge abweichen.')));
+      (season.complete
+        ? 'Die endgültige Rangfolge kann bei vollständigem Gleichstand zusätzliche UEFA-Kriterien benötigen.'
+        : 'Bis einschließlich Spieltag 7 zählen bei Punktgleichheit fünf UEFA-Kriterien. Bei weiterem Gleichstand steht = für den geteilten Rang; eine an der Zonengrenze offene Entscheidung bleibt ungefärbt.')+
+      (season.standingsVerified ? ' Punkte und Tore wurden mit OpenLigaDB abgeglichen.' : '')));
   return block;
 }
 function panelChart() {
@@ -185,7 +194,8 @@ function panelChart() {
   }), action('Keine', () => {shown.clear(); selectedTeam = null; render();}));
   if (leagueId === 'champions-league')
     controls.prepend(action('Top 8', () => {
-      shown = new Set(teams.slice(0, 8).map(t => t.teamId));
+      const cutoff=teams[7]?.position ?? 8;
+      shown = new Set(teams.filter(t => Number(t.position) <= cutoff).map(t => t.teamId));
       selectedTeam = null;
       render();
     }));
@@ -392,6 +402,15 @@ async function loadSeason(year) {
     if(token!==requestId)return;
     if(!Array.isArray(fetched.matches))throw Error('Ungültiges Saisonformat');
     season=fetched;
+    if (leagueId==='champions-league') {
+      // Recompute even for historical/cached JSON so ranking fixes take effect
+      // immediately without having to re-import entire seasons.
+      const computed=calculateUclStandings(season.matches,season.teams??[]);
+      const reviewed=preferOfficialUclTable(computed,season.standings??[],
+        isCompleteUclLeaguePhase(season.matches));
+      season.standings=reviewed.standings;
+      season.standingsVerified=reviewed.verified;
+    }
     teams=teamsForSeason(season);
     roundRankCache.clear();
     shown=new Set(teams.map(t=>t.teamId));

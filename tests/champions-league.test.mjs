@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {
   selectUclLeaguePhase, isCompleteUclLeaguePhase,
-  calculateUclStandings, preferOfficialUclTable, uclZone
+  calculateUclStandings, preferOfficialUclTable, uclZone, calculateUclRankLimits
 } from '../public/js/champions-league-utils.js';
 import { matchdayScore, pointsSeries, teamBounds } from '../public/js/football-utils.js';
 
@@ -81,4 +81,59 @@ test('an official table is used only when phase-only match statistics match',()=
 test('UEFA qualification zones have exact rank boundaries',()=>{
   assert.deepEqual([1,8,9,24,25,36,37].map(uclZone),
     ['direct','direct','playoffs','playoffs','out','out',null]);
+});
+
+test('incomplete league phase uses only UEFA criteria 1–5 and shares equal ranks',()=>{
+  const members=[
+    {teamId:'a',name:'Alpha'}, {teamId:'b',name:'Beta'},
+    {teamId:'c',name:'Gamma'}, {teamId:'d',name:'Delta'},
+    {teamId:'e',name:'Epsilon'}
+  ];
+  const games=[
+    {homeTeamId:'a',awayTeamId:'c',groupOrderId:1,finished:true,result:{home:1,away:0}},
+    {homeTeamId:'b',awayTeamId:'d',groupOrderId:1,finished:true,result:{home:1,away:0}},
+    {homeTeamId:'c',awayTeamId:'e',groupOrderId:2,finished:true,result:{home:2,away:0}}
+  ];
+  const ranking=calculateUclStandings(games,members);
+  const alpha=ranking.find(x=>x.teamId==='a'), beta=ranking.find(x=>x.teamId==='b');
+  assert.equal(alpha.position,2);
+  assert.equal(beta.position,2);
+  assert.equal(alpha.provisionalTie,true);
+  assert.equal(beta.provisionalTie,true);
+  assert.notEqual(alpha.opponentPoints,beta.opponentPoints);
+});
+test('UCL rank limits respect the single global points budget',()=>{
+  const standing=[
+    {teamId:'t',name:'Target',position:1,points:3},
+    {teamId:'a',name:'Alpha',position:2,points:3},
+    {teamId:'b',name:'Beta',position:3,points:0},
+    {teamId:'c',name:'Gamma',position:4,points:0}
+  ];
+  const season={
+    standings:standing,
+    matches:[{homeTeamId:'b',awayTeamId:'c',finished:false,date:'2027-01-20T20:00:00Z'}]
+  };
+  assert.deepEqual(calculateUclRankLimits(season,'t'),{
+    best:1,worst:3,exact:false
+  });
+  // Two clubs cannot both gain three points from their single mutual match.
+});
+test('complete UCL season has fixed rank limits',()=>{
+  const matches=selectUclLeaguePhase(all,2026);
+  const standings=calculateUclStandings(matches,clubs);
+  const limits=calculateUclRankLimits({matches,standings},standings[0].teamId);
+  assert.equal(limits.best,standings[0].position);
+  assert.equal(limits.worst,standings[0].position);
+  assert.equal(limits.exact,true);
+});
+test('provider totals can be verified without overriding UEFA provisional ties',()=>{
+  const matches=selectUclLeaguePhase(all,2026);
+  const interrupted=matches.map(m=>({...m,finished:m.groupOrderId<=4,result:m.groupOrderId<=4?m.result:null}));
+  const computed=calculateUclStandings(interrupted,clubs);
+  // Some result providers enumerate ties instead of giving joint ranks.
+  const sequential=computed.map((r,i)=>({...r,position:i+1}));
+  const reviewed=preferOfficialUclTable(computed,sequential,false);
+  assert.equal(reviewed.verified,true);
+  assert.deepEqual(reviewed.standings.map(t=>t.position),
+    computed.map(t=>t.position));
 });

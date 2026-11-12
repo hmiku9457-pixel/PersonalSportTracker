@@ -167,9 +167,16 @@ export async function updateUclSeason(saved, competition, year, now=Date.now()) 
   return changed||checked?data:saved;
 }
 export function uclOverview(season,competition) {
-  const result=seasonOverview(season,competition);
+  // Existing persisted seasons may contain an interim order based on
+  // opponent statistics. Recompute without a historical API re-fetch.
+  const computed=calculateUclStandings(season.matches,season.teams??[]);
+  const checked=preferOfficialUclTable(computed,season.standings??[],
+    isCompleteUclLeaguePhase(season.matches));
+  const result=seasonOverview({
+    ...season,standings:checked.standings,standingsVerified:checked.verified
+  },competition);
   result.competition.type='league-phase';
   result.competition.phase='league';
-  result.competition.standingsVerified=Boolean(season.standingsVerified);
+  result.competition.standingsVerified=checked.verified;
   return result;
 }

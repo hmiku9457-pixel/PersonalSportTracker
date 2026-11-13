@@ -1,0 +1,5867 @@
+{
+  "schemaVersion": 1,
+  "id": "bundesliga2",
+  "shortcut": "bl2",
+  "year": 2016,
+  "seasonLabel": "2016/17",
+  "complete": true,
+  "calendarCheckedAt": "2026-11-13T13:07:19.724Z",
+  "updatedAt": "2026-11-13T13:07:19.724Z",
+  "matches": [
+    {
+      "id": "39967",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-05T18:30:00Z",
+      "updated": "2016-08-05T22:20:41.217",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "39969",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-06T11:00:00Z",
+      "updated": "2016-08-06T16:02:19.437",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39974",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-06T13:30:00Z",
+      "updated": "2016-08-06T17:22:29.96",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39975",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-06T13:30:00Z",
+      "updated": "2016-08-06T17:22:59.457",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39971",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-07T11:30:00Z",
+      "updated": "2016-08-07T18:21:46.433",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39970",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-07T13:30:00Z",
+      "updated": "2016-08-07T18:23:42.393",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39972",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-07T13:30:00Z",
+      "updated": "2016-08-07T18:24:20.11",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39973",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-07T13:30:00Z",
+      "updated": "2016-08-07T18:24:22.637",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39968",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-08T18:15:00Z",
+      "updated": "2016-09-21T23:40:26.697",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39977",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-08-12T16:30:00Z",
+      "updated": "2016-08-12T20:22:16.947",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39983",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-08-12T16:30:00Z",
+      "updated": "2016-08-12T20:22:53.54",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39981",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-08-12T18:30:00Z",
+      "updated": "2016-09-21T23:37:48.17",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39980",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-08-13T11:00:00Z",
+      "updated": "2016-08-15T09:55:59.37",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39978",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-08-13T13:30:00Z",
+      "updated": "2016-08-14T11:22:47.423",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39976",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-08-14T11:30:00Z",
+      "updated": "2016-08-15T09:52:09.157",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39982",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-08-14T13:30:00Z",
+      "updated": "2016-08-15T22:18:55.583",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39984",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-08-14T13:30:00Z",
+      "updated": "2016-09-21T23:39:14.467",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39979",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-08-15T18:15:00Z",
+      "updated": "2016-08-15T22:08:01.053",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39985",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-08-26T16:30:00Z",
+      "updated": "2016-09-21T23:26:14.327",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39990",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-08-26T16:30:00Z",
+      "updated": "2016-09-21T23:27:09.177",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39992",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-08-26T16:30:00Z",
+      "updated": "2016-09-21T23:27:55.327",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39986",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-08-27T11:00:00Z",
+      "updated": "2016-08-27T15:33:50.823",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39988",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-08-27T11:00:00Z",
+      "updated": "2016-09-21T23:29:43.337",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "39987",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-08-28T11:30:00Z",
+      "updated": "2016-10-14T06:34:22.403",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 6,
+        "away": 1
+      }
+    },
+    {
+      "id": "39991",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-08-28T11:30:00Z",
+      "updated": "2016-09-21T23:35:53.253",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 4,
+        "away": 4
+      }
+    },
+    {
+      "id": "39993",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-08-28T11:30:00Z",
+      "updated": "2016-09-21T23:36:48.573",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39989",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-08-29T18:15:00Z",
+      "updated": "2016-08-29T23:04:07.36",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40178",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-09T16:30:00Z",
+      "updated": "2016-09-21T23:16:36.877",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40185",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-09T16:30:00Z",
+      "updated": "2016-09-21T23:17:29.993",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "40186",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-09T16:30:00Z",
+      "updated": "2016-09-21T23:18:32.35",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40181",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-10T11:00:00Z",
+      "updated": "2016-09-21T23:20:17.267",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40182",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-10T11:00:00Z",
+      "updated": "2016-09-21T23:21:46.813",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "40179",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-11T11:30:00Z",
+      "updated": "2016-09-21T23:22:57.043",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "40183",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-11T11:30:00Z",
+      "updated": "2016-09-21T23:23:50.603",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40184",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-11T11:30:00Z",
+      "updated": "2016-09-21T23:25:00.447",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40180",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-12T18:15:00Z",
+      "updated": "2016-10-30T21:12:36.537",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40187",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-16T16:30:00Z",
+      "updated": "2016-09-21T23:04:42.867",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 5,
+        "away": 4
+      }
+    },
+    {
+      "id": "40190",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-16T16:30:00Z",
+      "updated": "2016-09-21T23:05:43.407",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "40194",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-16T16:30:00Z",
+      "updated": "2016-09-21T23:06:51.03",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40189",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-17T11:00:00Z",
+      "updated": "2016-09-21T23:08:55.04",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40191",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-17T11:00:00Z",
+      "updated": "2016-09-21T23:09:20.473",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40192",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-17T11:00:00Z",
+      "updated": "2016-09-21T23:10:01.217",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40188",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-18T11:30:00Z",
+      "updated": "2016-09-21T23:10:50.37",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40193",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-18T11:30:00Z",
+      "updated": "2016-09-21T23:12:55.167",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "40195",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-18T11:30:00Z",
+      "updated": "2016-09-21T23:15:02.893",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "40196",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-09-20T15:30:00Z",
+      "updated": "2016-09-21T22:49:06.503",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40198",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-09-20T15:30:00Z",
+      "updated": "2016-09-25T22:09:02.153",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40201",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-09-20T15:30:00Z",
+      "updated": "2016-09-20T22:20:56.69",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40202",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-09-20T15:30:00Z",
+      "updated": "2016-09-21T22:51:53.42",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "40197",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-09-21T15:30:00Z",
+      "updated": "2016-10-16T19:04:49.33",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40200",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-09-21T15:30:00Z",
+      "updated": "2016-09-21T22:52:42.147",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "40203",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-09-21T15:30:00Z",
+      "updated": "2016-09-21T22:53:29.927",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40204",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-09-21T15:30:00Z",
+      "updated": "2016-09-21T22:53:58.21",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40199",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-09-22T18:15:00Z",
+      "updated": "2016-09-25T22:12:37.567",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "40205",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-09-23T16:30:00Z",
+      "updated": "2016-09-23T20:40:34.8",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40208",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-09-23T16:30:00Z",
+      "updated": "2016-09-23T20:39:33.977",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40209",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-09-23T16:30:00Z",
+      "updated": "2016-09-23T20:37:46.493",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40207",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-09-24T11:00:00Z",
+      "updated": "2016-09-24T17:38:48.643",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40210",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-09-24T11:00:00Z",
+      "updated": "2016-09-24T17:40:31.057",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "40211",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-09-25T11:30:00Z",
+      "updated": "2016-09-25T18:01:21.703",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "40212",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-09-25T11:30:00Z",
+      "updated": "2016-09-25T18:01:18.937",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "40213",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-09-25T11:30:00Z",
+      "updated": "2016-09-25T18:01:16.42",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "40206",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-09-26T18:15:00Z",
+      "updated": "2016-09-26T22:13:50.287",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40216",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-09-30T16:30:00Z",
+      "updated": "2016-09-30T20:55:31.21",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40219",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-09-30T16:30:00Z",
+      "updated": "2016-09-30T20:56:21.087",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40221",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-09-30T16:30:00Z",
+      "updated": "2016-09-30T20:59:09.977",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "40215",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-01T11:00:00Z",
+      "updated": "2016-10-14T06:39:34.703",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40220",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-01T11:00:00Z",
+      "updated": "2016-10-14T06:41:20.067",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40217",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-02T11:30:00Z",
+      "updated": "2016-10-02T19:31:47.777",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40218",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-02T11:30:00Z",
+      "updated": "2016-10-14T06:45:12.953",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40222",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-02T11:30:00Z",
+      "updated": "2016-10-14T06:46:52.863",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40214",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-03T18:15:00Z",
+      "updated": "2016-10-14T06:48:46.22",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "40263",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-14T16:30:00Z",
+      "updated": "2016-10-14T20:28:04.067",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40264",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-14T16:30:00Z",
+      "updated": "2016-10-14T20:28:28.59",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "40269",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-14T16:30:00Z",
+      "updated": "2016-10-14T20:29:04.62",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40268",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-15T11:00:00Z",
+      "updated": "2016-10-15T23:47:06.95",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "40271",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-15T11:00:00Z",
+      "updated": "2016-10-15T23:46:56.407",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "40265",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-16T11:30:00Z",
+      "updated": "2016-10-16T17:53:12.56",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40266",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-16T11:30:00Z",
+      "updated": "2016-10-16T17:54:25.69",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "40270",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-16T11:30:00Z",
+      "updated": "2016-10-16T19:02:41.63",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "40267",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-17T18:15:00Z",
+      "updated": "2016-10-17T22:06:21.397",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40272",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-10-21T16:30:00Z",
+      "updated": "2016-10-28T17:40:23.067",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40278",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-10-21T16:30:00Z",
+      "updated": "2016-10-28T17:42:15.93",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "40280",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-10-21T16:30:00Z",
+      "updated": "2016-10-28T17:43:30.243",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "40276",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-10-22T11:00:00Z",
+      "updated": "2016-10-22T17:47:35.22",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40277",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-10-22T11:00:00Z",
+      "updated": "2016-10-28T17:45:13.18",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "40273",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-10-23T11:30:00Z",
+      "updated": "2016-10-23T15:22:19.277",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40274",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-10-23T11:30:00Z",
+      "updated": "2016-10-23T15:22:06.34",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40279",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-10-23T11:30:00Z",
+      "updated": "2016-10-23T15:24:02.357",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "40275",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-10-24T18:15:00Z",
+      "updated": "2016-10-25T17:30:59.837",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "40308",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-10-28T16:30:00Z",
+      "updated": "2016-10-28T20:48:32.12",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40309",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-10-28T16:30:00Z",
+      "updated": "2016-10-28T20:50:53.467",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 6,
+        "away": 2
+      }
+    },
+    {
+      "id": "40310",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-10-28T16:30:00Z",
+      "updated": "2016-10-28T20:48:08.903",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "40305",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-10-29T11:00:00Z",
+      "updated": "2016-10-30T21:16:19.947",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40307",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-10-29T11:00:00Z",
+      "updated": "2016-10-30T21:16:41.633",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40302",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-10-30T12:30:00Z",
+      "updated": "2016-10-30T19:39:47.507",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "40304",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-10-30T12:30:00Z",
+      "updated": "2016-10-30T21:19:56.457",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40306",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-10-30T12:30:00Z",
+      "updated": "2016-10-30T19:43:31.113",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "40303",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-10-31T19:15:00Z",
+      "updated": "2016-11-01T12:15:57.897",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40315",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-04T17:30:00Z",
+      "updated": "2016-11-04T20:22:51.987",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40317",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-04T17:30:00Z",
+      "updated": "2016-11-04T20:19:35.823",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "40318",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-04T17:30:00Z",
+      "updated": "2016-11-04T20:25:24.303",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40313",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-05T12:00:00Z",
+      "updated": "2016-11-05T14:55:51.44",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40314",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-05T12:00:00Z",
+      "updated": "2016-11-05T14:56:51.677",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40311",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-06T12:30:00Z",
+      "updated": "2016-11-06T16:41:18.723",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "40312",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-06T12:30:00Z",
+      "updated": "2016-11-06T16:43:16.22",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "40316",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-06T12:30:00Z",
+      "updated": "2016-11-06T16:45:42.417",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "40319",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-07T19:15:00Z",
+      "updated": "2016-11-08T08:46:20.713",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40321",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-11-18T17:30:00Z",
+      "updated": "2016-11-19T11:17:00.227",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "40323",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-11-18T17:30:00Z",
+      "updated": "2016-11-19T16:48:15.007",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40326",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-11-18T17:30:00Z",
+      "updated": "2016-11-19T11:19:57.747",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40320",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-11-19T12:00:00Z",
+      "updated": "2016-11-19T16:42:46.59",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40325",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-11-19T12:00:00Z",
+      "updated": "2016-11-20T22:10:32.933",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "40322",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-11-20T12:30:00Z",
+      "updated": "2016-11-25T22:35:09.05",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40324",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-11-20T12:30:00Z",
+      "updated": "2016-11-20T15:23:23.63",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40328",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-11-20T12:30:00Z",
+      "updated": "2016-11-20T15:24:13.987",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40327",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-11-21T19:15:00Z",
+      "updated": "2016-11-22T10:42:19.803",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40331",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-11-25T17:30:00Z",
+      "updated": "2016-11-25T22:22:33.76",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40335",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-11-25T17:30:00Z",
+      "updated": "2016-11-25T22:22:10.193",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "40337",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-11-25T17:30:00Z",
+      "updated": "2016-11-25T22:37:26.45",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40333",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-11-26T12:00:00Z",
+      "updated": "2016-11-26T15:27:09.497",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40336",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-11-26T12:00:00Z",
+      "updated": "2016-11-27T12:25:30.05",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "40330",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-11-27T12:30:00Z",
+      "updated": "2016-12-02T18:55:00.163",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40332",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-11-27T12:30:00Z",
+      "updated": "2016-12-02T18:51:32.653",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40334",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-11-27T12:30:00Z",
+      "updated": "2016-12-02T19:00:58.137",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40329",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-11-28T19:15:00Z",
+      "updated": "2016-11-29T08:50:25.307",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "40338",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-02T17:30:00Z",
+      "updated": "2016-12-04T12:44:56.877",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "40340",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-02T17:30:00Z",
+      "updated": "2016-12-04T12:45:07.423",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40342",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-02T17:30:00Z",
+      "updated": "2016-12-04T12:45:32.77",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40339",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-03T12:00:00Z",
+      "updated": "2016-12-04T12:46:12.777",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "40344",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-03T12:00:00Z",
+      "updated": "2016-12-04T12:46:47.943",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40343",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-04T12:30:00Z",
+      "updated": "2016-12-04T15:22:13.433",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40345",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-04T12:30:00Z",
+      "updated": "2016-12-04T15:22:08.603",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "40346",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-04T12:30:00Z",
+      "updated": "2016-12-04T16:02:15.257",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40341",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-05T19:15:00Z",
+      "updated": "2016-12-06T09:26:44.85",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40352",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-09T17:30:00Z",
+      "updated": "2016-12-10T16:12:33.637",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "40354",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-09T17:30:00Z",
+      "updated": "2016-12-10T16:13:41.073",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "40355",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-09T17:30:00Z",
+      "updated": "2016-12-10T12:36:38.863",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40348",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-10T12:00:00Z",
+      "updated": "2016-12-10T16:15:14.763",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40351",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-10T12:00:00Z",
+      "updated": "2016-12-10T16:15:07.34",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40349",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-11T12:30:00Z",
+      "updated": "2016-12-11T15:23:28.167",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "40350",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-11T12:30:00Z",
+      "updated": "2016-12-11T15:23:51.593",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "40353",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-11T12:30:00Z",
+      "updated": "2016-12-11T15:22:14.463",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40347",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-12T19:15:00Z",
+      "updated": "2016-12-12T22:37:02.247",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40359",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2016-12-16T17:30:00Z",
+      "updated": "2016-12-16T23:52:36.807",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40362",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2016-12-16T17:30:00Z",
+      "updated": "2016-12-16T23:51:43.177",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40363",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2016-12-16T17:30:00Z",
+      "updated": "2016-12-16T23:50:57.32",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40358",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2016-12-17T12:00:00Z",
+      "updated": "2016-12-17T16:46:30.143",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40360",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2016-12-17T12:00:00Z",
+      "updated": "2016-12-17T16:46:51.817",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40356",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2016-12-18T12:30:00Z",
+      "updated": "2016-12-18T17:59:41.567",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40361",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2016-12-18T12:30:00Z",
+      "updated": "2016-12-18T18:00:24.077",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40364",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2016-12-18T12:30:00Z",
+      "updated": "2016-12-18T17:59:56.357",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "40357",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2016-12-19T19:15:00Z",
+      "updated": "2016-12-19T22:45:00.28",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40604",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-27T17:30:00Z",
+      "updated": "2017-01-27T20:21:42.847",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40606",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-27T17:30:00Z",
+      "updated": "2017-01-27T20:21:51.717",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40609",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-27T17:30:00Z",
+      "updated": "2017-01-27T20:22:00.777",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "40605",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-28T12:00:00Z",
+      "updated": "2017-01-29T13:39:58.97",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40607",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-28T12:00:00Z",
+      "updated": "2017-01-29T13:42:18.733",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40602",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-29T12:30:00Z",
+      "updated": "2017-01-29T15:22:34.57",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40603",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-29T12:30:00Z",
+      "updated": "2017-01-29T15:24:39.44",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40608",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-29T12:30:00Z",
+      "updated": "2017-01-29T15:23:05.51",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "40601",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-30T19:15:00Z",
+      "updated": "2017-01-30T22:55:05.447",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40611",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-03T17:30:00Z",
+      "updated": "2017-02-04T09:00:41.09",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "40612",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-03T17:30:00Z",
+      "updated": "2017-02-04T09:02:45.757",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40618",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-03T17:30:00Z",
+      "updated": "2017-02-06T18:31:13.097",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40610",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-04T12:00:00Z",
+      "updated": "2017-02-04T16:13:38.48",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40613",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-04T12:00:00Z",
+      "updated": "2017-02-04T16:13:40.643",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "40614",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-05T12:30:00Z",
+      "updated": "2017-02-06T18:33:07.757",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40615",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-05T12:30:00Z",
+      "updated": "2017-02-06T18:36:27.977",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40616",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-05T12:30:00Z",
+      "updated": "2017-02-06T18:35:27.987",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40617",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-06T19:15:00Z",
+      "updated": "2017-02-06T23:51:15.59",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40624",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-10T17:30:00Z",
+      "updated": "2017-02-10T22:08:30.903",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40625",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-10T17:30:00Z",
+      "updated": "2017-02-10T22:10:28.967",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40626",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-10T17:30:00Z",
+      "updated": "2017-02-10T22:10:33.323",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40623",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-11T12:00:00Z",
+      "updated": "2017-02-12T15:15:38.017",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40627",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-11T12:00:00Z",
+      "updated": "2017-02-12T15:16:31.667",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "40619",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-12T12:30:00Z",
+      "updated": "2017-02-12T15:22:47.04",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "40620",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-12T12:30:00Z",
+      "updated": "2017-02-12T15:22:57.723",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40622",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-12T12:30:00Z",
+      "updated": "2017-02-12T15:23:06.427",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40621",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-13T19:15:00Z",
+      "updated": "2017-02-14T22:38:46.327",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40628",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-17T17:30:00Z",
+      "updated": "2017-02-18T14:17:25.757",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "40630",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-17T17:30:00Z",
+      "updated": "2017-02-18T14:16:04.77",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40631",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-17T17:30:00Z",
+      "updated": "2017-02-18T14:14:48.14",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40629",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-18T12:00:00Z",
+      "updated": "2017-02-18T14:52:42.137",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40632",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-18T12:00:00Z",
+      "updated": "2017-02-18T14:52:19.65",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40633",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-19T12:30:00Z",
+      "updated": "2017-02-20T09:18:09.33",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40635",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-19T12:30:00Z",
+      "updated": "2017-02-20T09:19:25.367",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40636",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-19T12:30:00Z",
+      "updated": "2017-02-20T09:21:29.547",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40634",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-20T19:15:00Z",
+      "updated": "2017-02-21T00:22:25.25",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40640",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-24T17:30:00Z",
+      "updated": "2017-02-25T13:20:26.167",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40644",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-24T17:30:00Z",
+      "updated": "2017-03-07T12:44:57.373",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40645",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-24T17:30:00Z",
+      "updated": "2017-02-25T13:20:20.19",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40638",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-25T12:00:00Z",
+      "updated": "2017-02-25T15:36:53.917",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40639",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-25T12:00:00Z",
+      "updated": "2017-02-25T15:39:08.49",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "40637",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-26T12:30:00Z",
+      "updated": "2017-02-26T17:43:46.21",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40641",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-26T12:30:00Z",
+      "updated": "2017-02-26T17:44:37.127",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40642",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-26T12:30:00Z",
+      "updated": "2017-02-26T17:50:11.45",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "40643",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-27T19:15:00Z",
+      "updated": "2017-02-27T22:27:56.207",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "40647",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-03T17:30:00Z",
+      "updated": "2017-03-03T20:24:08.027",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "40649",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-03T17:30:00Z",
+      "updated": "2017-03-03T20:23:49.237",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40652",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-03T17:30:00Z",
+      "updated": "2017-03-03T20:23:56.147",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40646",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-04T12:00:00Z",
+      "updated": "2017-03-06T07:45:08.387",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40653",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-04T12:00:00Z",
+      "updated": "2017-03-05T15:49:36.327",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40648",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-05T12:30:00Z",
+      "updated": "2017-03-05T15:51:54.183",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "40650",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-05T12:30:00Z",
+      "updated": "2017-03-05T15:54:08.917",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "40654",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-05T12:30:00Z",
+      "updated": "2017-03-05T15:55:04.207",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40651",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-06T19:15:00Z",
+      "updated": "2017-03-06T22:33:31.967",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40655",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-10T17:30:00Z",
+      "updated": "2017-03-10T20:38:56.133",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40656",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-10T17:30:00Z",
+      "updated": "2017-03-10T20:39:07.797",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40663",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-10T17:30:00Z",
+      "updated": "2017-03-10T20:39:16.1",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40661",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-11T12:00:00Z",
+      "updated": "2017-03-11T17:26:28.73",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40662",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-11T12:00:00Z",
+      "updated": "2017-03-11T17:26:50.56",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "40658",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-12T12:30:00Z",
+      "updated": "2017-03-12T16:21:34.497",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40659",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-12T12:30:00Z",
+      "updated": "2017-03-12T16:23:00.827",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40660",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-12T12:30:00Z",
+      "updated": "2017-03-12T16:23:33.917",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40657",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-13T19:15:00Z",
+      "updated": "2017-03-13T22:43:54.583",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40666",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-17T17:30:00Z",
+      "updated": "2017-03-18T11:17:48.343",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40667",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-17T17:30:00Z",
+      "updated": "2017-03-18T15:57:45.223",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "40672",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-17T17:30:00Z",
+      "updated": "2017-03-18T11:21:48.17",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40664",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-18T12:00:00Z",
+      "updated": "2017-03-18T15:40:13.793",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40671",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-18T12:00:00Z",
+      "updated": "2017-03-18T15:41:18.087",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40668",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-19T12:30:00Z",
+      "updated": "2017-03-19T15:21:37.007",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40669",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-19T12:30:00Z",
+      "updated": "2017-03-19T15:22:03.243",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "40670",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-19T12:30:00Z",
+      "updated": "2017-03-19T15:22:45.563",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40665",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-20T19:15:00Z",
+      "updated": "2017-03-21T20:03:14.593",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40673",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-03-31T16:30:00Z",
+      "updated": "2017-04-01T16:42:55.73",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40677",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-03-31T16:30:00Z",
+      "updated": "2017-03-31T20:28:09.727",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40681",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-03-31T16:30:00Z",
+      "updated": "2017-03-31T20:27:08.827",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40675",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-04-01T11:00:00Z",
+      "updated": "2017-04-01T16:44:40.51",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40676",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-04-01T11:00:00Z",
+      "updated": "2017-04-01T16:44:05.527",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40680",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-04-01T11:00:00Z",
+      "updated": "2017-04-01T16:44:27.76",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40674",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-04-02T11:30:00Z",
+      "updated": "2017-04-02T15:26:59.09",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "40678",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-04-02T11:30:00Z",
+      "updated": "2017-04-02T15:27:34.52",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40679",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-04-02T11:30:00Z",
+      "updated": "2017-04-02T15:27:59.003",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "40684",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-04T15:30:00Z",
+      "updated": "2017-04-09T12:03:21.537",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40685",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-04T15:30:00Z",
+      "updated": "2017-04-09T12:04:55.713",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40689",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-04T15:30:00Z",
+      "updated": "2017-04-09T12:06:42.093",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40690",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-04T15:30:00Z",
+      "updated": "2017-04-09T12:10:25.27",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40682",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-05T15:30:00Z",
+      "updated": "2017-04-09T12:12:06.44",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40683",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-05T15:30:00Z",
+      "updated": "2017-04-09T11:57:53.663",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40686",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-05T15:30:00Z",
+      "updated": "2017-04-09T12:13:34.693",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40687",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-05T15:30:00Z",
+      "updated": "2017-04-09T12:14:58.93",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40688",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-05T15:30:00Z",
+      "updated": "2017-04-09T12:16:29.157",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40691",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-07T16:30:00Z",
+      "updated": "2017-04-07T20:21:43.227",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "40693",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-07T16:30:00Z",
+      "updated": "2017-04-07T20:21:45.677",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40695",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-07T16:30:00Z",
+      "updated": "2017-04-07T20:21:48.227",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "40696",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-08T11:00:00Z",
+      "updated": "2017-04-09T12:18:39.19",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "40699",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-08T11:00:00Z",
+      "updated": "2017-04-10T08:52:13.68",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40692",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-09T11:30:00Z",
+      "updated": "2017-04-10T08:54:55.233",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "40697",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-09T11:30:00Z",
+      "updated": "2017-04-10T08:57:58.12",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "40698",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-09T11:30:00Z",
+      "updated": "2017-04-10T08:59:08.66",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40694",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-10T18:15:00Z",
+      "updated": "2017-04-10T23:41:57.85",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40702",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-15T11:00:00Z",
+      "updated": "2017-04-17T20:09:51.153",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40705",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-15T11:00:00Z",
+      "updated": "2017-04-15T17:33:09.75",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40700",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-16T11:30:00Z",
+      "updated": "2017-04-16T15:24:17.837",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40701",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-16T11:30:00Z",
+      "updated": "2017-04-16T18:19:10.433",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40704",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-16T11:30:00Z",
+      "updated": "2017-04-16T18:19:53.01",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40706",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-16T11:30:00Z",
+      "updated": "2017-04-16T18:20:32.64",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40707",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-16T11:30:00Z",
+      "updated": "2017-04-16T18:22:02.887",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "40708",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-16T11:30:00Z",
+      "updated": "2017-04-16T18:22:45.043",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40703",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-17T18:15:00Z",
+      "updated": "2017-04-17T23:39:15.07",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "40712",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-21T16:30:00Z",
+      "updated": "2017-04-24T17:50:18.917",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40714",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-21T16:30:00Z",
+      "updated": "2017-04-21T20:26:55.737",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40716",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-21T16:30:00Z",
+      "updated": "2017-04-21T20:31:39.97",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "40711",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-22T11:00:00Z",
+      "updated": "2017-04-22T15:23:48.523",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "40713",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-22T11:00:00Z",
+      "updated": "2017-04-22T15:22:11.923",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "40710",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-23T11:30:00Z",
+      "updated": "2017-04-23T20:38:27.523",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "40715",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-23T11:30:00Z",
+      "updated": "2017-04-23T20:36:57.007",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40717",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-23T11:30:00Z",
+      "updated": "2017-04-23T20:39:15.25",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "40709",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-24T18:15:00Z",
+      "updated": "2017-04-24T22:46:44.483",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "40719",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-28T16:30:00Z",
+      "updated": "2017-04-29T17:21:57.077",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "40720",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-28T16:30:00Z",
+      "updated": "2017-04-29T17:23:37.11",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40722",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-28T16:30:00Z",
+      "updated": "2017-04-29T17:26:01.777",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "40718",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-29T11:00:00Z",
+      "updated": "2017-04-29T17:27:59.157",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "40723",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-29T11:00:00Z",
+      "updated": "2017-04-29T17:30:17.29",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "40726",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-29T11:00:00Z",
+      "updated": "2017-04-29T17:31:47.057",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40721",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-30T11:30:00Z",
+      "updated": "2017-05-01T16:48:06.8",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40724",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-30T11:30:00Z",
+      "updated": "2017-05-01T16:48:57.153",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "40725",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-30T11:30:00Z",
+      "updated": "2017-05-05T19:29:48.753",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40727",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-05T16:30:00Z",
+      "updated": "2017-05-06T10:38:02.793",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40731",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-05T16:30:00Z",
+      "updated": "2017-05-05T20:26:03.593",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40733",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-05T16:30:00Z",
+      "updated": "2017-05-06T19:33:37.443",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "40734",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-06T11:00:00Z",
+      "updated": "2017-05-06T19:34:15.63",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40735",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-06T11:00:00Z",
+      "updated": "2017-05-06T14:50:09.97",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40729",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-07T11:30:00Z",
+      "updated": "2017-05-07T18:35:17.307",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40730",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-07T11:30:00Z",
+      "updated": "2017-05-07T19:58:24.477",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40732",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-07T11:30:00Z",
+      "updated": "2017-05-07T20:00:41.3",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "40728",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-08T18:15:00Z",
+      "updated": "2017-05-10T13:22:14.883",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "40736",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-14T13:30:00Z",
+      "updated": "2017-05-14T17:23:53.213",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40737",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-14T13:30:00Z",
+      "updated": "2017-05-14T19:31:01.257",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": "40738",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-14T13:30:00Z",
+      "updated": "2017-05-14T17:25:14.193",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40739",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-14T13:30:00Z",
+      "updated": "2017-05-14T17:24:18.15",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40740",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-14T13:30:00Z",
+      "updated": "2017-05-14T19:34:14.403",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40741",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-14T13:30:00Z",
+      "updated": "2017-05-14T19:34:54.247",
+      "finished": true,
+      "homeTeamId": "398",
+      "homeTeam": "Würzburger Kickers",
+      "homeShortName": "Würzburg",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "40742",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-14T13:30:00Z",
+      "updated": "2017-05-14T17:24:50.313",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "40743",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-14T13:30:00Z",
+      "updated": "2017-05-14T19:32:26.247",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40744",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-14T13:30:00Z",
+      "updated": "2017-05-14T17:25:03.007",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 3,
+        "away": 4
+      }
+    },
+    {
+      "id": "40745",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-21T13:30:00Z",
+      "updated": "2017-05-21T17:17:51.627",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40746",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-21T13:30:00Z",
+      "updated": "2017-05-21T17:22:37.963",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "398",
+      "awayTeam": "Würzburger Kickers",
+      "awayShortName": "Würzburg",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "40747",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-21T13:30:00Z",
+      "updated": "2017-05-21T17:22:45.28",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "40748",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-21T13:30:00Z",
+      "updated": "2017-05-21T17:22:54.457",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "40749",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-21T13:30:00Z",
+      "updated": "2017-05-21T17:23:03.477",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "40750",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-21T13:30:00Z",
+      "updated": "2017-05-21T17:20:37.507",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40751",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-21T13:30:00Z",
+      "updated": "2017-05-21T17:23:12.29",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "40752",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-21T13:30:00Z",
+      "updated": "2017-05-21T17:35:11.693",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "40753",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-21T13:30:00Z",
+      "updated": "2017-05-21T17:23:25.24",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    }
+  ],
+  "standings": [
+    {
+      "teamId": "16",
+      "name": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "position": 1,
+      "played": 34,
+      "wins": 21,
+      "draws": 6,
+      "losses": 7,
+      "goalsFor": 63,
+      "goalsAgainst": 37,
+      "goalDifference": 26,
+      "points": 69
+    },
+    {
+      "teamId": "55",
+      "name": "Hannover 96",
+      "shortName": "Hannover",
+      "position": 2,
+      "played": 34,
+      "wins": 19,
+      "draws": 10,
+      "losses": 5,
+      "goalsFor": 51,
+      "goalsAgainst": 32,
+      "goalDifference": 19,
+      "points": 67
+    },
+    {
+      "teamId": "74",
+      "name": "Eintracht Braunschweig",
+      "shortName": "Braunschweig",
+      "position": 3,
+      "played": 34,
+      "wins": 19,
+      "draws": 9,
+      "losses": 6,
+      "goalsFor": 50,
+      "goalsAgainst": 36,
+      "goalDifference": 14,
+      "points": 66
+    },
+    {
+      "teamId": "80",
+      "name": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "position": 4,
+      "played": 34,
+      "wins": 18,
+      "draws": 6,
+      "losses": 10,
+      "goalsFor": 51,
+      "goalsAgainst": 39,
+      "goalDifference": 12,
+      "points": 60
+    },
+    {
+      "teamId": "177",
+      "name": "Dynamo Dresden",
+      "shortName": "Dresden",
+      "position": 5,
+      "played": 34,
+      "wins": 13,
+      "draws": 11,
+      "losses": 10,
+      "goalsFor": 53,
+      "goalsAgainst": 46,
+      "goalDifference": 7,
+      "points": 50
+    },
+    {
+      "teamId": "199",
+      "name": "1. FC Heidenheim 1846",
+      "shortName": "Heidenheim",
+      "position": 6,
+      "played": 34,
+      "wins": 12,
+      "draws": 10,
+      "losses": 12,
+      "goalsFor": 43,
+      "goalsAgainst": 39,
+      "goalDifference": 4,
+      "points": 46
+    },
+    {
+      "teamId": "98",
+      "name": "FC St. Pauli",
+      "shortName": "St. Pauli",
+      "position": 7,
+      "played": 34,
+      "wins": 12,
+      "draws": 9,
+      "losses": 13,
+      "goalsFor": 39,
+      "goalsAgainst": 35,
+      "goalDifference": 4,
+      "points": 45
+    },
+    {
+      "teamId": "115",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "position": 8,
+      "played": 34,
+      "wins": 12,
+      "draws": 9,
+      "losses": 13,
+      "goalsFor": 33,
+      "goalsAgainst": 40,
+      "goalDifference": -7,
+      "points": 45
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum",
+      "position": 9,
+      "played": 34,
+      "wins": 10,
+      "draws": 14,
+      "losses": 10,
+      "goalsFor": 42,
+      "goalsAgainst": 47,
+      "goalDifference": -5,
+      "points": 44
+    },
+    {
+      "teamId": "119",
+      "name": "SV Sandhausen",
+      "shortName": "Sandhausen",
+      "position": 10,
+      "played": 34,
+      "wins": 10,
+      "draws": 12,
+      "losses": 12,
+      "goalsFor": 41,
+      "goalsAgainst": 36,
+      "goalDifference": 5,
+      "points": 42
+    },
+    {
+      "teamId": "185",
+      "name": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf",
+      "position": 11,
+      "played": 34,
+      "wins": 10,
+      "draws": 12,
+      "losses": 12,
+      "goalsFor": 37,
+      "goalsAgainst": 39,
+      "goalDifference": -2,
+      "points": 42
+    },
+    {
+      "teamId": "79",
+      "name": "1. FC Nürnberg",
+      "shortName": "Nürnberg",
+      "position": 12,
+      "played": 34,
+      "wins": 12,
+      "draws": 6,
+      "losses": 16,
+      "goalsFor": 46,
+      "goalsAgainst": 52,
+      "goalDifference": -6,
+      "points": 42
+    },
+    {
+      "teamId": "76",
+      "name": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "position": 13,
+      "played": 34,
+      "wins": 10,
+      "draws": 11,
+      "losses": 13,
+      "goalsFor": 29,
+      "goalsAgainst": 33,
+      "goalDifference": -4,
+      "points": 41
+    },
+    {
+      "teamId": "66",
+      "name": "Erzgebirge Aue",
+      "shortName": "Aue",
+      "position": 14,
+      "played": 34,
+      "wins": 10,
+      "draws": 9,
+      "losses": 15,
+      "goalsFor": 37,
+      "goalsAgainst": 52,
+      "goalDifference": -15,
+      "points": 39
+    },
+    {
+      "teamId": "83",
+      "name": "DSC Arminia Bielefeld",
+      "shortName": "Bielefeld",
+      "position": 15,
+      "played": 34,
+      "wins": 8,
+      "draws": 13,
+      "losses": 13,
+      "goalsFor": 50,
+      "goalsAgainst": 54,
+      "goalDifference": -4,
+      "points": 37
+    },
+    {
+      "teamId": "125",
+      "name": "TSV 1860 München",
+      "shortName": "1860 München",
+      "position": 16,
+      "played": 34,
+      "wins": 10,
+      "draws": 6,
+      "losses": 18,
+      "goalsFor": 37,
+      "goalsAgainst": 47,
+      "goalDifference": -10,
+      "points": 36
+    },
+    {
+      "teamId": "398",
+      "name": "Würzburger Kickers",
+      "shortName": "Würzburg",
+      "position": 17,
+      "played": 34,
+      "wins": 7,
+      "draws": 13,
+      "losses": 14,
+      "goalsFor": 32,
+      "goalsAgainst": 41,
+      "goalDifference": -9,
+      "points": 34
+    },
+    {
+      "teamId": "105",
+      "name": "Karlsruher SC",
+      "shortName": "Karlsruhe",
+      "position": 18,
+      "played": 34,
+      "wins": 5,
+      "draws": 10,
+      "losses": 19,
+      "goalsFor": 27,
+      "goalsAgainst": 56,
+      "goalDifference": -29,
+      "points": 25
+    }
+  ],
+  "teams": [
+    {
+      "teamId": "199",
+      "name": "1. FC Heidenheim 1846",
+      "shortName": "Heidenheim"
+    },
+    {
+      "teamId": "76",
+      "name": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern"
+    },
+    {
+      "teamId": "79",
+      "name": "1. FC Nürnberg",
+      "shortName": "Nürnberg"
+    },
+    {
+      "teamId": "80",
+      "name": "1. FC Union Berlin",
+      "shortName": "Union Berlin"
+    },
+    {
+      "teamId": "83",
+      "name": "DSC Arminia Bielefeld",
+      "shortName": "Bielefeld"
+    },
+    {
+      "teamId": "177",
+      "name": "Dynamo Dresden",
+      "shortName": "Dresden"
+    },
+    {
+      "teamId": "74",
+      "name": "Eintracht Braunschweig",
+      "shortName": "Braunschweig"
+    },
+    {
+      "teamId": "66",
+      "name": "Erzgebirge Aue",
+      "shortName": "Aue"
+    },
+    {
+      "teamId": "98",
+      "name": "FC St. Pauli",
+      "shortName": "St. Pauli"
+    },
+    {
+      "teamId": "185",
+      "name": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf"
+    },
+    {
+      "teamId": "55",
+      "name": "Hannover 96",
+      "shortName": "Hannover"
+    },
+    {
+      "teamId": "105",
+      "name": "Karlsruher SC",
+      "shortName": "Karlsruhe"
+    },
+    {
+      "teamId": "115",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth"
+    },
+    {
+      "teamId": "119",
+      "name": "SV Sandhausen",
+      "shortName": "Sandhausen"
+    },
+    {
+      "teamId": "125",
+      "name": "TSV 1860 München",
+      "shortName": "1860 München"
+    },
+    {
+      "teamId": "16",
+      "name": "VfB Stuttgart",
+      "shortName": "Stuttgart"
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum"
+    },
+    {
+      "teamId": "398",
+      "name": "Würzburger Kickers",
+      "shortName": "Würzburg"
+    }
+  ],
+  "groupChecks": {}
+}

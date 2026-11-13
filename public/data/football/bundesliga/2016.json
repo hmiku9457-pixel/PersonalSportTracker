@@ -1,0 +1,5867 @@
+{
+  "schemaVersion": 1,
+  "id": "bundesliga",
+  "shortcut": "bl1",
+  "year": 2016,
+  "seasonLabel": "2016/17",
+  "complete": true,
+  "calendarCheckedAt": "2026-11-13T13:07:17.262Z",
+  "updatedAt": "2026-11-13T13:07:17.262Z",
+  "matches": [
+    {
+      "id": "39648",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-26T18:30:00Z",
+      "updated": "2016-09-19T23:10:36.1",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": "39649",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-27T13:30:00Z",
+      "updated": "2016-09-19T23:11:10",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39652",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-27T13:30:00Z",
+      "updated": "2016-09-19T23:11:39.427",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39653",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-27T13:30:00Z",
+      "updated": "2016-09-19T23:12:02.69",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39654",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-27T13:30:00Z",
+      "updated": "2016-09-19T23:12:29.09",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39656",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-27T13:30:00Z",
+      "updated": "2016-09-19T23:13:06.247",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39650",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-27T16:30:00Z",
+      "updated": "2016-09-19T23:13:20.847",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39651",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-28T13:30:00Z",
+      "updated": "2016-09-19T23:13:58.48",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39655",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2016-08-28T15:30:00Z",
+      "updated": "2016-09-19T23:15:19.95",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39658",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-09-09T18:30:00Z",
+      "updated": "2016-09-19T23:16:47.003",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39657",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-09-10T13:30:00Z",
+      "updated": "2016-09-19T23:17:20.057",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39660",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-09-10T13:30:00Z",
+      "updated": "2016-09-19T23:17:48.987",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39661",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-09-10T13:30:00Z",
+      "updated": "2016-09-19T23:18:18.943",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39663",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-09-10T13:30:00Z",
+      "updated": "2016-09-19T23:18:43.56",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39664",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-09-10T13:30:00Z",
+      "updated": "2016-09-19T23:19:09.783",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39665",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-09-10T16:30:00Z",
+      "updated": "2016-09-19T23:19:53.427",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39662",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-09-11T13:30:00Z",
+      "updated": "2016-09-24T17:34:05.17",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39659",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2016-09-11T15:30:00Z",
+      "updated": "2016-09-19T23:20:49.467",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 4,
+        "away": 4
+      }
+    },
+    {
+      "id": "39670",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-09-16T18:30:00Z",
+      "updated": "2016-09-21T22:38:46.627",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39666",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-09-17T13:30:00Z",
+      "updated": "2016-09-19T23:21:40.93",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39667",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-09-17T13:30:00Z",
+      "updated": "2016-09-20T11:42:54.607",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": "39671",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-09-17T13:30:00Z",
+      "updated": "2016-11-20T22:16:33.453",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "39673",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-09-17T13:30:00Z",
+      "updated": "2016-09-19T23:23:06.867",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39674",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-09-17T13:30:00Z",
+      "updated": "2016-09-19T23:23:40.34",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39668",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-09-17T16:30:00Z",
+      "updated": "2016-09-19T23:23:59.677",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "39672",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-09-18T13:30:00Z",
+      "updated": "2016-09-19T23:24:27.367",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "39669",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2016-09-18T15:30:00Z",
+      "updated": "2016-09-20T10:26:14.977",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39678",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-20T18:00:00Z",
+      "updated": "2016-09-21T21:25:48.407",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 5
+      }
+    },
+    {
+      "id": "39679",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-20T18:00:00Z",
+      "updated": "2016-09-21T22:29:54.197",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39681",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-20T18:00:00Z",
+      "updated": "2016-09-21T21:27:33.807",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39682",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-20T18:00:00Z",
+      "updated": "2016-09-21T21:28:09.8",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39675",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-21T18:00:00Z",
+      "updated": "2016-09-21T21:49:23.003",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39676",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-21T18:00:00Z",
+      "updated": "2016-09-21T21:50:57.59",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39677",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-21T18:00:00Z",
+      "updated": "2016-09-21T22:32:58.823",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "39680",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-21T18:00:00Z",
+      "updated": "2016-09-21T22:35:06.043",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39683",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2016-09-21T18:00:00Z",
+      "updated": "2016-09-21T22:36:36.893",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39684",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-23T18:30:00Z",
+      "updated": "2016-09-24T13:08:20.613",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39685",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-24T13:30:00Z",
+      "updated": "2016-09-25T11:52:28.867",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39686",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-24T13:30:00Z",
+      "updated": "2016-09-24T22:19:37.187",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "39688",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-24T13:30:00Z",
+      "updated": "2016-09-24T22:16:56.523",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "39689",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-24T13:30:00Z",
+      "updated": "2016-09-24T22:19:07.14",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39692",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-24T13:30:00Z",
+      "updated": "2016-09-24T22:17:56.04",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "39690",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-24T16:30:00Z",
+      "updated": "2016-09-24T22:18:42.13",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39691",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-25T13:30:00Z",
+      "updated": "2016-10-15T23:55:55.53",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39687",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2016-09-25T15:30:00Z",
+      "updated": "2016-09-25T19:37:35.837",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39701",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-09-30T18:30:00Z",
+      "updated": "2016-09-30T23:13:26.653",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39693",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-10-01T13:30:00Z",
+      "updated": "2016-10-02T19:51:34.89",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39696",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-10-01T13:30:00Z",
+      "updated": "2016-10-02T19:52:06.87",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39698",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-10-01T13:30:00Z",
+      "updated": "2016-10-03T11:18:14.27",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39699",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-10-01T13:30:00Z",
+      "updated": "2016-10-02T19:53:19.647",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39700",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-10-01T13:30:00Z",
+      "updated": "2016-10-02T19:54:18.687",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39694",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-10-01T16:30:00Z",
+      "updated": "2016-10-03T11:17:00.707",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39697",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-10-02T13:30:00Z",
+      "updated": "2016-10-02T19:49:21.047",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39695",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2016-10-02T15:30:00Z",
+      "updated": "2016-10-03T11:17:49.233",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "39702",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-10-14T18:30:00Z",
+      "updated": "2016-10-18T18:05:07.947",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39703",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-10-15T13:30:00Z",
+      "updated": "2016-10-18T18:05:45.503",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39706",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-10-15T13:30:00Z",
+      "updated": "2016-10-18T18:06:11.297",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39707",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-10-15T13:30:00Z",
+      "updated": "2016-10-18T18:07:26.457",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39709",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-10-15T13:30:00Z",
+      "updated": "2016-10-21T12:37:47.977",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39710",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-10-15T13:30:00Z",
+      "updated": "2016-10-21T23:20:40.13",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39708",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-10-15T16:30:00Z",
+      "updated": "2016-10-18T18:09:10.517",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39704",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-10-16T13:30:00Z",
+      "updated": "2016-10-18T18:09:34.48",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39705",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2016-10-16T15:30:00Z",
+      "updated": "2016-10-18T18:10:20.573",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "39715",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-21T18:30:00Z",
+      "updated": "2016-10-22T17:25:53.77",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "39712",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-22T13:30:00Z",
+      "updated": "2016-10-28T10:30:28.187",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "39714",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-22T13:30:00Z",
+      "updated": "2016-10-23T16:06:10.747",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39716",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-22T13:30:00Z",
+      "updated": "2016-10-23T16:04:47.207",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "39717",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-22T13:30:00Z",
+      "updated": "2016-10-23T16:05:20.96",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39718",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-22T13:30:00Z",
+      "updated": "2016-10-23T16:02:52.357",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39711",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-22T16:30:00Z",
+      "updated": "2016-10-24T14:09:59.82",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39719",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-23T13:30:00Z",
+      "updated": "2016-10-29T15:32:44.907",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39713",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2016-10-23T15:30:00Z",
+      "updated": "2016-10-29T15:33:18.423",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39721",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-28T18:30:00Z",
+      "updated": "2016-10-30T21:29:17.05",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39722",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-29T13:30:00Z",
+      "updated": "2016-10-30T21:29:32.517",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39723",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-29T13:30:00Z",
+      "updated": "2016-10-30T21:29:49.567",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39725",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-29T13:30:00Z",
+      "updated": "2016-10-30T21:29:58.76",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "39726",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-29T13:30:00Z",
+      "updated": "2016-11-05T19:51:22.117",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "39727",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-29T13:30:00Z",
+      "updated": "2016-10-30T21:33:37.543",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39720",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-29T16:30:00Z",
+      "updated": "2016-10-30T21:31:00.88",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39728",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-30T14:30:00Z",
+      "updated": "2016-10-30T21:37:05.35",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39724",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2016-10-30T16:30:00Z",
+      "updated": "2016-10-30T21:38:45.627",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39732",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-11-04T19:30:00Z",
+      "updated": "2016-11-06T12:23:48.983",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39729",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-11-05T14:30:00Z",
+      "updated": "2016-11-06T19:30:05.583",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39730",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-11-05T14:30:00Z",
+      "updated": "2016-11-06T21:27:37.25",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "39733",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-11-05T14:30:00Z",
+      "updated": "2016-11-06T12:24:50.233",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 5
+      }
+    },
+    {
+      "id": "39734",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-11-05T14:30:00Z",
+      "updated": "2016-11-06T12:25:21.533",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39736",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-11-05T14:30:00Z",
+      "updated": "2016-11-06T21:28:20.68",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "39735",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-11-05T17:30:00Z",
+      "updated": "2016-11-06T12:26:29.93",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39737",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-11-06T14:30:00Z",
+      "updated": "2016-11-17T22:41:48.693",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39731",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2016-11-06T16:30:00Z",
+      "updated": "2016-11-17T22:44:14.447",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39739",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-11-18T19:30:00Z",
+      "updated": "2016-11-19T17:45:07.383",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "39740",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-11-19T14:30:00Z",
+      "updated": "2016-11-24T19:58:02.377",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39741",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-11-19T14:30:00Z",
+      "updated": "2016-11-24T19:58:23.123",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "39742",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-11-19T14:30:00Z",
+      "updated": "2016-11-24T19:58:34.557",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "39743",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-11-19T14:30:00Z",
+      "updated": "2016-11-24T19:58:55.037",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39745",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-11-19T14:30:00Z",
+      "updated": "2016-11-24T19:59:36.39",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "39738",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-11-19T17:30:00Z",
+      "updated": "2016-11-24T19:57:28.54",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39746",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-11-20T14:30:00Z",
+      "updated": "2016-11-24T20:00:09.977",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39744",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2016-11-20T16:30:00Z",
+      "updated": "2016-11-24T19:59:17.88",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39755",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-25T19:30:00Z",
+      "updated": "2016-11-26T10:30:04.097",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "39748",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-26T14:30:00Z",
+      "updated": "2016-11-26T17:30:18.07",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39751",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-26T14:30:00Z",
+      "updated": "2016-11-26T17:21:51.423",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39752",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-26T14:30:00Z",
+      "updated": "2016-11-27T17:44:23.92",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39753",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-26T14:30:00Z",
+      "updated": "2016-11-26T17:31:41.853",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39754",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-26T14:30:00Z",
+      "updated": "2016-11-26T17:29:22.21",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39747",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-26T17:30:00Z",
+      "updated": "2016-12-02T18:41:47.69",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39749",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-27T14:30:00Z",
+      "updated": "2016-12-02T18:42:37.137",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39750",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2016-11-27T16:30:00Z",
+      "updated": "2016-11-27T19:26:25.023",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39758",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-12-02T19:30:00Z",
+      "updated": "2016-12-10T15:50:27.1",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "39756",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-12-03T14:30:00Z",
+      "updated": "2016-12-04T00:12:04.097",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "39757",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-12-03T14:30:00Z",
+      "updated": "2016-12-04T00:12:31.44",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39759",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-12-03T14:30:00Z",
+      "updated": "2016-12-10T16:00:46.637",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "39761",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-12-03T14:30:00Z",
+      "updated": "2016-12-04T00:13:24.7",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39763",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-12-03T14:30:00Z",
+      "updated": "2016-12-10T16:04:05.287",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "39764",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-12-03T17:30:00Z",
+      "updated": "2016-12-04T00:14:33.58",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39762",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-12-04T14:30:00Z",
+      "updated": "2016-12-10T21:27:38.983",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39760",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2016-12-04T16:30:00Z",
+      "updated": "2016-12-05T13:18:53.777",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39772",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-12-09T19:30:00Z",
+      "updated": "2016-12-11T23:39:45.79",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39765",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-12-10T14:30:00Z",
+      "updated": "2016-12-12T16:26:44.717",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "39769",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-12-10T14:30:00Z",
+      "updated": "2016-12-10T21:24:55.003",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39770",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-12-10T14:30:00Z",
+      "updated": "2016-12-10T21:25:18.773",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39771",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-12-10T14:30:00Z",
+      "updated": "2016-12-10T21:25:39.143",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39773",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-12-10T14:30:00Z",
+      "updated": "2016-12-10T21:26:01.52",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39768",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-12-10T17:30:00Z",
+      "updated": "2016-12-10T21:26:34.893",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "39766",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-12-11T14:30:00Z",
+      "updated": "2016-12-11T23:31:42.647",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39767",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2016-12-11T16:30:00Z",
+      "updated": "2016-12-11T23:32:14.927",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "39781",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-16T19:30:00Z",
+      "updated": "2016-12-17T15:51:55.407",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39775",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-17T14:30:00Z",
+      "updated": "2016-12-17T17:23:18.673",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39776",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-17T14:30:00Z",
+      "updated": "2016-12-17T18:32:48.59",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39778",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-17T14:30:00Z",
+      "updated": "2016-12-17T17:21:48.487",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39779",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-17T14:30:00Z",
+      "updated": "2016-12-17T17:22:07.773",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39782",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-17T14:30:00Z",
+      "updated": "2016-12-17T17:21:14.69",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39777",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-17T17:30:00Z",
+      "updated": "2016-12-17T20:24:03.53",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39780",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-18T14:30:00Z",
+      "updated": "2016-12-19T00:31:42.933",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "39774",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2016-12-18T16:30:00Z",
+      "updated": "2016-12-19T00:32:03.31",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39784",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-20T19:00:00Z",
+      "updated": "2016-12-21T22:03:15.28",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39785",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-20T19:00:00Z",
+      "updated": "2016-12-21T22:03:37.027",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39788",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-20T19:00:00Z",
+      "updated": "2016-12-21T22:03:56.217",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39791",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-20T19:00:00Z",
+      "updated": "2016-12-21T22:04:18.96",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39783",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-21T19:00:00Z",
+      "updated": "2016-12-21T22:05:03.1",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39786",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-21T19:00:00Z",
+      "updated": "2016-12-21T22:05:00.787",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39787",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-21T19:00:00Z",
+      "updated": "2016-12-21T22:06:22.487",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39789",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-21T19:00:00Z",
+      "updated": "2016-12-21T22:05:40.45",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39790",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2016-12-21T19:00:00Z",
+      "updated": "2016-12-21T22:06:14.317",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39799",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2017-01-20T19:30:00Z",
+      "updated": "2017-01-27T12:56:59.793",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39793",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2017-01-21T14:30:00Z",
+      "updated": "2017-01-21T17:26:32",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39795",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2017-01-21T14:30:00Z",
+      "updated": "2017-01-21T17:27:04.193",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39796",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2017-01-21T14:30:00Z",
+      "updated": "2017-01-21T17:27:34.667",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39797",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2017-01-21T14:30:00Z",
+      "updated": "2017-01-21T17:27:54.487",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39798",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2017-01-21T14:30:00Z",
+      "updated": "2017-01-21T17:28:23.607",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39800",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2017-01-21T17:30:00Z",
+      "updated": "2017-01-22T10:59:37.783",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39792",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2017-01-22T14:30:00Z",
+      "updated": "2017-01-22T23:00:26.66",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39794",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2017-01-22T16:30:00Z",
+      "updated": "2017-01-22T20:45:46.697",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39802",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-27T19:30:00Z",
+      "updated": "2017-01-29T03:18:41.973",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "39801",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-28T14:30:00Z",
+      "updated": "2017-01-29T20:37:01.78",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39806",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-28T14:30:00Z",
+      "updated": "2017-01-29T20:37:12.023",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 6
+      }
+    },
+    {
+      "id": "39807",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-28T14:30:00Z",
+      "updated": "2017-01-29T03:20:44.67",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39808",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-28T14:30:00Z",
+      "updated": "2017-01-29T03:21:06.703",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39809",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-28T14:30:00Z",
+      "updated": "2017-01-29T03:21:30.367",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39804",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-28T17:30:00Z",
+      "updated": "2017-01-29T08:40:23.12",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "39805",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-29T14:30:00Z",
+      "updated": "2017-01-29T17:41:33.343",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39803",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2017-01-29T16:30:00Z",
+      "updated": "2017-01-29T20:17:15.237",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39811",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-03T19:30:00Z",
+      "updated": "2017-02-04T17:50:32.99",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39810",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-04T14:30:00Z",
+      "updated": "2017-02-04T18:21:43.327",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39813",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-04T14:30:00Z",
+      "updated": "2017-02-04T17:51:28.423",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39814",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-04T14:30:00Z",
+      "updated": "2017-02-04T17:51:51.343",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "39815",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-04T14:30:00Z",
+      "updated": "2017-02-04T17:52:16.03",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39816",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-04T14:30:00Z",
+      "updated": "2017-02-04T17:52:35.78",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39812",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-04T17:30:00Z",
+      "updated": "2017-02-05T23:11:26.257",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39817",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-05T14:30:00Z",
+      "updated": "2017-02-05T23:12:02.56",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "39818",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2017-02-05T16:30:00Z",
+      "updated": "2017-02-05T23:12:27.21",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39819",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-10T19:30:00Z",
+      "updated": "2017-02-12T19:24:02.357",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39821",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-11T14:30:00Z",
+      "updated": "2017-02-12T19:24:38.31",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39822",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-11T14:30:00Z",
+      "updated": "2017-02-12T19:25:00.86",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39823",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-11T14:30:00Z",
+      "updated": "2017-02-12T19:25:22.07",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39824",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-11T14:30:00Z",
+      "updated": "2017-02-12T19:25:42.523",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "39827",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-11T14:30:00Z",
+      "updated": "2017-02-12T19:25:59.833",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "39825",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-11T17:30:00Z",
+      "updated": "2017-02-12T19:26:26.7",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39820",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-12T14:30:00Z",
+      "updated": "2017-02-12T19:26:46.947",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39826",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2017-02-12T16:30:00Z",
+      "updated": "2017-02-12T19:27:16.257",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39833",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-17T19:30:00Z",
+      "updated": "2017-02-19T15:41:56.637",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "39828",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-18T14:30:00Z",
+      "updated": "2017-02-19T15:43:37.607",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39829",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-18T14:30:00Z",
+      "updated": "2017-02-19T15:42:29.427",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39831",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-18T14:30:00Z",
+      "updated": "2017-02-19T15:42:47.66",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39835",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-18T14:30:00Z",
+      "updated": "2017-02-19T15:43:09.467",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39836",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-18T14:30:00Z",
+      "updated": "2017-02-19T15:44:02.247",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39830",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-18T17:30:00Z",
+      "updated": "2017-02-19T15:44:18.553",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39832",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-19T14:30:00Z",
+      "updated": "2017-02-19T17:24:43.687",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39834",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2017-02-19T16:30:00Z",
+      "updated": "2017-02-19T20:46:19.86",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39839",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-24T19:30:00Z",
+      "updated": "2017-02-28T19:41:31.453",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39837",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-25T14:30:00Z",
+      "updated": "2017-02-28T19:42:08.76",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 8,
+        "away": 0
+      }
+    },
+    {
+      "id": "39838",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-25T14:30:00Z",
+      "updated": "2017-02-28T19:42:32.707",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39841",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-25T14:30:00Z",
+      "updated": "2017-02-28T19:42:51.503",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "39843",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-25T14:30:00Z",
+      "updated": "2017-02-28T19:43:12.35",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39845",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-25T14:30:00Z",
+      "updated": "2017-02-28T19:43:34.267",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39844",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-25T17:30:00Z",
+      "updated": "2017-02-28T19:44:18.97",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39842",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-26T14:30:00Z",
+      "updated": "2017-02-28T19:44:42.817",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39840",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2017-02-26T16:30:00Z",
+      "updated": "2017-02-28T19:45:15.32",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39854",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-03T19:30:00Z",
+      "updated": "2017-03-03T22:29:34.703",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39846",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-04T14:30:00Z",
+      "updated": "2017-03-04T17:25:56.77",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 6,
+        "away": 2
+      }
+    },
+    {
+      "id": "39849",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-04T14:30:00Z",
+      "updated": "2017-03-04T17:22:54.72",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39850",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-04T14:30:00Z",
+      "updated": "2017-03-04T17:20:33.047",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 5,
+        "away": 2
+      }
+    },
+    {
+      "id": "39851",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-04T14:30:00Z",
+      "updated": "2017-03-04T17:23:46.077",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39853",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-04T14:30:00Z",
+      "updated": "2017-03-04T17:20:42.48",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "39847",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-04T17:30:00Z",
+      "updated": "2017-03-04T20:23:41.58",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "39852",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-05T14:30:00Z",
+      "updated": "2017-03-05T17:23:19.097",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39848",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2017-03-05T16:30:00Z",
+      "updated": "2017-03-05T19:23:58.77",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39861",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-10T19:30:00Z",
+      "updated": "2017-03-15T15:35:39.667",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39855",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-11T14:30:00Z",
+      "updated": "2017-03-11T17:27:39.533",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39857",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-11T14:30:00Z",
+      "updated": "2017-03-11T17:27:42.783",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39858",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-11T14:30:00Z",
+      "updated": "2017-03-11T17:27:46.36",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "39862",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-11T14:30:00Z",
+      "updated": "2017-03-11T17:21:39.373",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39863",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-11T14:30:00Z",
+      "updated": "2017-03-11T17:27:52.72",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39860",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-11T17:30:00Z",
+      "updated": "2017-03-11T20:23:25.68",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39859",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-12T14:30:00Z",
+      "updated": "2017-03-12T17:20:56.983",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39856",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2017-03-12T16:30:00Z",
+      "updated": "2017-03-12T19:25:18.43",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39869",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-17T19:30:00Z",
+      "updated": "2017-03-19T21:43:31.483",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39865",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-18T14:30:00Z",
+      "updated": "2017-03-19T21:44:00.943",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39867",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-18T14:30:00Z",
+      "updated": "2017-03-19T21:44:27.95",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "39870",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-18T14:30:00Z",
+      "updated": "2017-03-19T21:44:49.633",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39871",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-18T14:30:00Z",
+      "updated": "2017-03-19T21:45:07.703",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39872",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-18T14:30:00Z",
+      "updated": "2017-03-19T21:45:26.773",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39868",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-18T17:30:00Z",
+      "updated": "2017-03-19T21:45:50.733",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39866",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-19T14:30:00Z",
+      "updated": "2017-03-19T21:46:14.593",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "39864",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2017-03-19T16:30:00Z",
+      "updated": "2017-03-19T21:46:40.447",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "39874",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-03-31T18:30:00Z",
+      "updated": "2017-04-04T17:44:46.74",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "39873",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-04-01T13:30:00Z",
+      "updated": "2017-04-04T06:27:56.687",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39878",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-04-01T13:30:00Z",
+      "updated": "2017-04-06T20:39:17.373",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39879",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-04-01T13:30:00Z",
+      "updated": "2017-04-02T22:43:44.13",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": "39880",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-04-01T13:30:00Z",
+      "updated": "2017-04-04T17:48:04.13",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 5
+      }
+    },
+    {
+      "id": "39881",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-04-01T13:30:00Z",
+      "updated": "2017-04-02T17:36:34.057",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "39875",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-04-01T16:30:00Z",
+      "updated": "2017-04-02T17:36:54.577",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39876",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-04-02T13:30:00Z",
+      "updated": "2017-04-04T17:48:52.827",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39877",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2017-04-02T15:30:00Z",
+      "updated": "2017-04-04T17:49:41.343",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "39883",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-04T18:00:00Z",
+      "updated": "2017-04-04T21:53:16.173",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39886",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-04T18:00:00Z",
+      "updated": "2017-04-04T21:53:21.797",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39888",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-04T18:00:00Z",
+      "updated": "2017-04-04T21:53:56.997",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39890",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-04T18:00:00Z",
+      "updated": "2017-04-06T20:35:11.837",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39882",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-05T18:00:00Z",
+      "updated": "2017-04-05T21:53:02.633",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "39884",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-05T18:00:00Z",
+      "updated": "2017-04-05T21:53:04.367",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "39885",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-05T18:00:00Z",
+      "updated": "2017-04-05T21:53:10.29",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39887",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-05T18:00:00Z",
+      "updated": "2017-04-05T21:53:14.84",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39889",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2017-04-05T18:00:00Z",
+      "updated": "2017-04-05T21:53:09.273",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "39891",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-07T18:30:00Z",
+      "updated": "2017-04-09T21:36:53.403",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39894",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-08T13:30:00Z",
+      "updated": "2017-04-08T17:23:47.63",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39895",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-08T13:30:00Z",
+      "updated": "2017-04-08T17:23:49.74",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39896",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-08T13:30:00Z",
+      "updated": "2017-04-08T17:21:28.85",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "39897",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-08T13:30:00Z",
+      "updated": "2017-04-09T21:36:45.077",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39898",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-08T13:30:00Z",
+      "updated": "2017-04-08T20:54:46.427",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "39893",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-08T16:30:00Z",
+      "updated": "2017-04-08T20:51:00.9",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "39899",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-09T13:30:00Z",
+      "updated": "2017-04-09T21:36:30.457",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39892",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2017-04-09T15:30:00Z",
+      "updated": "2017-04-09T19:21:26.01",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "39901",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-15T13:30:00Z",
+      "updated": "2017-04-20T14:00:09.877",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39902",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-15T13:30:00Z",
+      "updated": "2017-04-18T19:18:11.443",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39904",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-15T13:30:00Z",
+      "updated": "2017-04-17T17:43:41.2",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "39905",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-15T13:30:00Z",
+      "updated": "2017-04-17T17:45:34.007",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 5,
+        "away": 3
+      }
+    },
+    {
+      "id": "39907",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-15T13:30:00Z",
+      "updated": "2017-04-15T17:23:24.363",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39908",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-15T13:30:00Z",
+      "updated": "2017-04-17T17:46:14.72",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39903",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-15T16:30:00Z",
+      "updated": "2017-04-15T20:20:55.963",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39900",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-16T13:30:00Z",
+      "updated": "2017-04-16T17:26:51.233",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39906",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2017-04-16T15:30:00Z",
+      "updated": "2017-04-16T19:21:00.94",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39912",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-21T18:30:00Z",
+      "updated": "2017-04-22T16:29:41.13",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39909",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-22T13:30:00Z",
+      "updated": "2017-04-22T17:25:11.527",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "39910",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-22T13:30:00Z",
+      "updated": "2017-04-22T17:25:19.287",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "39911",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-22T13:30:00Z",
+      "updated": "2017-04-22T17:27:28.547",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39916",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-22T13:30:00Z",
+      "updated": "2017-04-22T17:25:27.03",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39917",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-22T13:30:00Z",
+      "updated": "2017-04-22T17:25:33.723",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39913",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-22T16:30:00Z",
+      "updated": "2017-04-24T15:48:29.827",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "39915",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-23T13:30:00Z",
+      "updated": "2017-04-23T17:21:08.32",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39914",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2017-04-23T15:30:00Z",
+      "updated": "2017-04-23T19:19:16.457",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39926",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-28T18:30:00Z",
+      "updated": "2017-04-28T22:19:27.707",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "39918",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-29T13:30:00Z",
+      "updated": "2017-04-29T17:20:51.197",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39919",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-29T13:30:00Z",
+      "updated": "2017-04-29T17:20:45.777",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39921",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-29T13:30:00Z",
+      "updated": "2017-04-29T17:26:17.057",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39924",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-29T13:30:00Z",
+      "updated": "2017-04-29T17:27:02.997",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "39925",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-29T13:30:00Z",
+      "updated": "2017-04-30T15:52:31.67",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "39923",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-29T16:30:00Z",
+      "updated": "2017-04-29T20:19:39.363",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 6
+      }
+    },
+    {
+      "id": "39920",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-30T13:30:00Z",
+      "updated": "2017-04-30T17:18:56.17",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "39922",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2017-04-30T15:30:00Z",
+      "updated": "2017-04-30T19:21:39.333",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39930",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-05T18:30:00Z",
+      "updated": "2017-05-05T22:21:51.473",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    {
+      "id": "39928",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-06T13:30:00Z",
+      "updated": "2017-05-06T17:24:11.737",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39929",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-06T13:30:00Z",
+      "updated": "2017-05-06T17:22:59.19",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39931",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-06T13:30:00Z",
+      "updated": "2017-05-06T17:23:03.66",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "39932",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-06T13:30:00Z",
+      "updated": "2017-05-06T17:23:09.267",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39933",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-06T13:30:00Z",
+      "updated": "2017-05-06T17:23:15.3",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39934",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-06T16:30:00Z",
+      "updated": "2017-05-07T07:49:47.603",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "39927",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-07T13:30:00Z",
+      "updated": "2017-05-07T17:39:13.76",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39935",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2017-05-07T15:30:00Z",
+      "updated": "2017-05-07T19:19:32.387",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39936",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-13T13:30:00Z",
+      "updated": "2017-05-13T17:27:34.41",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39937",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-13T13:30:00Z",
+      "updated": "2017-05-13T17:51:56.837",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39938",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-13T13:30:00Z",
+      "updated": "2017-05-13T17:27:45.773",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "39939",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-13T13:30:00Z",
+      "updated": "2017-05-13T17:27:49.447",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39940",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-13T13:30:00Z",
+      "updated": "2017-05-13T17:27:56.537",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39941",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-13T13:30:00Z",
+      "updated": "2017-05-13T17:27:59.973",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39942",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-13T13:30:00Z",
+      "updated": "2017-05-13T17:28:07.223",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 3,
+        "away": 5
+      }
+    },
+    {
+      "id": "39943",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-13T13:30:00Z",
+      "updated": "2017-05-13T17:28:15.33",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 4,
+        "away": 5
+      }
+    },
+    {
+      "id": "39944",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2017-05-13T13:30:00Z",
+      "updated": "2017-05-13T17:28:20.317",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "39945",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-20T13:30:00Z",
+      "updated": "2017-05-24T15:26:25.72",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 6
+      }
+    },
+    {
+      "id": "39946",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-20T13:30:00Z",
+      "updated": "2017-05-29T11:50:43.08",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39947",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-20T13:30:00Z",
+      "updated": "2017-05-29T11:55:33.753",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "39948",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-20T13:30:00Z",
+      "updated": "2017-05-24T15:28:09.367",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "39949",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-20T13:30:00Z",
+      "updated": "2017-05-24T15:29:09.223",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "39950",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-20T13:30:00Z",
+      "updated": "2017-05-20T17:38:38.907",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "39951",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-20T13:30:00Z",
+      "updated": "2017-05-24T15:32:11.963",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    {
+      "id": "39952",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-20T13:30:00Z",
+      "updated": "2017-05-24T15:33:35.903",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "39953",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2017-05-20T13:30:00Z",
+      "updated": "2017-05-24T15:36:01.6",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    }
+  ],
+  "standings": [
+    {
+      "teamId": "40",
+      "name": "FC Bayern München",
+      "shortName": "Bayern",
+      "position": 1,
+      "played": 34,
+      "wins": 25,
+      "draws": 7,
+      "losses": 2,
+      "goalsFor": 89,
+      "goalsAgainst": 22,
+      "goalDifference": 67,
+      "points": 82
+    },
+    {
+      "teamId": "1635",
+      "name": "RB Leipzig",
+      "shortName": "Leipzig",
+      "position": 2,
+      "played": 34,
+      "wins": 20,
+      "draws": 7,
+      "losses": 7,
+      "goalsFor": 66,
+      "goalsAgainst": 39,
+      "goalDifference": 27,
+      "points": 67
+    },
+    {
+      "teamId": "7",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "position": 3,
+      "played": 34,
+      "wins": 18,
+      "draws": 10,
+      "losses": 6,
+      "goalsFor": 72,
+      "goalsAgainst": 40,
+      "goalDifference": 32,
+      "points": 64
+    },
+    {
+      "teamId": "175",
+      "name": "TSG Hoffenheim",
+      "shortName": "Hoffenheim",
+      "position": 4,
+      "played": 34,
+      "wins": 16,
+      "draws": 14,
+      "losses": 4,
+      "goalsFor": 64,
+      "goalsAgainst": 37,
+      "goalDifference": 27,
+      "points": 62
+    },
+    {
+      "teamId": "65",
+      "name": "1. FC Köln",
+      "shortName": "Köln",
+      "position": 5,
+      "played": 34,
+      "wins": 12,
+      "draws": 13,
+      "losses": 9,
+      "goalsFor": 51,
+      "goalsAgainst": 42,
+      "goalDifference": 9,
+      "points": 49
+    },
+    {
+      "teamId": "54",
+      "name": "Hertha BSC",
+      "shortName": "Hertha",
+      "position": 6,
+      "played": 34,
+      "wins": 15,
+      "draws": 4,
+      "losses": 15,
+      "goalsFor": 43,
+      "goalsAgainst": 47,
+      "goalDifference": -4,
+      "points": 49
+    },
+    {
+      "teamId": "112",
+      "name": "SC Freiburg",
+      "shortName": "Freiburg",
+      "position": 7,
+      "played": 34,
+      "wins": 14,
+      "draws": 6,
+      "losses": 14,
+      "goalsFor": 42,
+      "goalsAgainst": 60,
+      "goalDifference": -18,
+      "points": 48
+    },
+    {
+      "teamId": "134",
+      "name": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "position": 8,
+      "played": 34,
+      "wins": 13,
+      "draws": 6,
+      "losses": 15,
+      "goalsFor": 61,
+      "goalsAgainst": 64,
+      "goalDifference": -3,
+      "points": 45
+    },
+    {
+      "teamId": "87",
+      "name": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "position": 9,
+      "played": 34,
+      "wins": 12,
+      "draws": 9,
+      "losses": 13,
+      "goalsFor": 45,
+      "goalsAgainst": 49,
+      "goalDifference": -4,
+      "points": 45
+    },
+    {
+      "teamId": "9",
+      "name": "FC Schalke 04",
+      "shortName": "S04",
+      "position": 10,
+      "played": 34,
+      "wins": 11,
+      "draws": 10,
+      "losses": 13,
+      "goalsFor": 45,
+      "goalsAgainst": 40,
+      "goalDifference": 5,
+      "points": 43
+    },
+    {
+      "teamId": "91",
+      "name": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "position": 11,
+      "played": 34,
+      "wins": 11,
+      "draws": 9,
+      "losses": 14,
+      "goalsFor": 36,
+      "goalsAgainst": 43,
+      "goalDifference": -7,
+      "points": 42
+    },
+    {
+      "teamId": "6",
+      "name": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "position": 12,
+      "played": 34,
+      "wins": 11,
+      "draws": 8,
+      "losses": 15,
+      "goalsFor": 53,
+      "goalsAgainst": 55,
+      "goalDifference": -2,
+      "points": 41
+    },
+    {
+      "teamId": "95",
+      "name": "FC Augsburg",
+      "shortName": "Augsburg",
+      "position": 13,
+      "played": 34,
+      "wins": 9,
+      "draws": 11,
+      "losses": 14,
+      "goalsFor": 35,
+      "goalsAgainst": 51,
+      "goalDifference": -16,
+      "points": 38
+    },
+    {
+      "teamId": "100",
+      "name": "Hamburger SV",
+      "shortName": "HSV",
+      "position": 14,
+      "played": 34,
+      "wins": 10,
+      "draws": 8,
+      "losses": 16,
+      "goalsFor": 33,
+      "goalsAgainst": 61,
+      "goalDifference": -28,
+      "points": 38
+    },
+    {
+      "teamId": "81",
+      "name": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "position": 15,
+      "played": 34,
+      "wins": 10,
+      "draws": 7,
+      "losses": 17,
+      "goalsFor": 44,
+      "goalsAgainst": 55,
+      "goalDifference": -11,
+      "points": 37
+    },
+    {
+      "teamId": "131",
+      "name": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "position": 16,
+      "played": 34,
+      "wins": 10,
+      "draws": 7,
+      "losses": 17,
+      "goalsFor": 34,
+      "goalsAgainst": 52,
+      "goalDifference": -18,
+      "points": 37
+    },
+    {
+      "teamId": "171",
+      "name": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt",
+      "position": 17,
+      "played": 34,
+      "wins": 8,
+      "draws": 8,
+      "losses": 18,
+      "goalsFor": 36,
+      "goalsAgainst": 57,
+      "goalDifference": -21,
+      "points": 32
+    },
+    {
+      "teamId": "118",
+      "name": "SV Darmstadt 98",
+      "shortName": "Darmstadt",
+      "position": 18,
+      "played": 34,
+      "wins": 7,
+      "draws": 4,
+      "losses": 23,
+      "goalsFor": 28,
+      "goalsAgainst": 63,
+      "goalDifference": -35,
+      "points": 25
+    }
+  ],
+  "teams": [
+    {
+      "teamId": "65",
+      "name": "1. FC Köln",
+      "shortName": "Köln"
+    },
+    {
+      "teamId": "81",
+      "name": "1. FSV Mainz 05",
+      "shortName": "Mainz"
+    },
+    {
+      "teamId": "6",
+      "name": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen"
+    },
+    {
+      "teamId": "7",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund"
+    },
+    {
+      "teamId": "87",
+      "name": "Borussia Mönchengladbach",
+      "shortName": "Gladbach"
+    },
+    {
+      "teamId": "91",
+      "name": "Eintracht Frankfurt",
+      "shortName": "Frankfurt"
+    },
+    {
+      "teamId": "95",
+      "name": "FC Augsburg",
+      "shortName": "Augsburg"
+    },
+    {
+      "teamId": "40",
+      "name": "FC Bayern München",
+      "shortName": "Bayern"
+    },
+    {
+      "teamId": "171",
+      "name": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt"
+    },
+    {
+      "teamId": "9",
+      "name": "FC Schalke 04",
+      "shortName": "S04"
+    },
+    {
+      "teamId": "100",
+      "name": "Hamburger SV",
+      "shortName": "HSV"
+    },
+    {
+      "teamId": "54",
+      "name": "Hertha BSC",
+      "shortName": "Hertha"
+    },
+    {
+      "teamId": "1635",
+      "name": "RB Leipzig",
+      "shortName": "Leipzig"
+    },
+    {
+      "teamId": "112",
+      "name": "SC Freiburg",
+      "shortName": "Freiburg"
+    },
+    {
+      "teamId": "118",
+      "name": "SV Darmstadt 98",
+      "shortName": "Darmstadt"
+    },
+    {
+      "teamId": "134",
+      "name": "SV Werder Bremen",
+      "shortName": "Bremen"
+    },
+    {
+      "teamId": "175",
+      "name": "TSG Hoffenheim",
+      "shortName": "Hoffenheim"
+    },
+    {
+      "teamId": "131",
+      "name": "VfL Wolfsburg",
+      "shortName": "Wolfsburg"
+    }
+  ],
+  "groupChecks": {}
+}

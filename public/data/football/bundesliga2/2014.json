@@ -1,0 +1,5867 @@
+{
+  "schemaVersion": 1,
+  "id": "bundesliga2",
+  "shortcut": "bl2",
+  "year": 2014,
+  "seasonLabel": "2014/15",
+  "complete": true,
+  "calendarCheckedAt": "2026-11-14T12:11:36.550Z",
+  "updatedAt": "2026-11-14T12:11:36.550Z",
+  "matches": [
+    {
+      "id": "27832",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2014-08-01T18:30:00Z",
+      "updated": "2014-08-02T11:42:03.07",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "27839",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2014-08-02T11:00:00Z",
+      "updated": "2014-08-02T15:49:05.013",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "27836",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2014-08-02T13:30:00Z",
+      "updated": "2014-08-02T17:35:21.003",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27837",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2014-08-02T13:30:00Z",
+      "updated": "2014-08-02T17:34:53.317",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27838",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2014-08-03T11:30:00Z",
+      "updated": "2014-08-03T15:41:22.24",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "27833",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2014-08-03T13:30:00Z",
+      "updated": "2014-08-08T18:09:07.597",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27835",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2014-08-03T13:30:00Z",
+      "updated": "2014-08-03T17:22:54.763",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "27840",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2014-08-03T13:30:00Z",
+      "updated": "2014-08-03T17:27:26.437",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27834",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2014-08-04T18:15:00Z",
+      "updated": "2014-08-04T22:15:31.09",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "27846",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2014-08-08T16:30:00Z",
+      "updated": "2014-08-08T21:32:30.983",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "27848",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2014-08-08T16:30:00Z",
+      "updated": "2014-08-08T21:35:09.47",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "27844",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2014-08-08T18:30:00Z",
+      "updated": "2014-08-08T22:24:14.343",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27841",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2014-08-09T13:30:00Z",
+      "updated": "2014-08-09T18:30:00.107",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "27849",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2014-08-09T13:30:00Z",
+      "updated": "2014-08-09T18:33:51.35",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 5
+      }
+    },
+    {
+      "id": "27845",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2014-08-10T11:30:00Z",
+      "updated": "2014-08-10T15:23:25.293",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "27843",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2014-08-10T13:30:00Z",
+      "updated": "2014-08-10T17:26:55.117",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "27847",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2014-08-10T13:30:00Z",
+      "updated": "2014-08-10T17:26:47.833",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27842",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2014-08-11T18:15:00Z",
+      "updated": "2014-08-12T07:46:30.377",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "27853",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2014-08-22T16:30:00Z",
+      "updated": "2014-08-22T20:24:17.613",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "27856",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2014-08-22T16:30:00Z",
+      "updated": "2014-08-22T20:22:08.047",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "27857",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2014-08-22T16:30:00Z",
+      "updated": "2014-08-22T20:23:57.03",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27850",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2014-08-23T11:00:00Z",
+      "updated": "2014-08-23T14:57:25.713",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "27852",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2014-08-23T11:00:00Z",
+      "updated": "2014-08-23T14:57:27.157",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "27851",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2014-08-24T11:30:00Z",
+      "updated": "2014-08-24T15:22:33.1",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "27854",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2014-08-24T11:30:00Z",
+      "updated": "2014-08-24T15:22:34.49",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "27858",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2014-08-24T11:30:00Z",
+      "updated": "2014-08-24T15:22:36.76",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "27855",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2014-08-25T18:15:00Z",
+      "updated": "2014-08-27T09:34:47.37",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27863",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2014-08-29T16:30:00Z",
+      "updated": "2014-08-29T20:20:26.067",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "27864",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2014-08-29T16:30:00Z",
+      "updated": "2014-08-29T20:20:36.573",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "27866",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2014-08-29T16:30:00Z",
+      "updated": "2014-08-29T20:24:40.813",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "27861",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2014-08-30T11:00:00Z",
+      "updated": "2014-08-30T14:52:33.28",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27867",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2014-08-30T11:00:00Z",
+      "updated": "2014-08-30T14:49:16.07",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "27859",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2014-08-31T11:30:00Z",
+      "updated": "2014-08-31T15:22:47.407",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "27862",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2014-08-31T11:30:00Z",
+      "updated": "2014-08-31T15:23:13.897",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27865",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2014-08-31T11:30:00Z",
+      "updated": "2014-08-31T15:23:09.333",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "27860",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2014-09-01T18:15:00Z",
+      "updated": "2014-09-01T23:06:50.227",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "27869",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2014-09-12T16:30:00Z",
+      "updated": "2014-09-12T20:31:51.027",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27871",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2014-09-12T16:30:00Z",
+      "updated": "2014-09-12T20:36:18.573",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "27873",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2014-09-12T16:30:00Z",
+      "updated": "2014-09-13T10:25:14.95",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27875",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2014-09-13T11:00:00Z",
+      "updated": "2014-09-13T18:39:06.263",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "27876",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2014-09-13T11:00:00Z",
+      "updated": "2014-09-13T18:36:51.903",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "27870",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2014-09-14T11:30:00Z",
+      "updated": "2014-09-14T15:27:46.797",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "27872",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2014-09-14T11:30:00Z",
+      "updated": "2014-09-14T15:25:16.477",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27874",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2014-09-14T11:30:00Z",
+      "updated": "2014-09-14T15:25:12.547",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "27868",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2014-09-15T18:15:00Z",
+      "updated": "2014-09-15T22:09:18.253",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "27877",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2014-09-19T16:30:00Z",
+      "updated": "2014-09-19T21:11:41.947",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "27883",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2014-09-19T16:30:00Z",
+      "updated": "2014-09-19T21:01:53.96",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "27885",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2014-09-19T16:30:00Z",
+      "updated": "2014-09-19T21:07:40.76",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "27878",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2014-09-20T11:00:00Z",
+      "updated": "2014-09-20T14:52:34.103",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "27881",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2014-09-20T11:00:00Z",
+      "updated": "2014-09-20T14:52:36.16",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27884",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2014-09-20T11:00:00Z",
+      "updated": "2014-09-20T14:52:38.403",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 5
+      }
+    },
+    {
+      "id": "27879",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2014-09-21T11:30:00Z",
+      "updated": "2014-09-21T15:22:15.827",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "27880",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2014-09-21T11:30:00Z",
+      "updated": "2014-09-21T15:20:58.007",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "27882",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2014-09-21T11:30:00Z",
+      "updated": "2014-09-21T15:22:48.293",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "27886",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2014-09-23T15:30:00Z",
+      "updated": "2014-09-23T20:01:29.07",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27888",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2014-09-23T15:30:00Z",
+      "updated": "2014-09-23T20:00:03.673",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27889",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2014-09-23T15:30:00Z",
+      "updated": "2014-09-23T19:58:58.33",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27890",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2014-09-23T15:30:00Z",
+      "updated": "2014-09-23T19:58:22.687",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27887",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2014-09-24T15:30:00Z",
+      "updated": "2014-09-24T19:22:57.573",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27892",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2014-09-24T15:30:00Z",
+      "updated": "2014-09-24T19:25:37.377",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "27893",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2014-09-24T15:30:00Z",
+      "updated": "2014-09-24T19:25:06.66",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "27894",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2014-09-24T15:30:00Z",
+      "updated": "2014-09-24T19:26:07.077",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "27891",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2014-09-25T18:15:00Z",
+      "updated": "2014-09-26T00:39:04.427",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27896",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2014-09-26T16:30:00Z",
+      "updated": "2014-09-26T21:15:23.417",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "27899",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2014-09-26T16:30:00Z",
+      "updated": "2014-09-26T21:16:35.037",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "27902",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2014-09-26T16:30:00Z",
+      "updated": "2014-09-26T21:17:31.55",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27897",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2014-09-27T11:00:00Z",
+      "updated": "2014-09-27T14:52:37.92",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "27900",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2014-09-27T11:00:00Z",
+      "updated": "2014-09-27T14:51:12.12",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27898",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2014-09-28T11:30:00Z",
+      "updated": "2014-09-28T15:20:54.98",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "27901",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2014-09-28T11:30:00Z",
+      "updated": "2014-09-28T15:21:24.553",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "27903",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2014-09-28T11:30:00Z",
+      "updated": "2014-09-28T15:19:22.027",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "27895",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2014-09-29T18:15:00Z",
+      "updated": "2014-09-29T22:44:03.027",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "27904",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2014-10-03T16:30:00Z",
+      "updated": "2014-10-03T20:22:42.577",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "27908",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2014-10-03T16:30:00Z",
+      "updated": "2014-10-03T20:21:45.763",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "27910",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2014-10-03T16:30:00Z",
+      "updated": "2014-10-03T20:21:48.703",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27905",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2014-10-04T11:00:00Z",
+      "updated": "2014-10-04T14:48:59.73",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "27906",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2014-10-04T11:00:00Z",
+      "updated": "2014-10-12T03:22:04.807",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "27907",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2014-10-05T11:30:00Z",
+      "updated": "2014-10-05T15:32:26.48",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27909",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2014-10-05T11:30:00Z",
+      "updated": "2014-10-05T15:28:26.79",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "27912",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2014-10-05T11:30:00Z",
+      "updated": "2014-10-05T15:25:58.837",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "27911",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2014-10-06T18:15:00Z",
+      "updated": "2014-10-06T22:09:06.447",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27929",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2014-10-17T16:30:00Z",
+      "updated": "2014-10-17T21:44:24.403",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27931",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2014-10-17T16:30:00Z",
+      "updated": "2014-10-17T21:45:00.73",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27918",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2014-10-17T18:30:00Z",
+      "updated": "2014-10-17T22:37:15.973",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27920",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2014-10-18T11:00:00Z",
+      "updated": "2014-10-18T16:35:39.43",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "27925",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2014-10-18T11:00:00Z",
+      "updated": "2014-10-18T14:50:36.357",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "27922",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2014-10-19T11:30:00Z",
+      "updated": "2014-10-19T16:50:56.037",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "27926",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2014-10-19T11:30:00Z",
+      "updated": "2014-10-19T17:00:15.98",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "27927",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2014-10-19T11:30:00Z",
+      "updated": "2014-10-19T16:59:38.35",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "27924",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2014-10-20T18:15:00Z",
+      "updated": "2014-10-20T22:06:36.09",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27934",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2014-10-24T16:30:00Z",
+      "updated": "2014-10-24T20:22:14.707",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 5
+      }
+    },
+    {
+      "id": "27944",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2014-10-24T16:30:00Z",
+      "updated": "2014-10-24T20:21:44.6",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "27946",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2014-10-24T16:30:00Z",
+      "updated": "2014-10-24T20:22:05.82",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "27936",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2014-10-25T11:00:00Z",
+      "updated": "2014-10-25T14:54:24.633",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27939",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2014-10-25T11:00:00Z",
+      "updated": "2014-10-25T14:54:26.463",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "27938",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2014-10-26T12:30:00Z",
+      "updated": "2014-10-26T15:22:23.157",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "27942",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2014-10-26T12:30:00Z",
+      "updated": "2014-10-26T15:22:00.51",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27945",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2014-10-26T12:30:00Z",
+      "updated": "2014-10-26T15:21:52.083",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27947",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2014-10-27T19:15:00Z",
+      "updated": "2014-10-27T22:05:00.463",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "27950",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2014-10-31T17:30:00Z",
+      "updated": "2014-10-31T20:45:03.957",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27951",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2014-10-31T17:30:00Z",
+      "updated": "2014-10-31T20:44:50.98",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "27952",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2014-10-31T17:30:00Z",
+      "updated": "2014-10-31T20:44:46.73",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "27948",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2014-11-01T12:00:00Z",
+      "updated": "2014-11-01T15:50:27.507",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "27955",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2014-11-01T12:00:00Z",
+      "updated": "2014-11-01T15:45:47.75",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27949",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2014-11-02T12:30:00Z",
+      "updated": "2014-11-02T15:21:40.42",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "27953",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2014-11-02T12:30:00Z",
+      "updated": "2014-11-02T15:21:38.387",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27954",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2014-11-02T12:30:00Z",
+      "updated": "2014-11-02T15:22:19.287",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "27956",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2014-11-03T19:15:00Z",
+      "updated": "2014-11-03T23:10:31.043",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "27958",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2014-11-07T17:30:00Z",
+      "updated": "2014-11-07T20:22:04.283",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "27962",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2014-11-07T17:30:00Z",
+      "updated": "2014-11-07T20:20:58.783",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "27963",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2014-11-07T17:30:00Z",
+      "updated": "2014-11-07T20:29:20.393",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "27960",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2014-11-08T12:00:00Z",
+      "updated": "2014-11-08T15:31:46.093",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "27965",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2014-11-08T12:00:00Z",
+      "updated": "2014-11-08T15:32:45.427",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27957",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2014-11-09T12:30:00Z",
+      "updated": "2014-11-09T15:18:26.813",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "27961",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2014-11-09T12:30:00Z",
+      "updated": "2014-11-09T15:22:54.91",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "27964",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2014-11-09T12:30:00Z",
+      "updated": "2014-11-09T15:22:30.777",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "27959",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2014-11-10T19:15:00Z",
+      "updated": "2014-11-10T22:08:03.01",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "27972",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2014-11-21T17:30:00Z",
+      "updated": "2014-11-21T20:20:25.37",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "27974",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2014-11-21T17:30:00Z",
+      "updated": "2014-11-21T20:20:26.63",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "27967",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2014-11-21T19:30:00Z",
+      "updated": "2014-11-22T01:51:53.573",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "27970",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2014-11-22T12:00:00Z",
+      "updated": "2014-11-22T14:52:16.99",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "27971",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2014-11-22T12:00:00Z",
+      "updated": "2014-11-22T14:48:23.123",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "27966",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2014-11-23T12:30:00Z",
+      "updated": "2014-11-23T15:21:50.47",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "27968",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2014-11-23T12:30:00Z",
+      "updated": "2014-11-23T15:21:06.29",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27973",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2014-11-23T12:30:00Z",
+      "updated": "2014-11-23T15:20:33.253",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "27969",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2014-11-24T19:15:00Z",
+      "updated": "2014-11-24T22:07:01.617",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "27976",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2014-11-28T17:30:00Z",
+      "updated": "2014-11-28T20:20:39.09",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "27982",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2014-11-28T17:30:00Z",
+      "updated": "2014-11-28T20:24:56.337",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "27983",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2014-11-28T17:30:00Z",
+      "updated": "2014-11-28T20:21:50.067",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "27979",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2014-11-29T12:00:00Z",
+      "updated": "2014-11-29T14:48:10",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "27980",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2014-11-29T12:00:00Z",
+      "updated": "2014-11-29T14:50:41.117",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "27977",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2014-11-30T12:30:00Z",
+      "updated": "2014-11-30T15:20:34.387",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "27978",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2014-11-30T12:30:00Z",
+      "updated": "2014-11-30T15:22:33.623",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "27981",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2014-11-30T12:30:00Z",
+      "updated": "2014-11-30T15:19:03.4",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "27975",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2014-12-01T19:15:00Z",
+      "updated": "2014-12-01T22:57:00.317",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27988",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2014-12-05T17:30:00Z",
+      "updated": "2014-12-05T20:20:32.57",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "27989",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2014-12-05T17:30:00Z",
+      "updated": "2014-12-05T20:20:41.91",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "27990",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2014-12-05T17:30:00Z",
+      "updated": "2014-12-05T20:22:53.397",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "27985",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2014-12-06T12:00:00Z",
+      "updated": "2014-12-06T14:48:27.053",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "27992",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2014-12-06T12:00:00Z",
+      "updated": "2014-12-06T14:49:56.467",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "27986",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2014-12-07T12:30:00Z",
+      "updated": "2014-12-07T15:21:47.273",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "27987",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2014-12-07T12:30:00Z",
+      "updated": "2014-12-07T15:21:07.717",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "27991",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2014-12-07T12:30:00Z",
+      "updated": "2014-12-07T15:22:22.45",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "27984",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2014-12-08T19:15:00Z",
+      "updated": "2014-12-09T12:38:46.86",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "27994",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2014-12-12T17:30:00Z",
+      "updated": "2014-12-12T20:21:02.717",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "27999",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2014-12-12T17:30:00Z",
+      "updated": "2014-12-12T20:20:56.593",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28001",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2014-12-12T17:30:00Z",
+      "updated": "2014-12-12T20:20:52.967",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27993",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2014-12-13T12:00:00Z",
+      "updated": "2014-12-13T14:49:36.707",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "27995",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2014-12-13T12:00:00Z",
+      "updated": "2014-12-13T14:50:22.397",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "28000",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2014-12-13T12:00:00Z",
+      "updated": "2014-12-13T14:50:45.83",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "27996",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2014-12-14T12:30:00Z",
+      "updated": "2014-12-14T15:21:00.817",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "27997",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2014-12-14T12:30:00Z",
+      "updated": "2014-12-14T15:22:31.753",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "27998",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2014-12-14T12:30:00Z",
+      "updated": "2014-12-14T15:20:29.997",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "28002",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2014-12-16T16:30:00Z",
+      "updated": "2014-12-16T19:35:19.747",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28003",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2014-12-16T16:30:00Z",
+      "updated": "2014-12-16T19:35:17.357",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28005",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2014-12-16T16:30:00Z",
+      "updated": "2014-12-16T19:35:15.21",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "28009",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2014-12-16T16:30:00Z",
+      "updated": "2014-12-16T19:35:13.413",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "28004",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2014-12-17T16:30:00Z",
+      "updated": "2014-12-17T19:23:28.6",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28006",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2014-12-17T16:30:00Z",
+      "updated": "2014-12-17T19:23:19.64",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28007",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2014-12-17T16:30:00Z",
+      "updated": "2014-12-17T19:23:35.657",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28008",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2014-12-17T16:30:00Z",
+      "updated": "2014-12-17T19:20:37.527",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "28010",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2014-12-17T16:30:00Z",
+      "updated": "2014-12-17T19:20:20.477",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "28013",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2014-12-19T17:30:00Z",
+      "updated": "2014-12-19T20:39:33.553",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "28014",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2014-12-19T17:30:00Z",
+      "updated": "2014-12-19T20:40:46.883",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "28017",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2014-12-19T17:30:00Z",
+      "updated": "2014-12-19T20:54:14.92",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "28011",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2014-12-20T12:00:00Z",
+      "updated": "2014-12-20T14:52:13.203",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28015",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2014-12-20T12:00:00Z",
+      "updated": "2014-12-20T14:52:24.593",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "28012",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2014-12-21T12:30:00Z",
+      "updated": "2014-12-21T15:20:43.337",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "28016",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2014-12-21T12:30:00Z",
+      "updated": "2014-12-21T15:25:10.047",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28019",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2014-12-21T12:30:00Z",
+      "updated": "2014-12-21T15:20:25.29",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "28018",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2014-12-22T19:15:00Z",
+      "updated": "2014-12-23T15:28:54.137",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28021",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2015-02-06T17:30:00Z",
+      "updated": "2015-02-06T20:20:13.81",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "28025",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2015-02-06T17:30:00Z",
+      "updated": "2015-02-06T20:19:44.777",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28028",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2015-02-06T17:30:00Z",
+      "updated": "2015-02-06T20:21:19.663",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "28024",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2015-02-07T12:00:00Z",
+      "updated": "2015-02-07T14:51:16.747",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28026",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2015-02-07T12:00:00Z",
+      "updated": "2015-02-07T14:51:13.827",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28020",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2015-02-08T12:30:00Z",
+      "updated": "2015-02-08T15:23:43.307",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "28022",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2015-02-08T12:30:00Z",
+      "updated": "2015-02-08T15:19:51.26",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28027",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2015-02-08T12:30:00Z",
+      "updated": "2015-02-08T15:19:48.707",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28023",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2015-02-09T19:15:00Z",
+      "updated": "2015-02-09T22:05:15.087",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "28302",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2015-02-13T17:30:00Z",
+      "updated": "2015-02-13T20:21:55.857",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "28305",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2015-02-13T17:30:00Z",
+      "updated": "2015-02-13T20:23:37.907",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "28306",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2015-02-13T17:30:00Z",
+      "updated": "2015-02-15T05:38:03.73",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "28301",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2015-02-14T12:00:00Z",
+      "updated": "2015-02-14T14:50:43.18",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "28304",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2015-02-14T12:00:00Z",
+      "updated": "2015-02-14T14:51:12.013",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "28300",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2015-02-15T12:30:00Z",
+      "updated": "2015-02-15T15:22:03.08",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "28307",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2015-02-15T12:30:00Z",
+      "updated": "2015-02-15T15:21:50.347",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "28308",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2015-02-15T12:30:00Z",
+      "updated": "2015-02-15T15:21:27.477",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28303",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2015-02-16T19:15:00Z",
+      "updated": "2015-02-17T20:44:40.673",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "28310",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2015-02-20T17:30:00Z",
+      "updated": "2015-02-20T20:19:50.697",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28315",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2015-02-20T17:30:00Z",
+      "updated": "2015-02-20T20:19:48.093",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28317",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2015-02-20T17:30:00Z",
+      "updated": "2015-02-20T20:21:11.567",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "28311",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2015-02-21T12:00:00Z",
+      "updated": "2015-02-21T15:00:10.777",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28313",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2015-02-21T12:00:00Z",
+      "updated": "2015-02-27T18:53:39.84",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28312",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2015-02-22T12:30:00Z",
+      "updated": "2015-02-23T22:05:46.347",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "28314",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2015-02-22T12:30:00Z",
+      "updated": "2015-02-23T22:06:36.28",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "28316",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2015-02-22T12:30:00Z",
+      "updated": "2015-02-23T22:07:03.923",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "28309",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2015-02-23T19:15:00Z",
+      "updated": "2015-02-23T22:09:18.24",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28319",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2015-02-27T17:30:00Z",
+      "updated": "2015-02-27T20:22:38.617",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28323",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2015-02-27T17:30:00Z",
+      "updated": "2015-03-02T20:35:15.557",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "28326",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2015-02-27T17:30:00Z",
+      "updated": "2015-03-02T20:34:05.66",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "28318",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2015-02-28T12:00:00Z",
+      "updated": "2015-03-02T20:33:25.833",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28322",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2015-02-28T12:00:00Z",
+      "updated": "2015-03-02T20:36:29.01",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "28320",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2015-03-01T12:30:00Z",
+      "updated": "2015-03-01T15:20:46.007",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28324",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2015-03-01T12:30:00Z",
+      "updated": "2015-03-02T20:37:29.053",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "28325",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2015-03-01T12:30:00Z",
+      "updated": "2015-03-02T20:44:32.73",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "28321",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2015-03-02T19:15:00Z",
+      "updated": "2015-03-03T08:34:46.5",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28327",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2015-03-06T17:30:00Z",
+      "updated": "2015-03-15T17:32:55.267",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "28330",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2015-03-06T17:30:00Z",
+      "updated": "2015-03-15T17:32:55.283",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "28335",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2015-03-06T17:30:00Z",
+      "updated": "2015-03-15T17:32:55.283",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "28328",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2015-03-07T12:00:00Z",
+      "updated": "2015-03-15T17:32:55.283",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "28333",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2015-03-07T12:00:00Z",
+      "updated": "2015-03-15T17:32:55.297",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28331",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2015-03-08T12:30:00Z",
+      "updated": "2015-03-15T17:32:55.297",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "28332",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2015-03-08T12:30:00Z",
+      "updated": "2015-03-15T17:32:55.297",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28334",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2015-03-08T12:30:00Z",
+      "updated": "2015-03-15T17:32:55.297",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28329",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2015-03-09T19:15:00Z",
+      "updated": "2015-03-15T17:32:55.313",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28336",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2015-03-13T17:30:00Z",
+      "updated": "2016-05-10T16:16:52.413",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "28342",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2015-03-13T17:30:00Z",
+      "updated": "2016-05-10T16:16:52.413",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "28344",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2015-03-13T17:30:00Z",
+      "updated": "2016-05-10T16:16:52.413",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "28337",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2015-03-14T12:00:00Z",
+      "updated": "2016-05-10T16:16:52.44",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28338",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2015-03-14T12:00:00Z",
+      "updated": "2016-05-10T16:16:52.44",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28339",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2015-03-15T14:30:00Z",
+      "updated": "2016-05-10T16:17:08.697",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "28340",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2015-03-15T14:30:00Z",
+      "updated": "2016-05-10T16:16:52.44",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "28341",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2015-03-15T14:30:00Z",
+      "updated": "2016-05-10T16:16:52.45",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "28343",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2015-03-16T19:15:00Z",
+      "updated": "2016-05-10T16:16:52.497",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "28349",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2015-03-20T17:30:00Z",
+      "updated": "2015-03-20T20:21:20.997",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28350",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2015-03-20T17:30:00Z",
+      "updated": "2015-03-20T20:21:54.853",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "28351",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2015-03-20T17:30:00Z",
+      "updated": "2015-03-20T20:20:57.253",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28346",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2015-03-21T12:00:00Z",
+      "updated": "2015-03-21T14:53:50.02",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28348",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2015-03-21T12:00:00Z",
+      "updated": "2015-03-21T14:53:28.317",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "28347",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2015-03-22T12:30:00Z",
+      "updated": "2015-03-22T15:18:39.91",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28352",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2015-03-22T12:30:00Z",
+      "updated": "2015-03-22T15:21:30.627",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "29297",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2015-03-22T12:30:00Z",
+      "updated": "2015-03-22T15:19:58.407",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "28345",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2015-03-23T19:15:00Z",
+      "updated": "2015-03-24T10:54:27.457",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "28354",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2015-04-04T11:00:00Z",
+      "updated": "2015-04-04T14:51:03.443",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "28355",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2015-04-04T11:00:00Z",
+      "updated": "2015-04-04T14:48:36.8",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "28356",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2015-04-05T11:30:00Z",
+      "updated": "2015-04-05T15:21:22.217",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "28357",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2015-04-05T11:30:00Z",
+      "updated": "2015-04-05T15:21:05.357",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "28358",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2015-04-05T11:30:00Z",
+      "updated": "2015-04-05T15:20:57.247",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "28359",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2015-04-05T11:30:00Z",
+      "updated": "2015-04-05T15:20:25.867",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28360",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2015-04-05T11:30:00Z",
+      "updated": "2015-04-05T15:22:33.63",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28361",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2015-04-05T11:30:00Z",
+      "updated": "2015-04-05T15:32:04.093",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "28353",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2015-04-06T18:15:00Z",
+      "updated": "2015-04-06T22:04:52.117",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "28362",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2015-04-10T16:30:00Z",
+      "updated": "2015-04-10T22:00:49.373",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28364",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2015-04-10T16:30:00Z",
+      "updated": "2015-04-10T22:00:26.657",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "28370",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2015-04-10T16:30:00Z",
+      "updated": "2015-04-10T21:59:52.227",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "28363",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2015-04-11T11:00:00Z",
+      "updated": "2015-04-11T14:50:17.583",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "28367",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2015-04-11T11:00:00Z",
+      "updated": "2015-04-11T14:50:35.737",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28366",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2015-04-12T11:30:00Z",
+      "updated": "2015-04-12T15:23:08.52",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28368",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2015-04-12T11:30:00Z",
+      "updated": "2015-04-12T15:23:12.377",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "28369",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2015-04-12T11:30:00Z",
+      "updated": "2015-04-12T15:23:19.64",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "28365",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2015-04-13T18:15:00Z",
+      "updated": "2015-04-14T16:40:01.837",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28374",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2015-04-17T16:30:00Z",
+      "updated": "2015-04-21T23:10:24.22",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "28375",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2015-04-17T16:30:00Z",
+      "updated": "2015-04-21T23:10:24.22",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "28377",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2015-04-17T16:30:00Z",
+      "updated": "2015-04-21T23:10:24.22",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28373",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2015-04-18T11:00:00Z",
+      "updated": "2015-04-21T23:10:24.237",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28376",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2015-04-18T11:00:00Z",
+      "updated": "2015-04-21T23:10:24.25",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28371",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2015-04-19T11:30:00Z",
+      "updated": "2015-04-21T23:10:24.267",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "28378",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2015-04-19T11:30:00Z",
+      "updated": "2015-04-21T23:10:24.267",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "28379",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2015-04-19T11:30:00Z",
+      "updated": "2015-04-21T23:10:24.283",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28372",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2015-04-20T18:15:00Z",
+      "updated": "2015-04-21T23:10:24.313",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28380",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2015-04-24T16:30:00Z",
+      "updated": "2015-04-24T20:22:04.827",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "28386",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2015-04-24T16:30:00Z",
+      "updated": "2015-04-24T20:51:53.243",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "28388",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2015-04-24T16:30:00Z",
+      "updated": "2015-04-24T20:21:45.95",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28382",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2015-04-25T11:00:00Z",
+      "updated": "2015-04-25T14:49:41.343",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28383",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2015-04-25T11:00:00Z",
+      "updated": "2015-04-25T14:49:44.253",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28384",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2015-04-26T11:30:00Z",
+      "updated": "2015-04-26T15:21:18.063",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "28385",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2015-04-26T11:30:00Z",
+      "updated": "2015-04-26T15:21:15.523",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28387",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2015-04-26T11:30:00Z",
+      "updated": "2015-04-26T15:21:44.857",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28381",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2015-04-27T18:15:00Z",
+      "updated": "2015-04-27T22:06:35.217",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "28389",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2015-05-02T11:00:00Z",
+      "updated": "2015-05-02T14:49:55.85",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "28397",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2015-05-02T11:00:00Z",
+      "updated": "2015-07-13T13:35:25.07",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "28390",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2015-05-03T11:30:00Z",
+      "updated": "2015-05-03T15:48:14.413",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "28391",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2015-05-03T11:30:00Z",
+      "updated": "2015-05-03T15:23:42.617",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "28392",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2015-05-03T11:30:00Z",
+      "updated": "2015-05-03T15:23:49.143",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "28394",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2015-05-03T11:30:00Z",
+      "updated": "2015-05-03T15:27:14.777",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "28395",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2015-05-03T11:30:00Z",
+      "updated": "2015-05-03T15:27:24.193",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "28396",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2015-05-03T11:30:00Z",
+      "updated": "2015-05-03T15:27:33.3",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "28393",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2015-05-04T18:15:00Z",
+      "updated": "2015-05-05T09:15:18.403",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28401",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2015-05-08T16:30:00Z",
+      "updated": "2015-05-08T22:09:49.947",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "28403",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2015-05-08T16:30:00Z",
+      "updated": "2015-05-08T22:12:31.547",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "28406",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2015-05-08T16:30:00Z",
+      "updated": "2015-05-08T22:08:11.067",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "28399",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2015-05-09T11:00:00Z",
+      "updated": "2015-05-09T14:51:29.347",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "28402",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2015-05-09T11:00:00Z",
+      "updated": "2015-05-09T14:51:09.527",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "28398",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2015-05-10T11:30:00Z",
+      "updated": "2015-05-11T10:34:24.317",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "28404",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2015-05-10T11:30:00Z",
+      "updated": "2015-05-11T10:34:26.493",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28405",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2015-05-10T11:30:00Z",
+      "updated": "2015-05-11T10:34:29.917",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "28400",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2015-05-11T18:15:00Z",
+      "updated": "2015-05-11T22:07:46.713",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "28407",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2015-05-17T13:30:00Z",
+      "updated": "2015-05-17T17:27:08.35",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "118",
+      "awayTeam": "SV Darmstadt 98",
+      "awayShortName": "Darmstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "28408",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2015-05-17T13:30:00Z",
+      "updated": "2015-05-17T17:26:53.593",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "28409",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2015-05-17T13:30:00Z",
+      "updated": "2015-05-17T17:32:54.273",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28410",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2015-05-17T13:30:00Z",
+      "updated": "2015-05-17T17:27:24.613",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "28411",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2015-05-17T13:30:00Z",
+      "updated": "2015-05-17T17:27:35.18",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "1635",
+      "awayTeam": "RB Leipzig",
+      "awayShortName": "Leipzig",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28412",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2015-05-17T13:30:00Z",
+      "updated": "2015-05-17T17:27:45.547",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "199",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "awayShortName": "Heidenheim",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "28413",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2015-05-17T13:30:00Z",
+      "updated": "2015-05-17T17:26:39.393",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "28414",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2015-05-17T13:30:00Z",
+      "updated": "2015-05-17T17:28:05.32",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "28415",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2015-05-17T13:30:00Z",
+      "updated": "2015-05-17T17:28:11.403",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28416",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2015-05-24T13:30:00Z",
+      "updated": "2015-05-24T17:21:34.757",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "28417",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2015-05-24T13:30:00Z",
+      "updated": "2015-07-13T13:33:43.077",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "28418",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2015-05-24T13:30:00Z",
+      "updated": "2015-05-24T17:24:28.197",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "28419",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2015-05-24T13:30:00Z",
+      "updated": "2015-05-24T17:24:26.8",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "28420",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2015-05-24T13:30:00Z",
+      "updated": "2015-05-24T17:24:05.527",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "28421",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2015-05-24T13:30:00Z",
+      "updated": "2015-05-24T17:24:09.33",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "28422",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2015-05-24T13:30:00Z",
+      "updated": "2015-05-24T17:24:13.963",
+      "finished": true,
+      "homeTeamId": "199",
+      "homeTeam": "1. FC Heidenheim 1846",
+      "homeShortName": "Heidenheim",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "28423",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2015-05-24T13:30:00Z",
+      "updated": "2015-05-24T17:24:17.94",
+      "finished": true,
+      "homeTeamId": "1635",
+      "homeTeam": "RB Leipzig",
+      "homeShortName": "Leipzig",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "28424",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2015-05-24T13:30:00Z",
+      "updated": "2015-05-24T17:24:20.497",
+      "finished": true,
+      "homeTeamId": "118",
+      "homeTeam": "SV Darmstadt 98",
+      "homeShortName": "Darmstadt",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    }
+  ],
+  "standings": [
+    {
+      "teamId": "171",
+      "name": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt",
+      "position": 1,
+      "played": 34,
+      "wins": 17,
+      "draws": 13,
+      "losses": 4,
+      "goalsFor": 53,
+      "goalsAgainst": 31,
+      "goalDifference": 22,
+      "points": 64
+    },
+    {
+      "teamId": "118",
+      "name": "SV Darmstadt 98",
+      "shortName": "Darmstadt",
+      "position": 2,
+      "played": 34,
+      "wins": 15,
+      "draws": 14,
+      "losses": 5,
+      "goalsFor": 44,
+      "goalsAgainst": 26,
+      "goalDifference": 18,
+      "points": 59
+    },
+    {
+      "teamId": "105",
+      "name": "Karlsruher SC",
+      "shortName": "Karlsruhe",
+      "position": 3,
+      "played": 34,
+      "wins": 15,
+      "draws": 13,
+      "losses": 6,
+      "goalsFor": 46,
+      "goalsAgainst": 26,
+      "goalDifference": 20,
+      "points": 58
+    },
+    {
+      "teamId": "76",
+      "name": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "position": 4,
+      "played": 34,
+      "wins": 14,
+      "draws": 14,
+      "losses": 6,
+      "goalsFor": 45,
+      "goalsAgainst": 31,
+      "goalDifference": 14,
+      "points": 56
+    },
+    {
+      "teamId": "1635",
+      "name": "RB Leipzig",
+      "shortName": "Leipzig",
+      "position": 5,
+      "played": 34,
+      "wins": 13,
+      "draws": 11,
+      "losses": 10,
+      "goalsFor": 39,
+      "goalsAgainst": 31,
+      "goalDifference": 8,
+      "points": 50
+    },
+    {
+      "teamId": "74",
+      "name": "Eintracht Braunschweig",
+      "shortName": "Braunschweig",
+      "position": 6,
+      "played": 34,
+      "wins": 15,
+      "draws": 5,
+      "losses": 14,
+      "goalsFor": 44,
+      "goalsAgainst": 41,
+      "goalDifference": 3,
+      "points": 50
+    },
+    {
+      "teamId": "80",
+      "name": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "position": 7,
+      "played": 34,
+      "wins": 12,
+      "draws": 11,
+      "losses": 11,
+      "goalsFor": 46,
+      "goalsAgainst": 51,
+      "goalDifference": -5,
+      "points": 47
+    },
+    {
+      "teamId": "199",
+      "name": "1. FC Heidenheim 1846",
+      "shortName": "Heidenheim",
+      "position": 8,
+      "played": 34,
+      "wins": 12,
+      "draws": 10,
+      "losses": 12,
+      "goalsFor": 49,
+      "goalsAgainst": 44,
+      "goalDifference": 5,
+      "points": 46
+    },
+    {
+      "teamId": "79",
+      "name": "1. FC Nürnberg",
+      "shortName": "Nürnberg",
+      "position": 9,
+      "played": 34,
+      "wins": 13,
+      "draws": 6,
+      "losses": 15,
+      "goalsFor": 42,
+      "goalsAgainst": 47,
+      "goalDifference": -5,
+      "points": 45
+    },
+    {
+      "teamId": "185",
+      "name": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf",
+      "position": 10,
+      "played": 34,
+      "wins": 11,
+      "draws": 11,
+      "losses": 12,
+      "goalsFor": 48,
+      "goalsAgainst": 52,
+      "goalDifference": -4,
+      "points": 44
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum",
+      "position": 11,
+      "played": 34,
+      "wins": 9,
+      "draws": 15,
+      "losses": 10,
+      "goalsFor": 52,
+      "goalsAgainst": 55,
+      "goalDifference": -3,
+      "points": 42
+    },
+    {
+      "teamId": "119",
+      "name": "SV Sandhausen",
+      "shortName": "Sandhausen",
+      "position": 12,
+      "played": 34,
+      "wins": 10,
+      "draws": 12,
+      "losses": 12,
+      "goalsFor": 32,
+      "goalsAgainst": 37,
+      "goalDifference": -5,
+      "points": 42
+    },
+    {
+      "teamId": "172",
+      "name": "FSV Frankfurt",
+      "shortName": "FSV Frankfurt",
+      "position": 13,
+      "played": 34,
+      "wins": 10,
+      "draws": 9,
+      "losses": 15,
+      "goalsFor": 41,
+      "goalsAgainst": 53,
+      "goalDifference": -12,
+      "points": 39
+    },
+    {
+      "teamId": "115",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "position": 14,
+      "played": 34,
+      "wins": 8,
+      "draws": 13,
+      "losses": 13,
+      "goalsFor": 34,
+      "goalsAgainst": 42,
+      "goalDifference": -8,
+      "points": 37
+    },
+    {
+      "teamId": "98",
+      "name": "FC St. Pauli",
+      "shortName": "St. Pauli",
+      "position": 15,
+      "played": 34,
+      "wins": 10,
+      "draws": 7,
+      "losses": 17,
+      "goalsFor": 40,
+      "goalsAgainst": 51,
+      "goalDifference": -11,
+      "points": 37
+    },
+    {
+      "teamId": "125",
+      "name": "TSV 1860 München",
+      "shortName": "1860 München",
+      "position": 16,
+      "played": 34,
+      "wins": 9,
+      "draws": 9,
+      "losses": 16,
+      "goalsFor": 41,
+      "goalsAgainst": 51,
+      "goalDifference": -10,
+      "points": 36
+    },
+    {
+      "teamId": "66",
+      "name": "Erzgebirge Aue",
+      "shortName": "Aue",
+      "position": 17,
+      "played": 34,
+      "wins": 9,
+      "draws": 9,
+      "losses": 16,
+      "goalsFor": 32,
+      "goalsAgainst": 47,
+      "goalDifference": -15,
+      "points": 36
+    },
+    {
+      "teamId": "183",
+      "name": "VfR Aalen",
+      "shortName": "Aalen",
+      "position": 18,
+      "played": 34,
+      "wins": 7,
+      "draws": 12,
+      "losses": 15,
+      "goalsFor": 34,
+      "goalsAgainst": 46,
+      "goalDifference": -12,
+      "points": 33
+    }
+  ],
+  "teams": [
+    {
+      "teamId": "199",
+      "name": "1. FC Heidenheim 1846",
+      "shortName": "Heidenheim"
+    },
+    {
+      "teamId": "76",
+      "name": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern"
+    },
+    {
+      "teamId": "79",
+      "name": "1. FC Nürnberg",
+      "shortName": "Nürnberg"
+    },
+    {
+      "teamId": "80",
+      "name": "1. FC Union Berlin",
+      "shortName": "Union Berlin"
+    },
+    {
+      "teamId": "74",
+      "name": "Eintracht Braunschweig",
+      "shortName": "Braunschweig"
+    },
+    {
+      "teamId": "66",
+      "name": "Erzgebirge Aue",
+      "shortName": "Aue"
+    },
+    {
+      "teamId": "171",
+      "name": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt"
+    },
+    {
+      "teamId": "98",
+      "name": "FC St. Pauli",
+      "shortName": "St. Pauli"
+    },
+    {
+      "teamId": "185",
+      "name": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf"
+    },
+    {
+      "teamId": "172",
+      "name": "FSV Frankfurt",
+      "shortName": "FSV Frankfurt"
+    },
+    {
+      "teamId": "105",
+      "name": "Karlsruher SC",
+      "shortName": "Karlsruhe"
+    },
+    {
+      "teamId": "1635",
+      "name": "RB Leipzig",
+      "shortName": "Leipzig"
+    },
+    {
+      "teamId": "115",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth"
+    },
+    {
+      "teamId": "118",
+      "name": "SV Darmstadt 98",
+      "shortName": "Darmstadt"
+    },
+    {
+      "teamId": "119",
+      "name": "SV Sandhausen",
+      "shortName": "Sandhausen"
+    },
+    {
+      "teamId": "125",
+      "name": "TSV 1860 München",
+      "shortName": "1860 München"
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum"
+    },
+    {
+      "teamId": "183",
+      "name": "VfR Aalen",
+      "shortName": "Aalen"
+    }
+  ],
+  "groupChecks": {}
+}

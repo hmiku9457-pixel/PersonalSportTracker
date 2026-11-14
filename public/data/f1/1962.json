@@ -1,0 +1,3398 @@
+{
+  "schemaVersion": 1,
+  "year": 1962,
+  "complete": true,
+  "calendarCheckedAt": "2026-11-14T12:10:58.007Z",
+  "updatedAt": "2026-11-14T12:10:58.007Z",
+  "races": [
+    {
+      "round": 1,
+      "name": "Dutch Grand Prix",
+      "date": "1962-05-20T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Circuit Park Zandvoort",
+      "locality": "Zandvoort",
+      "country": "Netherlands",
+      "results": [
+        {
+          "driverId": "hill",
+          "name": "Graham Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 9,
+          "status": "Finished"
+        },
+        {
+          "driverId": "trevor_taylor",
+          "name": "Trevor Taylor",
+          "familyName": "Taylor",
+          "shortName": "Taylor",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 6,
+          "status": "Finished"
+        },
+        {
+          "driverId": "phil_hill",
+          "name": "Phil Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 4,
+          "status": "Finished"
+        },
+        {
+          "driverId": "baghetti",
+          "name": "Giancarlo Baghetti",
+          "familyName": "Baghetti",
+          "shortName": "Baghetti",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 3,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "maggs",
+          "name": "Tony Maggs",
+          "familyName": "Maggs",
+          "shortName": "Maggs",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 2,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "beaufort",
+          "name": "Carel Godin de Beaufort",
+          "familyName": "de Beaufort",
+          "shortName": "de Beaufort",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 1,
+          "status": "+4 Laps"
+        },
+        {
+          "driverId": "bonnier",
+          "name": "Jo Bonnier",
+          "familyName": "Bonnier",
+          "shortName": "Bonnier",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "+5 Laps"
+        },
+        {
+          "driverId": "lewis",
+          "name": "Jackie Lewis",
+          "familyName": "Lewis",
+          "shortName": "Lewis",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "+10 Laps"
+        },
+        {
+          "driverId": "clark",
+          "name": "Jim Clark",
+          "familyName": "Clark",
+          "shortName": "Clark",
+          "position": 9,
+          "positionText": "9",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+10 Laps"
+        },
+        {
+          "driverId": "ricardo_rodriguez",
+          "name": "Ricardo Rodríguez",
+          "familyName": "Rodríguez",
+          "shortName": "Rodríguez",
+          "position": 10,
+          "positionText": "R",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "ginther",
+          "name": "Richie Ginther",
+          "familyName": "Ginther",
+          "shortName": "Ginther",
+          "position": 11,
+          "positionText": "R",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "ireland",
+          "name": "Innes Ireland",
+          "familyName": "Ireland",
+          "shortName": "Ireland",
+          "position": 12,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "gregory",
+          "name": "Masten Gregory",
+          "familyName": "Gregory",
+          "shortName": "Gregory",
+          "position": 13,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Halfshaft"
+        },
+        {
+          "driverId": "seidel",
+          "name": "Wolfgang Seidel",
+          "familyName": "Seidel",
+          "shortName": "Seidel",
+          "position": 14,
+          "positionText": "R",
+          "constructorId": "emeryson",
+          "constructorName": "Emeryson",
+          "points": 0,
+          "status": "Not classified"
+        },
+        {
+          "driverId": "gurney",
+          "name": "Dan Gurney",
+          "familyName": "Gurney",
+          "shortName": "Gurney",
+          "position": 15,
+          "positionText": "R",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "mclaren",
+          "name": "Bruce McLaren",
+          "familyName": "McLaren",
+          "shortName": "McLaren",
+          "position": 16,
+          "positionText": "R",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "salvadori",
+          "name": "Roy Salvadori",
+          "familyName": "Salvadori",
+          "shortName": "Salvadori",
+          "position": 17,
+          "positionText": "W",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "surtees",
+          "name": "John Surtees",
+          "familyName": "Surtees",
+          "shortName": "Surtees",
+          "position": 18,
+          "positionText": "R",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "jack_brabham",
+          "name": "Jack Brabham",
+          "familyName": "Brabham",
+          "shortName": "Brabham",
+          "position": 19,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "pon",
+          "name": "Ben Pon",
+          "familyName": "Pon",
+          "shortName": "Pon",
+          "position": 20,
+          "positionText": "R",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "slotemaker",
+          "name": "Rob Slotemaker",
+          "familyName": "Slotemaker",
+          "shortName": "Slotemaker",
+          "position": 21,
+          "positionText": "W",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "trintignant",
+          "name": "Maurice Trintignant",
+          "familyName": "Trintignant",
+          "shortName": "Trintignant",
+          "position": 22,
+          "positionText": "W",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Withdrew"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 2,
+      "name": "Monaco Grand Prix",
+      "date": "1962-06-03T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Circuit de Monaco",
+      "locality": "Monte Carlo",
+      "country": "Monaco",
+      "results": [
+        {
+          "driverId": "mclaren",
+          "name": "Bruce McLaren",
+          "familyName": "McLaren",
+          "shortName": "McLaren",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 9,
+          "status": "Finished"
+        },
+        {
+          "driverId": "phil_hill",
+          "name": "Phil Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 6,
+          "status": "Finished"
+        },
+        {
+          "driverId": "bandini",
+          "name": "Lorenzo Bandini",
+          "familyName": "Bandini",
+          "shortName": "Bandini",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 4,
+          "status": "Finished"
+        },
+        {
+          "driverId": "surtees",
+          "name": "John Surtees",
+          "familyName": "Surtees",
+          "shortName": "Surtees",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 3,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "bonnier",
+          "name": "Jo Bonnier",
+          "familyName": "Bonnier",
+          "shortName": "Bonnier",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 2,
+          "status": "+7 Laps"
+        },
+        {
+          "driverId": "hill",
+          "name": "Graham Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 1,
+          "status": "Engine"
+        },
+        {
+          "driverId": "mairesse",
+          "name": "Willy Mairesse",
+          "familyName": "Mairesse",
+          "shortName": "Mairesse",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Oil pressure"
+        },
+        {
+          "driverId": "jack_brabham",
+          "name": "Jack Brabham",
+          "familyName": "Brabham",
+          "shortName": "Brabham",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "ireland",
+          "name": "Innes Ireland",
+          "familyName": "Ireland",
+          "shortName": "Ireland",
+          "position": 9,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Fuel pump"
+        },
+        {
+          "driverId": "clark",
+          "name": "Jim Clark",
+          "familyName": "Clark",
+          "shortName": "Clark",
+          "position": 10,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Clutch"
+        },
+        {
+          "driverId": "salvadori",
+          "name": "Roy Salvadori",
+          "familyName": "Salvadori",
+          "shortName": "Salvadori",
+          "position": 11,
+          "positionText": "R",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 0,
+          "status": "Suspension"
+        },
+        {
+          "driverId": "maggs",
+          "name": "Tony Maggs",
+          "familyName": "Maggs",
+          "shortName": "Maggs",
+          "position": 12,
+          "positionText": "R",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "trevor_taylor",
+          "name": "Trevor Taylor",
+          "familyName": "Taylor",
+          "shortName": "Taylor",
+          "position": 13,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Oil leak"
+        },
+        {
+          "driverId": "gurney",
+          "name": "Dan Gurney",
+          "familyName": "Gurney",
+          "shortName": "Gurney",
+          "position": 14,
+          "positionText": "R",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "trintignant",
+          "name": "Maurice Trintignant",
+          "familyName": "Trintignant",
+          "shortName": "Trintignant",
+          "position": 15,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "ginther",
+          "name": "Richie Ginther",
+          "familyName": "Ginther",
+          "shortName": "Ginther",
+          "position": 16,
+          "positionText": "R",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "ricardo_rodriguez",
+          "name": "Ricardo Rodríguez",
+          "familyName": "Rodríguez",
+          "shortName": "Rodríguez",
+          "position": 22,
+          "positionText": "W",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "bussinello",
+          "name": "Roberto Bussinello",
+          "familyName": "Bussinello",
+          "shortName": "Bussinello",
+          "position": 23,
+          "positionText": "W",
+          "constructorId": "de_tomaso-alfa_romeo",
+          "constructorName": "De Tomaso-Alfa Romeo",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "marsh",
+          "name": "Tony Marsh",
+          "familyName": "Marsh",
+          "shortName": "Marsh",
+          "position": 24,
+          "positionText": "W",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "Withdrew"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 3,
+      "name": "Belgian Grand Prix",
+      "date": "1962-06-17T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Circuit de Spa-Francorchamps",
+      "locality": "Spa",
+      "country": "Belgium",
+      "results": [
+        {
+          "driverId": "clark",
+          "name": "Jim Clark",
+          "familyName": "Clark",
+          "shortName": "Clark",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 9,
+          "status": "Finished"
+        },
+        {
+          "driverId": "hill",
+          "name": "Graham Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 6,
+          "status": "Finished"
+        },
+        {
+          "driverId": "phil_hill",
+          "name": "Phil Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 4,
+          "status": "Finished"
+        },
+        {
+          "driverId": "ricardo_rodriguez",
+          "name": "Ricardo Rodríguez",
+          "familyName": "Rodríguez",
+          "shortName": "Rodríguez",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 3,
+          "status": "Finished"
+        },
+        {
+          "driverId": "surtees",
+          "name": "John Surtees",
+          "familyName": "Surtees",
+          "shortName": "Surtees",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 2,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "jack_brabham",
+          "name": "Jack Brabham",
+          "familyName": "Brabham",
+          "shortName": "Brabham",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 1,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "beaufort",
+          "name": "Carel Godin de Beaufort",
+          "familyName": "de Beaufort",
+          "shortName": "de Beaufort",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "trintignant",
+          "name": "Maurice Trintignant",
+          "familyName": "Trintignant",
+          "shortName": "Trintignant",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "bianchi",
+          "name": "Lucien Bianchi",
+          "familyName": "Bianchi",
+          "shortName": "Bianchi",
+          "position": 9,
+          "positionText": "9",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "siffert",
+          "name": "Jo Siffert",
+          "familyName": "Siffert",
+          "shortName": "Siffert",
+          "position": 10,
+          "positionText": "10",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "campbell-jones",
+          "name": "John Campbell-Jones",
+          "familyName": "Campbell-Jones",
+          "shortName": "Campbell-Jones",
+          "position": 11,
+          "positionText": "11",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+16 Laps"
+        },
+        {
+          "driverId": "trevor_taylor",
+          "name": "Trevor Taylor",
+          "familyName": "Taylor",
+          "shortName": "Taylor",
+          "position": 12,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "mairesse",
+          "name": "Willy Mairesse",
+          "familyName": "Mairesse",
+          "shortName": "Mairesse",
+          "position": 13,
+          "positionText": "R",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "ginther",
+          "name": "Richie Ginther",
+          "familyName": "Ginther",
+          "shortName": "Ginther",
+          "position": 14,
+          "positionText": "R",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "maggs",
+          "name": "Tony Maggs",
+          "familyName": "Maggs",
+          "shortName": "Maggs",
+          "position": 15,
+          "positionText": "R",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "mclaren",
+          "name": "Bruce McLaren",
+          "familyName": "McLaren",
+          "shortName": "McLaren",
+          "position": 16,
+          "positionText": "R",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "Wheel bearing"
+        },
+        {
+          "driverId": "gregory",
+          "name": "Masten Gregory",
+          "familyName": "Gregory",
+          "shortName": "Gregory",
+          "position": 17,
+          "positionText": "W",
+          "constructorId": "lotus-brm",
+          "constructorName": "Lotus-BRM",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "ireland",
+          "name": "Innes Ireland",
+          "familyName": "Ireland",
+          "shortName": "Ireland",
+          "position": 18,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Suspension"
+        },
+        {
+          "driverId": "baghetti",
+          "name": "Giancarlo Baghetti",
+          "familyName": "Baghetti",
+          "shortName": "Baghetti",
+          "position": 19,
+          "positionText": "R",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Ignition"
+        },
+        {
+          "driverId": "gurney",
+          "name": "Dan Gurney",
+          "familyName": "Gurney",
+          "shortName": "Gurney",
+          "position": 20,
+          "positionText": "W",
+          "constructorId": "lotus-brm",
+          "constructorName": "Lotus-BRM",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "marsh",
+          "name": "Tony Marsh",
+          "familyName": "Marsh",
+          "shortName": "Marsh",
+          "position": 21,
+          "positionText": "W",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "lewis",
+          "name": "Jackie Lewis",
+          "familyName": "Lewis",
+          "shortName": "Lewis",
+          "position": 22,
+          "positionText": "W",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "ashmore",
+          "name": "Gerry Ashmore",
+          "familyName": "Ashmore",
+          "shortName": "Ashmore",
+          "position": 23,
+          "positionText": "W",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "salvadori",
+          "name": "Roy Salvadori",
+          "familyName": "Salvadori",
+          "shortName": "Salvadori",
+          "position": 24,
+          "positionText": "W",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "schiller",
+          "name": "Heinz Schiller",
+          "familyName": "Schiller",
+          "shortName": "Schiller",
+          "position": 25,
+          "positionText": "W",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "bonnier",
+          "name": "Jo Bonnier",
+          "familyName": "Bonnier",
+          "shortName": "Bonnier",
+          "position": 26,
+          "positionText": "W",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "Withdrew"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 4,
+      "name": "French Grand Prix",
+      "date": "1962-07-08T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Rouen-Les-Essarts",
+      "locality": "Rouen",
+      "country": "France",
+      "results": [
+        {
+          "driverId": "gurney",
+          "name": "Dan Gurney",
+          "familyName": "Gurney",
+          "shortName": "Gurney",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 9,
+          "status": "Finished"
+        },
+        {
+          "driverId": "maggs",
+          "name": "Tony Maggs",
+          "familyName": "Maggs",
+          "shortName": "Maggs",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 6,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "ginther",
+          "name": "Richie Ginther",
+          "familyName": "Ginther",
+          "shortName": "Ginther",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 4,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "mclaren",
+          "name": "Bruce McLaren",
+          "familyName": "McLaren",
+          "shortName": "McLaren",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 3,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "surtees",
+          "name": "John Surtees",
+          "familyName": "Surtees",
+          "shortName": "Surtees",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 2,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "beaufort",
+          "name": "Carel Godin de Beaufort",
+          "familyName": "de Beaufort",
+          "shortName": "de Beaufort",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 1,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "trintignant",
+          "name": "Maurice Trintignant",
+          "familyName": "Trintignant",
+          "shortName": "Trintignant",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+4 Laps"
+        },
+        {
+          "driverId": "trevor_taylor",
+          "name": "Trevor Taylor",
+          "familyName": "Taylor",
+          "shortName": "Taylor",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+6 Laps"
+        },
+        {
+          "driverId": "hill",
+          "name": "Graham Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 9,
+          "positionText": "9",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "+10 Laps"
+        },
+        {
+          "driverId": "bonnier",
+          "name": "Jo Bonnier",
+          "familyName": "Bonnier",
+          "shortName": "Bonnier",
+          "position": 10,
+          "positionText": "R",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "Fuel system"
+        },
+        {
+          "driverId": "clark",
+          "name": "Jim Clark",
+          "familyName": "Clark",
+          "shortName": "Clark",
+          "position": 11,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Suspension"
+        },
+        {
+          "driverId": "lewis",
+          "name": "Jackie Lewis",
+          "familyName": "Lewis",
+          "shortName": "Lewis",
+          "position": 12,
+          "positionText": "R",
+          "constructorId": "cooper",
+          "constructorName": "Cooper",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "salvadori",
+          "name": "Roy Salvadori",
+          "familyName": "Salvadori",
+          "shortName": "Salvadori",
+          "position": 13,
+          "positionText": "R",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 0,
+          "status": "Oil pressure"
+        },
+        {
+          "driverId": "gregory",
+          "name": "Masten Gregory",
+          "familyName": "Gregory",
+          "shortName": "Gregory",
+          "position": 14,
+          "positionText": "R",
+          "constructorId": "lotus-brm",
+          "constructorName": "Lotus-BRM",
+          "points": 0,
+          "status": "Overheating"
+        },
+        {
+          "driverId": "jack_brabham",
+          "name": "Jack Brabham",
+          "familyName": "Brabham",
+          "shortName": "Brabham",
+          "position": 15,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Suspension"
+        },
+        {
+          "driverId": "siffert",
+          "name": "Jo Siffert",
+          "familyName": "Siffert",
+          "shortName": "Siffert",
+          "position": 16,
+          "positionText": "R",
+          "constructorId": "lotus-brm",
+          "constructorName": "Lotus-BRM",
+          "points": 0,
+          "status": "Clutch"
+        },
+        {
+          "driverId": "ireland",
+          "name": "Innes Ireland",
+          "familyName": "Ireland",
+          "shortName": "Ireland",
+          "position": 17,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Puncture"
+        },
+        {
+          "driverId": "arundell",
+          "name": "Peter Arundell",
+          "familyName": "Arundell",
+          "shortName": "Arundell",
+          "position": 18,
+          "positionText": "W",
+          "constructorId": "team_lotus",
+          "constructorName": "Team Lotus",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "marsh",
+          "name": "Tony Marsh",
+          "familyName": "Marsh",
+          "shortName": "Marsh",
+          "position": 19,
+          "positionText": "W",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "davis",
+          "name": "Colin Davis",
+          "familyName": "Davis",
+          "shortName": "Davis",
+          "position": 20,
+          "positionText": "W",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "abate",
+          "name": "Carlo Abate",
+          "familyName": "Abate",
+          "shortName": "Abate",
+          "position": 21,
+          "positionText": "W",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "burgess",
+          "name": "Ian Burgess",
+          "familyName": "Burgess",
+          "shortName": "Burgess",
+          "position": 22,
+          "positionText": "W",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "Withdrew"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 5,
+      "name": "British Grand Prix",
+      "date": "1962-07-21T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Aintree",
+      "locality": "Liverpool",
+      "country": "UK",
+      "results": [
+        {
+          "driverId": "clark",
+          "name": "Jim Clark",
+          "familyName": "Clark",
+          "shortName": "Clark",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 9,
+          "status": "Finished"
+        },
+        {
+          "driverId": "surtees",
+          "name": "John Surtees",
+          "familyName": "Surtees",
+          "shortName": "Surtees",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 6,
+          "status": "Finished"
+        },
+        {
+          "driverId": "mclaren",
+          "name": "Bruce McLaren",
+          "familyName": "McLaren",
+          "shortName": "McLaren",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 4,
+          "status": "Finished"
+        },
+        {
+          "driverId": "hill",
+          "name": "Graham Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 3,
+          "status": "Finished"
+        },
+        {
+          "driverId": "jack_brabham",
+          "name": "Jack Brabham",
+          "familyName": "Brabham",
+          "shortName": "Brabham",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 2,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "maggs",
+          "name": "Tony Maggs",
+          "familyName": "Maggs",
+          "shortName": "Maggs",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 1,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "gregory",
+          "name": "Masten Gregory",
+          "familyName": "Gregory",
+          "shortName": "Gregory",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "trevor_taylor",
+          "name": "Trevor Taylor",
+          "familyName": "Taylor",
+          "shortName": "Taylor",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "gurney",
+          "name": "Dan Gurney",
+          "familyName": "Gurney",
+          "shortName": "Gurney",
+          "position": 9,
+          "positionText": "9",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "lewis",
+          "name": "Jackie Lewis",
+          "familyName": "Lewis",
+          "shortName": "Lewis",
+          "position": 10,
+          "positionText": "10",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "settember",
+          "name": "Tony Settember",
+          "familyName": "Settember",
+          "shortName": "Settember",
+          "position": 11,
+          "positionText": "11",
+          "constructorId": "emeryson",
+          "constructorName": "Emeryson",
+          "points": 0,
+          "status": "+4 Laps"
+        },
+        {
+          "driverId": "burgess",
+          "name": "Ian Burgess",
+          "familyName": "Burgess",
+          "shortName": "Burgess",
+          "position": 12,
+          "positionText": "12",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "+4 Laps"
+        },
+        {
+          "driverId": "ginther",
+          "name": "Richie Ginther",
+          "familyName": "Ginther",
+          "shortName": "Ginther",
+          "position": 13,
+          "positionText": "13",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "+5 Laps"
+        },
+        {
+          "driverId": "beaufort",
+          "name": "Carel Godin de Beaufort",
+          "familyName": "de Beaufort",
+          "shortName": "de Beaufort",
+          "position": 14,
+          "positionText": "14",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "+6 Laps"
+        },
+        {
+          "driverId": "chamberlain",
+          "name": "Jay Chamberlain",
+          "familyName": "Chamberlain",
+          "shortName": "Chamberlain",
+          "position": 15,
+          "positionText": "15",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+11 Laps"
+        },
+        {
+          "driverId": "ireland",
+          "name": "Innes Ireland",
+          "familyName": "Ireland",
+          "shortName": "Ireland",
+          "position": 16,
+          "positionText": "16",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+14 Laps"
+        },
+        {
+          "driverId": "phil_hill",
+          "name": "Phil Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 17,
+          "positionText": "R",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "salvadori",
+          "name": "Roy Salvadori",
+          "familyName": "Salvadori",
+          "shortName": "Salvadori",
+          "position": 18,
+          "positionText": "R",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 0,
+          "status": "Battery"
+        },
+        {
+          "driverId": "bonnier",
+          "name": "Jo Bonnier",
+          "familyName": "Bonnier",
+          "shortName": "Bonnier",
+          "position": 19,
+          "positionText": "R",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "Differential"
+        },
+        {
+          "driverId": "seidel",
+          "name": "Wolfgang Seidel",
+          "familyName": "Seidel",
+          "shortName": "Seidel",
+          "position": 20,
+          "positionText": "R",
+          "constructorId": "lotus-brm",
+          "constructorName": "Lotus-BRM",
+          "points": 0,
+          "status": "Brakes"
+        },
+        {
+          "driverId": "shelly",
+          "name": "Tony Shelly",
+          "familyName": "Shelly",
+          "shortName": "Shelly",
+          "position": 21,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "greene",
+          "name": "Keith Greene",
+          "familyName": "Greene",
+          "shortName": "Greene",
+          "position": 22,
+          "positionText": "W",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "trintignant",
+          "name": "Maurice Trintignant",
+          "familyName": "Trintignant",
+          "shortName": "Trintignant",
+          "position": 23,
+          "positionText": "W",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "campbell-jones",
+          "name": "John Campbell-Jones",
+          "familyName": "Campbell-Jones",
+          "shortName": "Campbell-Jones",
+          "position": 24,
+          "positionText": "W",
+          "constructorId": "emeryson",
+          "constructorName": "Emeryson",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "greene",
+          "name": "Keith Greene",
+          "familyName": "Greene",
+          "shortName": "Greene",
+          "position": 25,
+          "positionText": "W",
+          "constructorId": "gilby",
+          "constructorName": "Gilby",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "siffert",
+          "name": "Jo Siffert",
+          "familyName": "Siffert",
+          "shortName": "Siffert",
+          "position": 26,
+          "positionText": "W",
+          "constructorId": "lotus-brm",
+          "constructorName": "Lotus-BRM",
+          "points": 0,
+          "status": "Withdrew"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 6,
+      "name": "German Grand Prix",
+      "date": "1962-08-05T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Nürburgring",
+      "locality": "Nürburg",
+      "country": "Germany",
+      "results": [
+        {
+          "driverId": "hill",
+          "name": "Graham Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 9,
+          "status": "Finished"
+        },
+        {
+          "driverId": "surtees",
+          "name": "John Surtees",
+          "familyName": "Surtees",
+          "shortName": "Surtees",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 6,
+          "status": "Finished"
+        },
+        {
+          "driverId": "gurney",
+          "name": "Dan Gurney",
+          "familyName": "Gurney",
+          "shortName": "Gurney",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 4,
+          "status": "Finished"
+        },
+        {
+          "driverId": "clark",
+          "name": "Jim Clark",
+          "familyName": "Clark",
+          "shortName": "Clark",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 3,
+          "status": "Finished"
+        },
+        {
+          "driverId": "mclaren",
+          "name": "Bruce McLaren",
+          "familyName": "McLaren",
+          "shortName": "McLaren",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 2,
+          "status": "Finished"
+        },
+        {
+          "driverId": "ricardo_rodriguez",
+          "name": "Ricardo Rodríguez",
+          "familyName": "Rodríguez",
+          "shortName": "Rodríguez",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 1,
+          "status": "Finished"
+        },
+        {
+          "driverId": "bonnier",
+          "name": "Jo Bonnier",
+          "familyName": "Bonnier",
+          "shortName": "Bonnier",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "ginther",
+          "name": "Richie Ginther",
+          "familyName": "Ginther",
+          "shortName": "Ginther",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "maggs",
+          "name": "Tony Maggs",
+          "familyName": "Maggs",
+          "shortName": "Maggs",
+          "position": 9,
+          "positionText": "9",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "baghetti",
+          "name": "Giancarlo Baghetti",
+          "familyName": "Baghetti",
+          "shortName": "Baghetti",
+          "position": 10,
+          "positionText": "10",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "burgess",
+          "name": "Ian Burgess",
+          "familyName": "Burgess",
+          "shortName": "Burgess",
+          "position": 11,
+          "positionText": "11",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "siffert",
+          "name": "Jo Siffert",
+          "familyName": "Siffert",
+          "shortName": "Siffert",
+          "position": 12,
+          "positionText": "12",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "beaufort",
+          "name": "Carel Godin de Beaufort",
+          "familyName": "de Beaufort",
+          "shortName": "de Beaufort",
+          "position": 13,
+          "positionText": "13",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "walter",
+          "name": "Heini Walter",
+          "familyName": "Walter",
+          "shortName": "Walter",
+          "position": 14,
+          "positionText": "14",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "vaccarella",
+          "name": "Nino Vaccarella",
+          "familyName": "Vaccarella",
+          "shortName": "Vaccarella",
+          "position": 15,
+          "positionText": "15",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "bianchi",
+          "name": "Lucien Bianchi",
+          "familyName": "Bianchi",
+          "shortName": "Bianchi",
+          "position": 16,
+          "positionText": "16",
+          "constructorId": "enb",
+          "constructorName": "ENB",
+          "points": 0,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "lewis",
+          "name": "Jackie Lewis",
+          "familyName": "Lewis",
+          "shortName": "Lewis",
+          "position": 17,
+          "positionText": "R",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "Suspension"
+        },
+        {
+          "driverId": "phil_hill",
+          "name": "Phil Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 18,
+          "positionText": "R",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Suspension"
+        },
+        {
+          "driverId": "jack_brabham",
+          "name": "Jack Brabham",
+          "familyName": "Brabham",
+          "shortName": "Brabham",
+          "position": 19,
+          "positionText": "R",
+          "constructorId": "brabham",
+          "constructorName": "Brabham",
+          "points": 0,
+          "status": "Throttle"
+        },
+        {
+          "driverId": "greene",
+          "name": "Keith Greene",
+          "familyName": "Greene",
+          "shortName": "Greene",
+          "position": 20,
+          "positionText": "R",
+          "constructorId": "gilby",
+          "constructorName": "Gilby",
+          "points": 0,
+          "status": "Suspension"
+        },
+        {
+          "driverId": "salvadori",
+          "name": "Roy Salvadori",
+          "familyName": "Salvadori",
+          "shortName": "Salvadori",
+          "position": 21,
+          "positionText": "R",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "trintignant",
+          "name": "Maurice Trintignant",
+          "familyName": "Trintignant",
+          "shortName": "Trintignant",
+          "position": 22,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "bandini",
+          "name": "Lorenzo Bandini",
+          "familyName": "Bandini",
+          "shortName": "Bandini",
+          "position": 23,
+          "positionText": "R",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "schiller",
+          "name": "Heinz Schiller",
+          "familyName": "Schiller",
+          "shortName": "Schiller",
+          "position": 24,
+          "positionText": "R",
+          "constructorId": "lotus-brm",
+          "constructorName": "Lotus-BRM",
+          "points": 0,
+          "status": "Oil pressure"
+        },
+        {
+          "driverId": "collomb",
+          "name": "Bernard Collomb",
+          "familyName": "Collomb",
+          "shortName": "Collomb",
+          "position": 25,
+          "positionText": "R",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "trevor_taylor",
+          "name": "Trevor Taylor",
+          "familyName": "Taylor",
+          "shortName": "Taylor",
+          "position": 26,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "marsh",
+          "name": "Tony Marsh",
+          "familyName": "Marsh",
+          "shortName": "Marsh",
+          "position": 31,
+          "positionText": "W",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "Withdrew"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 7,
+      "name": "Italian Grand Prix",
+      "date": "1962-09-16T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Autodromo Nazionale di Monza",
+      "locality": "Monza",
+      "country": "Italy",
+      "results": [
+        {
+          "driverId": "hill",
+          "name": "Graham Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 9,
+          "status": "Finished"
+        },
+        {
+          "driverId": "ginther",
+          "name": "Richie Ginther",
+          "familyName": "Ginther",
+          "shortName": "Ginther",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 6,
+          "status": "Finished"
+        },
+        {
+          "driverId": "mclaren",
+          "name": "Bruce McLaren",
+          "familyName": "McLaren",
+          "shortName": "McLaren",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 4,
+          "status": "Finished"
+        },
+        {
+          "driverId": "mairesse",
+          "name": "Willy Mairesse",
+          "familyName": "Mairesse",
+          "shortName": "Mairesse",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 3,
+          "status": "Finished"
+        },
+        {
+          "driverId": "baghetti",
+          "name": "Giancarlo Baghetti",
+          "familyName": "Baghetti",
+          "shortName": "Baghetti",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 2,
+          "status": "Finished"
+        },
+        {
+          "driverId": "bonnier",
+          "name": "Jo Bonnier",
+          "familyName": "Bonnier",
+          "shortName": "Bonnier",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 1,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "maggs",
+          "name": "Tony Maggs",
+          "familyName": "Maggs",
+          "shortName": "Maggs",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "bandini",
+          "name": "Lorenzo Bandini",
+          "familyName": "Bandini",
+          "shortName": "Bandini",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "vaccarella",
+          "name": "Nino Vaccarella",
+          "familyName": "Vaccarella",
+          "shortName": "Vaccarella",
+          "position": 9,
+          "positionText": "9",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "beaufort",
+          "name": "Carel Godin de Beaufort",
+          "familyName": "de Beaufort",
+          "shortName": "de Beaufort",
+          "position": 10,
+          "positionText": "10",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "+5 Laps"
+        },
+        {
+          "driverId": "phil_hill",
+          "name": "Phil Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 11,
+          "positionText": "11",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "+5 Laps"
+        },
+        {
+          "driverId": "gregory",
+          "name": "Masten Gregory",
+          "familyName": "Gregory",
+          "shortName": "Gregory",
+          "position": 12,
+          "positionText": "12",
+          "constructorId": "lotus-brm",
+          "constructorName": "Lotus-BRM",
+          "points": 0,
+          "status": "+9 Laps"
+        },
+        {
+          "driverId": "gurney",
+          "name": "Dan Gurney",
+          "familyName": "Gurney",
+          "shortName": "Gurney",
+          "position": 13,
+          "positionText": "13",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "Differential"
+        },
+        {
+          "driverId": "ricardo_rodriguez",
+          "name": "Ricardo Rodríguez",
+          "familyName": "Rodríguez",
+          "shortName": "Rodríguez",
+          "position": 14,
+          "positionText": "14",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Ignition"
+        },
+        {
+          "driverId": "ireland",
+          "name": "Innes Ireland",
+          "familyName": "Ireland",
+          "shortName": "Ireland",
+          "position": 15,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Suspension"
+        },
+        {
+          "driverId": "surtees",
+          "name": "John Surtees",
+          "familyName": "Surtees",
+          "shortName": "Surtees",
+          "position": 16,
+          "positionText": "R",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "salvadori",
+          "name": "Roy Salvadori",
+          "familyName": "Salvadori",
+          "shortName": "Salvadori",
+          "position": 17,
+          "positionText": "R",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "trevor_taylor",
+          "name": "Trevor Taylor",
+          "familyName": "Taylor",
+          "shortName": "Taylor",
+          "position": 18,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "settember",
+          "name": "Tony Settember",
+          "familyName": "Settember",
+          "shortName": "Settember",
+          "position": 19,
+          "positionText": "R",
+          "constructorId": "emeryson",
+          "constructorName": "Emeryson",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "trintignant",
+          "name": "Maurice Trintignant",
+          "familyName": "Trintignant",
+          "shortName": "Trintignant",
+          "position": 20,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Electrical"
+        },
+        {
+          "driverId": "clark",
+          "name": "Jim Clark",
+          "familyName": "Clark",
+          "shortName": "Clark",
+          "position": 21,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "kuhnke",
+          "name": "Kurt Kuhnke",
+          "familyName": "Kuhnke",
+          "shortName": "Kuhnke",
+          "position": 31,
+          "positionText": "W",
+          "constructorId": "lotus-borgward",
+          "constructorName": "Lotus-Borgward",
+          "points": 0,
+          "status": "Withdrew"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 8,
+      "name": "United States Grand Prix",
+      "date": "1962-10-07T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Watkins Glen",
+      "locality": "New York State",
+      "country": "USA",
+      "results": [
+        {
+          "driverId": "clark",
+          "name": "Jim Clark",
+          "familyName": "Clark",
+          "shortName": "Clark",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 9,
+          "status": "Finished"
+        },
+        {
+          "driverId": "hill",
+          "name": "Graham Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 6,
+          "status": "Finished"
+        },
+        {
+          "driverId": "mclaren",
+          "name": "Bruce McLaren",
+          "familyName": "McLaren",
+          "shortName": "McLaren",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 4,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "jack_brabham",
+          "name": "Jack Brabham",
+          "familyName": "Brabham",
+          "shortName": "Brabham",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "brabham",
+          "constructorName": "Brabham",
+          "points": 3,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "gurney",
+          "name": "Dan Gurney",
+          "familyName": "Gurney",
+          "shortName": "Gurney",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 2,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "gregory",
+          "name": "Masten Gregory",
+          "familyName": "Gregory",
+          "shortName": "Gregory",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "lotus-brm",
+          "constructorName": "Lotus-BRM",
+          "points": 1,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "maggs",
+          "name": "Tony Maggs",
+          "familyName": "Maggs",
+          "shortName": "Maggs",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "ireland",
+          "name": "Innes Ireland",
+          "familyName": "Ireland",
+          "shortName": "Ireland",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+4 Laps"
+        },
+        {
+          "driverId": "penske",
+          "name": "Roger Penske",
+          "familyName": "Penske",
+          "shortName": "Penske",
+          "position": 9,
+          "positionText": "9",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+4 Laps"
+        },
+        {
+          "driverId": "schroeder",
+          "name": "Rob Schroeder",
+          "familyName": "Schroeder",
+          "shortName": "Schroeder",
+          "position": 10,
+          "positionText": "10",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+7 Laps"
+        },
+        {
+          "driverId": "sharp",
+          "name": "Hap Sharp",
+          "familyName": "Sharp",
+          "shortName": "Sharp",
+          "position": 11,
+          "positionText": "11",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "+9 Laps"
+        },
+        {
+          "driverId": "trevor_taylor",
+          "name": "Trevor Taylor",
+          "familyName": "Taylor",
+          "shortName": "Taylor",
+          "position": 12,
+          "positionText": "12",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+15 Laps"
+        },
+        {
+          "driverId": "bonnier",
+          "name": "Jo Bonnier",
+          "familyName": "Bonnier",
+          "shortName": "Bonnier",
+          "position": 13,
+          "positionText": "13",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "+21 Laps"
+        },
+        {
+          "driverId": "ginther",
+          "name": "Richie Ginther",
+          "familyName": "Ginther",
+          "shortName": "Ginther",
+          "position": 14,
+          "positionText": "R",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "trintignant",
+          "name": "Maurice Trintignant",
+          "familyName": "Trintignant",
+          "shortName": "Trintignant",
+          "position": 15,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Brakes"
+        },
+        {
+          "driverId": "mayer",
+          "name": "Timmy Mayer",
+          "familyName": "Mayer",
+          "shortName": "Mayer",
+          "position": 16,
+          "positionText": "R",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "Ignition"
+        },
+        {
+          "driverId": "surtees",
+          "name": "John Surtees",
+          "familyName": "Surtees",
+          "shortName": "Surtees",
+          "position": 17,
+          "positionText": "R",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "beaufort",
+          "name": "Carel Godin de Beaufort",
+          "familyName": "de Beaufort",
+          "shortName": "de Beaufort",
+          "position": 18,
+          "positionText": "R",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "salvadori",
+          "name": "Roy Salvadori",
+          "familyName": "Salvadori",
+          "shortName": "Salvadori",
+          "position": 19,
+          "positionText": "W",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "hall",
+          "name": "Jim Hall",
+          "familyName": "Hall",
+          "shortName": "Hall",
+          "position": 20,
+          "positionText": "W",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Withdrew"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 9,
+      "name": "South African Grand Prix",
+      "date": "1962-12-29T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Prince George Circuit",
+      "locality": "Eastern Cape Province",
+      "country": "South Africa",
+      "results": [
+        {
+          "driverId": "hill",
+          "name": "Graham Hill",
+          "familyName": "Hill",
+          "shortName": "Hill",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 9,
+          "status": "Finished"
+        },
+        {
+          "driverId": "mclaren",
+          "name": "Bruce McLaren",
+          "familyName": "McLaren",
+          "shortName": "McLaren",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 6,
+          "status": "Finished"
+        },
+        {
+          "driverId": "maggs",
+          "name": "Tony Maggs",
+          "familyName": "Maggs",
+          "shortName": "Maggs",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 4,
+          "status": "Finished"
+        },
+        {
+          "driverId": "jack_brabham",
+          "name": "Jack Brabham",
+          "familyName": "Brabham",
+          "shortName": "Brabham",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "brabham",
+          "constructorName": "Brabham",
+          "points": 3,
+          "status": "Finished"
+        },
+        {
+          "driverId": "ireland",
+          "name": "Innes Ireland",
+          "familyName": "Ireland",
+          "shortName": "Ireland",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 2,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "lederle",
+          "name": "Neville Lederle",
+          "familyName": "Lederle",
+          "shortName": "Lederle",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 1,
+          "status": "+4 Laps"
+        },
+        {
+          "driverId": "ginther",
+          "name": "Richie Ginther",
+          "familyName": "Ginther",
+          "shortName": "Ginther",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "+4 Laps"
+        },
+        {
+          "driverId": "love",
+          "name": "John Love",
+          "familyName": "Love",
+          "shortName": "Love",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "cooper-climax",
+          "constructorName": "Cooper-Climax",
+          "points": 0,
+          "status": "+4 Laps"
+        },
+        {
+          "driverId": "johnstone",
+          "name": "Bruce Johnstone",
+          "familyName": "Johnstone",
+          "shortName": "Johnstone",
+          "position": 9,
+          "positionText": "9",
+          "constructorId": "brm",
+          "constructorName": "BRM",
+          "points": 0,
+          "status": "+6 Laps"
+        },
+        {
+          "driverId": "pieterse",
+          "name": "Ernie Pieterse",
+          "familyName": "Pieterse",
+          "shortName": "Pieterse",
+          "position": 10,
+          "positionText": "10",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "+11 Laps"
+        },
+        {
+          "driverId": "beaufort",
+          "name": "Carel Godin de Beaufort",
+          "familyName": "de Beaufort",
+          "shortName": "de Beaufort",
+          "position": 11,
+          "positionText": "11",
+          "constructorId": "porsche",
+          "constructorName": "Porsche",
+          "points": 0,
+          "status": "Fuel system"
+        },
+        {
+          "driverId": "clark",
+          "name": "Jim Clark",
+          "familyName": "Clark",
+          "shortName": "Clark",
+          "position": 12,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Oil leak"
+        },
+        {
+          "driverId": "serrurier",
+          "name": "Doug Serrurier",
+          "familyName": "Serrurier",
+          "shortName": "Serrurier",
+          "position": 13,
+          "positionText": "R",
+          "constructorId": "lds",
+          "constructorName": "LDS",
+          "points": 0,
+          "status": "Radiator"
+        },
+        {
+          "driverId": "salvadori",
+          "name": "Roy Salvadori",
+          "familyName": "Salvadori",
+          "shortName": "Salvadori",
+          "position": 14,
+          "positionText": "R",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 0,
+          "status": "Fuel leak"
+        },
+        {
+          "driverId": "harris",
+          "name": "Mike Harris",
+          "familyName": "Harris",
+          "shortName": "Harris",
+          "position": 15,
+          "positionText": "R",
+          "constructorId": "cooper-alfa_romeo",
+          "constructorName": "Cooper-Alfa Romeo",
+          "points": 0,
+          "status": "Wheel bearing"
+        },
+        {
+          "driverId": "surtees",
+          "name": "John Surtees",
+          "familyName": "Surtees",
+          "shortName": "Surtees",
+          "position": 16,
+          "positionText": "R",
+          "constructorId": "lola",
+          "constructorName": "Lola",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "trevor_taylor",
+          "name": "Trevor Taylor",
+          "familyName": "Taylor",
+          "shortName": "Taylor",
+          "position": 17,
+          "positionText": "R",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "hocking",
+          "name": "Gary Hocking",
+          "familyName": "Hocking",
+          "shortName": "Hocking",
+          "position": 18,
+          "positionText": "W",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "vyver",
+          "name": "Syd van der Vyver",
+          "familyName": "van der Vyver",
+          "shortName": "van der Vyver",
+          "position": 19,
+          "positionText": "W",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "settember",
+          "name": "Tony Settember",
+          "familyName": "Settember",
+          "shortName": "Settember",
+          "position": 20,
+          "positionText": "W",
+          "constructorId": "emeryson",
+          "constructorName": "Emeryson",
+          "points": 0,
+          "status": "Withdrew"
+        },
+        {
+          "driverId": "tingle",
+          "name": "Sam Tingle",
+          "familyName": "Tingle",
+          "shortName": "Tingle",
+          "position": 21,
+          "positionText": "W",
+          "constructorId": "lotus-climax",
+          "constructorName": "Lotus-Climax",
+          "points": 0,
+          "status": "Withdrew"
+        }
+      ],
+      "sprintResults": null
+    }
+  ],
+  "drivers": [
+    {
+      "driverId": "hill",
+      "name": "Graham Hill",
+      "familyName": "Hill",
+      "shortName": "Hill",
+      "position": 1,
+      "points": 42,
+      "wins": 4,
+      "constructorIds": [
+        "brm"
+      ]
+    },
+    {
+      "driverId": "clark",
+      "name": "Jim Clark",
+      "familyName": "Clark",
+      "shortName": "Clark",
+      "position": 2,
+      "points": 30,
+      "wins": 3,
+      "constructorIds": [
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "mclaren",
+      "name": "Bruce McLaren",
+      "familyName": "McLaren",
+      "shortName": "McLaren",
+      "position": 3,
+      "points": 27,
+      "wins": 1,
+      "constructorIds": [
+        "cooper-climax"
+      ]
+    },
+    {
+      "driverId": "surtees",
+      "name": "John Surtees",
+      "familyName": "Surtees",
+      "shortName": "Surtees",
+      "position": 4,
+      "points": 19,
+      "wins": 0,
+      "constructorIds": [
+        "lola"
+      ]
+    },
+    {
+      "driverId": "gurney",
+      "name": "Dan Gurney",
+      "familyName": "Gurney",
+      "shortName": "Gurney",
+      "position": 5,
+      "points": 15,
+      "wins": 1,
+      "constructorIds": [
+        "porsche",
+        "lotus-brm"
+      ]
+    },
+    {
+      "driverId": "phil_hill",
+      "name": "Phil Hill",
+      "familyName": "Hill",
+      "shortName": "Hill",
+      "position": 6,
+      "points": 14,
+      "wins": 0,
+      "constructorIds": [
+        "ferrari"
+      ]
+    },
+    {
+      "driverId": "maggs",
+      "name": "Tony Maggs",
+      "familyName": "Maggs",
+      "shortName": "Maggs",
+      "position": 7,
+      "points": 13,
+      "wins": 0,
+      "constructorIds": [
+        "cooper-climax"
+      ]
+    },
+    {
+      "driverId": "ginther",
+      "name": "Richie Ginther",
+      "familyName": "Ginther",
+      "shortName": "Ginther",
+      "position": 8,
+      "points": 10,
+      "wins": 0,
+      "constructorIds": [
+        "brm"
+      ]
+    },
+    {
+      "driverId": "jack_brabham",
+      "name": "Jack Brabham",
+      "familyName": "Brabham",
+      "shortName": "Brabham",
+      "position": 9,
+      "points": 9,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax",
+        "brabham"
+      ]
+    },
+    {
+      "driverId": "trevor_taylor",
+      "name": "Trevor Taylor",
+      "familyName": "Taylor",
+      "shortName": "Taylor",
+      "position": 10,
+      "points": 6,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "baghetti",
+      "name": "Giancarlo Baghetti",
+      "familyName": "Baghetti",
+      "shortName": "Baghetti",
+      "position": 11,
+      "points": 5,
+      "wins": 0,
+      "constructorIds": [
+        "ferrari"
+      ]
+    },
+    {
+      "driverId": "bandini",
+      "name": "Lorenzo Bandini",
+      "familyName": "Bandini",
+      "shortName": "Bandini",
+      "position": 12,
+      "points": 4,
+      "wins": 0,
+      "constructorIds": [
+        "ferrari"
+      ]
+    },
+    {
+      "driverId": "ricardo_rodriguez",
+      "name": "Ricardo Rodríguez",
+      "familyName": "Rodríguez",
+      "shortName": "Rodríguez",
+      "position": 13,
+      "points": 4,
+      "wins": 0,
+      "constructorIds": [
+        "ferrari"
+      ]
+    },
+    {
+      "driverId": "mairesse",
+      "name": "Willy Mairesse",
+      "familyName": "Mairesse",
+      "shortName": "Mairesse",
+      "position": 14,
+      "points": 3,
+      "wins": 0,
+      "constructorIds": [
+        "ferrari"
+      ]
+    },
+    {
+      "driverId": "bonnier",
+      "name": "Jo Bonnier",
+      "familyName": "Bonnier",
+      "shortName": "Bonnier",
+      "position": 15,
+      "points": 3,
+      "wins": 0,
+      "constructorIds": [
+        "porsche"
+      ]
+    },
+    {
+      "driverId": "ireland",
+      "name": "Innes Ireland",
+      "familyName": "Ireland",
+      "shortName": "Ireland",
+      "position": 16,
+      "points": 2,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "beaufort",
+      "name": "Carel Godin de Beaufort",
+      "familyName": "de Beaufort",
+      "shortName": "de Beaufort",
+      "position": 17,
+      "points": 2,
+      "wins": 0,
+      "constructorIds": [
+        "porsche"
+      ]
+    },
+    {
+      "driverId": "gregory",
+      "name": "Masten Gregory",
+      "familyName": "Gregory",
+      "shortName": "Gregory",
+      "position": 18,
+      "points": 1,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax",
+        "lotus-brm"
+      ]
+    },
+    {
+      "driverId": "lederle",
+      "name": "Neville Lederle",
+      "familyName": "Lederle",
+      "shortName": "Lederle",
+      "position": 19,
+      "points": 1,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "trintignant",
+      "name": "Maurice Trintignant",
+      "familyName": "Trintignant",
+      "shortName": "Trintignant",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "lewis",
+      "name": "Jackie Lewis",
+      "familyName": "Lewis",
+      "shortName": "Lewis",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "cooper-climax",
+        "brm",
+        "cooper"
+      ]
+    },
+    {
+      "driverId": "love",
+      "name": "John Love",
+      "familyName": "Love",
+      "shortName": "Love",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "cooper-climax"
+      ]
+    },
+    {
+      "driverId": "vaccarella",
+      "name": "Nino Vaccarella",
+      "familyName": "Vaccarella",
+      "shortName": "Vaccarella",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax",
+        "porsche"
+      ]
+    },
+    {
+      "driverId": "bianchi",
+      "name": "Lucien Bianchi",
+      "familyName": "Bianchi",
+      "shortName": "Bianchi",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax",
+        "enb"
+      ]
+    },
+    {
+      "driverId": "penske",
+      "name": "Roger Penske",
+      "familyName": "Penske",
+      "shortName": "Penske",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "johnstone",
+      "name": "Bruce Johnstone",
+      "familyName": "Johnstone",
+      "shortName": "Johnstone",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "brm"
+      ]
+    },
+    {
+      "driverId": "siffert",
+      "name": "Jo Siffert",
+      "familyName": "Siffert",
+      "shortName": "Siffert",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax",
+        "lotus-brm"
+      ]
+    },
+    {
+      "driverId": "schroeder",
+      "name": "Rob Schroeder",
+      "familyName": "Schroeder",
+      "shortName": "Schroeder",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "pieterse",
+      "name": "Ernie Pieterse",
+      "familyName": "Pieterse",
+      "shortName": "Pieterse",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "burgess",
+      "name": "Ian Burgess",
+      "familyName": "Burgess",
+      "shortName": "Burgess",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "cooper-climax"
+      ]
+    },
+    {
+      "driverId": "settember",
+      "name": "Tony Settember",
+      "familyName": "Settember",
+      "shortName": "Settember",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "emeryson"
+      ]
+    },
+    {
+      "driverId": "campbell-jones",
+      "name": "John Campbell-Jones",
+      "familyName": "Campbell-Jones",
+      "shortName": "Campbell-Jones",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax",
+        "emeryson"
+      ]
+    },
+    {
+      "driverId": "sharp",
+      "name": "Hap Sharp",
+      "familyName": "Sharp",
+      "shortName": "Sharp",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "cooper-climax"
+      ]
+    },
+    {
+      "driverId": "walter",
+      "name": "Heini Walter",
+      "familyName": "Walter",
+      "shortName": "Walter",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "porsche"
+      ]
+    },
+    {
+      "driverId": "chamberlain",
+      "name": "Jay Chamberlain",
+      "familyName": "Chamberlain",
+      "shortName": "Chamberlain",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "salvadori",
+      "name": "Roy Salvadori",
+      "familyName": "Salvadori",
+      "shortName": "Salvadori",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lola"
+      ]
+    },
+    {
+      "driverId": "serrurier",
+      "name": "Doug Serrurier",
+      "familyName": "Serrurier",
+      "shortName": "Serrurier",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lds"
+      ]
+    },
+    {
+      "driverId": "seidel",
+      "name": "Wolfgang Seidel",
+      "familyName": "Seidel",
+      "shortName": "Seidel",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "emeryson",
+        "lotus-brm"
+      ]
+    },
+    {
+      "driverId": "harris",
+      "name": "Mike Harris",
+      "familyName": "Harris",
+      "shortName": "Harris",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "cooper-alfa_romeo"
+      ]
+    },
+    {
+      "driverId": "mayer",
+      "name": "Timmy Mayer",
+      "familyName": "Mayer",
+      "shortName": "Mayer",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "cooper-climax"
+      ]
+    },
+    {
+      "driverId": "arundell",
+      "name": "Peter Arundell",
+      "familyName": "Arundell",
+      "shortName": "Arundell",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "team_lotus"
+      ]
+    },
+    {
+      "driverId": "hocking",
+      "name": "Gary Hocking",
+      "familyName": "Hocking",
+      "shortName": "Hocking",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "marsh",
+      "name": "Tony Marsh",
+      "familyName": "Marsh",
+      "shortName": "Marsh",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "brm"
+      ]
+    },
+    {
+      "driverId": "vyver",
+      "name": "Syd van der Vyver",
+      "familyName": "van der Vyver",
+      "shortName": "van der Vyver",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "greene",
+      "name": "Keith Greene",
+      "familyName": "Greene",
+      "shortName": "Greene",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax",
+        "gilby"
+      ]
+    },
+    {
+      "driverId": "pon",
+      "name": "Ben Pon",
+      "familyName": "Pon",
+      "shortName": "Pon",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "porsche"
+      ]
+    },
+    {
+      "driverId": "davis",
+      "name": "Colin Davis",
+      "familyName": "Davis",
+      "shortName": "Davis",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "porsche"
+      ]
+    },
+    {
+      "driverId": "hall",
+      "name": "Jim Hall",
+      "familyName": "Hall",
+      "shortName": "Hall",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "slotemaker",
+      "name": "Rob Slotemaker",
+      "familyName": "Slotemaker",
+      "shortName": "Slotemaker",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "porsche"
+      ]
+    },
+    {
+      "driverId": "abate",
+      "name": "Carlo Abate",
+      "familyName": "Abate",
+      "shortName": "Abate",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "shelly",
+      "name": "Tony Shelly",
+      "familyName": "Shelly",
+      "shortName": "Shelly",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax",
+        "lotus-brm"
+      ]
+    },
+    {
+      "driverId": "tingle",
+      "name": "Sam Tingle",
+      "familyName": "Tingle",
+      "shortName": "Tingle",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "bussinello",
+      "name": "Roberto Bussinello",
+      "familyName": "Bussinello",
+      "shortName": "Bussinello",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "de_tomaso-alfa_romeo"
+      ]
+    },
+    {
+      "driverId": "ashmore",
+      "name": "Gerry Ashmore",
+      "familyName": "Ashmore",
+      "shortName": "Ashmore",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "brm",
+        "lotus-climax"
+      ]
+    },
+    {
+      "driverId": "schiller",
+      "name": "Heinz Schiller",
+      "familyName": "Schiller",
+      "shortName": "Schiller",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "porsche",
+        "lotus-brm"
+      ]
+    },
+    {
+      "driverId": "collomb",
+      "name": "Bernard Collomb",
+      "familyName": "Collomb",
+      "shortName": "Collomb",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "cooper-climax"
+      ]
+    },
+    {
+      "driverId": "kuhnke",
+      "name": "Kurt Kuhnke",
+      "familyName": "Kuhnke",
+      "shortName": "Kuhnke",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lotus-borgward"
+      ]
+    }
+  ],
+  "constructors": [
+    {
+      "constructorId": "brm",
+      "name": "BRM",
+      "position": 1,
+      "points": 42,
+      "wins": 4
+    },
+    {
+      "constructorId": "lotus-climax",
+      "name": "Lotus-Climax",
+      "position": 2,
+      "points": 36,
+      "wins": 3
+    },
+    {
+      "constructorId": "cooper-climax",
+      "name": "Cooper-Climax",
+      "position": 3,
+      "points": 29,
+      "wins": 1
+    },
+    {
+      "constructorId": "lola",
+      "name": "Lola",
+      "position": 4,
+      "points": 19,
+      "wins": 0
+    },
+    {
+      "constructorId": "porsche",
+      "name": "Porsche",
+      "position": 5,
+      "points": 18,
+      "wins": 1
+    },
+    {
+      "constructorId": "ferrari",
+      "name": "Ferrari",
+      "position": 6,
+      "points": 18,
+      "wins": 0
+    },
+    {
+      "constructorId": "brabham",
+      "name": "Brabham",
+      "position": 7,
+      "points": 6,
+      "wins": 0
+    },
+    {
+      "constructorId": "lotus-brm",
+      "name": "Lotus-BRM",
+      "position": 8,
+      "points": 1,
+      "wins": 0
+    },
+    {
+      "constructorId": "emeryson",
+      "name": "Emeryson",
+      "position": 0,
+      "points": 0,
+      "wins": 0
+    },
+    {
+      "constructorId": "enb",
+      "name": "ENB",
+      "position": 0,
+      "points": 0,
+      "wins": 0
+    },
+    {
+      "constructorId": "cooper",
+      "name": "Cooper",
+      "position": 0,
+      "points": 0,
+      "wins": 0
+    },
+    {
+      "constructorId": "lds",
+      "name": "LDS",
+      "position": 0,
+      "points": 0,
+      "wins": 0
+    },
+    {
+      "constructorId": "cooper-alfa_romeo",
+      "name": "Cooper-Alfa Romeo",
+      "position": 0,
+      "points": 0,
+      "wins": 0
+    },
+    {
+      "constructorId": "team_lotus",
+      "name": "Team Lotus",
+      "position": 0,
+      "points": 0,
+      "wins": 0
+    },
+    {
+      "constructorId": "gilby",
+      "name": "Gilby",
+      "position": 0,
+      "points": 0,
+      "wins": 0
+    },
+    {
+      "constructorId": "de_tomaso-alfa_romeo",
+      "name": "De Tomaso-Alfa Romeo",
+      "position": 0,
+      "points": 0,
+      "wins": 0
+    },
+    {
+      "constructorId": "lotus-borgward",
+      "name": "Lotus-Borgward",
+      "position": 0,
+      "points": 0,
+      "wins": 0
+    }
+  ]
+}

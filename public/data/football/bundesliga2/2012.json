@@ -1,0 +1,5867 @@
+{
+  "schemaVersion": 1,
+  "id": "bundesliga2",
+  "shortcut": "bl2",
+  "year": 2012,
+  "seasonLabel": "2012/13",
+  "complete": true,
+  "calendarCheckedAt": "2026-11-15T12:44:27.118Z",
+  "updatedAt": "2026-11-15T12:44:27.118Z",
+  "matches": [
+    {
+      "id": "19377",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-03T16:00:00Z",
+      "updated": "2012-08-23T14:33:27.467",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19378",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-03T16:00:00Z",
+      "updated": "2012-08-13T13:38:02.757",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19371",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-03T18:30:00Z",
+      "updated": "2012-08-23T14:44:49.78",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19375",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-04T11:00:00Z",
+      "updated": "2012-08-05T13:55:21.437",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19376",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-04T13:30:00Z",
+      "updated": "2012-08-23T14:38:22.077",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19373",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-05T11:30:00Z",
+      "updated": "2012-08-05T15:32:06.79",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "19379",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-05T11:30:00Z",
+      "updated": "2012-08-05T15:32:03.657",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19372",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-05T13:30:00Z",
+      "updated": "2012-08-05T17:06:05.143",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19374",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-06T18:15:00Z",
+      "updated": "2012-08-23T14:47:17.45",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "19380",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-08-10T16:00:00Z",
+      "updated": "2012-08-23T14:48:50.03",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19387",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-08-10T16:00:00Z",
+      "updated": "2012-08-10T19:51:28.5",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19386",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-08-10T18:30:00Z",
+      "updated": "2012-08-13T13:38:20.543",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19382",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-08-11T11:00:00Z",
+      "updated": "2012-08-23T17:34:42.78",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "19381",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-08-11T13:30:00Z",
+      "updated": "2012-08-23T14:51:05.547",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19383",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-08-12T11:30:00Z",
+      "updated": "2012-08-23T14:52:10.937",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19388",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-08-12T11:30:00Z",
+      "updated": "2012-12-10T13:56:31.213",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19385",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-08-12T13:30:00Z",
+      "updated": "2012-11-05T22:16:08.537",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19384",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-08-13T18:15:00Z",
+      "updated": "2012-08-23T14:55:54.013",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19389",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-08-24T16:00:00Z",
+      "updated": "2012-08-27T13:30:15.473",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19391",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-08-24T16:00:00Z",
+      "updated": "2012-08-27T13:29:49.88",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19397",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-08-24T16:00:00Z",
+      "updated": "2012-08-27T13:30:34.223",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19392",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-08-25T11:00:00Z",
+      "updated": "2012-09-21T10:29:40.523",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19395",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-08-25T11:00:00Z",
+      "updated": "2012-08-27T13:30:56.333",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19390",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-08-26T11:30:00Z",
+      "updated": "2012-08-27T13:34:51.24",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19393",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-08-26T11:30:00Z",
+      "updated": "2012-08-27T13:32:11.24",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19394",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-08-26T11:30:00Z",
+      "updated": "2012-08-27T13:32:56.99",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19396",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-08-27T18:15:00Z",
+      "updated": "2012-08-28T22:21:02.217",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19401",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-08-31T16:00:00Z",
+      "updated": "2012-09-01T17:35:09.433",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19403",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-08-31T16:00:00Z",
+      "updated": "2012-09-21T10:30:24.583",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19398",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-08-31T16:15:00Z",
+      "updated": "2013-03-10T00:26:20.95",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19399",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-01T11:00:00Z",
+      "updated": "2012-09-03T20:12:30.977",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19405",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-01T11:00:00Z",
+      "updated": "2012-09-03T20:13:09.483",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "19400",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-02T11:30:00Z",
+      "updated": "2012-09-03T20:14:35.007",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19404",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-02T11:30:00Z",
+      "updated": "2012-09-03T20:15:07.867",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19406",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-02T11:30:00Z",
+      "updated": "2012-09-03T20:13:44.767",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "20530",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-03T18:15:00Z",
+      "updated": "2012-09-03T22:15:31.95",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19411",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-14T16:00:00Z",
+      "updated": "2012-09-14T18:20:33.497",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19412",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-14T16:00:00Z",
+      "updated": "2012-09-14T20:07:11.693",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19413",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-14T16:00:00Z",
+      "updated": "2012-09-14T20:11:22.793",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19410",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-15T11:00:00Z",
+      "updated": "2012-09-15T14:51:52.91",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19415",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-15T11:00:00Z",
+      "updated": "2012-09-15T14:50:18.047",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19407",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-16T11:30:00Z",
+      "updated": "2012-09-16T15:19:23.29",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19409",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-16T11:30:00Z",
+      "updated": "2012-09-16T15:19:33.073",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19414",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-16T11:30:00Z",
+      "updated": "2012-09-16T14:55:47.9",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19408",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-17T18:15:00Z",
+      "updated": "2013-03-10T23:29:47.367",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19422",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-21T16:00:00Z",
+      "updated": "2012-09-21T20:39:54.49",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "20531",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-21T16:00:00Z",
+      "updated": "2012-09-21T20:41:25.737",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "20537",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-21T16:00:00Z",
+      "updated": "2012-09-21T20:43:30.65",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19416",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-22T11:00:00Z",
+      "updated": "2012-09-22T14:58:20.927",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19417",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-22T11:00:00Z",
+      "updated": "2012-09-27T10:32:04.957",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19424",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-22T11:00:00Z",
+      "updated": "2012-09-22T15:27:34.063",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19418",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-23T11:30:00Z",
+      "updated": "2012-09-26T21:02:38.9",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19420",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-23T11:30:00Z",
+      "updated": "2012-09-26T21:05:35.62",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19421",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-23T11:30:00Z",
+      "updated": "2012-09-24T11:16:07.723",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19426",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-09-25T15:30:00Z",
+      "updated": "2013-03-10T00:44:56.037",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19427",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-09-25T15:30:00Z",
+      "updated": "2012-09-26T08:15:34.593",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19431",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-09-25T15:30:00Z",
+      "updated": "2012-09-26T08:05:11.877",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19433",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-09-25T15:30:00Z",
+      "updated": "2012-09-26T08:15:21.83",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19425",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-09-26T15:30:00Z",
+      "updated": "2012-09-26T20:49:51.093",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19428",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-09-26T15:30:00Z",
+      "updated": "2012-09-26T20:49:26.987",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19430",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-09-26T15:30:00Z",
+      "updated": "2012-09-26T20:49:52.38",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19432",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-09-26T15:30:00Z",
+      "updated": "2012-09-26T20:55:31.24",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19429",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-09-27T18:15:00Z",
+      "updated": "2012-09-27T22:05:40.92",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19435",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-09-28T16:00:00Z",
+      "updated": "2012-09-29T21:48:07.773",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19442",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-09-28T16:00:00Z",
+      "updated": "2012-10-01T14:27:18.057",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "20532",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-09-28T16:00:00Z",
+      "updated": "2012-09-29T21:51:19.583",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19436",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-09-29T11:00:00Z",
+      "updated": "2012-12-07T08:57:24.583",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "19437",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-09-29T11:00:00Z",
+      "updated": "2012-09-29T21:57:04.98",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19434",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-09-30T11:30:00Z",
+      "updated": "2012-09-30T19:05:58.487",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19438",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-09-30T11:30:00Z",
+      "updated": "2012-09-30T19:04:16.143",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19440",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-09-30T11:30:00Z",
+      "updated": "2012-09-30T19:07:03.927",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19439",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-10-01T18:15:00Z",
+      "updated": "2012-10-01T22:54:31.47",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19452",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-05T16:00:00Z",
+      "updated": "2012-10-06T22:27:25.807",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19454",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-05T16:00:00Z",
+      "updated": "2012-10-06T22:28:32.447",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19457",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-05T16:00:00Z",
+      "updated": "2012-11-05T22:10:53.62",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19455",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-06T11:00:00Z",
+      "updated": "2012-10-06T22:30:40.3",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19458",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-06T11:00:00Z",
+      "updated": "2012-10-07T18:13:15.113",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19456",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-07T11:30:00Z",
+      "updated": "2012-10-07T18:18:34.45",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19459",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-07T11:30:00Z",
+      "updated": "2012-10-12T00:12:29.863",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19460",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-07T11:30:00Z",
+      "updated": "2012-10-07T18:16:23.373",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19453",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-08T18:15:00Z",
+      "updated": "2012-10-08T22:58:05.153",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19461",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-10-19T16:00:00Z",
+      "updated": "2012-10-20T11:07:19.36",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19466",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-10-19T16:00:00Z",
+      "updated": "2012-10-20T11:08:23.423",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19467",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-10-19T16:00:00Z",
+      "updated": "2012-10-20T11:07:16.343",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19465",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-10-20T11:00:00Z",
+      "updated": "2012-10-21T20:23:30.1",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19469",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-10-20T11:00:00Z",
+      "updated": "2012-10-21T20:24:57.55",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "19462",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-10-21T11:30:00Z",
+      "updated": "2012-10-21T20:22:58.897",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19464",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-10-21T11:30:00Z",
+      "updated": "2012-10-21T20:22:25.197",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19468",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-10-21T11:30:00Z",
+      "updated": "2012-10-21T20:21:59.81",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19463",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-10-22T18:15:00Z",
+      "updated": "2012-10-22T22:09:28.57",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19470",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-10-26T16:00:00Z",
+      "updated": "2012-10-27T16:58:59.01",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "19474",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-10-26T16:00:00Z",
+      "updated": "2012-12-07T08:59:06.91",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19476",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-10-26T16:00:00Z",
+      "updated": "2012-10-27T16:58:37.593",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19478",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-10-27T11:00:00Z",
+      "updated": "2012-10-27T16:57:05.46",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "20533",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-10-27T11:00:00Z",
+      "updated": "2012-10-27T16:57:30.483",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "20534",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-10-27T11:00:00Z",
+      "updated": "2012-10-27T16:58:24.783",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 6,
+        "away": 1
+      }
+    },
+    {
+      "id": "19471",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-10-28T12:30:00Z",
+      "updated": "2012-10-28T18:27:47.15",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "19472",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-10-28T12:30:00Z",
+      "updated": "2012-10-28T18:28:07.873",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19475",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-10-28T12:30:00Z",
+      "updated": "2012-10-28T18:26:44.913",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19479",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-02T17:00:00Z",
+      "updated": "2012-11-02T19:55:21.707",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19482",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-02T17:00:00Z",
+      "updated": "2012-11-03T13:07:35.273",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19487",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-02T17:00:00Z",
+      "updated": "2012-11-04T15:22:01.247",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19481",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-03T12:00:00Z",
+      "updated": "2012-11-03T15:10:28.873",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "20536",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-03T12:00:00Z",
+      "updated": "2012-11-03T15:10:31.097",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19483",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-04T12:30:00Z",
+      "updated": "2012-11-05T00:06:02.467",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19485",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-04T12:30:00Z",
+      "updated": "2012-11-05T00:06:46.37",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19486",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-04T12:30:00Z",
+      "updated": "2012-11-05T00:05:38.4",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "20535",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-05T19:15:00Z",
+      "updated": "2012-11-06T10:32:47.88",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "19488",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-09T17:00:00Z",
+      "updated": "2012-11-10T18:05:04.193",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19495",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-09T17:00:00Z",
+      "updated": "2012-11-10T18:05:15.813",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19496",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-09T17:00:00Z",
+      "updated": "2012-11-10T18:05:25.703",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 6
+      }
+    },
+    {
+      "id": "19490",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-10T12:00:00Z",
+      "updated": "2012-11-10T18:05:38.05",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19491",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-10T12:00:00Z",
+      "updated": "2012-11-10T18:05:46.24",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19492",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-11T12:30:00Z",
+      "updated": "2012-11-11T15:17:45.237",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "19493",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-11T12:30:00Z",
+      "updated": "2012-11-11T14:10:36.83",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19494",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-11T12:30:00Z",
+      "updated": "2012-11-11T15:21:25.223",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19489",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-12T19:15:00Z",
+      "updated": "2012-11-14T14:37:50.793",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19498",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-16T17:00:00Z",
+      "updated": "2012-11-18T22:27:08.087",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19501",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-16T17:00:00Z",
+      "updated": "2012-11-17T19:35:17",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19499",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-16T19:30:00Z",
+      "updated": "2012-11-17T19:35:49.843",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19500",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-17T12:00:00Z",
+      "updated": "2012-11-17T19:37:03.797",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19504",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-17T12:00:00Z",
+      "updated": "2012-11-17T19:37:18.517",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19502",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-18T12:30:00Z",
+      "updated": "2012-11-18T22:29:46.323",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19503",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-18T12:30:00Z",
+      "updated": "2012-11-18T22:33:40.603",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 5,
+        "away": 2
+      }
+    },
+    {
+      "id": "19505",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-18T12:30:00Z",
+      "updated": "2012-11-18T22:28:35.887",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "19497",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-19T19:15:00Z",
+      "updated": "2012-11-21T19:30:18.98",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19506",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-11-23T17:00:00Z",
+      "updated": "2012-11-24T20:55:56.18",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19508",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-11-23T17:00:00Z",
+      "updated": "2012-11-24T20:57:24.963",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19514",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-11-23T17:00:00Z",
+      "updated": "2012-11-24T20:58:45.743",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19509",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-11-24T12:00:00Z",
+      "updated": "2012-11-24T21:01:38.417",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19511",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-11-24T12:00:00Z",
+      "updated": "2012-11-24T20:59:37.743",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19512",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-11-24T12:00:00Z",
+      "updated": "2012-11-24T21:00:39.837",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19507",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-11-25T12:30:00Z",
+      "updated": "2012-11-25T21:20:29.313",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "19510",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-11-25T12:30:00Z",
+      "updated": "2012-11-25T21:20:43.123",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19513",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-11-25T12:30:00Z",
+      "updated": "2012-11-25T21:19:57.577",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "19533",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-11-27T16:30:00Z",
+      "updated": "2012-12-10T13:23:45.103",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19534",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-11-27T16:30:00Z",
+      "updated": "2012-12-10T13:24:01.043",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19536",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-11-27T16:30:00Z",
+      "updated": "2012-12-10T13:24:14.353",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19538",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-11-27T16:30:00Z",
+      "updated": "2012-12-10T13:30:12.777",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19535",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-11-28T16:30:00Z",
+      "updated": "2012-12-10T13:31:20.933",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19537",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-11-28T16:30:00Z",
+      "updated": "2012-12-10T13:31:05.387",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19539",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-11-28T16:30:00Z",
+      "updated": "2012-11-29T00:47:42.48",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19540",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-11-28T16:30:00Z",
+      "updated": "2012-12-10T13:30:50.213",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19532",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-11-29T19:15:00Z",
+      "updated": "2012-12-10T13:31:41.683",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19548",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-11-30T17:00:00Z",
+      "updated": "2012-12-10T13:20:30.137",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19549",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-11-30T17:00:00Z",
+      "updated": "2012-12-10T13:20:47.137",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19542",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-01T12:00:00Z",
+      "updated": "2012-12-10T13:21:23.667",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19544",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-01T12:00:00Z",
+      "updated": "2012-12-10T13:21:45.59",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19547",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-01T12:00:00Z",
+      "updated": "2012-12-10T13:21:03.76",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19541",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-02T12:30:00Z",
+      "updated": "2012-12-10T13:22:36.34",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19543",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-02T12:30:00Z",
+      "updated": "2012-12-10T13:22:24.34",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19545",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-02T12:30:00Z",
+      "updated": "2012-12-10T13:22:05.793",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19546",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-03T19:15:00Z",
+      "updated": "2012-12-10T13:22:55.353",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19553",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2012-12-07T17:00:00Z",
+      "updated": "2012-12-10T13:15:55.307",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19555",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2012-12-07T17:00:00Z",
+      "updated": "2012-12-10T13:17:04.463",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19557",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2012-12-07T17:00:00Z",
+      "updated": "2012-12-10T13:17:26.9",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19552",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2012-12-08T12:00:00Z",
+      "updated": "2012-12-10T22:19:19.76",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19554",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2012-12-08T12:00:00Z",
+      "updated": "2012-12-10T13:17:45.667",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "19551",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2012-12-09T12:30:00Z",
+      "updated": "2012-12-10T13:18:34.527",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "19556",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2012-12-09T12:30:00Z",
+      "updated": "2012-12-10T13:19:17.307",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19558",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2012-12-09T12:30:00Z",
+      "updated": "2012-12-10T13:18:59.213",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19550",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2012-12-10T19:15:00Z",
+      "updated": "2013-03-10T23:24:32.347",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19560",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2012-12-14T17:00:00Z",
+      "updated": "2012-12-14T19:51:54.923",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19566",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2012-12-14T17:00:00Z",
+      "updated": "2012-12-14T19:51:56.237",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19567",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2012-12-14T17:00:00Z",
+      "updated": "2012-12-18T17:23:06.817",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19559",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2012-12-15T12:00:00Z",
+      "updated": "2012-12-15T14:51:48.207",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19565",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2012-12-15T12:00:00Z",
+      "updated": "2012-12-15T14:51:50.987",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19561",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2012-12-16T12:30:00Z",
+      "updated": "2013-02-26T09:17:44.883",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19563",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2012-12-16T12:30:00Z",
+      "updated": "2013-02-26T09:18:53.173",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "19564",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2012-12-16T12:30:00Z",
+      "updated": "2013-02-26T09:19:31.253",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "19562",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2012-12-17T19:15:00Z",
+      "updated": "2012-12-18T17:21:41.223",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    {
+      "id": "19572",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-01T17:00:00Z",
+      "updated": "2013-02-04T19:27:38.227",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19573",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-01T17:00:00Z",
+      "updated": "2013-02-01T19:59:38.383",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19575",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-01T17:00:00Z",
+      "updated": "2013-02-04T19:28:24.96",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19568",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-02T12:00:00Z",
+      "updated": "2013-03-10T00:50:52.587",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19570",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-02T12:00:00Z",
+      "updated": "2013-02-04T19:34:10.963",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19569",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-03T12:30:00Z",
+      "updated": "2013-02-03T20:11:41",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19574",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-03T12:30:00Z",
+      "updated": "2013-02-03T20:19:58.437",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19747",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-03T12:30:00Z",
+      "updated": "2013-02-03T20:15:13.153",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 5
+      }
+    },
+    {
+      "id": "19571",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-04T19:15:00Z",
+      "updated": "2013-02-04T22:42:18.433",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19578",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-08T17:00:00Z",
+      "updated": "2013-02-09T20:48:00.207",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19583",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-08T17:00:00Z",
+      "updated": "2013-02-09T20:48:30.973",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19577",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-08T19:30:00Z",
+      "updated": "2013-02-09T20:49:35.2",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19579",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-09T12:00:00Z",
+      "updated": "2013-02-10T13:23:45.36",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19582",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-09T12:00:00Z",
+      "updated": "2013-02-10T13:23:51.703",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19580",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-10T12:30:00Z",
+      "updated": "2013-02-10T15:25:24.377",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19581",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-10T12:30:00Z",
+      "updated": "2013-02-10T15:24:59.773",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19584",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-10T12:30:00Z",
+      "updated": "2013-02-10T15:25:57.437",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "19576",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-11T19:15:00Z",
+      "updated": "2013-02-11T23:31:43.35",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19586",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-15T17:00:00Z",
+      "updated": "2013-02-17T19:13:30.48",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19587",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-15T17:00:00Z",
+      "updated": "2013-02-17T19:15:40.917",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19593",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-15T17:00:00Z",
+      "updated": "2013-02-17T19:16:33.407",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19588",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-16T12:00:00Z",
+      "updated": "2013-02-17T19:19:33.81",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19592",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-16T12:00:00Z",
+      "updated": "2013-02-17T19:17:36.547",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19589",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-17T12:30:00Z",
+      "updated": "2013-02-18T11:55:59.307",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19590",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-17T12:30:00Z",
+      "updated": "2013-02-18T12:00:48.86",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19591",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-17T12:30:00Z",
+      "updated": "2013-02-18T12:02:13.073",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19585",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-18T19:15:00Z",
+      "updated": "2013-02-24T11:51:52.733",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19596",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-22T17:00:00Z",
+      "updated": "2013-02-22T19:50:50.2",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19598",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-22T17:00:00Z",
+      "updated": "2013-02-22T19:47:31.597",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19601",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-22T17:00:00Z",
+      "updated": "2013-02-22T20:40:00.707",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19595",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-23T12:00:00Z",
+      "updated": "2013-02-26T23:39:02.21",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19599",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-23T12:00:00Z",
+      "updated": "2013-02-26T09:22:24.067",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19597",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-24T12:30:00Z",
+      "updated": "2013-02-26T07:45:38.28",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19600",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-24T12:30:00Z",
+      "updated": "2013-02-26T07:46:10.28",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19602",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-24T12:30:00Z",
+      "updated": "2013-02-26T07:46:48.547",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19594",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-25T19:15:00Z",
+      "updated": "2013-02-26T07:44:42.957",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19604",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-01T17:00:00Z",
+      "updated": "2013-03-01T19:07:50.657",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19606",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-01T17:00:00Z",
+      "updated": "2013-03-02T16:06:21.14",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19611",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-01T17:00:00Z",
+      "updated": "2013-03-01T19:49:33.22",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19603",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-02T12:00:00Z",
+      "updated": "2013-03-02T13:25:38.68",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19607",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-02T12:00:00Z",
+      "updated": "2013-03-02T13:58:37.333",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19605",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-03T12:30:00Z",
+      "updated": "2013-03-03T19:44:03.117",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19609",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-03T12:30:00Z",
+      "updated": "2013-03-03T19:44:32.543",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19610",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-03T12:30:00Z",
+      "updated": "2013-03-03T19:44:48.523",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19608",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-04T19:15:00Z",
+      "updated": "2013-03-10T19:21:23.767",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19614",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-08T17:00:00Z",
+      "updated": "2013-03-10T19:18:21.77",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "19617",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-08T17:00:00Z",
+      "updated": "2013-03-10T19:19:17.067",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 6,
+        "away": 1
+      }
+    },
+    {
+      "id": "19620",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-08T17:00:00Z",
+      "updated": "2013-03-10T19:19:51.42",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19613",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-09T12:00:00Z",
+      "updated": "2013-03-09T22:54:56.323",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19618",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-09T12:00:00Z",
+      "updated": "2013-03-10T19:20:31.687",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19612",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-10T12:30:00Z",
+      "updated": "2013-03-10T15:02:56.107",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "19616",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-10T12:30:00Z",
+      "updated": "2013-03-10T14:52:05.1",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19619",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-10T12:30:00Z",
+      "updated": "2013-03-10T13:59:22.197",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19615",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-11T19:15:00Z",
+      "updated": "2013-03-11T21:59:14.41",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19622",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-15T17:00:00Z",
+      "updated": "2013-03-16T21:47:14.917",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19624",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-15T17:00:00Z",
+      "updated": "2013-03-16T21:43:05.967",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "19626",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-15T17:00:00Z",
+      "updated": "2013-03-16T21:47:28.18",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19623",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-16T12:00:00Z",
+      "updated": "2013-03-16T21:45:49.75",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19627",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-16T12:00:00Z",
+      "updated": "2013-03-16T21:43:59.527",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19621",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-17T12:30:00Z",
+      "updated": "2013-03-17T17:35:23.59",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19628",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-17T12:30:00Z",
+      "updated": "2013-03-19T14:22:28.463",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19629",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-17T12:30:00Z",
+      "updated": "2013-03-17T17:36:33.753",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19625",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-18T19:15:00Z",
+      "updated": "2013-03-18T22:35:49.447",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19636",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-28T17:00:00Z",
+      "updated": "2013-03-28T19:37:47.873",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19637",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-28T17:00:00Z",
+      "updated": "2013-03-28T18:47:09.123",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19633",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-28T19:30:00Z",
+      "updated": "2013-03-29T00:02:11.447",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19630",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-30T12:00:00Z",
+      "updated": "2013-03-30T15:26:11.753",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19634",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-30T12:00:00Z",
+      "updated": "2013-03-30T15:29:11.497",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19631",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-31T11:30:00Z",
+      "updated": "2013-03-31T15:24:26.81",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19635",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-31T11:30:00Z",
+      "updated": "2013-04-01T09:37:46.857",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19638",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-31T11:30:00Z",
+      "updated": "2013-04-01T09:35:10.07",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19632",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-04-01T18:15:00Z",
+      "updated": "2013-04-01T22:16:47.283",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19640",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-05T16:00:00Z",
+      "updated": "2013-04-05T20:00:27.863",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19645",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-05T16:00:00Z",
+      "updated": "2013-04-05T20:03:01.327",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "19646",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-05T16:00:00Z",
+      "updated": "2013-04-05T20:05:03.58",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19643",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-06T11:00:00Z",
+      "updated": "2013-04-06T15:36:24.08",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "19647",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-06T11:00:00Z",
+      "updated": "2013-04-06T15:36:57.56",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "19641",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-07T11:30:00Z",
+      "updated": "2013-04-07T20:19:29.92",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19642",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-07T11:30:00Z",
+      "updated": "2013-04-09T04:27:00.74",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19644",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-07T11:30:00Z",
+      "updated": "2013-04-09T21:54:45.717",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19639",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-08T18:15:00Z",
+      "updated": "2013-04-09T21:56:13.393",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19651",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-12T16:00:00Z",
+      "updated": "2013-04-12T18:25:52.21",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19652",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-12T16:00:00Z",
+      "updated": "2013-04-12T23:21:39.117",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19656",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-12T16:00:00Z",
+      "updated": "2013-04-12T23:20:58.337",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19649",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-13T11:00:00Z",
+      "updated": "2013-04-13T15:21:10.153",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19653",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-13T11:00:00Z",
+      "updated": "2013-04-13T15:22:25.6",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19648",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-14T11:30:00Z",
+      "updated": "2013-04-14T21:38:46.157",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19650",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-14T11:30:00Z",
+      "updated": "2013-04-14T21:39:27.95",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19654",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-14T11:30:00Z",
+      "updated": "2013-04-14T21:41:33.033",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19655",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-15T18:15:00Z",
+      "updated": "2013-04-16T06:33:56.82",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19663",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-19T16:00:00Z",
+      "updated": "2013-04-19T21:58:57.99",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19664",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-19T16:00:00Z",
+      "updated": "2013-04-19T22:03:18.763",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19665",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-19T16:00:00Z",
+      "updated": "2013-04-19T22:01:31.89",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19658",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-20T11:00:00Z",
+      "updated": "2013-04-20T15:21:12.393",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19659",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-20T11:00:00Z",
+      "updated": "2013-04-20T15:19:19.32",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19657",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-21T11:30:00Z",
+      "updated": "2013-04-22T06:23:39.97",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19660",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-21T11:30:00Z",
+      "updated": "2013-04-22T06:25:38.823",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19661",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-21T11:30:00Z",
+      "updated": "2013-04-22T06:22:15.303",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19662",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-22T18:15:00Z",
+      "updated": "2013-04-22T22:14:23.927",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19669",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-26T16:00:00Z",
+      "updated": "2016-05-10T16:14:18.577",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19670",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-26T16:00:00Z",
+      "updated": "2016-05-10T16:14:18.577",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19674",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-26T16:00:00Z",
+      "updated": "2016-05-10T16:14:18.593",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19671",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-27T11:00:00Z",
+      "updated": "2016-05-10T16:14:18.593",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19673",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-27T11:00:00Z",
+      "updated": "2016-05-10T16:14:18.623",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19666",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-28T11:30:00Z",
+      "updated": "2016-05-10T16:14:18.64",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19667",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-28T11:30:00Z",
+      "updated": "2016-05-10T16:14:18.64",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "19668",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-28T11:30:00Z",
+      "updated": "2016-05-10T16:14:18.657",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19672",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-29T18:15:00Z",
+      "updated": "2016-05-10T16:15:41.537",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "19675",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-03T16:00:00Z",
+      "updated": "2013-05-03T21:59:13.05",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "19679",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-03T16:00:00Z",
+      "updated": "2013-05-03T21:57:28.883",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19683",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-03T16:00:00Z",
+      "updated": "2013-05-03T22:00:37.33",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19681",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-04T11:00:00Z",
+      "updated": "2013-05-04T15:35:13.133",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19682",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-04T11:00:00Z",
+      "updated": "2013-05-04T15:36:53.76",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19676",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-05T11:30:00Z",
+      "updated": "2013-05-05T17:43:40.577",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "19677",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-05T11:30:00Z",
+      "updated": "2013-05-05T17:41:43.187",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19680",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-05T11:30:00Z",
+      "updated": "2013-05-05T17:43:57.57",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19678",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-06T18:15:00Z",
+      "updated": "2013-05-06T22:28:06.487",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19684",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-12T11:30:00Z",
+      "updated": "2013-05-18T15:29:06.917",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19685",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-12T11:30:00Z",
+      "updated": "2013-05-18T15:38:05.167",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "74",
+      "awayTeam": "Eintracht Braunschweig",
+      "awayShortName": "Braunschweig",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "19686",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-12T11:30:00Z",
+      "updated": "2013-05-18T15:42:42.277",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19687",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-12T11:30:00Z",
+      "updated": "2013-05-18T15:45:11.537",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19688",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-12T11:30:00Z",
+      "updated": "2013-05-18T15:47:45.523",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19689",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-12T11:30:00Z",
+      "updated": "2013-05-18T15:55:40.767",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "119",
+      "awayTeam": "SV Sandhausen",
+      "awayShortName": "Sandhausen",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19690",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-12T11:30:00Z",
+      "updated": "2013-05-18T15:56:29.417",
+      "finished": true,
+      "homeTeamId": "1067",
+      "homeTeam": "FC Erzgebirge Aue",
+      "homeShortName": "",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19691",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-12T11:30:00Z",
+      "updated": "2013-05-18T15:59:00.94",
+      "finished": true,
+      "homeTeamId": "183",
+      "homeTeam": "VfR Aalen",
+      "homeShortName": "Aalen",
+      "awayTeamId": "177",
+      "awayTeam": "Dynamo Dresden",
+      "awayShortName": "Dresden",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19692",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-12T11:30:00Z",
+      "updated": "2013-05-18T16:01:27.02",
+      "finished": true,
+      "homeTeamId": "181",
+      "homeTeam": "Jahn Regensburg",
+      "homeShortName": "Regensburg",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19693",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-19T11:30:00Z",
+      "updated": "2013-05-25T13:35:25.043",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19694",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-19T11:30:00Z",
+      "updated": "2013-05-25T13:36:31.873",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19695",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-19T11:30:00Z",
+      "updated": "2013-05-25T13:37:29.447",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "183",
+      "awayTeam": "VfR Aalen",
+      "awayShortName": "Aalen",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19696",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-19T11:30:00Z",
+      "updated": "2013-05-25T13:38:48.743",
+      "finished": true,
+      "homeTeamId": "74",
+      "homeTeam": "Eintracht Braunschweig",
+      "homeShortName": "Braunschweig",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19697",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-19T11:30:00Z",
+      "updated": "2013-05-25T15:36:21.45",
+      "finished": true,
+      "homeTeamId": "177",
+      "homeTeam": "Dynamo Dresden",
+      "homeShortName": "Dresden",
+      "awayTeamId": "181",
+      "awayTeam": "Jahn Regensburg",
+      "awayShortName": "Regensburg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19698",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-19T11:30:00Z",
+      "updated": "2013-05-25T15:39:26.253",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "19699",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-19T11:30:00Z",
+      "updated": "2013-05-25T15:41:25.647",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19700",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-19T11:30:00Z",
+      "updated": "2013-05-25T15:43:08.397",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "19701",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-19T11:30:00Z",
+      "updated": "2013-05-25T15:44:47.44",
+      "finished": true,
+      "homeTeamId": "119",
+      "homeTeam": "SV Sandhausen",
+      "homeShortName": "Sandhausen",
+      "awayTeamId": "1067",
+      "awayTeam": "FC Erzgebirge Aue",
+      "awayShortName": "",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    }
+  ],
+  "standings": [
+    {
+      "teamId": "54",
+      "name": "Hertha BSC",
+      "shortName": "Hertha",
+      "position": 1,
+      "played": 34,
+      "wins": 22,
+      "draws": 10,
+      "losses": 2,
+      "goalsFor": 65,
+      "goalsAgainst": 28,
+      "goalDifference": 37,
+      "points": 76
+    },
+    {
+      "teamId": "74",
+      "name": "Eintracht Braunschweig",
+      "shortName": "Braunschweig",
+      "position": 2,
+      "played": 34,
+      "wins": 19,
+      "draws": 10,
+      "losses": 5,
+      "goalsFor": 52,
+      "goalsAgainst": 34,
+      "goalDifference": 18,
+      "points": 67
+    },
+    {
+      "teamId": "76",
+      "name": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "position": 3,
+      "played": 34,
+      "wins": 15,
+      "draws": 13,
+      "losses": 6,
+      "goalsFor": 55,
+      "goalsAgainst": 33,
+      "goalDifference": 22,
+      "points": 58
+    },
+    {
+      "teamId": "172",
+      "name": "FSV Frankfurt",
+      "shortName": "FSV Frankfurt",
+      "position": 4,
+      "played": 34,
+      "wins": 16,
+      "draws": 6,
+      "losses": 12,
+      "goalsFor": 55,
+      "goalsAgainst": 45,
+      "goalDifference": 10,
+      "points": 54
+    },
+    {
+      "teamId": "65",
+      "name": "1. FC Köln",
+      "shortName": "Köln",
+      "position": 5,
+      "played": 34,
+      "wins": 14,
+      "draws": 12,
+      "losses": 8,
+      "goalsFor": 43,
+      "goalsAgainst": 33,
+      "goalDifference": 10,
+      "points": 54
+    },
+    {
+      "teamId": "125",
+      "name": "TSV 1860 München",
+      "shortName": "1860 München",
+      "position": 6,
+      "played": 34,
+      "wins": 12,
+      "draws": 13,
+      "losses": 9,
+      "goalsFor": 39,
+      "goalsAgainst": 31,
+      "goalDifference": 8,
+      "points": 49
+    },
+    {
+      "teamId": "80",
+      "name": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "position": 7,
+      "played": 34,
+      "wins": 13,
+      "draws": 10,
+      "losses": 11,
+      "goalsFor": 50,
+      "goalsAgainst": 49,
+      "goalDifference": 1,
+      "points": 49
+    },
+    {
+      "teamId": "93",
+      "name": "Energie Cottbus",
+      "shortName": "Cottbus",
+      "position": 8,
+      "played": 34,
+      "wins": 12,
+      "draws": 12,
+      "losses": 10,
+      "goalsFor": 41,
+      "goalsAgainst": 36,
+      "goalDifference": 5,
+      "points": 48
+    },
+    {
+      "teamId": "183",
+      "name": "VfR Aalen",
+      "shortName": "Aalen",
+      "position": 9,
+      "played": 34,
+      "wins": 12,
+      "draws": 10,
+      "losses": 12,
+      "goalsFor": 40,
+      "goalsAgainst": 39,
+      "goalDifference": 1,
+      "points": 46
+    },
+    {
+      "teamId": "98",
+      "name": "FC St. Pauli",
+      "shortName": "St. Pauli",
+      "position": 10,
+      "played": 34,
+      "wins": 11,
+      "draws": 10,
+      "losses": 13,
+      "goalsFor": 44,
+      "goalsAgainst": 47,
+      "goalDifference": -3,
+      "points": 43
+    },
+    {
+      "teamId": "107",
+      "name": "MSV Duisburg",
+      "shortName": "Duisburg",
+      "position": 11,
+      "played": 34,
+      "wins": 11,
+      "draws": 10,
+      "losses": 13,
+      "goalsFor": 37,
+      "goalsAgainst": 49,
+      "goalDifference": -12,
+      "points": 43
+    },
+    {
+      "teamId": "31",
+      "name": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "position": 12,
+      "played": 34,
+      "wins": 11,
+      "draws": 9,
+      "losses": 14,
+      "goalsFor": 45,
+      "goalsAgainst": 45,
+      "goalDifference": 0,
+      "points": 42
+    },
+    {
+      "teamId": "171",
+      "name": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt",
+      "position": 13,
+      "played": 34,
+      "wins": 10,
+      "draws": 12,
+      "losses": 12,
+      "goalsFor": 36,
+      "goalsAgainst": 43,
+      "goalDifference": -7,
+      "points": 42
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum",
+      "position": 14,
+      "played": 34,
+      "wins": 10,
+      "draws": 8,
+      "losses": 16,
+      "goalsFor": 40,
+      "goalsAgainst": 52,
+      "goalDifference": -12,
+      "points": 38
+    },
+    {
+      "teamId": "1067",
+      "name": "FC Erzgebirge Aue",
+      "shortName": "FC Erzgebirge Aue",
+      "position": 15,
+      "played": 34,
+      "wins": 9,
+      "draws": 10,
+      "losses": 15,
+      "goalsFor": 39,
+      "goalsAgainst": 46,
+      "goalDifference": -7,
+      "points": 37
+    },
+    {
+      "teamId": "177",
+      "name": "Dynamo Dresden",
+      "shortName": "Dresden",
+      "position": 16,
+      "played": 34,
+      "wins": 9,
+      "draws": 10,
+      "losses": 15,
+      "goalsFor": 35,
+      "goalsAgainst": 49,
+      "goalDifference": -14,
+      "points": 37
+    },
+    {
+      "teamId": "119",
+      "name": "SV Sandhausen",
+      "shortName": "Sandhausen",
+      "position": 17,
+      "played": 34,
+      "wins": 6,
+      "draws": 8,
+      "losses": 20,
+      "goalsFor": 38,
+      "goalsAgainst": 66,
+      "goalDifference": -28,
+      "points": 26
+    },
+    {
+      "teamId": "181",
+      "name": "Jahn Regensburg",
+      "shortName": "Regensburg",
+      "position": 18,
+      "played": 34,
+      "wins": 4,
+      "draws": 7,
+      "losses": 23,
+      "goalsFor": 36,
+      "goalsAgainst": 65,
+      "goalDifference": -29,
+      "points": 19
+    }
+  ],
+  "teams": [
+    {
+      "teamId": "76",
+      "name": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern"
+    },
+    {
+      "teamId": "65",
+      "name": "1. FC Köln",
+      "shortName": "Köln"
+    },
+    {
+      "teamId": "80",
+      "name": "1. FC Union Berlin",
+      "shortName": "Union Berlin"
+    },
+    {
+      "teamId": "177",
+      "name": "Dynamo Dresden",
+      "shortName": "Dresden"
+    },
+    {
+      "teamId": "74",
+      "name": "Eintracht Braunschweig",
+      "shortName": "Braunschweig"
+    },
+    {
+      "teamId": "93",
+      "name": "Energie Cottbus",
+      "shortName": "Cottbus"
+    },
+    {
+      "teamId": "1067",
+      "name": "FC Erzgebirge Aue",
+      "shortName": "FC Erzgebirge Aue"
+    },
+    {
+      "teamId": "171",
+      "name": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt"
+    },
+    {
+      "teamId": "98",
+      "name": "FC St. Pauli",
+      "shortName": "St. Pauli"
+    },
+    {
+      "teamId": "172",
+      "name": "FSV Frankfurt",
+      "shortName": "FSV Frankfurt"
+    },
+    {
+      "teamId": "54",
+      "name": "Hertha BSC",
+      "shortName": "Hertha"
+    },
+    {
+      "teamId": "181",
+      "name": "Jahn Regensburg",
+      "shortName": "Regensburg"
+    },
+    {
+      "teamId": "107",
+      "name": "MSV Duisburg",
+      "shortName": "Duisburg"
+    },
+    {
+      "teamId": "31",
+      "name": "SC Paderborn 07",
+      "shortName": "Paderborn"
+    },
+    {
+      "teamId": "119",
+      "name": "SV Sandhausen",
+      "shortName": "Sandhausen"
+    },
+    {
+      "teamId": "125",
+      "name": "TSV 1860 München",
+      "shortName": "1860 München"
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum"
+    },
+    {
+      "teamId": "183",
+      "name": "VfR Aalen",
+      "shortName": "Aalen"
+    }
+  ],
+  "groupChecks": {}
+}

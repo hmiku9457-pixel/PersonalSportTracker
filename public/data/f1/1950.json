@@ -1,0 +1,2993 @@
+{
+  "schemaVersion": 1,
+  "year": 1950,
+  "complete": true,
+  "calendarCheckedAt": "2026-11-15T12:44:21.787Z",
+  "updatedAt": "2026-11-15T12:44:21.787Z",
+  "races": [
+    {
+      "round": 1,
+      "name": "British Grand Prix",
+      "date": "1950-05-13T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Silverstone Circuit",
+      "locality": "Silverstone",
+      "country": "UK",
+      "results": [
+        {
+          "driverId": "farina",
+          "name": "Nino Farina",
+          "familyName": "Farina",
+          "shortName": "Farina",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 9,
+          "status": "Finished"
+        },
+        {
+          "driverId": "fagioli",
+          "name": "Luigi Fagioli",
+          "familyName": "Fagioli",
+          "shortName": "Fagioli",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 6,
+          "status": "Finished"
+        },
+        {
+          "driverId": "reg_parnell",
+          "name": "Reg Parnell",
+          "familyName": "Parnell",
+          "shortName": "Parnell",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 4,
+          "status": "Finished"
+        },
+        {
+          "driverId": "cabantous",
+          "name": "Yves Cabantous",
+          "familyName": "Cabantous",
+          "shortName": "Cabantous",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 3,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "rosier",
+          "name": "Louis Rosier",
+          "familyName": "Rosier",
+          "shortName": "Rosier",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 2,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "gerard",
+          "name": "Bob Gerard",
+          "familyName": "Gerard",
+          "shortName": "Gerard",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "era",
+          "constructorName": "ERA",
+          "points": 0,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "harrison",
+          "name": "Cuth Harrison",
+          "familyName": "Harrison",
+          "shortName": "Harrison",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "era",
+          "constructorName": "ERA",
+          "points": 0,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "etancelin",
+          "name": "Philippe Étancelin",
+          "familyName": "Étancelin",
+          "shortName": "Étancelin",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "+5 Laps"
+        },
+        {
+          "driverId": "hampshire",
+          "name": "David Hampshire",
+          "familyName": "Hampshire",
+          "shortName": "Hampshire",
+          "position": 9,
+          "positionText": "9",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "+6 Laps"
+        },
+        {
+          "driverId": "fry",
+          "name": "Joe Fry",
+          "familyName": "Fry",
+          "shortName": "Fry",
+          "position": 10,
+          "positionText": "10",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "+6 Laps"
+        },
+        {
+          "driverId": "shawe_taylor",
+          "name": "Brian Shawe Taylor",
+          "familyName": "Shawe Taylor",
+          "shortName": "Shawe Taylor",
+          "position": 10,
+          "positionText": "10",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "+6 Laps"
+        },
+        {
+          "driverId": "claes",
+          "name": "Johnny Claes",
+          "familyName": "Claes",
+          "shortName": "Claes",
+          "position": 11,
+          "positionText": "11",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "+6 Laps"
+        },
+        {
+          "driverId": "fangio",
+          "name": "Juan Fangio",
+          "familyName": "Fangio",
+          "shortName": "Fangio",
+          "position": 12,
+          "positionText": "R",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 0,
+          "status": "Oil leak"
+        },
+        {
+          "driverId": "kelly",
+          "name": "Joe Kelly",
+          "familyName": "Kelly",
+          "shortName": "Kelly",
+          "position": 13,
+          "positionText": "R",
+          "constructorId": "alta",
+          "constructorName": "Alta",
+          "points": 0,
+          "status": "Not classified"
+        },
+        {
+          "driverId": "bira",
+          "name": "Prince Bira",
+          "familyName": "Bira",
+          "shortName": "Bira",
+          "position": 14,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Out of fuel"
+        },
+        {
+          "driverId": "murray",
+          "name": "David Murray",
+          "familyName": "Murray",
+          "shortName": "Murray",
+          "position": 15,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "crossley",
+          "name": "Geoff Crossley",
+          "familyName": "Crossley",
+          "shortName": "Crossley",
+          "position": 16,
+          "positionText": "R",
+          "constructorId": "alta",
+          "constructorName": "Alta",
+          "points": 0,
+          "status": "Transmission"
+        },
+        {
+          "driverId": "graffenried",
+          "name": "Toulo de Graffenried",
+          "familyName": "de Graffenried",
+          "shortName": "de Graffenried",
+          "position": 17,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "chiron",
+          "name": "Louis Chiron",
+          "familyName": "Chiron",
+          "shortName": "Chiron",
+          "position": 18,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Clutch"
+        },
+        {
+          "driverId": "martin",
+          "name": "Eugène Martin",
+          "familyName": "Martin",
+          "shortName": "Martin",
+          "position": 19,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Oil pressure"
+        },
+        {
+          "driverId": "rolt",
+          "name": "Tony Rolt",
+          "familyName": "Rolt",
+          "shortName": "Rolt",
+          "position": 20,
+          "positionText": "R",
+          "constructorId": "era",
+          "constructorName": "ERA",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "peter_walker",
+          "name": "Peter Walker",
+          "familyName": "Walker",
+          "shortName": "Walker",
+          "position": 20,
+          "positionText": "R",
+          "constructorId": "era",
+          "constructorName": "ERA",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "leslie_johnson",
+          "name": "Leslie Johnson",
+          "familyName": "Johnson",
+          "shortName": "Johnson",
+          "position": 21,
+          "positionText": "R",
+          "constructorId": "era",
+          "constructorName": "ERA",
+          "points": 0,
+          "status": "Supercharger"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 2,
+      "name": "Monaco Grand Prix",
+      "date": "1950-05-21T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Circuit de Monaco",
+      "locality": "Monte Carlo",
+      "country": "Monaco",
+      "results": [
+        {
+          "driverId": "fangio",
+          "name": "Juan Fangio",
+          "familyName": "Fangio",
+          "shortName": "Fangio",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 9,
+          "status": "Finished"
+        },
+        {
+          "driverId": "ascari",
+          "name": "Alberto Ascari",
+          "familyName": "Ascari",
+          "shortName": "Ascari",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 6,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "chiron",
+          "name": "Louis Chiron",
+          "familyName": "Chiron",
+          "shortName": "Chiron",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 4,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "sommer",
+          "name": "Raymond Sommer",
+          "familyName": "Sommer",
+          "shortName": "Sommer",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 3,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "bira",
+          "name": "Prince Bira",
+          "familyName": "Bira",
+          "shortName": "Bira",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 2,
+          "status": "+5 Laps"
+        },
+        {
+          "driverId": "gerard",
+          "name": "Bob Gerard",
+          "familyName": "Gerard",
+          "shortName": "Gerard",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "era",
+          "constructorName": "ERA",
+          "points": 0,
+          "status": "+6 Laps"
+        },
+        {
+          "driverId": "claes",
+          "name": "Johnny Claes",
+          "familyName": "Claes",
+          "shortName": "Claes",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "+6 Laps"
+        },
+        {
+          "driverId": "villoresi",
+          "name": "Luigi Villoresi",
+          "familyName": "Villoresi",
+          "shortName": "Villoresi",
+          "position": 8,
+          "positionText": "R",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Axle"
+        },
+        {
+          "driverId": "etancelin",
+          "name": "Philippe Étancelin",
+          "familyName": "Étancelin",
+          "shortName": "Étancelin",
+          "position": 9,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Oil leak"
+        },
+        {
+          "driverId": "gonzalez",
+          "name": "José Froilán González",
+          "familyName": "González",
+          "shortName": "González",
+          "position": 10,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "farina",
+          "name": "Nino Farina",
+          "familyName": "Farina",
+          "shortName": "Farina",
+          "position": 11,
+          "positionText": "R",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "fagioli",
+          "name": "Luigi Fagioli",
+          "familyName": "Fagioli",
+          "shortName": "Fagioli",
+          "position": 12,
+          "positionText": "R",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "rosier",
+          "name": "Louis Rosier",
+          "familyName": "Rosier",
+          "shortName": "Rosier",
+          "position": 13,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "manzon",
+          "name": "Robert Manzon",
+          "familyName": "Manzon",
+          "shortName": "Manzon",
+          "position": 14,
+          "positionText": "R",
+          "constructorId": "simca",
+          "constructorName": "Simca",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "graffenried",
+          "name": "Toulo de Graffenried",
+          "familyName": "de Graffenried",
+          "shortName": "de Graffenried",
+          "position": 15,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "trintignant",
+          "name": "Maurice Trintignant",
+          "familyName": "Trintignant",
+          "shortName": "Trintignant",
+          "position": 16,
+          "positionText": "R",
+          "constructorId": "simca",
+          "constructorName": "Simca",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "harrison",
+          "name": "Cuth Harrison",
+          "familyName": "Harrison",
+          "shortName": "Harrison",
+          "position": 17,
+          "positionText": "R",
+          "constructorId": "era",
+          "constructorName": "ERA",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "rol",
+          "name": "Franco Rol",
+          "familyName": "Rol",
+          "shortName": "Rol",
+          "position": 18,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "schell",
+          "name": "Harry Schell",
+          "familyName": "Schell",
+          "shortName": "Schell",
+          "position": 19,
+          "positionText": "R",
+          "constructorId": "cooper",
+          "constructorName": "Cooper",
+          "points": 0,
+          "status": "Collision"
+        },
+        {
+          "driverId": "whitehead",
+          "name": "Peter Whitehead",
+          "familyName": "Whitehead",
+          "shortName": "Whitehead",
+          "position": 20,
+          "positionText": "W",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "pian",
+          "name": "Alfredo Pián",
+          "familyName": "Pián",
+          "shortName": "Pián",
+          "position": 21,
+          "positionText": "W",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Accident"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 3,
+      "name": "Indianapolis 500",
+      "date": "1950-05-30T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Indianapolis Motor Speedway",
+      "locality": "Indianapolis",
+      "country": "USA",
+      "results": [
+        {
+          "driverId": "parsons",
+          "name": "Johnnie Parsons",
+          "familyName": "Parsons",
+          "shortName": "Parsons",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 9,
+          "status": "Finished"
+        },
+        {
+          "driverId": "holland",
+          "name": "Bill Holland",
+          "familyName": "Holland",
+          "shortName": "Holland",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "deidt",
+          "constructorName": "Deidt",
+          "points": 6,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "rose",
+          "name": "Mauri Rose",
+          "familyName": "Rose",
+          "shortName": "Rose",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "deidt",
+          "constructorName": "Deidt",
+          "points": 4,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "green",
+          "name": "Cecil Green",
+          "familyName": "Green",
+          "shortName": "Green",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 3,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "bettenhausen",
+          "name": "Tony Bettenhausen",
+          "familyName": "Bettenhausen",
+          "shortName": "Bettenhausen",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 1,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "chitwood",
+          "name": "Joie Chitwood",
+          "familyName": "Chitwood",
+          "shortName": "Chitwood",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 1,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "wallard",
+          "name": "Lee Wallard",
+          "familyName": "Wallard",
+          "shortName": "Wallard",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "moore",
+          "constructorName": "Moore",
+          "points": 0,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "faulkner",
+          "name": "Walt Faulkner",
+          "familyName": "Faulkner",
+          "shortName": "Faulkner",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 0,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "george_connor",
+          "name": "George Connor",
+          "familyName": "Connor",
+          "shortName": "Connor",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "lesovsky",
+          "constructorName": "Lesovsky",
+          "points": 0,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "paul_russo",
+          "name": "Paul Russo",
+          "familyName": "Russo",
+          "shortName": "Russo",
+          "position": 9,
+          "positionText": "9",
+          "constructorId": "nichels",
+          "constructorName": "Nichels",
+          "points": 0,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "flaherty",
+          "name": "Pat Flaherty",
+          "familyName": "Flaherty",
+          "shortName": "Flaherty",
+          "position": 10,
+          "positionText": "10",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 0,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "fohr",
+          "name": "Myron Fohr",
+          "familyName": "Fohr",
+          "shortName": "Fohr",
+          "position": 11,
+          "positionText": "11",
+          "constructorId": "marchese",
+          "constructorName": "Marchese",
+          "points": 0,
+          "status": "+5 Laps"
+        },
+        {
+          "driverId": "darter",
+          "name": "Duane Carter",
+          "familyName": "Carter",
+          "shortName": "Carter",
+          "position": 12,
+          "positionText": "12",
+          "constructorId": "stevens",
+          "constructorName": "Stevens",
+          "points": 0,
+          "status": "+5 Laps"
+        },
+        {
+          "driverId": "hellings",
+          "name": "Mack Hellings",
+          "familyName": "Hellings",
+          "shortName": "Hellings",
+          "position": 13,
+          "positionText": "13",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 0,
+          "status": "+6 Laps"
+        },
+        {
+          "driverId": "mcgrath",
+          "name": "Jack McGrath",
+          "familyName": "McGrath",
+          "shortName": "McGrath",
+          "position": 14,
+          "positionText": "14",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 0,
+          "status": "Spun off"
+        },
+        {
+          "driverId": "ruttman",
+          "name": "Troy Ruttman",
+          "familyName": "Ruttman",
+          "shortName": "Ruttman",
+          "position": 15,
+          "positionText": "15",
+          "constructorId": "lesovsky",
+          "constructorName": "Lesovsky",
+          "points": 0,
+          "status": "+8 Laps"
+        },
+        {
+          "driverId": "hartley",
+          "name": "Gene Hartley",
+          "familyName": "Hartley",
+          "shortName": "Hartley",
+          "position": 16,
+          "positionText": "16",
+          "constructorId": "langley",
+          "constructorName": "Langley",
+          "points": 0,
+          "status": "+10 Laps"
+        },
+        {
+          "driverId": "davies",
+          "name": "Jimmy Davies",
+          "familyName": "Davies",
+          "shortName": "Davies",
+          "position": 17,
+          "positionText": "17",
+          "constructorId": "ewing",
+          "constructorName": "Ewing",
+          "points": 0,
+          "status": "+10 Laps"
+        },
+        {
+          "driverId": "mcdowell",
+          "name": "Johnny McDowell",
+          "familyName": "McDowell",
+          "shortName": "McDowell",
+          "position": 18,
+          "positionText": "18",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 0,
+          "status": "+10 Laps"
+        },
+        {
+          "driverId": "walt_brown",
+          "name": "Walt Brown",
+          "familyName": "Brown",
+          "shortName": "Brown",
+          "position": 19,
+          "positionText": "19",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 0,
+          "status": "+11 Laps"
+        },
+        {
+          "driverId": "webb",
+          "name": "Travis Webb",
+          "familyName": "Webb",
+          "shortName": "Webb",
+          "position": 20,
+          "positionText": "20",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "+12 Laps"
+        },
+        {
+          "driverId": "hoyt",
+          "name": "Jerry Hoyt",
+          "familyName": "Hoyt",
+          "shortName": "Hoyt",
+          "position": 21,
+          "positionText": "21",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 0,
+          "status": "+13 Laps"
+        },
+        {
+          "driverId": "ader",
+          "name": "Walt Ader",
+          "familyName": "Ader",
+          "shortName": "Ader",
+          "position": 22,
+          "positionText": "22",
+          "constructorId": "rae",
+          "constructorName": "Rae",
+          "points": 0,
+          "status": "+15 Laps"
+        },
+        {
+          "driverId": "holmes",
+          "name": "Jackie Holmes",
+          "familyName": "Holmes",
+          "shortName": "Holmes",
+          "position": 23,
+          "positionText": "23",
+          "constructorId": "olson",
+          "constructorName": "Olson",
+          "points": 0,
+          "status": "Spun off"
+        },
+        {
+          "driverId": "rathmann",
+          "name": "Jim Rathmann",
+          "familyName": "Rathmann",
+          "shortName": "Rathmann",
+          "position": 24,
+          "positionText": "24",
+          "constructorId": "wetteroth",
+          "constructorName": "Wetteroth",
+          "points": 0,
+          "status": "+16 Laps"
+        },
+        {
+          "driverId": "banks",
+          "name": "Henry Banks",
+          "familyName": "Banks",
+          "shortName": "Banks",
+          "position": 25,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Oil line"
+        },
+        {
+          "driverId": "schindler",
+          "name": "Bill Schindler",
+          "familyName": "Schindler",
+          "shortName": "Schindler",
+          "position": 26,
+          "positionText": "R",
+          "constructorId": "snowberger",
+          "constructorName": "Snowberger",
+          "points": 0,
+          "status": "Transmission"
+        },
+        {
+          "driverId": "levrett",
+          "name": "Bayliss Levrett",
+          "familyName": "Levrett",
+          "shortName": "Levrett",
+          "position": 27,
+          "positionText": "R",
+          "constructorId": "adams",
+          "constructorName": "Adams",
+          "points": 0,
+          "status": "Oil pressure"
+        },
+        {
+          "driverId": "cantrell",
+          "name": "Bill Cantrell",
+          "familyName": "Cantrell",
+          "shortName": "Cantrell",
+          "position": 27,
+          "positionText": "R",
+          "constructorId": "adams",
+          "constructorName": "Adams",
+          "points": 0,
+          "status": "Oil pressure"
+        },
+        {
+          "driverId": "agabashian",
+          "name": "Fred Agabashian",
+          "familyName": "Agabashian",
+          "shortName": "Agabashian",
+          "position": 28,
+          "positionText": "R",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 0,
+          "status": "Oil leak"
+        },
+        {
+          "driverId": "jackson",
+          "name": "Jimmy Jackson",
+          "familyName": "Jackson",
+          "shortName": "Jackson",
+          "position": 29,
+          "positionText": "R",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 0,
+          "status": "Supercharger"
+        },
+        {
+          "driverId": "hanks",
+          "name": "Sam Hanks",
+          "familyName": "Hanks",
+          "shortName": "Hanks",
+          "position": 30,
+          "positionText": "R",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 0,
+          "status": "Oil pressure"
+        },
+        {
+          "driverId": "bettenhausen",
+          "name": "Tony Bettenhausen",
+          "familyName": "Bettenhausen",
+          "shortName": "Bettenhausen",
+          "position": 31,
+          "positionText": "R",
+          "constructorId": "deidt",
+          "constructorName": "Deidt",
+          "points": 0,
+          "status": "Wheel bearing"
+        },
+        {
+          "driverId": "dick_rathmann",
+          "name": "Dick Rathmann",
+          "familyName": "Rathmann",
+          "shortName": "Rathmann",
+          "position": 32,
+          "positionText": "R",
+          "constructorId": "watson",
+          "constructorName": "Watson",
+          "points": 0,
+          "status": "Stalled"
+        },
+        {
+          "driverId": "dinsmore",
+          "name": "Duke Dinsmore",
+          "familyName": "Dinsmore",
+          "shortName": "Dinsmore",
+          "position": 33,
+          "positionText": "R",
+          "constructorId": "kurtis_kraft",
+          "constructorName": "Kurtis Kraft",
+          "points": 0,
+          "status": "Oil leak"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 4,
+      "name": "Swiss Grand Prix",
+      "date": "1950-06-04T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Circuit Bremgarten",
+      "locality": "Bern",
+      "country": "Switzerland",
+      "results": [
+        {
+          "driverId": "farina",
+          "name": "Nino Farina",
+          "familyName": "Farina",
+          "shortName": "Farina",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 9,
+          "status": "Finished"
+        },
+        {
+          "driverId": "fagioli",
+          "name": "Luigi Fagioli",
+          "familyName": "Fagioli",
+          "shortName": "Fagioli",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 6,
+          "status": "Finished"
+        },
+        {
+          "driverId": "rosier",
+          "name": "Louis Rosier",
+          "familyName": "Rosier",
+          "shortName": "Rosier",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 4,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "bira",
+          "name": "Prince Bira",
+          "familyName": "Bira",
+          "shortName": "Bira",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 3,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "bonetto",
+          "name": "Felice Bonetto",
+          "familyName": "Bonetto",
+          "shortName": "Bonetto",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 2,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "graffenried",
+          "name": "Toulo de Graffenried",
+          "familyName": "de Graffenried",
+          "shortName": "de Graffenried",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "pagani",
+          "name": "Nello Pagani",
+          "familyName": "Pagani",
+          "shortName": "Pagani",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "schell",
+          "name": "Harry Schell",
+          "familyName": "Schell",
+          "shortName": "Schell",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "chiron",
+          "name": "Louis Chiron",
+          "familyName": "Chiron",
+          "shortName": "Chiron",
+          "position": 9,
+          "positionText": "9",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "claes",
+          "name": "Johnny Claes",
+          "familyName": "Claes",
+          "shortName": "Claes",
+          "position": 10,
+          "positionText": "10",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "+4 Laps"
+        },
+        {
+          "driverId": "branca",
+          "name": "Toni Branca",
+          "familyName": "Branca",
+          "shortName": "Branca",
+          "position": 11,
+          "positionText": "11",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "+7 Laps"
+        },
+        {
+          "driverId": "fangio",
+          "name": "Juan Fangio",
+          "familyName": "Fangio",
+          "shortName": "Fangio",
+          "position": 12,
+          "positionText": "R",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "etancelin",
+          "name": "Philippe Étancelin",
+          "familyName": "Étancelin",
+          "shortName": "Étancelin",
+          "position": 13,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "martin",
+          "name": "Eugène Martin",
+          "familyName": "Martin",
+          "shortName": "Martin",
+          "position": 14,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Accident"
+        },
+        {
+          "driverId": "sommer",
+          "name": "Raymond Sommer",
+          "familyName": "Sommer",
+          "shortName": "Sommer",
+          "position": 15,
+          "positionText": "R",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Suspension"
+        },
+        {
+          "driverId": "villoresi",
+          "name": "Luigi Villoresi",
+          "familyName": "Villoresi",
+          "shortName": "Villoresi",
+          "position": 16,
+          "positionText": "R",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "ascari",
+          "name": "Alberto Ascari",
+          "familyName": "Ascari",
+          "shortName": "Ascari",
+          "position": 17,
+          "positionText": "R",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Oil pump"
+        },
+        {
+          "driverId": "cabantous",
+          "name": "Yves Cabantous",
+          "familyName": "Cabantous",
+          "shortName": "Cabantous",
+          "position": 18,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Accident"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 5,
+      "name": "Belgian Grand Prix",
+      "date": "1950-06-18T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Circuit de Spa-Francorchamps",
+      "locality": "Spa",
+      "country": "Belgium",
+      "results": [
+        {
+          "driverId": "fangio",
+          "name": "Juan Fangio",
+          "familyName": "Fangio",
+          "shortName": "Fangio",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 8,
+          "status": "Finished"
+        },
+        {
+          "driverId": "fagioli",
+          "name": "Luigi Fagioli",
+          "familyName": "Fagioli",
+          "shortName": "Fagioli",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 6,
+          "status": "Finished"
+        },
+        {
+          "driverId": "rosier",
+          "name": "Louis Rosier",
+          "familyName": "Rosier",
+          "shortName": "Rosier",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 4,
+          "status": "Finished"
+        },
+        {
+          "driverId": "farina",
+          "name": "Nino Farina",
+          "familyName": "Farina",
+          "shortName": "Farina",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 4,
+          "status": "Finished"
+        },
+        {
+          "driverId": "ascari",
+          "name": "Alberto Ascari",
+          "familyName": "Ascari",
+          "shortName": "Ascari",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 2,
+          "status": "+1 Lap"
+        },
+        {
+          "driverId": "villoresi",
+          "name": "Luigi Villoresi",
+          "familyName": "Villoresi",
+          "shortName": "Villoresi",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "levegh",
+          "name": "Pierre Levegh",
+          "familyName": "Levegh",
+          "shortName": "Levegh",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "+2 Laps"
+        },
+        {
+          "driverId": "claes",
+          "name": "Johnny Claes",
+          "familyName": "Claes",
+          "shortName": "Claes",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "crossley",
+          "name": "Geoff Crossley",
+          "familyName": "Crossley",
+          "shortName": "Crossley",
+          "position": 9,
+          "positionText": "9",
+          "constructorId": "alta",
+          "constructorName": "Alta",
+          "points": 0,
+          "status": "+5 Laps"
+        },
+        {
+          "driverId": "branca",
+          "name": "Toni Branca",
+          "familyName": "Branca",
+          "shortName": "Branca",
+          "position": 10,
+          "positionText": "10",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "+6 Laps"
+        },
+        {
+          "driverId": "chaboud",
+          "name": "Eugène Chaboud",
+          "familyName": "Chaboud",
+          "shortName": "Chaboud",
+          "position": 11,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Oil pipe"
+        },
+        {
+          "driverId": "sommer",
+          "name": "Raymond Sommer",
+          "familyName": "Sommer",
+          "shortName": "Sommer",
+          "position": 12,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Oil pressure"
+        },
+        {
+          "driverId": "etancelin",
+          "name": "Philippe Étancelin",
+          "familyName": "Étancelin",
+          "shortName": "Étancelin",
+          "position": 13,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Overheating"
+        },
+        {
+          "driverId": "cabantous",
+          "name": "Yves Cabantous",
+          "familyName": "Cabantous",
+          "shortName": "Cabantous",
+          "position": 14,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Oil pipe"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 6,
+      "name": "French Grand Prix",
+      "date": "1950-07-02T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Reims-Gueux",
+      "locality": "Reims",
+      "country": "France",
+      "results": [
+        {
+          "driverId": "fangio",
+          "name": "Juan Fangio",
+          "familyName": "Fangio",
+          "shortName": "Fangio",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 9,
+          "status": "Finished"
+        },
+        {
+          "driverId": "fagioli",
+          "name": "Luigi Fagioli",
+          "familyName": "Fagioli",
+          "shortName": "Fagioli",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 6,
+          "status": "Finished"
+        },
+        {
+          "driverId": "whitehead",
+          "name": "Peter Whitehead",
+          "familyName": "Whitehead",
+          "shortName": "Whitehead",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 4,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "manzon",
+          "name": "Robert Manzon",
+          "familyName": "Manzon",
+          "shortName": "Manzon",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "simca",
+          "constructorName": "Simca",
+          "points": 3,
+          "status": "+3 Laps"
+        },
+        {
+          "driverId": "etancelin",
+          "name": "Philippe Étancelin",
+          "familyName": "Étancelin",
+          "shortName": "Étancelin",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 1,
+          "status": "+5 Laps"
+        },
+        {
+          "driverId": "chaboud",
+          "name": "Eugène Chaboud",
+          "familyName": "Chaboud",
+          "shortName": "Chaboud",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 1,
+          "status": "+5 Laps"
+        },
+        {
+          "driverId": "rosier",
+          "name": "Louis Rosier",
+          "familyName": "Rosier",
+          "shortName": "Rosier",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "+8 Laps"
+        },
+        {
+          "driverId": "pozzi",
+          "name": "Charles Pozzi",
+          "familyName": "Pozzi",
+          "shortName": "Pozzi",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "+8 Laps"
+        },
+        {
+          "driverId": "farina",
+          "name": "Nino Farina",
+          "familyName": "Farina",
+          "shortName": "Farina",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 0,
+          "status": "Fuel pump"
+        },
+        {
+          "driverId": "cabantous",
+          "name": "Yves Cabantous",
+          "familyName": "Cabantous",
+          "shortName": "Cabantous",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "+12 Laps"
+        },
+        {
+          "driverId": "levegh",
+          "name": "Pierre Levegh",
+          "familyName": "Levegh",
+          "shortName": "Levegh",
+          "position": 9,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "bonetto",
+          "name": "Felice Bonetto",
+          "familyName": "Bonetto",
+          "shortName": "Bonetto",
+          "position": 10,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "claes",
+          "name": "Johnny Claes",
+          "familyName": "Claes",
+          "shortName": "Claes",
+          "position": 11,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Overheating"
+        },
+        {
+          "driverId": "rosier",
+          "name": "Louis Rosier",
+          "familyName": "Rosier",
+          "shortName": "Rosier",
+          "position": 12,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Overheating"
+        },
+        {
+          "driverId": "reg_parnell",
+          "name": "Reg Parnell",
+          "familyName": "Parnell",
+          "shortName": "Parnell",
+          "position": 13,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "rol",
+          "name": "Franco Rol",
+          "familyName": "Rol",
+          "shortName": "Rol",
+          "position": 14,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "chiron",
+          "name": "Louis Chiron",
+          "familyName": "Chiron",
+          "shortName": "Chiron",
+          "position": 15,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "hampshire",
+          "name": "David Hampshire",
+          "familyName": "Hampshire",
+          "shortName": "Hampshire",
+          "position": 16,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "sommer",
+          "name": "Raymond Sommer",
+          "familyName": "Sommer",
+          "shortName": "Sommer",
+          "position": 17,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Overheating"
+        },
+        {
+          "driverId": "gonzalez",
+          "name": "José Froilán González",
+          "familyName": "González",
+          "shortName": "González",
+          "position": 18,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Engine"
+        }
+      ],
+      "sprintResults": null
+    },
+    {
+      "round": 7,
+      "name": "Italian Grand Prix",
+      "date": "1950-09-03T00:00:00Z",
+      "sprintDate": null,
+      "circuit": "Autodromo Nazionale di Monza",
+      "locality": "Monza",
+      "country": "Italy",
+      "results": [
+        {
+          "driverId": "farina",
+          "name": "Nino Farina",
+          "familyName": "Farina",
+          "shortName": "Farina",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 8,
+          "status": "Finished"
+        },
+        {
+          "driverId": "serafini",
+          "name": "Dorino Serafini",
+          "familyName": "Serafini",
+          "shortName": "Serafini",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 3,
+          "status": "Finished"
+        },
+        {
+          "driverId": "ascari",
+          "name": "Alberto Ascari",
+          "familyName": "Ascari",
+          "shortName": "Ascari",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 3,
+          "status": "Finished"
+        },
+        {
+          "driverId": "fagioli",
+          "name": "Luigi Fagioli",
+          "familyName": "Fagioli",
+          "shortName": "Fagioli",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 4,
+          "status": "Finished"
+        },
+        {
+          "driverId": "rosier",
+          "name": "Louis Rosier",
+          "familyName": "Rosier",
+          "shortName": "Rosier",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 3,
+          "status": "+5 Laps"
+        },
+        {
+          "driverId": "etancelin",
+          "name": "Philippe Étancelin",
+          "familyName": "Étancelin",
+          "shortName": "Étancelin",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 2,
+          "status": "+5 Laps"
+        },
+        {
+          "driverId": "graffenried",
+          "name": "Toulo de Graffenried",
+          "familyName": "de Graffenried",
+          "shortName": "de Graffenried",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "+8 Laps"
+        },
+        {
+          "driverId": "whitehead",
+          "name": "Peter Whitehead",
+          "familyName": "Whitehead",
+          "shortName": "Whitehead",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "+8 Laps"
+        },
+        {
+          "driverId": "murray",
+          "name": "David Murray",
+          "familyName": "Murray",
+          "shortName": "Murray",
+          "position": 8,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "harrison",
+          "name": "Cuth Harrison",
+          "familyName": "Harrison",
+          "shortName": "Harrison",
+          "position": 9,
+          "positionText": "R",
+          "constructorId": "era",
+          "constructorName": "ERA",
+          "points": 0,
+          "status": "Radiator"
+        },
+        {
+          "driverId": "sommer",
+          "name": "Raymond Sommer",
+          "familyName": "Sommer",
+          "shortName": "Sommer",
+          "position": 10,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "guy_mairesse",
+          "name": "Guy Mairesse",
+          "familyName": "Mairesse",
+          "shortName": "Mairesse",
+          "position": 11,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Oil pipe"
+        },
+        {
+          "driverId": "rol",
+          "name": "Franco Rol",
+          "familyName": "Rol",
+          "shortName": "Rol",
+          "position": 12,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Retired"
+        },
+        {
+          "driverId": "fangio",
+          "name": "Juan Fangio",
+          "familyName": "Fangio",
+          "shortName": "Fangio",
+          "position": 13,
+          "positionText": "R",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "taruffi",
+          "name": "Piero Taruffi",
+          "familyName": "Taruffi",
+          "shortName": "Taruffi",
+          "position": 13,
+          "positionText": "R",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "levegh",
+          "name": "Pierre Levegh",
+          "familyName": "Levegh",
+          "shortName": "Levegh",
+          "position": 14,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "fangio",
+          "name": "Juan Fangio",
+          "familyName": "Fangio",
+          "shortName": "Fangio",
+          "position": 15,
+          "positionText": "R",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 1,
+          "status": "Gearbox"
+        },
+        {
+          "driverId": "claes",
+          "name": "Johnny Claes",
+          "familyName": "Claes",
+          "shortName": "Claes",
+          "position": 16,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Overheating"
+        },
+        {
+          "driverId": "ascari",
+          "name": "Alberto Ascari",
+          "familyName": "Ascari",
+          "shortName": "Ascari",
+          "position": 17,
+          "positionText": "R",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "biondetti",
+          "name": "Clemente Biondetti",
+          "familyName": "Biondetti",
+          "shortName": "Biondetti",
+          "position": 18,
+          "positionText": "R",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "louveau",
+          "name": "Henri Louveau",
+          "familyName": "Louveau",
+          "shortName": "Louveau",
+          "position": 19,
+          "positionText": "R",
+          "constructorId": "lago",
+          "constructorName": "Talbot-Lago",
+          "points": 0,
+          "status": "Brakes"
+        },
+        {
+          "driverId": "comotti",
+          "name": "Franco Comotti",
+          "familyName": "Comotti",
+          "shortName": "Comotti",
+          "position": 20,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Retired"
+        },
+        {
+          "driverId": "trintignant",
+          "name": "Maurice Trintignant",
+          "familyName": "Trintignant",
+          "shortName": "Trintignant",
+          "position": 21,
+          "positionText": "R",
+          "constructorId": "simca",
+          "constructorName": "Simca",
+          "points": 0,
+          "status": "Water pipe"
+        },
+        {
+          "driverId": "chiron",
+          "name": "Louis Chiron",
+          "familyName": "Chiron",
+          "shortName": "Chiron",
+          "position": 22,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Oil pressure"
+        },
+        {
+          "driverId": "sanesi",
+          "name": "Consalvo Sanesi",
+          "familyName": "Sanesi",
+          "shortName": "Sanesi",
+          "position": 23,
+          "positionText": "R",
+          "constructorId": "alfa",
+          "constructorName": "Alfa Romeo",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "manzon",
+          "name": "Robert Manzon",
+          "familyName": "Manzon",
+          "shortName": "Manzon",
+          "position": 24,
+          "positionText": "R",
+          "constructorId": "simca",
+          "constructorName": "Simca",
+          "points": 0,
+          "status": "Transmission"
+        },
+        {
+          "driverId": "bira",
+          "name": "Prince Bira",
+          "familyName": "Bira",
+          "shortName": "Bira",
+          "position": 25,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "pietsch",
+          "name": "Paul Pietsch",
+          "familyName": "Pietsch",
+          "shortName": "Pietsch",
+          "position": 26,
+          "positionText": "R",
+          "constructorId": "maserati",
+          "constructorName": "Maserati",
+          "points": 0,
+          "status": "Engine"
+        },
+        {
+          "driverId": "bonetto",
+          "name": "Felice Bonetto",
+          "familyName": "Bonetto",
+          "shortName": "Bonetto",
+          "position": 27,
+          "positionText": "W",
+          "constructorId": "milano",
+          "constructorName": "Milano",
+          "points": 0,
+          "status": "Withdrew"
+        }
+      ],
+      "sprintResults": null
+    }
+  ],
+  "drivers": [
+    {
+      "driverId": "farina",
+      "name": "Nino Farina",
+      "familyName": "Farina",
+      "shortName": "Farina",
+      "position": 1,
+      "points": 30,
+      "wins": 3,
+      "constructorIds": [
+        "alfa"
+      ]
+    },
+    {
+      "driverId": "fangio",
+      "name": "Juan Fangio",
+      "familyName": "Fangio",
+      "shortName": "Fangio",
+      "position": 2,
+      "points": 27,
+      "wins": 3,
+      "constructorIds": [
+        "alfa"
+      ]
+    },
+    {
+      "driverId": "fagioli",
+      "name": "Luigi Fagioli",
+      "familyName": "Fagioli",
+      "shortName": "Fagioli",
+      "position": 3,
+      "points": 24,
+      "wins": 0,
+      "constructorIds": [
+        "alfa"
+      ]
+    },
+    {
+      "driverId": "rosier",
+      "name": "Louis Rosier",
+      "familyName": "Rosier",
+      "shortName": "Rosier",
+      "position": 4,
+      "points": 13,
+      "wins": 0,
+      "constructorIds": [
+        "lago"
+      ]
+    },
+    {
+      "driverId": "ascari",
+      "name": "Alberto Ascari",
+      "familyName": "Ascari",
+      "shortName": "Ascari",
+      "position": 5,
+      "points": 11,
+      "wins": 0,
+      "constructorIds": [
+        "ferrari"
+      ]
+    },
+    {
+      "driverId": "parsons",
+      "name": "Johnnie Parsons",
+      "familyName": "Parsons",
+      "shortName": "Parsons",
+      "position": 6,
+      "points": 9,
+      "wins": 1,
+      "constructorIds": [
+        "kurtis_kraft"
+      ]
+    },
+    {
+      "driverId": "holland",
+      "name": "Bill Holland",
+      "familyName": "Holland",
+      "shortName": "Holland",
+      "position": 7,
+      "points": 6,
+      "wins": 0,
+      "constructorIds": [
+        "deidt"
+      ]
+    },
+    {
+      "driverId": "bira",
+      "name": "Prince Bira",
+      "familyName": "Bira",
+      "shortName": "Bira",
+      "position": 8,
+      "points": 5,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "whitehead",
+      "name": "Peter Whitehead",
+      "familyName": "Whitehead",
+      "shortName": "Whitehead",
+      "position": 9,
+      "points": 4,
+      "wins": 0,
+      "constructorIds": [
+        "ferrari"
+      ]
+    },
+    {
+      "driverId": "chiron",
+      "name": "Louis Chiron",
+      "familyName": "Chiron",
+      "shortName": "Chiron",
+      "position": 10,
+      "points": 4,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "reg_parnell",
+      "name": "Reg Parnell",
+      "familyName": "Parnell",
+      "shortName": "Parnell",
+      "position": 11,
+      "points": 4,
+      "wins": 0,
+      "constructorIds": [
+        "alfa",
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "rose",
+      "name": "Mauri Rose",
+      "familyName": "Rose",
+      "shortName": "Rose",
+      "position": 12,
+      "points": 4,
+      "wins": 0,
+      "constructorIds": [
+        "deidt"
+      ]
+    },
+    {
+      "driverId": "serafini",
+      "name": "Dorino Serafini",
+      "familyName": "Serafini",
+      "shortName": "Serafini",
+      "position": 13,
+      "points": 3,
+      "wins": 0,
+      "constructorIds": [
+        "ferrari"
+      ]
+    },
+    {
+      "driverId": "cabantous",
+      "name": "Yves Cabantous",
+      "familyName": "Cabantous",
+      "shortName": "Cabantous",
+      "position": 14,
+      "points": 3,
+      "wins": 0,
+      "constructorIds": [
+        "lago"
+      ]
+    },
+    {
+      "driverId": "sommer",
+      "name": "Raymond Sommer",
+      "familyName": "Sommer",
+      "shortName": "Sommer",
+      "position": 15,
+      "points": 3,
+      "wins": 0,
+      "constructorIds": [
+        "ferrari",
+        "lago"
+      ]
+    },
+    {
+      "driverId": "manzon",
+      "name": "Robert Manzon",
+      "familyName": "Manzon",
+      "shortName": "Manzon",
+      "position": 16,
+      "points": 3,
+      "wins": 0,
+      "constructorIds": [
+        "simca"
+      ]
+    },
+    {
+      "driverId": "green",
+      "name": "Cecil Green",
+      "familyName": "Green",
+      "shortName": "Green",
+      "position": 17,
+      "points": 3,
+      "wins": 0,
+      "constructorIds": [
+        "kurtis_kraft"
+      ]
+    },
+    {
+      "driverId": "etancelin",
+      "name": "Philippe Étancelin",
+      "familyName": "Étancelin",
+      "shortName": "Étancelin",
+      "position": 18,
+      "points": 3,
+      "wins": 0,
+      "constructorIds": [
+        "lago"
+      ]
+    },
+    {
+      "driverId": "bonetto",
+      "name": "Felice Bonetto",
+      "familyName": "Bonetto",
+      "shortName": "Bonetto",
+      "position": 19,
+      "points": 2,
+      "wins": 0,
+      "constructorIds": [
+        "maserati",
+        "milano"
+      ]
+    },
+    {
+      "driverId": "chaboud",
+      "name": "Eugène Chaboud",
+      "familyName": "Chaboud",
+      "shortName": "Chaboud",
+      "position": 20,
+      "points": 1,
+      "wins": 0,
+      "constructorIds": [
+        "lago"
+      ]
+    },
+    {
+      "driverId": "bettenhausen",
+      "name": "Tony Bettenhausen",
+      "familyName": "Bettenhausen",
+      "shortName": "Bettenhausen",
+      "position": 21,
+      "points": 1,
+      "wins": 0,
+      "constructorIds": [
+        "kurtis_kraft",
+        "deidt"
+      ]
+    },
+    {
+      "driverId": "chitwood",
+      "name": "Joie Chitwood",
+      "familyName": "Chitwood",
+      "shortName": "Chitwood",
+      "position": 22,
+      "points": 1,
+      "wins": 0,
+      "constructorIds": [
+        "kurtis_kraft"
+      ]
+    },
+    {
+      "driverId": "graffenried",
+      "name": "Toulo de Graffenried",
+      "familyName": "de Graffenried",
+      "shortName": "de Graffenried",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "gerard",
+      "name": "Bob Gerard",
+      "familyName": "Gerard",
+      "shortName": "Gerard",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "era"
+      ]
+    },
+    {
+      "driverId": "villoresi",
+      "name": "Luigi Villoresi",
+      "familyName": "Villoresi",
+      "shortName": "Villoresi",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "ferrari"
+      ]
+    },
+    {
+      "driverId": "wallard",
+      "name": "Lee Wallard",
+      "familyName": "Wallard",
+      "shortName": "Wallard",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "moore"
+      ]
+    },
+    {
+      "driverId": "pozzi",
+      "name": "Charles Pozzi",
+      "familyName": "Pozzi",
+      "shortName": "Pozzi",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lago"
+      ]
+    },
+    {
+      "driverId": "claes",
+      "name": "Johnny Claes",
+      "familyName": "Claes",
+      "shortName": "Claes",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lago"
+      ]
+    },
+    {
+      "driverId": "levegh",
+      "name": "Pierre Levegh",
+      "familyName": "Levegh",
+      "shortName": "Levegh",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lago"
+      ]
+    },
+    {
+      "driverId": "harrison",
+      "name": "Cuth Harrison",
+      "familyName": "Harrison",
+      "shortName": "Harrison",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "era"
+      ]
+    },
+    {
+      "driverId": "faulkner",
+      "name": "Walt Faulkner",
+      "familyName": "Faulkner",
+      "shortName": "Faulkner",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "kurtis_kraft"
+      ]
+    },
+    {
+      "driverId": "pagani",
+      "name": "Nello Pagani",
+      "familyName": "Pagani",
+      "shortName": "Pagani",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "schell",
+      "name": "Harry Schell",
+      "familyName": "Schell",
+      "shortName": "Schell",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "cooper",
+        "lago"
+      ]
+    },
+    {
+      "driverId": "george_connor",
+      "name": "George Connor",
+      "familyName": "Connor",
+      "shortName": "Connor",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lesovsky"
+      ]
+    },
+    {
+      "driverId": "hampshire",
+      "name": "David Hampshire",
+      "familyName": "Hampshire",
+      "shortName": "Hampshire",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "crossley",
+      "name": "Geoff Crossley",
+      "familyName": "Crossley",
+      "shortName": "Crossley",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "alta"
+      ]
+    },
+    {
+      "driverId": "paul_russo",
+      "name": "Paul Russo",
+      "familyName": "Russo",
+      "shortName": "Russo",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "nichels"
+      ]
+    },
+    {
+      "driverId": "branca",
+      "name": "Toni Branca",
+      "familyName": "Branca",
+      "shortName": "Branca",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "shawe_taylor",
+      "name": "Brian Shawe Taylor",
+      "familyName": "Shawe Taylor",
+      "shortName": "Shawe Taylor",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "fry",
+      "name": "Joe Fry",
+      "familyName": "Fry",
+      "shortName": "Fry",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "flaherty",
+      "name": "Pat Flaherty",
+      "familyName": "Flaherty",
+      "shortName": "Flaherty",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "kurtis_kraft"
+      ]
+    },
+    {
+      "driverId": "fohr",
+      "name": "Myron Fohr",
+      "familyName": "Fohr",
+      "shortName": "Fohr",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "marchese"
+      ]
+    },
+    {
+      "driverId": "darter",
+      "name": "Duane Carter",
+      "familyName": "Carter",
+      "shortName": "Carter",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "stevens"
+      ]
+    },
+    {
+      "driverId": "hellings",
+      "name": "Mack Hellings",
+      "familyName": "Hellings",
+      "shortName": "Hellings",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "kurtis_kraft"
+      ]
+    },
+    {
+      "driverId": "mcgrath",
+      "name": "Jack McGrath",
+      "familyName": "McGrath",
+      "shortName": "McGrath",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "kurtis_kraft"
+      ]
+    },
+    {
+      "driverId": "ruttman",
+      "name": "Troy Ruttman",
+      "familyName": "Ruttman",
+      "shortName": "Ruttman",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lesovsky"
+      ]
+    },
+    {
+      "driverId": "hartley",
+      "name": "Gene Hartley",
+      "familyName": "Hartley",
+      "shortName": "Hartley",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "langley"
+      ]
+    },
+    {
+      "driverId": "davies",
+      "name": "Jimmy Davies",
+      "familyName": "Davies",
+      "shortName": "Davies",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "ewing"
+      ]
+    },
+    {
+      "driverId": "mcdowell",
+      "name": "Johnny McDowell",
+      "familyName": "McDowell",
+      "shortName": "McDowell",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "kurtis_kraft"
+      ]
+    },
+    {
+      "driverId": "walt_brown",
+      "name": "Walt Brown",
+      "familyName": "Brown",
+      "shortName": "Brown",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "kurtis_kraft"
+      ]
+    },
+    {
+      "driverId": "webb",
+      "name": "Travis Webb",
+      "familyName": "Webb",
+      "shortName": "Webb",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "hoyt",
+      "name": "Jerry Hoyt",
+      "familyName": "Hoyt",
+      "shortName": "Hoyt",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "kurtis_kraft"
+      ]
+    },
+    {
+      "driverId": "ader",
+      "name": "Walt Ader",
+      "familyName": "Ader",
+      "shortName": "Ader",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "rae"
+      ]
+    },
+    {
+      "driverId": "holmes",
+      "name": "Jackie Holmes",
+      "familyName": "Holmes",
+      "shortName": "Holmes",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "olson"
+      ]
+    },
+    {
+      "driverId": "rathmann",
+      "name": "Jim Rathmann",
+      "familyName": "Rathmann",
+      "shortName": "Rathmann",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "wetteroth"
+      ]
+    },
+    {
+      "driverId": "murray",
+      "name": "David Murray",
+      "familyName": "Murray",
+      "shortName": "Murray",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "gonzalez",
+      "name": "José Froilán González",
+      "familyName": "González",
+      "shortName": "González",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "guy_mairesse",
+      "name": "Guy Mairesse",
+      "familyName": "Mairesse",
+      "shortName": "Mairesse",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lago"
+      ]
+    },
+    {
+      "driverId": "rol",
+      "name": "Franco Rol",
+      "familyName": "Rol",
+      "shortName": "Rol",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "kelly",
+      "name": "Joe Kelly",
+      "familyName": "Kelly",
+      "shortName": "Kelly",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "alta"
+      ]
+    },
+    {
+      "driverId": "taruffi",
+      "name": "Piero Taruffi",
+      "familyName": "Taruffi",
+      "shortName": "Taruffi",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "alfa"
+      ]
+    },
+    {
+      "driverId": "martin",
+      "name": "Eugène Martin",
+      "familyName": "Martin",
+      "shortName": "Martin",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lago"
+      ]
+    },
+    {
+      "driverId": "trintignant",
+      "name": "Maurice Trintignant",
+      "familyName": "Trintignant",
+      "shortName": "Trintignant",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "simca"
+      ]
+    },
+    {
+      "driverId": "biondetti",
+      "name": "Clemente Biondetti",
+      "familyName": "Biondetti",
+      "shortName": "Biondetti",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "ferrari"
+      ]
+    },
+    {
+      "driverId": "louveau",
+      "name": "Henri Louveau",
+      "familyName": "Louveau",
+      "shortName": "Louveau",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "lago"
+      ]
+    },
+    {
+      "driverId": "peter_walker",
+      "name": "Peter Walker",
+      "familyName": "Walker",
+      "shortName": "Walker",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "era"
+      ]
+    },
+    {
+      "driverId": "rolt",
+      "name": "Tony Rolt",
+      "familyName": "Rolt",
+      "shortName": "Rolt",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "era"
+      ]
+    },
+    {
+      "driverId": "comotti",
+      "name": "Franco Comotti",
+      "familyName": "Comotti",
+      "shortName": "Comotti",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "leslie_johnson",
+      "name": "Leslie Johnson",
+      "familyName": "Johnson",
+      "shortName": "Johnson",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "era"
+      ]
+    },
+    {
+      "driverId": "pian",
+      "name": "Alfredo Pián",
+      "familyName": "Pián",
+      "shortName": "Pián",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "sanesi",
+      "name": "Consalvo Sanesi",
+      "familyName": "Sanesi",
+      "shortName": "Sanesi",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "alfa"
+      ]
+    },
+    {
+      "driverId": "banks",
+      "name": "Henry Banks",
+      "familyName": "Banks",
+      "shortName": "Banks",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "schindler",
+      "name": "Bill Schindler",
+      "familyName": "Schindler",
+      "shortName": "Schindler",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "snowberger"
+      ]
+    },
+    {
+      "driverId": "pietsch",
+      "name": "Paul Pietsch",
+      "familyName": "Pietsch",
+      "shortName": "Pietsch",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "maserati"
+      ]
+    },
+    {
+      "driverId": "levrett",
+      "name": "Bayliss Levrett",
+      "familyName": "Levrett",
+      "shortName": "Levrett",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "adams"
+      ]
+    },
+    {
+      "driverId": "cantrell",
+      "name": "Bill Cantrell",
+      "familyName": "Cantrell",
+      "shortName": "Cantrell",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "adams"
+      ]
+    },
+    {
+      "driverId": "agabashian",
+      "name": "Fred Agabashian",
+      "familyName": "Agabashian",
+      "shortName": "Agabashian",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "kurtis_kraft"
+      ]
+    },
+    {
+      "driverId": "jackson",
+      "name": "Jimmy Jackson",
+      "familyName": "Jackson",
+      "shortName": "Jackson",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "kurtis_kraft"
+      ]
+    },
+    {
+      "driverId": "hanks",
+      "name": "Sam Hanks",
+      "familyName": "Hanks",
+      "shortName": "Hanks",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "kurtis_kraft"
+      ]
+    },
+    {
+      "driverId": "dick_rathmann",
+      "name": "Dick Rathmann",
+      "familyName": "Rathmann",
+      "shortName": "Rathmann",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "watson"
+      ]
+    },
+    {
+      "driverId": "dinsmore",
+      "name": "Duke Dinsmore",
+      "familyName": "Dinsmore",
+      "shortName": "Dinsmore",
+      "position": 0,
+      "points": 0,
+      "wins": 0,
+      "constructorIds": [
+        "kurtis_kraft"
+      ]
+    }
+  ],
+  "constructors": []
+}

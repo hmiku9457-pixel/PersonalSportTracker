@@ -1,0 +1,5867 @@
+{
+  "schemaVersion": 1,
+  "id": "bundesliga",
+  "shortcut": "bl1",
+  "year": 2012,
+  "seasonLabel": "2012/13",
+  "complete": true,
+  "calendarCheckedAt": "2026-11-15T12:44:24.411Z",
+  "updatedAt": "2026-11-15T12:44:24.411Z",
+  "matches": [
+    {
+      "id": "19702",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-24T18:30:00Z",
+      "updated": "2012-08-25T15:06:50.23",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19703",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-25T13:30:00Z",
+      "updated": "2012-08-27T12:25:15.223",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19706",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-25T13:30:00Z",
+      "updated": "2013-02-07T11:23:55.603",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19707",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-25T13:30:00Z",
+      "updated": "2012-08-25T17:21:55.79",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19708",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-25T13:30:00Z",
+      "updated": "2012-08-25T17:20:58.51",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19709",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-25T13:30:00Z",
+      "updated": "2012-08-25T17:21:39.167",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "19710",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-25T16:30:00Z",
+      "updated": "2012-08-25T20:31:14.98",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19704",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-25T18:45:00Z",
+      "updated": "2012-08-27T07:31:37.973",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19705",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2012-08-26T15:30:00Z",
+      "updated": "2012-09-27T10:39:27.227",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19718",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-08-31T18:30:00Z",
+      "updated": "2012-08-31T22:23:53.827",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19712",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-09-01T13:30:00Z",
+      "updated": "2012-09-01T17:20:54.433",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19713",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-09-01T13:30:00Z",
+      "updated": "2012-11-04T12:07:27.983",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19715",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-09-01T13:30:00Z",
+      "updated": "2012-09-01T17:22:09.82",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19716",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-09-01T13:30:00Z",
+      "updated": "2012-09-01T17:21:50.793",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19717",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-09-01T13:30:00Z",
+      "updated": "2012-09-01T17:20:03.203",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "19719",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-09-01T16:30:00Z",
+      "updated": "2012-09-02T16:29:32.707",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19714",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-09-02T13:30:00Z",
+      "updated": "2012-09-02T20:17:15.91",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "19711",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2012-09-02T15:30:00Z",
+      "updated": "2012-09-15T20:03:43.643",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 6,
+        "away": 1
+      }
+    },
+    {
+      "id": "19726",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-09-14T18:30:00Z",
+      "updated": "2012-09-14T23:39:27.85",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19720",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-09-15T13:30:00Z",
+      "updated": "2012-09-15T17:08:50.993",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19721",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-09-15T13:30:00Z",
+      "updated": "2012-09-15T17:20:47.41",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19722",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-09-15T13:30:00Z",
+      "updated": "2012-09-15T16:45:24.223",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "19723",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-09-15T13:30:00Z",
+      "updated": "2012-09-15T15:32:14.42",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19724",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-09-15T13:30:00Z",
+      "updated": "2012-09-15T17:21:38.893",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "19727",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-09-15T16:30:00Z",
+      "updated": "2012-09-15T22:07:32.967",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19725",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-09-16T13:30:00Z",
+      "updated": "2012-09-21T10:21:45.533",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 5,
+        "away": 3
+      }
+    },
+    {
+      "id": "19728",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2012-09-16T15:30:00Z",
+      "updated": "2012-09-16T19:56:30.627",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "19733",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-21T18:30:00Z",
+      "updated": "2012-09-23T20:48:33.453",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19729",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-22T13:30:00Z",
+      "updated": "2012-09-23T20:49:36.25",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19731",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-22T13:30:00Z",
+      "updated": "2012-09-23T20:50:06.923",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19735",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-22T13:30:00Z",
+      "updated": "2012-09-23T20:48:45.767",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19736",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-22T13:30:00Z",
+      "updated": "2012-09-23T20:49:10.343",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "19737",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-22T13:30:00Z",
+      "updated": "2012-09-23T20:49:23.86",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19730",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-23T13:30:00Z",
+      "updated": "2012-09-23T20:50:17.36",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19732",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-23T15:30:00Z",
+      "updated": "2012-09-23T21:00:08.75",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19734",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2012-09-23T15:30:00Z",
+      "updated": "2012-09-23T21:01:37.203",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19738",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-25T18:00:00Z",
+      "updated": "2012-09-25T21:50:48.363",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19739",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-25T18:00:00Z",
+      "updated": "2012-09-25T21:50:52.833",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19745",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-25T18:00:00Z",
+      "updated": "2012-09-25T21:50:57.397",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19746",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-25T18:00:00Z",
+      "updated": "2012-09-29T21:06:55.587",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "19740",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-26T18:00:00Z",
+      "updated": "2012-09-26T22:05:58.037",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19741",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-26T18:00:00Z",
+      "updated": "2012-09-26T21:15:44.557",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "19742",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-26T18:00:00Z",
+      "updated": "2012-09-26T21:33:11.957",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "19743",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-26T18:00:00Z",
+      "updated": "2012-09-26T21:16:35.653",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19744",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2012-09-26T18:00:00Z",
+      "updated": "2012-09-26T21:10:33.62",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19756",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-28T18:30:00Z",
+      "updated": "2012-09-30T01:10:30.047",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19749",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-29T13:30:00Z",
+      "updated": "2012-09-30T01:10:48.487",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19751",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-29T13:30:00Z",
+      "updated": "2012-09-30T01:11:04.733",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19752",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-29T13:30:00Z",
+      "updated": "2012-09-30T01:44:41.867",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19753",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-29T13:30:00Z",
+      "updated": "2012-09-30T01:10:12.24",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19754",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-29T13:30:00Z",
+      "updated": "2012-09-30T01:11:38.19",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19748",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-29T16:30:00Z",
+      "updated": "2012-09-30T07:11:09.473",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "19755",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-30T13:30:00Z",
+      "updated": "2012-10-06T17:28:18.09",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19750",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2012-09-30T15:30:00Z",
+      "updated": "2012-10-28T20:46:38.63",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19764",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-10-05T18:30:00Z",
+      "updated": "2012-10-05T22:19:50.96",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19757",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-10-06T13:30:00Z",
+      "updated": "2012-10-06T16:51:15.763",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19758",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-10-06T13:30:00Z",
+      "updated": "2012-10-08T20:28:40.913",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19762",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-10-06T13:30:00Z",
+      "updated": "2012-11-04T12:03:59.943",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19763",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-10-06T13:30:00Z",
+      "updated": "2012-10-06T17:14:15.213",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19765",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-10-06T13:30:00Z",
+      "updated": "2012-10-08T20:29:14.173",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19759",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-10-07T13:30:00Z",
+      "updated": "2012-10-08T20:28:16.14",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19760",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-10-07T15:30:00Z",
+      "updated": "2012-12-06T19:29:27.573",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19761",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2012-10-07T15:30:00Z",
+      "updated": "2012-10-08T20:28:05.847",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19771",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-10-19T18:30:00Z",
+      "updated": "2012-12-15T17:19:16.47",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "19766",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-10-20T13:30:00Z",
+      "updated": "2012-12-02T20:05:02.417",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19767",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-10-20T13:30:00Z",
+      "updated": "2012-10-20T17:23:45.047",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19768",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-10-20T13:30:00Z",
+      "updated": "2012-10-20T17:11:43.033",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19773",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-10-20T13:30:00Z",
+      "updated": "2012-10-20T17:20:36.517",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19774",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-10-20T13:30:00Z",
+      "updated": "2012-10-20T17:15:13.843",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "19769",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-10-20T16:30:00Z",
+      "updated": "2012-10-20T20:20:17.25",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "19770",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-10-21T13:30:00Z",
+      "updated": "2012-10-21T20:20:29.233",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19772",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2012-10-21T15:30:00Z",
+      "updated": "2012-10-21T20:20:46.407",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "20413",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-26T18:30:00Z",
+      "updated": "2012-10-27T16:59:29.947",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19776",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-27T13:30:00Z",
+      "updated": "2012-10-27T18:05:07.23",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19779",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-27T13:30:00Z",
+      "updated": "2012-10-27T18:07:31.333",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19780",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-27T13:30:00Z",
+      "updated": "2012-10-27T17:01:27.66",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19782",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-27T13:30:00Z",
+      "updated": "2012-10-27T17:02:05.653",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19783",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-27T13:30:00Z",
+      "updated": "2012-10-27T18:00:42.02",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "19777",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-28T14:30:00Z",
+      "updated": "2012-10-28T19:05:54.093",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19775",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-28T16:30:00Z",
+      "updated": "2012-10-28T20:44:11.59",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19778",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2012-10-28T16:30:00Z",
+      "updated": "2012-10-28T20:49:10.073",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "19792",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-11-02T19:30:00Z",
+      "updated": "2012-11-02T22:24:30.937",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19784",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-11-03T14:30:00Z",
+      "updated": "2012-11-03T17:38:48.027",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19785",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-11-03T14:30:00Z",
+      "updated": "2012-11-04T12:04:29.497",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19787",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-11-03T14:30:00Z",
+      "updated": "2012-11-03T17:38:42.337",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19789",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-11-03T14:30:00Z",
+      "updated": "2012-11-05T23:57:04.477",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19790",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-11-03T14:30:00Z",
+      "updated": "2012-11-03T20:27:04.577",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "19791",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-11-03T17:30:00Z",
+      "updated": "2012-11-03T19:41:36.953",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "19786",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-11-04T14:30:00Z",
+      "updated": "2012-11-04T17:23:02.65",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "19788",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2012-11-04T16:30:00Z",
+      "updated": "2012-11-05T00:07:43.697",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19798",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-11-09T19:30:00Z",
+      "updated": "2012-11-10T18:03:16.837",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19793",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-11-10T14:30:00Z",
+      "updated": "2012-11-10T18:04:05.147",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19794",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-11-10T14:30:00Z",
+      "updated": "2012-11-10T18:04:24.237",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19797",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-11-10T14:30:00Z",
+      "updated": "2012-11-10T18:04:42.123",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19799",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-11-10T14:30:00Z",
+      "updated": "2012-11-10T18:03:35.4",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19801",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-11-10T14:30:00Z",
+      "updated": "2012-11-10T18:03:51.007",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19796",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-11-11T14:30:00Z",
+      "updated": "2012-11-11T17:19:59.257",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19795",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-11-11T16:30:00Z",
+      "updated": "2012-12-06T19:31:31.183",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "19800",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2012-11-11T16:30:00Z",
+      "updated": "2012-11-11T19:28:32.15",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "19802",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-17T14:30:00Z",
+      "updated": "2012-11-17T19:37:52.5",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19803",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-17T14:30:00Z",
+      "updated": "2012-11-18T19:21:53.777",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19805",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-17T14:30:00Z",
+      "updated": "2012-11-17T16:45:03.89",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19807",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-17T14:30:00Z",
+      "updated": "2012-11-17T17:24:31.563",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19809",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-17T14:30:00Z",
+      "updated": "2012-11-17T16:52:56.03",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19810",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-17T14:30:00Z",
+      "updated": "2012-11-17T17:07:41.843",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "19804",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-17T17:30:00Z",
+      "updated": "2012-11-17T20:22:56.983",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19806",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-18T14:30:00Z",
+      "updated": "2012-11-18T19:32:15.197",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19808",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2012-11-18T16:30:00Z",
+      "updated": "2012-11-18T19:22:00.79",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19819",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-23T19:30:00Z",
+      "updated": "2012-11-25T18:10:32.467",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19811",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-24T14:30:00Z",
+      "updated": "2012-12-15T18:14:00.673",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "19812",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-24T14:30:00Z",
+      "updated": "2012-11-25T18:10:32.657",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19813",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-24T14:30:00Z",
+      "updated": "2012-11-25T18:10:32.733",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19816",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-24T14:30:00Z",
+      "updated": "2012-11-25T19:49:25.937",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19818",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-24T14:30:00Z",
+      "updated": "2012-11-25T18:10:32.89",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19815",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-25T14:30:00Z",
+      "updated": "2012-11-25T21:21:28.28",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19814",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-25T16:30:00Z",
+      "updated": "2012-11-25T21:22:20",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19817",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2012-11-25T16:30:00Z",
+      "updated": "2012-11-25T21:21:54.28",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19820",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-27T19:00:00Z",
+      "updated": "2012-11-27T22:00:44.263",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19823",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-27T19:00:00Z",
+      "updated": "2012-11-27T21:31:03.763",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19827",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-27T19:00:00Z",
+      "updated": "2012-11-27T21:53:52.153",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19828",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-27T19:00:00Z",
+      "updated": "2012-11-28T21:24:41.683",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19821",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-28T19:00:00Z",
+      "updated": "2012-11-28T22:04:24.51",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19822",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-28T19:00:00Z",
+      "updated": "2012-11-29T00:56:35.557",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19824",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-28T19:00:00Z",
+      "updated": "2012-11-29T00:56:12.23",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "19826",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-28T19:00:00Z",
+      "updated": "2012-11-29T09:14:33.093",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19825",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2012-11-28T19:45:00Z",
+      "updated": "2012-11-29T00:57:54.323",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "19836",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-11-30T19:30:00Z",
+      "updated": "2012-12-10T10:14:45.807",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "19830",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-12-01T14:30:00Z",
+      "updated": "2012-12-10T10:16:29.747",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19833",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-12-01T14:30:00Z",
+      "updated": "2012-12-10T10:15:28.247",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19834",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-12-01T14:30:00Z",
+      "updated": "2012-12-10T10:15:53.76",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19835",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-12-01T14:30:00Z",
+      "updated": "2012-12-10T10:16:11.59",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19837",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-12-01T14:30:00Z",
+      "updated": "2012-12-10T10:15:01.323",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19829",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-12-01T17:30:00Z",
+      "updated": "2012-12-10T10:16:54.887",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19832",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-12-02T14:30:00Z",
+      "updated": "2012-12-10T10:17:19.073",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "19831",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2012-12-02T16:30:00Z",
+      "updated": "2012-12-10T10:17:36.293",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19846",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-12-07T19:30:00Z",
+      "updated": "2012-12-10T10:05:34.387",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19840",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-12-08T14:30:00Z",
+      "updated": "2012-12-10T10:06:01.12",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19841",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-12-08T14:30:00Z",
+      "updated": "2012-12-10T10:06:26.637",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "19843",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-12-08T14:30:00Z",
+      "updated": "2012-12-10T10:12:30.59",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19844",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-12-08T14:30:00Z",
+      "updated": "2012-12-10T10:12:28.65",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19845",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-12-08T14:30:00Z",
+      "updated": "2012-12-10T10:12:27.37",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "20412",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-12-08T17:30:00Z",
+      "updated": "2012-12-10T10:12:59.9",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "19839",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-12-09T14:30:00Z",
+      "updated": "2012-12-10T10:13:26.103",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19842",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2012-12-09T16:30:00Z",
+      "updated": "2012-12-10T10:13:40.807",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "19847",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-14T19:30:00Z",
+      "updated": "2012-12-18T15:14:27.377",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19849",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-15T14:30:00Z",
+      "updated": "2012-12-18T15:10:20.113",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19850",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-15T14:30:00Z",
+      "updated": "2012-12-18T15:10:42.317",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19853",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-15T14:30:00Z",
+      "updated": "2012-12-18T15:11:22.003",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19854",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-15T14:30:00Z",
+      "updated": "2012-12-18T15:11:38.8",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19855",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-15T14:30:00Z",
+      "updated": "2012-12-18T15:11:56.067",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19848",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-15T17:30:00Z",
+      "updated": "2012-12-18T15:12:12.783",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19852",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-16T14:30:00Z",
+      "updated": "2012-12-18T15:12:46.223",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "19851",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2012-12-16T16:30:00Z",
+      "updated": "2012-12-16T20:27:03.807",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19860",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2013-01-18T19:30:00Z",
+      "updated": "2013-01-19T16:27:17.603",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 5,
+        "away": 4
+      }
+    },
+    {
+      "id": "19857",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2013-01-19T14:30:00Z",
+      "updated": "2013-01-19T19:34:33.867",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19858",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2013-01-19T14:30:00Z",
+      "updated": "2013-01-19T19:33:21.61",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19859",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2013-01-19T14:30:00Z",
+      "updated": "2013-01-19T19:34:14.977",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19861",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2013-01-19T14:30:00Z",
+      "updated": "2013-01-19T17:22:02.75",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19864",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2013-01-19T14:30:00Z",
+      "updated": "2013-01-19T19:33:45.67",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19856",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2013-01-19T17:30:00Z",
+      "updated": "2013-01-19T20:22:07.677",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "19863",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2013-01-20T14:30:00Z",
+      "updated": "2013-01-20T18:50:32.173",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19862",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2013-01-20T16:30:00Z",
+      "updated": "2013-01-20T19:25:03.843",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "19872",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2013-01-25T19:30:00Z",
+      "updated": "2013-01-25T22:20:42.377",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19865",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2013-01-26T14:30:00Z",
+      "updated": "2013-01-26T17:23:46.853",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "19867",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2013-01-26T14:30:00Z",
+      "updated": "2013-01-30T15:40:26.223",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19868",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2013-01-26T14:30:00Z",
+      "updated": "2013-01-26T15:59:56.217",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19870",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2013-01-26T14:30:00Z",
+      "updated": "2013-01-26T16:34:55.457",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19873",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2013-01-26T14:30:00Z",
+      "updated": "2013-01-30T15:35:27.02",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19869",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2013-01-26T17:30:00Z",
+      "updated": "2013-01-26T20:19:43.423",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19871",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2013-01-27T14:30:00Z",
+      "updated": "2013-01-27T21:57:24.523",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "19866",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2013-01-27T16:30:00Z",
+      "updated": "2013-02-04T10:20:44.44",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19881",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-01T19:30:00Z",
+      "updated": "2013-02-03T20:02:54.63",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "19874",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-02T14:30:00Z",
+      "updated": "2013-02-03T20:02:36.457",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19875",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-02T14:30:00Z",
+      "updated": "2013-02-07T11:22:38.053",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "19878",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-02T14:30:00Z",
+      "updated": "2013-02-03T20:01:53.203",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "19880",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-02T14:30:00Z",
+      "updated": "2013-02-03T20:02:18.593",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19882",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-02T14:30:00Z",
+      "updated": "2013-02-02T17:21:58.4",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19877",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-02T17:30:00Z",
+      "updated": "2013-02-03T19:54:33.2",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19879",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-03T14:30:00Z",
+      "updated": "2013-02-03T20:04:25.607",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19876",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2013-02-03T16:30:00Z",
+      "updated": "2013-02-07T11:22:15.427",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "19883",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-09T14:30:00Z",
+      "updated": "2013-02-09T20:21:37.843",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19885",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-09T14:30:00Z",
+      "updated": "2013-02-09T20:01:35.817",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "19888",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-09T14:30:00Z",
+      "updated": "2013-02-09T20:00:35.003",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "19889",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-09T14:30:00Z",
+      "updated": "2013-02-09T20:31:08.813",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19890",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-09T14:30:00Z",
+      "updated": "2013-02-09T20:02:58.907",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "19891",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-09T14:30:00Z",
+      "updated": "2013-02-09T20:02:30.29",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19886",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-09T17:30:00Z",
+      "updated": "2013-02-09T19:59:19.403",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "19884",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-10T14:30:00Z",
+      "updated": "2013-02-10T17:26:57.073",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19887",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2013-02-10T16:30:00Z",
+      "updated": "2013-02-10T19:26:21.503",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19896",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-15T19:30:00Z",
+      "updated": "2013-02-17T19:03:26.127",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "19893",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-16T14:30:00Z",
+      "updated": "2013-02-17T19:05:44.597",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "19894",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-16T14:30:00Z",
+      "updated": "2013-02-17T19:07:07.273",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19895",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-16T14:30:00Z",
+      "updated": "2013-02-17T19:08:16.88",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19898",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-16T14:30:00Z",
+      "updated": "2013-02-17T19:09:39.497",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19899",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-16T14:30:00Z",
+      "updated": "2013-02-16T16:28:01.957",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "19897",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-16T17:30:00Z",
+      "updated": "2013-02-17T19:10:42.737",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "19892",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-17T14:30:00Z",
+      "updated": "2013-02-18T11:50:28.487",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "19900",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2013-02-17T16:30:00Z",
+      "updated": "2013-02-18T11:53:04.77",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19905",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-22T19:30:00Z",
+      "updated": "2013-02-23T16:15:38.743",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "19901",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-23T14:30:00Z",
+      "updated": "2013-02-23T17:18:50.51",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 6,
+        "away": 1
+      }
+    },
+    {
+      "id": "19902",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-23T14:30:00Z",
+      "updated": "2013-02-23T17:15:02.557",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19903",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-23T14:30:00Z",
+      "updated": "2013-02-23T17:22:22.243",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19904",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-23T14:30:00Z",
+      "updated": "2013-02-23T20:32:26.627",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "19909",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-23T14:30:00Z",
+      "updated": "2013-02-23T17:11:18.553",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19907",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-23T17:30:00Z",
+      "updated": "2013-02-23T20:30:53.143",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "19906",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-24T14:30:00Z",
+      "updated": "2013-02-24T18:25:53.1",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19908",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2013-02-24T16:30:00Z",
+      "updated": "2013-02-24T19:23:34.893",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "20157",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-01T19:30:00Z",
+      "updated": "2013-03-01T22:23:29.053",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "19910",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-02T14:30:00Z",
+      "updated": "2013-03-02T17:00:47.943",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "19912",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-02T14:30:00Z",
+      "updated": "2013-03-02T17:16:41.317",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "19913",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-02T14:30:00Z",
+      "updated": "2013-03-02T16:49:30.703",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "20158",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-02T14:30:00Z",
+      "updated": "2013-03-02T17:21:31.373",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "20161",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-02T14:30:00Z",
+      "updated": "2013-03-02T16:49:35.967",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "19911",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-02T17:30:00Z",
+      "updated": "2013-03-02T20:21:53.043",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "20160",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-03T14:30:00Z",
+      "updated": "2013-03-03T19:42:20.917",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "20159",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2013-03-03T16:30:00Z",
+      "updated": "2013-03-03T19:42:56.56",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "20165",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-08T19:30:00Z",
+      "updated": "2013-03-09T17:21:13.35",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "20162",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-09T14:30:00Z",
+      "updated": "2013-03-09T17:58:25.957",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "20163",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-09T14:30:00Z",
+      "updated": "2013-03-09T18:01:38.123",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 5
+      }
+    },
+    {
+      "id": "20166",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-09T14:30:00Z",
+      "updated": "2013-03-09T17:59:38.463",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "20169",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-09T14:30:00Z",
+      "updated": "2013-03-09T20:35:55.987",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "20170",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-09T14:30:00Z",
+      "updated": "2013-03-09T18:03:38.473",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "20164",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-09T17:30:00Z",
+      "updated": "2013-03-09T20:12:54.57",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "20168",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-10T14:30:00Z",
+      "updated": "2013-03-10T19:22:14.973",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "20167",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2013-03-10T16:30:00Z",
+      "updated": "2013-03-10T19:24:17.847",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "20172",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-15T19:30:00Z",
+      "updated": "2013-03-16T17:21:42.363",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "20173",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-16T14:30:00Z",
+      "updated": "2013-03-16T17:21:16.7",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "20176",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-16T14:30:00Z",
+      "updated": "2013-03-16T17:21:35.56",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "20177",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-16T14:30:00Z",
+      "updated": "2013-03-16T17:21:52.59",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "20178",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-16T14:30:00Z",
+      "updated": "2013-03-16T17:24:15.633",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "20179",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-16T14:30:00Z",
+      "updated": "2013-03-16T17:23:30.693",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "20171",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-16T17:30:00Z",
+      "updated": "2013-03-16T21:20:12.233",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "20174",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-17T14:30:00Z",
+      "updated": "2013-03-17T17:37:02.77",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "20175",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2013-03-17T16:30:00Z",
+      "updated": "2013-03-17T19:24:04.007",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "20181",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-30T14:30:00Z",
+      "updated": "2013-03-30T19:39:20.56",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "20183",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-30T14:30:00Z",
+      "updated": "2013-03-30T18:34:45.443",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "20184",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-30T14:30:00Z",
+      "updated": "2013-03-30T18:33:30.467",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "20185",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-30T14:30:00Z",
+      "updated": "2013-03-30T18:34:02.07",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "20186",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-30T14:30:00Z",
+      "updated": "2013-03-30T18:34:20.987",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "20188",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-30T14:30:00Z",
+      "updated": "2013-03-30T18:35:01.35",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "20180",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-30T17:30:00Z",
+      "updated": "2013-03-30T20:32:29.933",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 9,
+        "away": 2
+      }
+    },
+    {
+      "id": "20187",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-31T13:30:00Z",
+      "updated": "2013-04-01T12:17:57.46",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "20182",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2013-03-31T15:30:00Z",
+      "updated": "2013-04-01T12:23:07.303",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "20192",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-05T18:30:00Z",
+      "updated": "2013-04-05T23:55:13.427",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "20189",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-06T13:30:00Z",
+      "updated": "2013-04-07T19:52:47.967",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "20190",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-06T13:30:00Z",
+      "updated": "2013-04-06T17:29:49.08",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "20191",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-06T13:30:00Z",
+      "updated": "2013-04-06T17:30:32.187",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "20193",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-06T13:30:00Z",
+      "updated": "2013-04-06T17:31:04.177",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "20195",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-06T13:30:00Z",
+      "updated": "2013-04-06T21:23:19.937",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "20196",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-06T16:30:00Z",
+      "updated": "2013-04-06T21:25:25.327",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "20197",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-07T13:30:00Z",
+      "updated": "2013-04-09T21:58:02.147",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "20194",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2013-04-07T15:30:00Z",
+      "updated": "2013-04-07T20:11:32.543",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "20205",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-12T18:30:00Z",
+      "updated": "2013-04-12T23:23:00.367",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "20198",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-13T13:30:00Z",
+      "updated": "2013-04-13T17:30:36.153",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "20199",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-13T13:30:00Z",
+      "updated": "2013-04-13T17:29:53.25",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "20200",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-13T13:30:00Z",
+      "updated": "2013-04-13T17:31:10.85",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "20201",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-13T13:30:00Z",
+      "updated": "2013-04-13T17:29:29.303",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 6
+      }
+    },
+    {
+      "id": "20206",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-13T13:30:00Z",
+      "updated": "2013-04-13T17:28:38.917",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "20204",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-13T16:30:00Z",
+      "updated": "2013-04-13T23:18:15.033",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "20203",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-14T13:30:00Z",
+      "updated": "2013-04-14T21:43:05.21",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "20202",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2013-04-14T15:30:00Z",
+      "updated": "2013-04-14T21:43:29.83",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "20209",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-19T18:30:00Z",
+      "updated": "2013-04-19T22:31:46.423",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "20208",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-20T13:30:00Z",
+      "updated": "2013-04-20T17:31:52.247",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "20211",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-20T13:30:00Z",
+      "updated": "2013-04-20T17:34:39.627",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 6
+      }
+    },
+    {
+      "id": "20212",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-20T13:30:00Z",
+      "updated": "2013-04-21T16:35:31.96",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "20213",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-20T13:30:00Z",
+      "updated": "2013-04-20T17:32:48.353",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "20215",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-20T13:30:00Z",
+      "updated": "2013-04-20T17:32:30.32",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "20214",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-20T16:30:00Z",
+      "updated": "2013-04-20T23:07:35.233",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "20207",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-21T13:30:00Z",
+      "updated": "2013-04-22T06:31:02.597",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "20210",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2013-04-21T15:30:00Z",
+      "updated": "2013-04-22T06:31:28.417",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "20216",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-26T18:30:00Z",
+      "updated": "2013-04-27T15:50:57.297",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "20217",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-27T13:30:00Z",
+      "updated": "2013-04-27T17:26:27.203",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "20218",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-27T13:30:00Z",
+      "updated": "2013-04-27T17:27:12.937",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "20219",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-27T13:30:00Z",
+      "updated": "2013-04-27T17:27:49.71",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "20223",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-27T13:30:00Z",
+      "updated": "2013-04-27T18:46:38",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "20224",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-27T13:30:00Z",
+      "updated": "2013-04-27T17:29:26.88",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "20221",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-27T16:30:00Z",
+      "updated": "2013-04-27T20:30:25.467",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "20222",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-28T13:30:00Z",
+      "updated": "2013-04-29T06:45:18.23",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "20220",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2013-04-28T15:30:00Z",
+      "updated": "2013-04-29T06:46:02.767",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "20233",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-03T18:30:00Z",
+      "updated": "2013-05-03T22:30:51.95",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "20225",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-04T13:30:00Z",
+      "updated": "2013-05-04T17:28:44.903",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "20227",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-04T13:30:00Z",
+      "updated": "2013-05-04T17:30:46.267",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "20228",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-04T13:30:00Z",
+      "updated": "2013-05-04T17:29:16.503",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "20230",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-04T13:30:00Z",
+      "updated": "2013-05-04T17:31:17.423",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "20232",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-04T13:30:00Z",
+      "updated": "2013-05-04T17:29:51.4",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "20231",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-04T16:30:00Z",
+      "updated": "2013-05-04T20:17:34.113",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "20229",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-05T13:30:00Z",
+      "updated": "2013-05-05T17:45:25.233",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "20226",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2013-05-05T15:30:00Z",
+      "updated": "2013-05-05T20:57:21.88",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "20234",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-11T13:30:00Z",
+      "updated": "2013-05-16T07:54:00.723",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "20235",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-11T13:30:00Z",
+      "updated": "2013-05-11T18:23:05.763",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "20236",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-11T13:30:00Z",
+      "updated": "2013-05-11T18:24:12.64",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "20237",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-11T13:30:00Z",
+      "updated": "2013-05-11T18:24:34.417",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "20238",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-11T13:30:00Z",
+      "updated": "2013-05-11T18:25:13.23",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "20239",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-11T13:30:00Z",
+      "updated": "2013-05-11T17:22:46.837",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "20240",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-11T13:30:00Z",
+      "updated": "2013-05-11T18:26:38.073",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "20241",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-11T13:30:00Z",
+      "updated": "2013-05-11T17:22:59.823",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "20242",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2013-05-11T13:30:00Z",
+      "updated": "2013-05-11T17:23:02.307",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "20243",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-18T13:30:00Z",
+      "updated": "2013-07-09T22:16:50.337",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 3,
+        "away": 4
+      }
+    },
+    {
+      "id": "20244",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-18T13:30:00Z",
+      "updated": "2013-05-18T17:28:29.84",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "20245",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-18T13:30:00Z",
+      "updated": "2013-05-18T17:30:55.22",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "20246",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-18T13:30:00Z",
+      "updated": "2013-05-18T17:31:31.99",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "20247",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-18T13:30:00Z",
+      "updated": "2013-05-18T17:31:51.857",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "20248",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-18T13:30:00Z",
+      "updated": "2013-05-18T17:32:32.22",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "20249",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-18T13:30:00Z",
+      "updated": "2013-05-18T17:33:03.77",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "20250",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-18T13:30:00Z",
+      "updated": "2013-05-18T17:30:26.563",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "20251",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2013-05-18T13:30:00Z",
+      "updated": "2013-05-18T17:30:06.497",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    }
+  ],
+  "standings": [
+    {
+      "teamId": "40",
+      "name": "FC Bayern München",
+      "shortName": "Bayern",
+      "position": 1,
+      "played": 34,
+      "wins": 29,
+      "draws": 4,
+      "losses": 1,
+      "goalsFor": 98,
+      "goalsAgainst": 18,
+      "goalDifference": 80,
+      "points": 91
+    },
+    {
+      "teamId": "7",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "position": 2,
+      "played": 34,
+      "wins": 19,
+      "draws": 9,
+      "losses": 6,
+      "goalsFor": 81,
+      "goalsAgainst": 42,
+      "goalDifference": 39,
+      "points": 66
+    },
+    {
+      "teamId": "6",
+      "name": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "position": 3,
+      "played": 34,
+      "wins": 19,
+      "draws": 8,
+      "losses": 7,
+      "goalsFor": 65,
+      "goalsAgainst": 39,
+      "goalDifference": 26,
+      "points": 65
+    },
+    {
+      "teamId": "9",
+      "name": "FC Schalke 04",
+      "shortName": "S04",
+      "position": 4,
+      "played": 34,
+      "wins": 16,
+      "draws": 7,
+      "losses": 11,
+      "goalsFor": 58,
+      "goalsAgainst": 50,
+      "goalDifference": 8,
+      "points": 55
+    },
+    {
+      "teamId": "112",
+      "name": "SC Freiburg",
+      "shortName": "Freiburg",
+      "position": 5,
+      "played": 34,
+      "wins": 14,
+      "draws": 9,
+      "losses": 11,
+      "goalsFor": 45,
+      "goalsAgainst": 40,
+      "goalDifference": 5,
+      "points": 51
+    },
+    {
+      "teamId": "91",
+      "name": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "position": 6,
+      "played": 34,
+      "wins": 14,
+      "draws": 9,
+      "losses": 11,
+      "goalsFor": 49,
+      "goalsAgainst": 46,
+      "goalDifference": 3,
+      "points": 51
+    },
+    {
+      "teamId": "100",
+      "name": "Hamburger SV",
+      "shortName": "HSV",
+      "position": 7,
+      "played": 34,
+      "wins": 14,
+      "draws": 6,
+      "losses": 14,
+      "goalsFor": 42,
+      "goalsAgainst": 53,
+      "goalDifference": -11,
+      "points": 48
+    },
+    {
+      "teamId": "87",
+      "name": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "position": 8,
+      "played": 34,
+      "wins": 12,
+      "draws": 11,
+      "losses": 11,
+      "goalsFor": 45,
+      "goalsAgainst": 49,
+      "goalDifference": -4,
+      "points": 47
+    },
+    {
+      "teamId": "55",
+      "name": "Hannover 96",
+      "shortName": "Hannover",
+      "position": 9,
+      "played": 34,
+      "wins": 13,
+      "draws": 6,
+      "losses": 15,
+      "goalsFor": 60,
+      "goalsAgainst": 62,
+      "goalDifference": -2,
+      "points": 45
+    },
+    {
+      "teamId": "79",
+      "name": "1. FC Nürnberg",
+      "shortName": "Nürnberg",
+      "position": 10,
+      "played": 34,
+      "wins": 11,
+      "draws": 11,
+      "losses": 12,
+      "goalsFor": 39,
+      "goalsAgainst": 47,
+      "goalDifference": -8,
+      "points": 44
+    },
+    {
+      "teamId": "131",
+      "name": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "position": 11,
+      "played": 34,
+      "wins": 10,
+      "draws": 13,
+      "losses": 11,
+      "goalsFor": 47,
+      "goalsAgainst": 52,
+      "goalDifference": -5,
+      "points": 43
+    },
+    {
+      "teamId": "16",
+      "name": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "position": 12,
+      "played": 34,
+      "wins": 12,
+      "draws": 7,
+      "losses": 15,
+      "goalsFor": 37,
+      "goalsAgainst": 55,
+      "goalDifference": -18,
+      "points": 43
+    },
+    {
+      "teamId": "81",
+      "name": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "position": 13,
+      "played": 34,
+      "wins": 10,
+      "draws": 12,
+      "losses": 12,
+      "goalsFor": 42,
+      "goalsAgainst": 44,
+      "goalDifference": -2,
+      "points": 42
+    },
+    {
+      "teamId": "134",
+      "name": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "position": 14,
+      "played": 34,
+      "wins": 8,
+      "draws": 10,
+      "losses": 16,
+      "goalsFor": 50,
+      "goalsAgainst": 66,
+      "goalDifference": -16,
+      "points": 34
+    },
+    {
+      "teamId": "95",
+      "name": "FC Augsburg",
+      "shortName": "Augsburg",
+      "position": 15,
+      "played": 34,
+      "wins": 8,
+      "draws": 9,
+      "losses": 17,
+      "goalsFor": 33,
+      "goalsAgainst": 51,
+      "goalDifference": -18,
+      "points": 33
+    },
+    {
+      "teamId": "175",
+      "name": "TSG Hoffenheim",
+      "shortName": "Hoffenheim",
+      "position": 16,
+      "played": 34,
+      "wins": 8,
+      "draws": 7,
+      "losses": 19,
+      "goalsFor": 42,
+      "goalsAgainst": 67,
+      "goalDifference": -25,
+      "points": 31
+    },
+    {
+      "teamId": "185",
+      "name": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf",
+      "position": 17,
+      "played": 34,
+      "wins": 7,
+      "draws": 9,
+      "losses": 18,
+      "goalsFor": 39,
+      "goalsAgainst": 57,
+      "goalDifference": -18,
+      "points": 30
+    },
+    {
+      "teamId": "115",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "position": 18,
+      "played": 34,
+      "wins": 4,
+      "draws": 9,
+      "losses": 21,
+      "goalsFor": 26,
+      "goalsAgainst": 60,
+      "goalDifference": -34,
+      "points": 21
+    }
+  ],
+  "teams": [
+    {
+      "teamId": "79",
+      "name": "1. FC Nürnberg",
+      "shortName": "Nürnberg"
+    },
+    {
+      "teamId": "81",
+      "name": "1. FSV Mainz 05",
+      "shortName": "Mainz"
+    },
+    {
+      "teamId": "6",
+      "name": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen"
+    },
+    {
+      "teamId": "7",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund"
+    },
+    {
+      "teamId": "87",
+      "name": "Borussia Mönchengladbach",
+      "shortName": "Gladbach"
+    },
+    {
+      "teamId": "91",
+      "name": "Eintracht Frankfurt",
+      "shortName": "Frankfurt"
+    },
+    {
+      "teamId": "95",
+      "name": "FC Augsburg",
+      "shortName": "Augsburg"
+    },
+    {
+      "teamId": "40",
+      "name": "FC Bayern München",
+      "shortName": "Bayern"
+    },
+    {
+      "teamId": "9",
+      "name": "FC Schalke 04",
+      "shortName": "S04"
+    },
+    {
+      "teamId": "185",
+      "name": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf"
+    },
+    {
+      "teamId": "100",
+      "name": "Hamburger SV",
+      "shortName": "HSV"
+    },
+    {
+      "teamId": "55",
+      "name": "Hannover 96",
+      "shortName": "Hannover"
+    },
+    {
+      "teamId": "112",
+      "name": "SC Freiburg",
+      "shortName": "Freiburg"
+    },
+    {
+      "teamId": "115",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth"
+    },
+    {
+      "teamId": "134",
+      "name": "SV Werder Bremen",
+      "shortName": "Bremen"
+    },
+    {
+      "teamId": "175",
+      "name": "TSG Hoffenheim",
+      "shortName": "Hoffenheim"
+    },
+    {
+      "teamId": "16",
+      "name": "VfB Stuttgart",
+      "shortName": "Stuttgart"
+    },
+    {
+      "teamId": "131",
+      "name": "VfL Wolfsburg",
+      "shortName": "Wolfsburg"
+    }
+  ],
+  "groupChecks": {}
+}

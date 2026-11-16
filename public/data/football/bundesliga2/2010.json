@@ -1,0 +1,5867 @@
+{
+  "schemaVersion": 1,
+  "id": "bundesliga2",
+  "shortcut": "bl2",
+  "year": 2010,
+  "seasonLabel": "2010/11",
+  "complete": true,
+  "calendarCheckedAt": "2026-11-16T13:38:24.475Z",
+  "updatedAt": "2026-11-16T13:38:24.475Z",
+  "matches": [
+    {
+      "id": "10391",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2010-08-20T16:00:00Z",
+      "updated": "2010-08-21T13:30:35.03",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10397",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2010-08-20T16:00:00Z",
+      "updated": "2010-08-21T13:31:44.397",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10398",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2010-08-20T16:00:00Z",
+      "updated": "2010-08-21T13:33:01.36",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10392",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2010-08-21T11:00:00Z",
+      "updated": "2010-08-21T14:53:24.103",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10396",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2010-08-21T11:00:00Z",
+      "updated": "2010-08-21T14:51:55.703",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "10393",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2010-08-22T11:30:00Z",
+      "updated": "2010-08-22T15:22:44.38",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10395",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2010-08-22T11:30:00Z",
+      "updated": "2010-08-22T15:20:55.317",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10399",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2010-08-22T11:30:00Z",
+      "updated": "2010-08-22T15:23:37.847",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10394",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2010-08-23T18:15:00Z",
+      "updated": "2010-08-28T13:20:26.91",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "10403",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2010-08-27T16:00:00Z",
+      "updated": "2010-08-27T19:56:13.093",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10405",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2010-08-27T16:00:00Z",
+      "updated": "2010-08-27T19:56:44.247",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10408",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2010-08-27T16:00:00Z",
+      "updated": "2010-08-27T19:57:12.28",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10401",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2010-08-28T11:00:00Z",
+      "updated": "2010-08-28T14:55:04.07",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "10407",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2010-08-28T11:00:00Z",
+      "updated": "2010-08-29T13:51:50.68",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10402",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2010-08-29T11:30:00Z",
+      "updated": "2010-08-29T15:21:37.77",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "10404",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2010-08-29T11:30:00Z",
+      "updated": "2010-08-29T15:21:02.527",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "10406",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2010-08-29T11:30:00Z",
+      "updated": "2010-08-29T15:23:39.123",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "10400",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2010-08-30T18:15:00Z",
+      "updated": "2010-08-30T22:05:01.027",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "10410",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2010-09-10T16:00:00Z",
+      "updated": "2010-09-10T20:01:24.667",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10414",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2010-09-10T16:00:00Z",
+      "updated": "2010-09-10T20:02:43.07",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10417",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2010-09-10T16:00:00Z",
+      "updated": "2010-09-10T20:03:33.287",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10411",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2010-09-11T11:00:00Z",
+      "updated": "2010-09-11T20:34:57.637",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10416",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2010-09-11T11:00:00Z",
+      "updated": "2010-09-11T14:51:31.217",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10409",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2010-09-12T11:30:00Z",
+      "updated": "2010-09-12T15:23:34.473",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10412",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2010-09-12T11:30:00Z",
+      "updated": "2010-09-12T15:23:38.483",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "10415",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2010-09-12T11:30:00Z",
+      "updated": "2010-09-12T15:23:43.3",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10413",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2010-09-13T18:15:00Z",
+      "updated": "2010-09-14T19:57:18.237",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "10422",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2010-09-17T16:00:00Z",
+      "updated": "2010-09-17T19:51:04.243",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10424",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2010-09-17T16:00:00Z",
+      "updated": "2010-09-17T19:53:31.203",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10425",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2010-09-17T16:00:00Z",
+      "updated": "2010-09-17T19:51:37.857",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10420",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2010-09-18T11:00:00Z",
+      "updated": "2010-09-18T14:50:21.147",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10426",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2010-09-18T11:00:00Z",
+      "updated": "2010-09-18T14:50:10.78",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10418",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2010-09-19T11:30:00Z",
+      "updated": "2010-09-19T15:20:11.5",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10419",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2010-09-19T11:30:00Z",
+      "updated": "2010-09-19T15:21:21.353",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10421",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2010-09-19T11:30:00Z",
+      "updated": "2010-09-19T15:21:39.363",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10423",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2010-09-19T11:30:00Z",
+      "updated": "2010-09-19T15:20:46.047",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10427",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2010-09-21T15:30:00Z",
+      "updated": "2010-09-22T19:24:11.57",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10428",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2010-09-21T15:30:00Z",
+      "updated": "2010-09-22T19:24:11.61",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10433",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2010-09-21T15:30:00Z",
+      "updated": "2010-09-22T19:24:11.647",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10434",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2010-09-21T15:30:00Z",
+      "updated": "2010-09-22T19:24:11.683",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10429",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2010-09-22T15:30:00Z",
+      "updated": "2010-09-22T19:24:11.72",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10430",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2010-09-22T15:30:00Z",
+      "updated": "2010-09-22T19:26:06.623",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "10431",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2010-09-22T15:30:00Z",
+      "updated": "2010-09-22T19:25:53.17",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10432",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2010-09-22T15:30:00Z",
+      "updated": "2010-09-22T19:24:11.827",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10435",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2010-09-22T15:30:00Z",
+      "updated": "2010-09-22T19:24:11.867",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "10438",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2010-09-24T16:00:00Z",
+      "updated": "2010-09-26T13:56:48.943",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10440",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2010-09-24T16:00:00Z",
+      "updated": "2010-09-26T13:57:10.533",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10444",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2010-09-24T16:00:00Z",
+      "updated": "2010-09-26T13:57:28.06",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10437",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2010-09-25T11:00:00Z",
+      "updated": "2010-09-26T10:18:53.173",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10442",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2010-09-25T11:00:00Z",
+      "updated": "2010-09-26T10:19:56.55",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10439",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2010-09-26T11:30:00Z",
+      "updated": "2010-09-26T15:22:43.753",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10441",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2010-09-26T11:30:00Z",
+      "updated": "2010-09-26T15:22:51.843",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10443",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2010-09-26T11:30:00Z",
+      "updated": "2010-09-26T15:29:34.207",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10436",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2010-09-27T18:15:00Z",
+      "updated": "2010-09-27T22:06:29.47",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10446",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2010-10-01T16:00:00Z",
+      "updated": "2010-10-01T19:51:32.01",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10447",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2010-10-01T16:00:00Z",
+      "updated": "2010-10-01T19:51:29.76",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10450",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2010-10-01T16:00:00Z",
+      "updated": "2010-10-01T19:51:28.393",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10448",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2010-10-02T11:00:00Z",
+      "updated": "2010-10-02T15:59:57.873",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10452",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2010-10-02T11:00:00Z",
+      "updated": "2010-10-02T22:12:02.653",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "10449",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2010-10-03T11:30:00Z",
+      "updated": "2010-10-04T20:39:15.127",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10451",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2010-10-03T11:30:00Z",
+      "updated": "2010-10-04T20:42:30.867",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10453",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2010-10-03T11:30:00Z",
+      "updated": "2010-10-04T21:00:18.93",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "10445",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2010-10-04T18:15:00Z",
+      "updated": "2010-10-04T22:05:42.787",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10457",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2010-10-15T16:00:00Z",
+      "updated": "2010-10-15T19:50:12.167",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10458",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2010-10-15T16:00:00Z",
+      "updated": "2010-10-15T19:51:08.287",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10461",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2010-10-15T16:00:00Z",
+      "updated": "2010-10-15T19:50:20.8",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10456",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2010-10-16T11:00:00Z",
+      "updated": "2010-10-16T14:50:55.72",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "10462",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2010-10-16T11:00:00Z",
+      "updated": "2010-10-16T14:51:02.85",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10455",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2010-10-17T11:30:00Z",
+      "updated": "2010-10-17T15:20:28.343",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10459",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2010-10-17T11:30:00Z",
+      "updated": "2010-10-17T15:20:35.307",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10460",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2010-10-17T11:30:00Z",
+      "updated": "2010-10-17T15:20:49.77",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10454",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2010-10-18T18:15:00Z",
+      "updated": "2010-10-18T22:17:40.253",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "10463",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2010-10-22T16:00:00Z",
+      "updated": "2010-10-22T20:03:40.42",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10464",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2010-10-22T16:00:00Z",
+      "updated": "2010-10-22T20:03:44.58",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10470",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2010-10-22T16:00:00Z",
+      "updated": "2010-10-22T20:03:49.003",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10468",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2010-10-23T11:00:00Z",
+      "updated": "2010-10-23T14:54:41.79",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10469",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2010-10-23T11:00:00Z",
+      "updated": "2010-10-23T14:54:46.38",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10465",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2010-10-24T11:30:00Z",
+      "updated": "2010-10-24T15:36:04.787",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10466",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2010-10-24T11:30:00Z",
+      "updated": "2010-10-24T15:36:23.603",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10467",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2010-10-24T11:30:00Z",
+      "updated": "2010-10-24T15:36:17.527",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10471",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2010-10-25T18:15:00Z",
+      "updated": "2010-10-25T22:56:27.353",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10473",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2010-10-29T16:00:00Z",
+      "updated": "2010-10-31T20:28:56.74",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10477",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2010-10-29T16:00:00Z",
+      "updated": "2010-10-29T20:20:01.13",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10478",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2010-10-29T16:00:00Z",
+      "updated": "2010-10-29T20:19:56.75",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10475",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2010-10-30T11:00:00Z",
+      "updated": "2010-10-30T14:51:22.57",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10476",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2010-10-30T11:00:00Z",
+      "updated": "2010-10-30T14:51:28.283",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10474",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2010-10-31T12:30:00Z",
+      "updated": "2010-10-31T15:25:28.267",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10479",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2010-10-31T12:30:00Z",
+      "updated": "2010-10-31T15:25:35.083",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10480",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2010-10-31T12:30:00Z",
+      "updated": "2010-10-31T15:25:39.78",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "10472",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2010-11-01T19:15:00Z",
+      "updated": "2010-11-01T22:07:01.123",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10484",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2010-11-05T17:00:00Z",
+      "updated": "2010-11-08T23:21:39.373",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10486",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2010-11-05T17:00:00Z",
+      "updated": "2010-11-08T23:21:51.393",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10489",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2010-11-05T17:00:00Z",
+      "updated": "2010-11-08T23:21:58.993",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10481",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2010-11-06T12:00:00Z",
+      "updated": "2010-11-08T23:22:07.503",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10483",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2010-11-06T12:00:00Z",
+      "updated": "2010-11-08T23:22:15.683",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10482",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2010-11-07T12:30:00Z",
+      "updated": "2010-11-08T23:22:23.907",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10485",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2010-11-07T12:30:00Z",
+      "updated": "2010-11-08T23:22:33.017",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10487",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2010-11-07T12:30:00Z",
+      "updated": "2010-11-08T23:22:42.567",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10488",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2010-11-08T19:15:00Z",
+      "updated": "2010-11-08T23:22:46.757",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10490",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2010-11-12T17:00:00Z",
+      "updated": "2010-11-12T20:13:33.917",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10493",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2010-11-12T17:00:00Z",
+      "updated": "2010-11-12T19:50:35.13",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10494",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2010-11-12T17:00:00Z",
+      "updated": "2010-11-12T19:50:40.667",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10491",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2010-11-13T12:00:00Z",
+      "updated": "2010-11-13T14:52:53.483",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10496",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2010-11-13T12:00:00Z",
+      "updated": "2010-11-13T14:54:58.437",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10492",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2010-11-14T12:30:00Z",
+      "updated": "2010-11-14T15:22:17.373",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10495",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2010-11-14T12:30:00Z",
+      "updated": "2010-11-19T14:09:36.17",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10498",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2010-11-14T12:30:00Z",
+      "updated": "2010-11-14T15:21:22.763",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10497",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2010-11-15T19:15:00Z",
+      "updated": "2010-11-15T21:44:42.523",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10505",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2010-11-19T17:00:00Z",
+      "updated": "2010-11-21T09:19:38.473",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10506",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2010-11-19T17:00:00Z",
+      "updated": "2010-11-21T09:23:54.543",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10507",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2010-11-19T19:30:00Z",
+      "updated": "2010-11-19T22:20:54.267",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10500",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2010-11-20T12:00:00Z",
+      "updated": "2010-11-20T15:02:48.163",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10502",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2010-11-20T12:00:00Z",
+      "updated": "2010-11-20T15:02:53.813",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "10499",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2010-11-21T12:30:00Z",
+      "updated": "2010-11-21T15:14:13.047",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10503",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2010-11-21T12:30:00Z",
+      "updated": "2010-11-21T15:20:20.927",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10504",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2010-11-21T12:30:00Z",
+      "updated": "2010-11-21T15:20:35.727",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10501",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2010-11-22T19:15:00Z",
+      "updated": "2010-11-22T21:57:57.363",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10508",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2010-11-26T17:00:00Z",
+      "updated": "2010-11-26T19:50:33.04",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10510",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2010-11-26T17:00:00Z",
+      "updated": "2010-11-26T19:50:21.597",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "10513",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2010-11-26T17:00:00Z",
+      "updated": "2010-11-26T19:49:30.54",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "10509",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2010-11-27T12:00:00Z",
+      "updated": "2010-11-27T16:47:46.15",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10512",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2010-11-27T12:00:00Z",
+      "updated": "2010-11-27T16:48:06.49",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10511",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2010-11-28T12:30:00Z",
+      "updated": "2010-11-28T15:24:20.477",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10514",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2010-11-28T12:30:00Z",
+      "updated": "2010-11-28T15:24:25.47",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10515",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2010-11-28T12:30:00Z",
+      "updated": "2010-11-28T15:24:32.243",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10516",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2010-11-29T19:15:00Z",
+      "updated": "2010-11-29T22:06:15.93",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10519",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2010-12-03T17:00:00Z",
+      "updated": "2010-12-03T19:52:58.977",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "10521",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2010-12-03T17:00:00Z",
+      "updated": "2010-12-03T19:53:03.31",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10522",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2010-12-03T17:00:00Z",
+      "updated": "2010-12-03T19:52:53.85",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10517",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2010-12-04T12:00:00Z",
+      "updated": "2010-12-04T14:39:56.667",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10524",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2010-12-04T12:00:00Z",
+      "updated": "2010-12-04T14:44:47.64",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10518",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2010-12-05T12:30:00Z",
+      "updated": "2010-12-05T13:38:33.837",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10520",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2010-12-05T12:30:00Z",
+      "updated": "2010-12-05T13:41:18.643",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10523",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2010-12-05T12:30:00Z",
+      "updated": "2010-12-05T15:12:27.507",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10525",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2010-12-06T19:15:00Z",
+      "updated": "2010-12-06T21:04:41.077",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10530",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2010-12-10T17:00:00Z",
+      "updated": "2010-12-13T07:50:21.583",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10532",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2010-12-10T17:00:00Z",
+      "updated": "2010-12-11T16:35:49.97",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10533",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2010-12-10T17:00:00Z",
+      "updated": "2010-12-13T07:52:21.7",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10527",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2010-12-11T12:00:00Z",
+      "updated": "2010-12-12T16:10:59.783",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10534",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2010-12-11T12:00:00Z",
+      "updated": "2010-12-11T16:36:40.38",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10526",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2010-12-12T12:30:00Z",
+      "updated": "2010-12-12T16:12:01.823",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10529",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2010-12-12T12:30:00Z",
+      "updated": "2010-12-12T16:13:09.73",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10531",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2010-12-12T12:30:00Z",
+      "updated": "2010-12-12T16:14:01.287",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10528",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2010-12-13T19:15:00Z",
+      "updated": "2010-10-11T15:17:42.967",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10536",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2010-12-17T17:00:00Z",
+      "updated": "2010-12-17T19:51:11.13",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10537",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2010-12-17T17:00:00Z",
+      "updated": "2010-12-17T19:51:15.643",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10535",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2010-12-18T12:00:00Z",
+      "updated": "2010-12-18T14:51:50.957",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10542",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2010-12-18T12:00:00Z",
+      "updated": "2010-12-18T14:50:25.997",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10538",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2010-12-19T12:30:00Z",
+      "updated": "2010-12-19T15:21:56.883",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10540",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2010-12-19T12:30:00Z",
+      "updated": "2010-12-19T15:22:03.76",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "10541",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2010-12-19T12:30:00Z",
+      "updated": "2010-12-19T15:21:46.527",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10539",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2010-12-20T19:15:00Z",
+      "updated": "2010-12-20T22:24:56.95",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10543",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2011-02-01T17:00:00Z",
+      "updated": "2011-02-01T20:44:19.227",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10548",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2011-01-14T17:00:00Z",
+      "updated": "2011-01-14T19:50:42.717",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10550",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2011-01-14T17:00:00Z",
+      "updated": "2011-01-14T20:24:10.54",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10546",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2011-01-15T12:00:00Z",
+      "updated": "2011-01-15T14:58:07.53",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10547",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2011-01-15T12:00:00Z",
+      "updated": "2011-01-15T14:57:59.57",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10549",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2011-01-16T12:30:00Z",
+      "updated": "2011-01-16T15:19:17.04",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10551",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2011-01-16T12:30:00Z",
+      "updated": "2011-01-16T15:21:16.027",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10552",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2011-01-16T12:30:00Z",
+      "updated": "2011-01-16T22:22:49.367",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10544",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2011-01-17T19:15:00Z",
+      "updated": "2011-01-17T22:08:30.133",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10545",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2011-01-18T18:00:00Z",
+      "updated": "2011-01-18T21:32:42.233",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10554",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2011-01-21T17:00:00Z",
+      "updated": "2011-01-21T20:35:42.55",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10556",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2011-01-21T17:00:00Z",
+      "updated": "2011-01-21T20:37:40.29",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10557",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2011-01-21T17:00:00Z",
+      "updated": "2011-01-21T20:38:35.937",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10555",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2011-01-22T12:00:00Z",
+      "updated": "2011-01-22T14:55:26.197",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10559",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2011-01-22T12:00:00Z",
+      "updated": "2011-01-22T14:51:22.617",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "10553",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2011-01-23T12:30:00Z",
+      "updated": "2011-01-23T15:33:08.243",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10560",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2011-01-23T12:30:00Z",
+      "updated": "2011-01-23T15:33:25.207",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10561",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2011-01-23T12:30:00Z",
+      "updated": "2011-01-23T15:33:44.047",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10558",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2011-01-24T19:15:00Z",
+      "updated": "2011-01-24T23:03:42.273",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10567",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2011-01-28T17:00:00Z",
+      "updated": "2011-02-04T12:44:29.477",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10569",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2011-01-28T17:00:00Z",
+      "updated": "2011-02-04T12:44:12.997",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10570",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2011-01-28T17:00:00Z",
+      "updated": "2011-02-04T12:44:52.317",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10564",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2011-01-29T12:00:00Z",
+      "updated": "2011-02-04T12:45:01.667",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10568",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2011-01-29T12:00:00Z",
+      "updated": "2011-02-04T12:44:57.57",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "10562",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2011-01-30T12:30:00Z",
+      "updated": "2011-02-04T12:45:04.583",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "10563",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2011-01-30T12:30:00Z",
+      "updated": "2011-02-04T12:41:27.71",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10566",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2011-01-30T12:30:00Z",
+      "updated": "2011-02-04T14:34:05.37",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10565",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2011-01-31T19:15:00Z",
+      "updated": "2011-02-04T12:45:33.433",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10574",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2011-02-04T17:00:00Z",
+      "updated": "2011-02-04T19:50:27.747",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10576",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2011-02-04T17:00:00Z",
+      "updated": "2011-02-04T19:51:06.313",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "10577",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2011-02-04T17:00:00Z",
+      "updated": "2011-02-04T19:50:48.107",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10573",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2011-02-05T12:00:00Z",
+      "updated": "2011-02-05T15:01:33.68",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10575",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2011-02-05T12:00:00Z",
+      "updated": "2011-02-05T15:01:28.323",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10572",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2011-02-06T12:30:00Z",
+      "updated": "2011-02-06T15:20:29.083",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10578",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2011-02-06T12:30:00Z",
+      "updated": "2011-02-06T21:06:35.75",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10579",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2011-02-06T12:30:00Z",
+      "updated": "2011-02-06T15:22:47.253",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10571",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2011-02-07T19:15:00Z",
+      "updated": "2011-02-08T08:02:16.22",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10581",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2011-02-11T17:00:00Z",
+      "updated": "2011-02-11T21:54:43.63",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10589",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2011-02-11T17:00:00Z",
+      "updated": "2011-02-11T21:55:27.44",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10582",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2011-02-11T19:30:00Z",
+      "updated": "2011-02-11T22:21:36.92",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10587",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2011-02-12T12:00:00Z",
+      "updated": "2011-02-12T14:54:13.91",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10588",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2011-02-12T12:00:00Z",
+      "updated": "2011-02-12T14:54:08.053",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10580",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2011-02-13T12:30:00Z",
+      "updated": "2011-02-13T15:19:06.847",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10583",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2011-02-13T12:30:00Z",
+      "updated": "2011-02-13T15:20:41.417",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10586",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2011-02-13T12:30:00Z",
+      "updated": "2011-02-13T15:20:47.873",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10584",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2011-02-14T19:15:00Z",
+      "updated": "2011-02-15T09:32:57.08",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10590",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2011-02-18T17:00:00Z",
+      "updated": "2011-02-19T15:54:31.16",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10594",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2011-02-18T17:00:00Z",
+      "updated": "2011-02-19T15:54:28.61",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10597",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2011-02-18T17:00:00Z",
+      "updated": "2011-02-19T15:54:24.447",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10595",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2011-02-19T12:00:00Z",
+      "updated": "2011-02-19T15:54:36.387",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10596",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2011-02-19T12:00:00Z",
+      "updated": "2011-02-19T15:55:09.74",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "10591",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2011-02-20T12:30:00Z",
+      "updated": "2011-02-20T15:29:51.437",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10593",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2011-02-20T12:30:00Z",
+      "updated": "2011-02-20T15:30:29.707",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10598",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2011-02-20T12:30:00Z",
+      "updated": "2011-02-20T15:30:35.657",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "10592",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2011-02-21T19:15:00Z",
+      "updated": "2011-02-21T22:06:36",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "10601",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2011-02-25T17:00:00Z",
+      "updated": "2011-02-25T19:59:17.32",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10602",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2011-02-25T17:00:00Z",
+      "updated": "2011-02-25T19:59:23.223",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10603",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2011-02-25T17:00:00Z",
+      "updated": "2011-02-25T19:59:11.253",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10599",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2011-02-26T12:00:00Z",
+      "updated": "2011-02-26T14:48:25.717",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "10600",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2011-02-26T12:00:00Z",
+      "updated": "2011-02-26T14:50:12.773",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10604",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2011-02-27T12:30:00Z",
+      "updated": "2011-02-27T18:40:59.953",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10606",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2011-02-27T12:30:00Z",
+      "updated": "2011-02-27T18:39:42.92",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10607",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2011-02-27T12:30:00Z",
+      "updated": "2011-02-27T18:41:57.65",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "10605",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2011-02-28T19:15:00Z",
+      "updated": "2011-03-01T23:12:11.933",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10612",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2011-03-04T17:00:00Z",
+      "updated": "2011-03-05T13:27:49.993",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10613",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2011-03-04T17:00:00Z",
+      "updated": "2011-03-05T13:27:34.887",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "10616",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2011-03-04T17:00:00Z",
+      "updated": "2011-03-05T13:27:58.703",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10609",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2011-03-05T12:00:00Z",
+      "updated": "2011-03-05T14:48:08.223",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 4
+      }
+    },
+    {
+      "id": "10610",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2011-03-05T12:00:00Z",
+      "updated": "2011-03-06T16:39:55.017",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10608",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2011-03-06T12:30:00Z",
+      "updated": "2011-03-06T16:39:28.527",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10614",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2011-03-06T12:30:00Z",
+      "updated": "2011-03-06T15:23:11.183",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10615",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2011-03-06T12:30:00Z",
+      "updated": "2011-03-06T15:20:27.263",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "10611",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2011-03-07T19:15:00Z",
+      "updated": "2011-03-07T22:02:33.817",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "10621",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2011-03-11T17:00:00Z",
+      "updated": "2011-03-13T10:27:53.143",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10622",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2011-03-11T17:00:00Z",
+      "updated": "2011-03-11T19:53:37.81",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10625",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2011-03-11T17:00:00Z",
+      "updated": "2011-03-11T19:49:57.107",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10618",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2011-03-12T12:00:00Z",
+      "updated": "2011-03-12T15:01:11.78",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10619",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2011-03-12T12:00:00Z",
+      "updated": "2011-03-12T15:01:19.7",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10620",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2011-03-13T12:30:00Z",
+      "updated": "2011-03-13T15:20:04.677",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10623",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2011-03-13T12:30:00Z",
+      "updated": "2011-03-13T15:18:34.98",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10624",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2011-03-13T12:30:00Z",
+      "updated": "2011-03-13T15:34:31.867",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10617",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2011-03-14T19:15:00Z",
+      "updated": "2011-03-14T22:04:56.343",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10626",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2011-03-18T17:00:00Z",
+      "updated": "2011-03-21T00:14:48.383",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10629",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2011-03-18T17:00:00Z",
+      "updated": "2011-03-18T19:50:09.3",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10630",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2011-03-18T17:00:00Z",
+      "updated": "2011-03-18T19:48:31.203",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "10633",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2011-03-19T12:00:00Z",
+      "updated": "2011-03-19T14:55:47.637",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10634",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2011-03-19T12:00:00Z",
+      "updated": "2011-03-19T14:55:54.647",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10627",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2011-03-20T12:30:00Z",
+      "updated": "2011-03-20T15:25:12.193",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "10631",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2011-03-20T12:30:00Z",
+      "updated": "2011-03-20T15:22:31.667",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "10632",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2011-03-20T12:30:00Z",
+      "updated": "2011-03-20T15:22:23.803",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10628",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2011-03-21T19:15:00Z",
+      "updated": "2011-03-21T22:37:44.76",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10635",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2011-04-01T16:00:00Z",
+      "updated": "2011-04-01T21:14:11.593",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10640",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2011-04-01T16:00:00Z",
+      "updated": "2011-04-01T21:12:01.593",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "10642",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2011-04-01T16:00:00Z",
+      "updated": "2011-04-01T21:12:52.373",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10637",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2011-04-02T11:00:00Z",
+      "updated": "2011-04-02T14:52:52.59",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10643",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2011-04-02T11:00:00Z",
+      "updated": "2011-04-02T14:52:47.59",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10636",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2011-04-03T11:30:00Z",
+      "updated": "2011-04-03T16:48:52.817",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10639",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2011-04-03T11:30:00Z",
+      "updated": "2011-04-03T16:49:03.957",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10641",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2011-04-03T11:30:00Z",
+      "updated": "2011-04-03T16:49:16.707",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10638",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2011-04-04T18:15:00Z",
+      "updated": "2011-04-04T22:25:44",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10645",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2011-04-08T16:00:00Z",
+      "updated": "2011-04-08T19:50:27.12",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10650",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2011-04-08T16:00:00Z",
+      "updated": "2011-04-08T19:49:44.93",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10651",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2011-04-08T16:00:00Z",
+      "updated": "2011-04-09T13:41:02.167",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10644",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2011-04-09T11:00:00Z",
+      "updated": "2011-04-09T14:56:09.09",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10646",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2011-04-09T11:00:00Z",
+      "updated": "2011-04-09T14:51:13.103",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10648",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2011-04-10T11:30:00Z",
+      "updated": "2011-04-10T15:25:21.603",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10649",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2011-04-10T11:30:00Z",
+      "updated": "2011-04-10T15:25:27.62",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10652",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2011-04-10T11:30:00Z",
+      "updated": "2011-04-10T15:25:32.743",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10647",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2011-04-11T18:15:00Z",
+      "updated": "2011-04-11T22:21:42.987",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10656",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2011-04-15T16:00:00Z",
+      "updated": "2011-04-15T20:07:33.227",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10657",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2011-04-15T16:00:00Z",
+      "updated": "2011-04-15T20:07:26.77",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10660",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2011-04-15T16:00:00Z",
+      "updated": "2011-04-15T20:07:38.533",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10655",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2011-04-16T11:00:00Z",
+      "updated": "2011-04-16T16:50:42.313",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10659",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2011-04-16T11:00:00Z",
+      "updated": "2011-04-16T16:50:37.563",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10654",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2011-04-17T11:30:00Z",
+      "updated": "2011-04-17T15:19:32.437",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10658",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2011-04-17T11:30:00Z",
+      "updated": "2011-04-17T15:22:42.97",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10661",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2011-04-17T11:30:00Z",
+      "updated": "2011-04-17T15:22:36.703",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10653",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2011-04-18T18:15:00Z",
+      "updated": "2011-04-18T22:06:28.983",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10662",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2011-04-21T16:00:00Z",
+      "updated": "2011-04-21T19:50:06.727",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10665",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2011-04-21T16:00:00Z",
+      "updated": "2011-04-21T19:57:33.877",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10669",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2011-04-21T16:00:00Z",
+      "updated": "2011-04-21T19:51:17.223",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10666",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2011-04-23T11:00:00Z",
+      "updated": "2011-04-23T14:51:15.19",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10667",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2011-04-23T11:00:00Z",
+      "updated": "2011-04-23T14:47:12.773",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10664",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2011-04-24T11:30:00Z",
+      "updated": "2011-04-24T15:20:33.03",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10668",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2011-04-24T11:30:00Z",
+      "updated": "2011-04-24T15:20:41.713",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "10670",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2011-04-24T11:30:00Z",
+      "updated": "2011-04-24T15:20:47.363",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10663",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2011-04-25T18:15:00Z",
+      "updated": "2011-04-26T16:08:31.523",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10672",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2011-04-29T16:00:00Z",
+      "updated": "2011-04-29T19:52:33.163",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10674",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2011-04-29T16:00:00Z",
+      "updated": "2011-04-29T19:51:46.643",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10675",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2011-04-29T16:00:00Z",
+      "updated": "2011-04-29T19:48:03.153",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10676",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2011-04-29T16:00:00Z",
+      "updated": "2011-04-29T19:54:11.64",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10679",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2011-04-29T16:00:00Z",
+      "updated": "2011-04-29T19:48:40.983",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10673",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2011-04-30T11:00:00Z",
+      "updated": "2011-04-30T14:51:44.323",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "10677",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2011-04-30T11:00:00Z",
+      "updated": "2011-04-30T14:51:39.587",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10678",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2011-04-30T11:00:00Z",
+      "updated": "2011-04-30T14:51:30.087",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10671",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2011-05-02T18:15:00Z",
+      "updated": "2011-05-03T18:42:43.17",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10680",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2011-05-08T11:30:00Z",
+      "updated": "2011-05-08T15:20:28.19",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "10681",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2011-05-08T11:30:00Z",
+      "updated": "2011-05-08T15:20:34.46",
+      "finished": true,
+      "homeTeamId": "107",
+      "homeTeam": "MSV Duisburg",
+      "homeShortName": "Duisburg",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "10682",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2011-05-08T11:30:00Z",
+      "updated": "2011-05-08T15:20:43.373",
+      "finished": true,
+      "homeTeamId": "80",
+      "homeTeam": "1. FC Union Berlin",
+      "homeShortName": "Union Berlin",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10683",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2011-05-08T11:30:00Z",
+      "updated": "2011-05-08T15:19:57.853",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10684",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2011-05-08T11:30:00Z",
+      "updated": "2011-05-08T15:21:04.457",
+      "finished": true,
+      "homeTeamId": "173",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "homeShortName": "Oberhausen",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "10685",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2011-05-08T11:30:00Z",
+      "updated": "2011-05-08T15:17:07.127",
+      "finished": true,
+      "homeTeamId": "185",
+      "homeTeam": "Fortuna Düsseldorf",
+      "homeShortName": "Düsseldorf",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "10686",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2011-05-08T11:30:00Z",
+      "updated": "2011-05-08T15:20:50.37",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "172",
+      "awayTeam": "FSV Frankfurt",
+      "awayShortName": "FSV Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "10687",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2011-05-08T11:30:00Z",
+      "updated": "2011-05-08T15:24:38.437",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10688",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2011-05-08T11:30:00Z",
+      "updated": "2011-05-08T15:17:15.097",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "171",
+      "awayTeam": "FC Ingolstadt 04",
+      "awayShortName": "Ingolstadt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10689",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2011-05-15T11:30:00Z",
+      "updated": "2011-05-15T17:35:50.47",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "185",
+      "awayTeam": "Fortuna Düsseldorf",
+      "awayShortName": "Düsseldorf",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "10690",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2011-05-15T11:30:00Z",
+      "updated": "2011-05-15T17:34:26.287",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "107",
+      "awayTeam": "MSV Duisburg",
+      "awayShortName": "Duisburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10691",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2011-05-15T11:30:00Z",
+      "updated": "2011-05-15T17:36:07.89",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10692",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2011-05-15T11:30:00Z",
+      "updated": "2011-05-15T17:34:38.683",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10693",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2011-05-15T11:30:00Z",
+      "updated": "2011-05-15T17:34:57.36",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "10694",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2011-05-15T11:30:00Z",
+      "updated": "2011-05-15T17:36:26.043",
+      "finished": true,
+      "homeTeamId": "172",
+      "homeTeam": "FSV Frankfurt",
+      "homeShortName": "FSV Frankfurt",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "10695",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2011-05-15T11:30:00Z",
+      "updated": "2011-05-15T17:35:32.537",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "80",
+      "awayTeam": "1. FC Union Berlin",
+      "awayShortName": "Union Berlin",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "10696",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2011-05-15T11:30:00Z",
+      "updated": "2011-05-15T17:35:16.243",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "173",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "awayShortName": "Oberhausen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "10697",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2011-05-15T11:30:00Z",
+      "updated": "2011-05-15T17:36:40.52",
+      "finished": true,
+      "homeTeamId": "171",
+      "homeTeam": "FC Ingolstadt 04",
+      "homeShortName": "Ingolstadt",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    }
+  ],
+  "standings": [
+    {
+      "teamId": "80",
+      "name": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "position": 1,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "23",
+      "name": "Alemannia Aachen",
+      "shortName": "Aachen",
+      "position": 2,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "83",
+      "name": "DSC Arminia Bielefeld",
+      "shortName": "Bielefeld",
+      "position": 3,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "93",
+      "name": "Energie Cottbus",
+      "shortName": "Cottbus",
+      "position": 4,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "66",
+      "name": "Erzgebirge Aue",
+      "shortName": "Aue",
+      "position": 5,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "95",
+      "name": "FC Augsburg",
+      "shortName": "Augsburg",
+      "position": 6,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "171",
+      "name": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt",
+      "position": 7,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "185",
+      "name": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf",
+      "position": 8,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "172",
+      "name": "FSV Frankfurt",
+      "shortName": "FSV Frankfurt",
+      "position": 9,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "54",
+      "name": "Hertha BSC",
+      "shortName": "Hertha",
+      "position": 10,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "105",
+      "name": "Karlsruher SC",
+      "shortName": "Karlsruhe",
+      "position": 11,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "107",
+      "name": "MSV Duisburg",
+      "shortName": "Duisburg",
+      "position": 12,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "173",
+      "name": "Rot-Weiss Oberhausen",
+      "shortName": "Oberhausen",
+      "position": 13,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "31",
+      "name": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "position": 14,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "115",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "position": 15,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "125",
+      "name": "TSV 1860 München",
+      "shortName": "1860 München",
+      "position": 16,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum",
+      "position": 17,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "36",
+      "name": "VfL Osnabrück",
+      "shortName": "Osnabrück",
+      "position": 18,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    }
+  ],
+  "teams": [
+    {
+      "teamId": "80",
+      "name": "1. FC Union Berlin",
+      "shortName": "Union Berlin"
+    },
+    {
+      "teamId": "23",
+      "name": "Alemannia Aachen",
+      "shortName": "Aachen"
+    },
+    {
+      "teamId": "83",
+      "name": "DSC Arminia Bielefeld",
+      "shortName": "Bielefeld"
+    },
+    {
+      "teamId": "93",
+      "name": "Energie Cottbus",
+      "shortName": "Cottbus"
+    },
+    {
+      "teamId": "66",
+      "name": "Erzgebirge Aue",
+      "shortName": "Aue"
+    },
+    {
+      "teamId": "95",
+      "name": "FC Augsburg",
+      "shortName": "Augsburg"
+    },
+    {
+      "teamId": "171",
+      "name": "FC Ingolstadt 04",
+      "shortName": "Ingolstadt"
+    },
+    {
+      "teamId": "185",
+      "name": "Fortuna Düsseldorf",
+      "shortName": "Düsseldorf"
+    },
+    {
+      "teamId": "172",
+      "name": "FSV Frankfurt",
+      "shortName": "FSV Frankfurt"
+    },
+    {
+      "teamId": "54",
+      "name": "Hertha BSC",
+      "shortName": "Hertha"
+    },
+    {
+      "teamId": "105",
+      "name": "Karlsruher SC",
+      "shortName": "Karlsruhe"
+    },
+    {
+      "teamId": "107",
+      "name": "MSV Duisburg",
+      "shortName": "Duisburg"
+    },
+    {
+      "teamId": "173",
+      "name": "Rot-Weiss Oberhausen",
+      "shortName": "Oberhausen"
+    },
+    {
+      "teamId": "31",
+      "name": "SC Paderborn 07",
+      "shortName": "Paderborn"
+    },
+    {
+      "teamId": "115",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth"
+    },
+    {
+      "teamId": "125",
+      "name": "TSV 1860 München",
+      "shortName": "1860 München"
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum"
+    },
+    {
+      "teamId": "36",
+      "name": "VfL Osnabrück",
+      "shortName": "Osnabrück"
+    }
+  ],
+  "groupChecks": {}
+}

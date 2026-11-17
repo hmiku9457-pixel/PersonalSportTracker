@@ -1,0 +1,5922 @@
+{
+  "schemaVersion": 1,
+  "id": "bundesliga",
+  "shortcut": "bl1",
+  "year": 2008,
+  "seasonLabel": "2008/09",
+  "complete": true,
+  "calendarCheckedAt": "2026-11-17T14:23:31.733Z",
+  "updatedAt": "2026-11-17T14:23:31.733Z",
+  "matches": [
+    {
+      "id": "1978",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2008-08-15T18:30:00Z",
+      "updated": "2008-10-02T22:19:09.29",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "1993",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2008-08-16T13:30:00Z",
+      "updated": "2008-10-02T22:19:11.477",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "1994",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2008-08-16T13:30:00Z",
+      "updated": "2008-10-02T22:19:11.65",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "1995",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2008-08-16T13:30:00Z",
+      "updated": "2008-10-02T22:19:11.807",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "1997",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2008-08-16T13:30:00Z",
+      "updated": "2008-10-02T22:19:11.93",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "1998",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2008-08-16T13:30:00Z",
+      "updated": "2008-10-02T22:19:12.01",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "1999",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2008-08-16T13:30:00Z",
+      "updated": "2008-10-02T22:19:12.15",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "1996",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2008-08-17T15:00:00Z",
+      "updated": "2008-10-02T22:19:13.777",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2000",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2008-08-17T15:00:00Z",
+      "updated": "2008-10-02T22:19:13.68",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "2004",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2008-08-22T18:30:00Z",
+      "updated": "2008-10-02T22:19:14.823",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2001",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2008-08-23T13:30:00Z",
+      "updated": "2008-10-02T22:19:16.587",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2002",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2008-08-23T13:30:00Z",
+      "updated": "2008-10-02T22:19:16.65",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2003",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2008-08-23T13:30:00Z",
+      "updated": "2008-10-02T22:19:16.713",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2005",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2008-08-23T13:30:00Z",
+      "updated": "2008-10-02T22:19:16.447",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2007",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2008-08-23T13:30:00Z",
+      "updated": "2008-10-02T22:19:16.777",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2008",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2008-08-23T13:30:00Z",
+      "updated": "2008-10-02T22:19:16.837",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2006",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2008-08-24T15:00:00Z",
+      "updated": "2008-10-02T22:19:18.323",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2009",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2008-08-24T15:00:00Z",
+      "updated": "2008-10-02T22:19:18.26",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2015",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2008-08-29T18:30:00Z",
+      "updated": "2008-10-02T22:19:18.79",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2011",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2008-08-30T13:30:00Z",
+      "updated": "2008-10-02T22:19:20.133",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2012",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2008-08-30T13:30:00Z",
+      "updated": "2008-10-02T22:19:20.18",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2014",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2008-08-30T13:30:00Z",
+      "updated": "2008-10-02T22:19:20.243",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 5,
+        "away": 2
+      }
+    },
+    {
+      "id": "2016",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2008-08-30T13:30:00Z",
+      "updated": "2008-10-02T22:19:19.963",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2017",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2008-08-30T13:30:00Z",
+      "updated": "2008-10-02T22:19:20.027",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "2018",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2008-08-30T13:30:00Z",
+      "updated": "2008-10-02T22:19:20.073",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "2010",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2008-08-31T15:00:00Z",
+      "updated": "2008-10-02T22:19:21.133",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "2013",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2008-08-31T15:00:00Z",
+      "updated": "2008-10-02T22:19:21.087",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2019",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2008-09-13T13:30:00Z",
+      "updated": "2008-10-02T22:19:23.01",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "2020",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2008-09-13T13:30:00Z",
+      "updated": "2008-10-02T22:19:23.057",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "2023",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2008-09-13T13:30:00Z",
+      "updated": "2008-10-02T22:19:22.947",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2025",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2008-09-13T13:30:00Z",
+      "updated": "2008-10-02T22:19:23.103",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "2026",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2008-09-13T13:30:00Z",
+      "updated": "2008-10-02T22:19:23.167",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2027",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2008-09-13T13:30:00Z",
+      "updated": "2008-10-02T22:19:23.243",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "2021",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2008-09-14T15:00:00Z",
+      "updated": "2008-10-02T22:19:24.277",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "2024",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2008-09-14T15:00:00Z",
+      "updated": "2008-10-02T22:19:24.337",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2022",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2008-10-22T16:30:00Z",
+      "updated": "2008-10-22T20:20:41.613",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2032",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2008-09-19T18:30:00Z",
+      "updated": "2008-10-02T22:19:25.667",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "2028",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2008-09-20T13:30:00Z",
+      "updated": "2008-10-02T22:19:26.667",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 5
+      }
+    },
+    {
+      "id": "2029",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2008-09-20T13:30:00Z",
+      "updated": "2008-10-02T22:19:26.713",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2033",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2008-09-20T13:30:00Z",
+      "updated": "2008-10-02T22:19:26.493",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2034",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2008-09-20T13:30:00Z",
+      "updated": "2008-10-02T22:19:26.54",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2035",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2008-09-20T13:30:00Z",
+      "updated": "2008-10-02T22:19:26.603",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2030",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2008-09-21T15:00:00Z",
+      "updated": "2008-10-02T22:19:27.337",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "2031",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2008-09-21T15:00:00Z",
+      "updated": "2008-10-02T22:19:27.4",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "2036",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2008-09-21T15:00:00Z",
+      "updated": "2008-10-02T22:19:27.463",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "2045",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2008-09-26T18:30:00Z",
+      "updated": "2008-10-02T22:50:10.493",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2037",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2008-09-27T13:30:00Z",
+      "updated": "2008-10-02T22:19:33.197",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 5,
+        "away": 4
+      }
+    },
+    {
+      "id": "2038",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2008-09-27T13:30:00Z",
+      "updated": "2008-10-02T22:19:33.243",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2039",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2008-09-27T13:30:00Z",
+      "updated": "2008-10-02T22:19:33.337",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2041",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2008-09-27T13:30:00Z",
+      "updated": "2008-10-02T22:19:33.383",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2043",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2008-09-27T13:30:00Z",
+      "updated": "2008-10-02T22:19:33.447",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "2044",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2008-09-27T13:30:00Z",
+      "updated": "2008-10-02T22:19:33.493",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "2040",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2008-09-28T15:00:00Z",
+      "updated": "2008-10-02T22:19:34.51",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2042",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2008-09-28T15:00:00Z",
+      "updated": "2008-10-02T22:19:34.463",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2052",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2008-10-03T18:30:00Z",
+      "updated": "2008-10-04T18:09:52.167",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2046",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2008-10-04T13:30:00Z",
+      "updated": "2008-10-04T17:20:50.993",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "2048",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2008-10-04T13:30:00Z",
+      "updated": "2008-10-04T17:21:21.337",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "2049",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2008-10-04T13:30:00Z",
+      "updated": "2008-10-04T17:21:49.823",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2053",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2008-10-04T13:30:00Z",
+      "updated": "2008-10-04T17:29:13.603",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2054",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2008-10-04T13:30:00Z",
+      "updated": "2008-10-04T17:21:32.697",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2047",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2008-10-05T15:00:00Z",
+      "updated": "2008-10-05T18:51:10.65",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2050",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2008-10-05T15:00:00Z",
+      "updated": "2008-10-05T18:51:48.027",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2051",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2008-10-05T15:00:00Z",
+      "updated": "2008-10-05T18:51:36.26",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2062",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2008-10-17T18:30:00Z",
+      "updated": "2008-10-17T22:21:56.33",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2055",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2008-10-18T13:30:00Z",
+      "updated": "2008-10-18T17:21:32.893",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "2057",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2008-10-18T13:30:00Z",
+      "updated": "2008-10-18T17:22:08.72",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "2058",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2008-10-18T13:30:00Z",
+      "updated": "2008-10-18T17:22:11.02",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 5
+      }
+    },
+    {
+      "id": "2059",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2008-10-18T13:30:00Z",
+      "updated": "2008-10-18T17:22:14.66",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2060",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2008-10-18T13:30:00Z",
+      "updated": "2008-10-18T17:21:45.877",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2061",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2008-10-18T13:30:00Z",
+      "updated": "2008-10-18T17:21:04.207",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2063",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2008-10-18T13:30:00Z",
+      "updated": "2008-10-18T17:22:05.58",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2056",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2008-10-19T15:00:00Z",
+      "updated": "2008-10-19T18:49:48.143",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2067",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2008-10-24T18:30:00Z",
+      "updated": "2008-10-24T22:21:22.07",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2064",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2008-10-25T13:30:00Z",
+      "updated": "2008-10-25T17:19:42.46",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "2065",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2008-10-25T13:30:00Z",
+      "updated": "2008-10-25T17:20:11.443",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2068",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2008-10-25T13:30:00Z",
+      "updated": "2008-10-25T17:19:37.867",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2070",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2008-10-25T13:30:00Z",
+      "updated": "2008-10-25T17:20:26.46",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "2071",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2008-10-25T13:30:00Z",
+      "updated": "2008-10-25T17:18:35.977",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2066",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2008-10-26T16:00:00Z",
+      "updated": "2008-10-26T18:48:40.46",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2069",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2008-10-26T16:00:00Z",
+      "updated": "2008-10-26T18:51:44.787",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2072",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2008-10-26T16:00:00Z",
+      "updated": "2008-10-26T18:50:19.787",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "2073",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2008-10-28T19:00:00Z",
+      "updated": "2008-10-28T21:51:20.35",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2075",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2008-10-28T19:00:00Z",
+      "updated": "2008-10-28T21:52:29.82",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "2078",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2008-10-28T19:00:00Z",
+      "updated": "2008-10-28T21:51:41.333",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "2080",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2008-10-28T19:00:00Z",
+      "updated": "2008-10-28T21:51:53.677",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2074",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2008-10-29T19:00:00Z",
+      "updated": "2008-10-29T21:52:21.297",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2076",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2008-10-29T19:00:00Z",
+      "updated": "2008-10-29T21:51:57.313",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2077",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2008-10-29T19:00:00Z",
+      "updated": "2008-10-29T21:52:25.627",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "2079",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2008-10-29T19:00:00Z",
+      "updated": "2008-10-29T21:52:15.64",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "2081",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2008-10-29T19:00:00Z",
+      "updated": "2008-10-29T21:52:02.453",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2085",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2008-10-31T19:30:00Z",
+      "updated": "2008-10-31T22:19:56.28",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2082",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2008-11-01T14:30:00Z",
+      "updated": "2008-11-01T17:19:49.047",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "2083",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2008-11-01T14:30:00Z",
+      "updated": "2008-11-01T17:19:58.5",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "2084",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2008-11-01T14:30:00Z",
+      "updated": "2008-11-01T17:23:03.857",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "2086",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2008-11-01T14:30:00Z",
+      "updated": "2008-11-01T17:19:54.03",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "2088",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2008-11-01T14:30:00Z",
+      "updated": "2008-11-01T17:22:03.233",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2090",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2008-11-01T14:30:00Z",
+      "updated": "2008-11-01T17:18:04.763",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "2087",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2008-11-02T16:00:00Z",
+      "updated": "2008-11-02T18:50:08.81",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2089",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2008-11-02T16:00:00Z",
+      "updated": "2008-11-02T18:49:30.827",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2098",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2008-11-07T19:30:00Z",
+      "updated": "2008-11-07T22:21:16.277",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2092",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2008-11-08T14:30:00Z",
+      "updated": "2008-11-08T17:34:30.497",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2095",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2008-11-08T14:30:00Z",
+      "updated": "2008-11-08T17:21:18.31",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "2096",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2008-11-08T14:30:00Z",
+      "updated": "2008-11-08T17:21:25.827",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2097",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2008-11-08T14:30:00Z",
+      "updated": "2008-11-08T17:21:29.59",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2099",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2008-11-08T14:30:00Z",
+      "updated": "2008-11-08T17:19:33.763",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "2091",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2008-11-09T16:00:00Z",
+      "updated": "2008-11-09T18:52:53.043",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2093",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2008-11-09T16:00:00Z",
+      "updated": "2008-11-09T19:30:54.933",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2094",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2008-11-09T16:00:00Z",
+      "updated": "2008-11-09T18:52:34.043",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2103",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2008-11-14T19:30:00Z",
+      "updated": "2008-11-15T15:37:15.58",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2101",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2008-11-15T14:30:00Z",
+      "updated": "2008-11-15T17:22:39.83",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2102",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2008-11-15T14:30:00Z",
+      "updated": "2008-11-15T17:23:13.47",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2104",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2008-11-15T14:30:00Z",
+      "updated": "2008-11-15T17:23:04.597",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2105",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2008-11-15T14:30:00Z",
+      "updated": "2008-11-15T17:19:12.063",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "2106",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2008-11-15T14:30:00Z",
+      "updated": "2008-11-15T17:22:13.953",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2107",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2008-11-15T14:30:00Z",
+      "updated": "2008-11-15T17:19:53.703",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2108",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2008-11-15T14:30:00Z",
+      "updated": "2008-11-15T17:22:20.703",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "2100",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2008-11-16T16:00:00Z",
+      "updated": "2008-11-16T18:49:57.83",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "2114",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2008-11-21T19:30:00Z",
+      "updated": "2008-11-21T22:19:02.973",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2109",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2008-11-22T14:30:00Z",
+      "updated": "2008-11-22T17:19:45.523",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "2110",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2008-11-22T14:30:00Z",
+      "updated": "2008-11-22T17:22:09.693",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "2112",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2008-11-22T14:30:00Z",
+      "updated": "2008-11-22T17:18:05.6",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "2113",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2008-11-22T14:30:00Z",
+      "updated": "2008-11-22T17:22:20.397",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "2115",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2008-11-22T14:30:00Z",
+      "updated": "2008-11-22T17:21:00.1",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "2116",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2008-11-22T14:30:00Z",
+      "updated": "2008-11-22T17:21:49.833",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2117",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2008-11-22T14:30:00Z",
+      "updated": "2008-11-22T17:21:58.553",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "2111",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2008-11-23T16:00:00Z",
+      "updated": "2008-11-23T18:49:58.787",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2122",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2008-11-28T19:30:00Z",
+      "updated": "2008-11-28T22:22:57.78",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2118",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2008-11-29T14:30:00Z",
+      "updated": "2008-11-29T17:19:36.453",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "2120",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2008-11-29T14:30:00Z",
+      "updated": "2008-11-29T17:19:53.733",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2121",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2008-11-29T14:30:00Z",
+      "updated": "2008-11-29T17:19:18.42",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "2125",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2008-11-29T14:30:00Z",
+      "updated": "2008-11-29T17:20:17.873",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "2126",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2008-11-29T14:30:00Z",
+      "updated": "2008-11-29T17:20:42.657",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "2119",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2008-11-30T16:00:00Z",
+      "updated": "2008-11-30T18:50:09.36",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2123",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2008-11-30T16:00:00Z",
+      "updated": "2008-11-30T18:50:00.14",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2124",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2008-11-30T16:00:00Z",
+      "updated": "2008-11-30T18:50:19.703",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2127",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2008-12-05T19:30:00Z",
+      "updated": "2008-12-05T22:24:57.957",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2128",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2008-12-06T14:30:00Z",
+      "updated": "2008-12-06T17:23:57.58",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2130",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2008-12-06T14:30:00Z",
+      "updated": "2008-12-06T17:24:07.957",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "2131",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2008-12-06T14:30:00Z",
+      "updated": "2008-12-06T17:24:20.05",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2132",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2008-12-06T14:30:00Z",
+      "updated": "2008-12-06T17:24:33.237",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "2133",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2008-12-06T14:30:00Z",
+      "updated": "2008-12-06T17:24:40.863",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2134",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2008-12-06T14:30:00Z",
+      "updated": "2008-12-06T17:24:52.363",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "2129",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2008-12-07T16:00:00Z",
+      "updated": "2008-12-07T18:50:20.08",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2135",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2008-12-07T16:00:00Z",
+      "updated": "2008-12-07T18:51:42.427",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2143",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2008-12-12T19:30:00Z",
+      "updated": "2008-12-12T22:26:41.16",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2136",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2008-12-13T14:30:00Z",
+      "updated": "2008-12-13T17:21:17.66",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2137",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2008-12-13T14:30:00Z",
+      "updated": "2008-12-13T17:25:30.957",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2138",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2008-12-13T14:30:00Z",
+      "updated": "2008-12-13T17:23:37.973",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2139",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2008-12-13T14:30:00Z",
+      "updated": "2008-12-13T17:29:52.207",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2140",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2008-12-13T14:30:00Z",
+      "updated": "2008-12-13T17:29:28.55",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2141",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2008-12-13T14:30:00Z",
+      "updated": "2008-12-13T17:19:03.083",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "2142",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2008-12-13T14:30:00Z",
+      "updated": "2008-12-13T17:26:14.38",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2144",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2008-12-14T16:00:00Z",
+      "updated": "2008-12-14T19:02:35.927",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2145",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2009-01-30T19:30:00Z",
+      "updated": "2009-01-30T22:28:12.13",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2146",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2009-01-31T14:30:00Z",
+      "updated": "2009-01-31T17:23:20.93",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2147",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2009-01-31T14:30:00Z",
+      "updated": "2009-01-31T17:23:26.46",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2148",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2009-01-31T14:30:00Z",
+      "updated": "2009-01-31T17:23:32.537",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2149",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2009-01-31T14:30:00Z",
+      "updated": "2009-01-31T17:24:35.38",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2151",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2009-01-31T14:30:00Z",
+      "updated": "2009-01-31T17:23:06.647",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2153",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2009-01-31T14:30:00Z",
+      "updated": "2009-01-31T17:23:14.773",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2150",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2009-02-01T16:00:00Z",
+      "updated": "2009-02-01T18:55:20.897",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2152",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2009-02-01T16:00:00Z",
+      "updated": "2009-02-01T18:55:31.443",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2158",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2009-02-06T19:30:00Z",
+      "updated": "2009-02-06T22:19:15.637",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2154",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2009-02-07T14:30:00Z",
+      "updated": "2009-02-07T17:21:53.653",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2155",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2009-02-07T14:30:00Z",
+      "updated": "2009-02-07T17:21:58.123",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "2156",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2009-02-07T14:30:00Z",
+      "updated": "2009-02-07T17:22:12.027",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "2159",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2009-02-07T14:30:00Z",
+      "updated": "2009-02-07T17:22:07.98",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2161",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2009-02-07T14:30:00Z",
+      "updated": "2009-02-07T17:21:30.98",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2162",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2009-02-07T14:30:00Z",
+      "updated": "2009-02-07T17:22:03.607",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2157",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2009-02-08T16:00:00Z",
+      "updated": "2009-02-08T18:50:23.73",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "2160",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2009-02-08T16:00:00Z",
+      "updated": "2009-02-08T18:52:52.247",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "2167",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2009-02-13T19:30:00Z",
+      "updated": "2009-02-21T19:15:33.487",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 4
+      }
+    },
+    {
+      "id": "2163",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2009-02-14T14:30:00Z",
+      "updated": "2009-02-19T12:07:47.123",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2164",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2009-02-14T14:30:00Z",
+      "updated": "2009-02-15T21:58:46.873",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2165",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2009-02-14T14:30:00Z",
+      "updated": "2009-02-15T21:58:53.047",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2166",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2009-02-14T14:30:00Z",
+      "updated": "2009-02-15T21:58:59.78",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "2168",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2009-02-14T14:30:00Z",
+      "updated": "2009-02-15T21:59:05.64",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2171",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2009-02-14T14:30:00Z",
+      "updated": "2009-02-15T21:59:19.093",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2169",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2009-02-15T16:00:00Z",
+      "updated": "2009-02-15T21:59:26.407",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2170",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2009-02-15T16:00:00Z",
+      "updated": "2009-02-15T21:59:36.813",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2178",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2009-02-20T19:30:00Z",
+      "updated": "2009-02-21T14:24:47.203",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2172",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2009-02-21T14:30:00Z",
+      "updated": "2009-02-21T17:26:40.36",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2174",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2009-02-21T14:30:00Z",
+      "updated": "2009-02-21T17:25:43.64",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "2175",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2009-02-21T14:30:00Z",
+      "updated": "2009-02-21T17:26:50.923",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2176",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2009-02-21T14:30:00Z",
+      "updated": "2009-02-21T17:26:55.423",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2177",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2009-02-21T14:30:00Z",
+      "updated": "2009-02-21T17:27:58.593",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2179",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2009-02-21T14:30:00Z",
+      "updated": "2009-02-21T17:25:54.08",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "2180",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2009-02-21T14:30:00Z",
+      "updated": "2009-02-21T17:26:07.64",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2173",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2009-02-22T16:00:00Z",
+      "updated": "2009-02-22T18:50:00.36",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2187",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2009-02-27T19:30:00Z",
+      "updated": "2009-03-03T17:50:37.473",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2182",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2009-02-28T14:30:00Z",
+      "updated": "2009-02-28T17:21:36.973",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2185",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2009-02-28T14:30:00Z",
+      "updated": "2009-02-28T17:23:05.6",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2186",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2009-02-28T14:30:00Z",
+      "updated": "2009-02-28T17:21:18.007",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "2188",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2009-02-28T14:30:00Z",
+      "updated": "2009-02-28T17:20:56.35",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2189",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2009-02-28T14:30:00Z",
+      "updated": "2009-02-28T17:19:58.663",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2181",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2009-03-01T16:00:00Z",
+      "updated": "2009-03-01T18:49:25.177",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2183",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2009-03-01T16:00:00Z",
+      "updated": "2009-03-01T19:03:07.367",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "2184",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2009-03-01T16:00:00Z",
+      "updated": "2009-03-01T19:02:09.897",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2199",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2009-03-06T19:30:00Z",
+      "updated": "2009-03-07T16:44:07.777",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2191",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2009-03-07T14:30:00Z",
+      "updated": "2009-03-07T17:24:44.73",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2192",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2009-03-07T14:30:00Z",
+      "updated": "2009-03-07T17:21:21.967",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "2193",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2009-03-07T14:30:00Z",
+      "updated": "2009-03-07T17:21:14.42",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "2195",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2009-03-07T14:30:00Z",
+      "updated": "2009-03-07T17:22:08.777",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "2196",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2009-03-07T14:30:00Z",
+      "updated": "2009-03-07T18:18:55.777",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2198",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2009-03-07T14:30:00Z",
+      "updated": "2009-03-07T17:31:29.873",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2194",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2009-03-08T16:00:00Z",
+      "updated": "2009-03-08T19:14:11.17",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2197",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2009-03-08T16:00:00Z",
+      "updated": "2009-03-08T19:14:03.777",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2202",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2009-03-13T19:30:00Z",
+      "updated": "2009-03-13T22:20:05.28",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    {
+      "id": "2201",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2009-03-14T14:30:00Z",
+      "updated": "2009-03-14T17:22:48.233",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "2204",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2009-03-14T14:30:00Z",
+      "updated": "2009-03-14T17:22:52.92",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2205",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2009-03-14T14:30:00Z",
+      "updated": "2009-03-14T17:22:55.81",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 4,
+        "away": 4
+      }
+    },
+    {
+      "id": "2207",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2009-03-14T14:30:00Z",
+      "updated": "2009-03-14T17:23:05.733",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2208",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2009-03-14T14:30:00Z",
+      "updated": "2009-03-14T17:23:22.827",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    {
+      "id": "2209",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2009-03-14T14:30:00Z",
+      "updated": "2009-03-14T17:23:38.013",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2203",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2009-03-15T16:00:00Z",
+      "updated": "2009-03-15T18:53:58.843",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "2206",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2009-03-15T16:00:00Z",
+      "updated": "2009-03-15T18:52:19.903",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2217",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2009-03-20T19:30:00Z",
+      "updated": "2009-03-20T22:21:38.507",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2210",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2009-03-21T14:30:00Z",
+      "updated": "2009-03-21T17:21:48.397",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2212",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2009-03-21T14:30:00Z",
+      "updated": "2009-03-21T17:20:11.507",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "2213",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2009-03-21T14:30:00Z",
+      "updated": "2009-03-21T17:19:59.333",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2214",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2009-03-21T14:30:00Z",
+      "updated": "2009-03-21T17:21:18.32",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2215",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2009-03-21T14:30:00Z",
+      "updated": "2009-03-21T17:22:25.757",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2216",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2009-03-21T14:30:00Z",
+      "updated": "2009-03-21T17:22:36.193",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2218",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2009-03-21T14:30:00Z",
+      "updated": "2009-03-22T17:45:43.583",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2211",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2009-03-22T16:00:00Z",
+      "updated": "2009-03-22T18:50:14.977",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2220",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2009-04-03T18:30:00Z",
+      "updated": "2009-04-03T22:22:51.987",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2219",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2009-04-04T13:30:00Z",
+      "updated": "2009-04-04T17:20:40.753",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "2221",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2009-04-04T13:30:00Z",
+      "updated": "2009-04-04T19:27:11.267",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2224",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2009-04-04T13:30:00Z",
+      "updated": "2009-04-04T17:20:34.207",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "2225",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2009-04-04T13:30:00Z",
+      "updated": "2009-04-04T17:22:17.503",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2227",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2009-04-04T13:30:00Z",
+      "updated": "2009-04-04T17:22:25.893",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2222",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2009-04-05T15:00:00Z",
+      "updated": "2009-04-05T18:49:24.923",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2223",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2009-04-05T15:00:00Z",
+      "updated": "2009-04-05T18:49:18.86",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "2226",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2009-04-05T15:00:00Z",
+      "updated": "2009-04-05T18:49:42.55",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2230",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2009-04-11T13:30:00Z",
+      "updated": "2009-04-15T13:37:03.067",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2231",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2009-04-11T13:30:00Z",
+      "updated": "2009-04-11T17:19:05.113",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "2232",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2009-04-11T13:30:00Z",
+      "updated": "2009-04-11T17:18:56.877",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2233",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2009-04-11T13:30:00Z",
+      "updated": "2009-04-11T17:22:03.817",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2234",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2009-04-11T13:30:00Z",
+      "updated": "2009-04-11T17:20:52.987",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "2235",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2009-04-11T13:30:00Z",
+      "updated": "2009-04-11T17:30:52.753",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2236",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2009-04-11T13:30:00Z",
+      "updated": "2009-04-11T17:21:20.08",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "2228",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2009-04-12T15:00:00Z",
+      "updated": "2009-04-12T18:51:05.02",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2229",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2009-04-12T15:00:00Z",
+      "updated": "2009-04-12T18:50:59.957",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2243",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2009-04-17T18:30:00Z",
+      "updated": "2009-04-17T22:19:26.47",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "2237",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2009-04-18T13:30:00Z",
+      "updated": "2009-04-18T17:22:40.343",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2239",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2009-04-18T13:30:00Z",
+      "updated": "2009-04-18T17:21:24.14",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "2240",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2009-04-18T13:30:00Z",
+      "updated": "2009-04-18T17:21:38.453",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2242",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2009-04-18T13:30:00Z",
+      "updated": "2009-04-18T17:37:44.25",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2244",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2009-04-18T13:30:00Z",
+      "updated": "2009-04-18T17:21:29.22",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "2245",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2009-04-18T13:30:00Z",
+      "updated": "2009-04-18T17:22:12.687",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2238",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2009-04-19T15:00:00Z",
+      "updated": "2009-04-19T18:59:32.89",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2241",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2009-04-19T15:00:00Z",
+      "updated": "2009-04-19T18:49:00.22",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2250",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2009-04-24T18:30:00Z",
+      "updated": "2009-04-24T22:22:40.123",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2246",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2009-04-25T13:30:00Z",
+      "updated": "2009-04-25T17:21:26.36",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2247",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2009-04-25T13:30:00Z",
+      "updated": "2009-04-25T17:23:02.56",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2249",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2009-04-25T13:30:00Z",
+      "updated": "2009-04-25T17:20:42.907",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2251",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2009-04-25T13:30:00Z",
+      "updated": "2009-04-25T17:21:55.577",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2252",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2009-04-25T13:30:00Z",
+      "updated": "2009-04-25T17:25:46.953",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "2254",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2009-04-25T13:30:00Z",
+      "updated": "2009-04-25T17:25:55.92",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2248",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2009-04-26T15:00:00Z",
+      "updated": "2009-04-26T19:04:50.827",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2253",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2009-04-26T15:00:00Z",
+      "updated": "2009-04-26T18:53:07.03",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2258",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2009-05-01T18:30:00Z",
+      "updated": "2009-05-02T15:38:55.067",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2256",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2009-05-02T13:30:00Z",
+      "updated": "2009-05-02T17:27:06.623",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2257",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2009-05-02T13:30:00Z",
+      "updated": "2009-05-02T17:27:18.23",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2260",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2009-05-02T13:30:00Z",
+      "updated": "2009-05-02T17:27:31.877",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2261",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2009-05-02T13:30:00Z",
+      "updated": "2009-05-02T17:27:42.817",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2262",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2009-05-02T13:30:00Z",
+      "updated": "2009-05-02T17:27:53.413",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2263",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2009-05-02T13:30:00Z",
+      "updated": "2009-05-02T17:26:54.703",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "2255",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2009-05-03T15:00:00Z",
+      "updated": "2009-05-03T18:49:51.767",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2259",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2009-05-03T15:00:00Z",
+      "updated": "2009-05-04T14:04:20.59",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2271",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2009-05-08T19:00:00Z",
+      "updated": "2009-05-09T15:29:03.203",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2264",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2009-05-09T13:30:00Z",
+      "updated": "2009-05-09T17:25:51.473",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "2267",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2009-05-09T13:30:00Z",
+      "updated": "2009-05-09T17:19:14.353",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "2268",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2009-05-09T13:30:00Z",
+      "updated": "2009-05-09T17:20:12.843",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2269",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2009-05-09T13:30:00Z",
+      "updated": "2009-05-09T17:20:21.61",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "2270",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2009-05-09T13:30:00Z",
+      "updated": "2009-05-09T17:21:24.923",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2272",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2009-05-09T13:30:00Z",
+      "updated": "2009-05-09T17:21:13.797",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2265",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2009-05-10T15:00:00Z",
+      "updated": "2009-05-10T18:50:35.04",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "2266",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2009-05-10T15:00:00Z",
+      "updated": "2009-05-10T18:49:01.41",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2275",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2009-05-12T18:00:00Z",
+      "updated": "2009-05-12T21:51:13.84",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "2276",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2009-05-12T18:00:00Z",
+      "updated": "2009-05-12T21:51:51.017",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "2277",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2009-05-12T18:00:00Z",
+      "updated": "2009-05-12T21:48:41.697",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2279",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2009-05-12T18:00:00Z",
+      "updated": "2009-05-12T21:49:07.31",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "2273",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2009-05-13T18:00:00Z",
+      "updated": "2009-05-15T13:46:18.913",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "2274",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2009-05-13T18:00:00Z",
+      "updated": "2009-05-13T21:53:10.407",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "2278",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2009-05-13T18:00:00Z",
+      "updated": "2009-05-13T21:51:28.277",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "2280",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2009-05-13T18:00:00Z",
+      "updated": "2009-05-13T21:52:38.157",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2281",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2009-05-13T18:00:00Z",
+      "updated": "2009-05-13T21:51:47.8",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "2282",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2009-05-16T13:30:00Z",
+      "updated": "2009-05-16T17:52:13.253",
+      "finished": true,
+      "homeTeamId": "175",
+      "homeTeam": "TSG Hoffenheim",
+      "homeShortName": "Hoffenheim",
+      "awayTeamId": "40",
+      "awayTeam": "FC Bayern München",
+      "awayShortName": "Bayern",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2283",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2009-05-16T13:30:00Z",
+      "updated": "2009-05-16T17:23:07.387",
+      "finished": true,
+      "homeTeamId": "54",
+      "homeTeam": "Hertha BSC",
+      "homeShortName": "Hertha",
+      "awayTeamId": "9",
+      "awayTeam": "FC Schalke 04",
+      "awayShortName": "S04",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "2284",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2009-05-16T13:30:00Z",
+      "updated": "2009-05-16T17:22:26.74",
+      "finished": true,
+      "homeTeamId": "55",
+      "homeTeam": "Hannover 96",
+      "homeShortName": "Hannover",
+      "awayTeamId": "131",
+      "awayTeam": "VfL Wolfsburg",
+      "awayShortName": "Wolfsburg",
+      "result": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "2285",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2009-05-16T13:30:00Z",
+      "updated": "2009-05-16T17:21:31.77",
+      "finished": true,
+      "homeTeamId": "129",
+      "homeTeam": "VfL Bochum",
+      "homeShortName": "Bochum",
+      "awayTeamId": "91",
+      "awayTeam": "Eintracht Frankfurt",
+      "awayShortName": "Frankfurt",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2286",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2009-05-16T13:30:00Z",
+      "updated": "2009-05-19T20:29:09.103",
+      "finished": true,
+      "homeTeamId": "134",
+      "homeTeam": "SV Werder Bremen",
+      "homeShortName": "Bremen",
+      "awayTeamId": "105",
+      "awayTeam": "Karlsruher SC",
+      "awayShortName": "Karlsruhe",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "2287",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2009-05-16T13:30:00Z",
+      "updated": "2009-05-16T17:22:47.987",
+      "finished": true,
+      "homeTeamId": "16",
+      "homeTeam": "VfB Stuttgart",
+      "homeShortName": "Stuttgart",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "2288",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2009-05-16T13:30:00Z",
+      "updated": "2009-05-16T17:21:15.01",
+      "finished": true,
+      "homeTeamId": "7",
+      "homeTeam": "Borussia Dortmund",
+      "homeShortName": "Dortmund",
+      "awayTeamId": "83",
+      "awayTeam": "DSC Arminia Bielefeld",
+      "awayShortName": "Bielefeld",
+      "result": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": "2289",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2009-05-16T13:30:00Z",
+      "updated": "2009-05-16T17:21:23.087",
+      "finished": true,
+      "homeTeamId": "6",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "homeShortName": "Leverkusen",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "2290",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2009-05-16T13:30:00Z",
+      "updated": "2009-05-16T17:22:40.327",
+      "finished": true,
+      "homeTeamId": "100",
+      "homeTeam": "Hamburger SV",
+      "homeShortName": "HSV",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "2291",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2009-05-23T13:30:00Z",
+      "updated": "2009-05-23T17:20:13.963",
+      "finished": true,
+      "homeTeamId": "131",
+      "homeTeam": "VfL Wolfsburg",
+      "homeShortName": "Wolfsburg",
+      "awayTeamId": "134",
+      "awayTeam": "SV Werder Bremen",
+      "awayShortName": "Bremen",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "2292",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2009-05-23T13:30:00Z",
+      "updated": "2009-05-23T17:22:53.267",
+      "finished": true,
+      "homeTeamId": "91",
+      "homeTeam": "Eintracht Frankfurt",
+      "homeShortName": "Frankfurt",
+      "awayTeamId": "100",
+      "awayTeam": "Hamburger SV",
+      "awayShortName": "HSV",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "2293",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2009-05-23T13:30:00Z",
+      "updated": "2009-05-23T17:22:38.36",
+      "finished": true,
+      "homeTeamId": "40",
+      "homeTeam": "FC Bayern München",
+      "homeShortName": "Bayern",
+      "awayTeamId": "16",
+      "awayTeam": "VfB Stuttgart",
+      "awayShortName": "Stuttgart",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "2294",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2009-05-23T13:30:00Z",
+      "updated": "2009-05-23T17:23:42.567",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "6",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "awayShortName": "Leverkusen",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "2295",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2009-05-23T13:30:00Z",
+      "updated": "2009-05-23T17:20:03.193",
+      "finished": true,
+      "homeTeamId": "83",
+      "homeTeam": "DSC Arminia Bielefeld",
+      "homeShortName": "Bielefeld",
+      "awayTeamId": "55",
+      "awayTeam": "Hannover 96",
+      "awayShortName": "Hannover",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "2296",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2009-05-23T13:30:00Z",
+      "updated": "2009-05-23T17:20:42.447",
+      "finished": true,
+      "homeTeamId": "105",
+      "homeTeam": "Karlsruher SC",
+      "homeShortName": "Karlsruhe",
+      "awayTeamId": "54",
+      "awayTeam": "Hertha BSC",
+      "awayShortName": "Hertha",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "2297",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2009-05-23T13:30:00Z",
+      "updated": "2009-05-23T17:20:57.373",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "129",
+      "awayTeam": "VfL Bochum",
+      "awayShortName": "Bochum",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2298",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2009-05-23T13:30:00Z",
+      "updated": "2009-05-23T17:21:27.257",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "7",
+      "awayTeam": "Borussia Dortmund",
+      "awayShortName": "Dortmund",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "2299",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2009-05-23T13:30:00Z",
+      "updated": "2009-05-23T17:22:20.507",
+      "finished": true,
+      "homeTeamId": "9",
+      "homeTeam": "FC Schalke 04",
+      "homeShortName": "S04",
+      "awayTeamId": "175",
+      "awayTeam": "TSG Hoffenheim",
+      "awayShortName": "Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "5062",
+      "groupOrderId": 35,
+      "groupName": "Relegation, Hinspiel",
+      "date": "2009-05-28T16:00:00Z",
+      "updated": "2009-05-28T21:03:02.777",
+      "finished": true,
+      "homeTeamId": "93",
+      "homeTeam": "Energie Cottbus",
+      "homeShortName": "Cottbus",
+      "awayTeamId": "79",
+      "awayTeam": "1. FC Nürnberg",
+      "awayShortName": "Nürnberg",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "5063",
+      "groupOrderId": 36,
+      "groupName": "Relegation, Rückspiel",
+      "date": "2009-05-31T13:30:00Z",
+      "updated": "2009-06-04T00:58:53.303",
+      "finished": true,
+      "homeTeamId": "79",
+      "homeTeam": "1. FC Nürnberg",
+      "homeShortName": "Nürnberg",
+      "awayTeamId": "93",
+      "awayTeam": "Energie Cottbus",
+      "awayShortName": "Cottbus",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    }
+  ],
+  "standings": [
+    {
+      "teamId": "131",
+      "name": "VfL Wolfsburg",
+      "shortName": "Wolfsburg",
+      "position": 1,
+      "played": 34,
+      "wins": 21,
+      "draws": 6,
+      "losses": 7,
+      "goalsFor": 80,
+      "goalsAgainst": 41,
+      "goalDifference": 39,
+      "points": 69
+    },
+    {
+      "teamId": "40",
+      "name": "FC Bayern München",
+      "shortName": "Bayern",
+      "position": 2,
+      "played": 34,
+      "wins": 20,
+      "draws": 7,
+      "losses": 7,
+      "goalsFor": 71,
+      "goalsAgainst": 42,
+      "goalDifference": 29,
+      "points": 67
+    },
+    {
+      "teamId": "16",
+      "name": "VfB Stuttgart",
+      "shortName": "Stuttgart",
+      "position": 3,
+      "played": 34,
+      "wins": 19,
+      "draws": 7,
+      "losses": 8,
+      "goalsFor": 63,
+      "goalsAgainst": 43,
+      "goalDifference": 20,
+      "points": 64
+    },
+    {
+      "teamId": "54",
+      "name": "Hertha BSC",
+      "shortName": "Hertha",
+      "position": 4,
+      "played": 34,
+      "wins": 19,
+      "draws": 6,
+      "losses": 9,
+      "goalsFor": 48,
+      "goalsAgainst": 41,
+      "goalDifference": 7,
+      "points": 63
+    },
+    {
+      "teamId": "100",
+      "name": "Hamburger SV",
+      "shortName": "HSV",
+      "position": 5,
+      "played": 34,
+      "wins": 19,
+      "draws": 4,
+      "losses": 11,
+      "goalsFor": 49,
+      "goalsAgainst": 47,
+      "goalDifference": 2,
+      "points": 61
+    },
+    {
+      "teamId": "7",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "position": 6,
+      "played": 34,
+      "wins": 15,
+      "draws": 14,
+      "losses": 5,
+      "goalsFor": 60,
+      "goalsAgainst": 37,
+      "goalDifference": 23,
+      "points": 59
+    },
+    {
+      "teamId": "175",
+      "name": "TSG Hoffenheim",
+      "shortName": "Hoffenheim",
+      "position": 7,
+      "played": 34,
+      "wins": 15,
+      "draws": 10,
+      "losses": 9,
+      "goalsFor": 63,
+      "goalsAgainst": 49,
+      "goalDifference": 14,
+      "points": 55
+    },
+    {
+      "teamId": "9",
+      "name": "FC Schalke 04",
+      "shortName": "S04",
+      "position": 8,
+      "played": 34,
+      "wins": 14,
+      "draws": 8,
+      "losses": 12,
+      "goalsFor": 47,
+      "goalsAgainst": 35,
+      "goalDifference": 12,
+      "points": 50
+    },
+    {
+      "teamId": "6",
+      "name": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen",
+      "position": 9,
+      "played": 34,
+      "wins": 14,
+      "draws": 7,
+      "losses": 13,
+      "goalsFor": 59,
+      "goalsAgainst": 46,
+      "goalDifference": 13,
+      "points": 49
+    },
+    {
+      "teamId": "134",
+      "name": "SV Werder Bremen",
+      "shortName": "Bremen",
+      "position": 10,
+      "played": 34,
+      "wins": 12,
+      "draws": 9,
+      "losses": 13,
+      "goalsFor": 64,
+      "goalsAgainst": 50,
+      "goalDifference": 14,
+      "points": 45
+    },
+    {
+      "teamId": "55",
+      "name": "Hannover 96",
+      "shortName": "Hannover",
+      "position": 11,
+      "played": 34,
+      "wins": 10,
+      "draws": 10,
+      "losses": 14,
+      "goalsFor": 49,
+      "goalsAgainst": 69,
+      "goalDifference": -20,
+      "points": 40
+    },
+    {
+      "teamId": "65",
+      "name": "1. FC Köln",
+      "shortName": "Köln",
+      "position": 12,
+      "played": 34,
+      "wins": 11,
+      "draws": 6,
+      "losses": 17,
+      "goalsFor": 35,
+      "goalsAgainst": 50,
+      "goalDifference": -15,
+      "points": 39
+    },
+    {
+      "teamId": "91",
+      "name": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
+      "position": 13,
+      "played": 34,
+      "wins": 8,
+      "draws": 9,
+      "losses": 17,
+      "goalsFor": 39,
+      "goalsAgainst": 60,
+      "goalDifference": -21,
+      "points": 33
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum",
+      "position": 14,
+      "played": 34,
+      "wins": 7,
+      "draws": 11,
+      "losses": 16,
+      "goalsFor": 39,
+      "goalsAgainst": 55,
+      "goalDifference": -16,
+      "points": 32
+    },
+    {
+      "teamId": "87",
+      "name": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "position": 15,
+      "played": 34,
+      "wins": 8,
+      "draws": 7,
+      "losses": 19,
+      "goalsFor": 39,
+      "goalsAgainst": 62,
+      "goalDifference": -23,
+      "points": 31
+    },
+    {
+      "teamId": "93",
+      "name": "Energie Cottbus",
+      "shortName": "Cottbus",
+      "position": 16,
+      "played": 36,
+      "wins": 8,
+      "draws": 6,
+      "losses": 22,
+      "goalsFor": 30,
+      "goalsAgainst": 62,
+      "goalDifference": -32,
+      "points": 30
+    },
+    {
+      "teamId": "105",
+      "name": "Karlsruher SC",
+      "shortName": "Karlsruhe",
+      "position": 17,
+      "played": 34,
+      "wins": 8,
+      "draws": 5,
+      "losses": 21,
+      "goalsFor": 30,
+      "goalsAgainst": 54,
+      "goalDifference": -24,
+      "points": 29
+    },
+    {
+      "teamId": "83",
+      "name": "DSC Arminia Bielefeld",
+      "shortName": "Bielefeld",
+      "position": 18,
+      "played": 34,
+      "wins": 4,
+      "draws": 16,
+      "losses": 14,
+      "goalsFor": 29,
+      "goalsAgainst": 56,
+      "goalDifference": -27,
+      "points": 28
+    },
+    {
+      "teamId": "79",
+      "name": "1. FC Nürnberg",
+      "shortName": "Nürnberg",
+      "position": 19,
+      "played": 2,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "goalDifference": 5,
+      "points": 6
+    }
+  ],
+  "teams": [
+    {
+      "teamId": "65",
+      "name": "1. FC Köln",
+      "shortName": "Köln"
+    },
+    {
+      "teamId": "79",
+      "name": "1. FC Nürnberg",
+      "shortName": "Nürnberg"
+    },
+    {
+      "teamId": "6",
+      "name": "Bayer 04 Leverkusen",
+      "shortName": "Leverkusen"
+    },
+    {
+      "teamId": "7",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund"
+    },
+    {
+      "teamId": "87",
+      "name": "Borussia Mönchengladbach",
+      "shortName": "Gladbach"
+    },
+    {
+      "teamId": "83",
+      "name": "DSC Arminia Bielefeld",
+      "shortName": "Bielefeld"
+    },
+    {
+      "teamId": "91",
+      "name": "Eintracht Frankfurt",
+      "shortName": "Frankfurt"
+    },
+    {
+      "teamId": "93",
+      "name": "Energie Cottbus",
+      "shortName": "Cottbus"
+    },
+    {
+      "teamId": "40",
+      "name": "FC Bayern München",
+      "shortName": "Bayern"
+    },
+    {
+      "teamId": "9",
+      "name": "FC Schalke 04",
+      "shortName": "S04"
+    },
+    {
+      "teamId": "100",
+      "name": "Hamburger SV",
+      "shortName": "HSV"
+    },
+    {
+      "teamId": "55",
+      "name": "Hannover 96",
+      "shortName": "Hannover"
+    },
+    {
+      "teamId": "54",
+      "name": "Hertha BSC",
+      "shortName": "Hertha"
+    },
+    {
+      "teamId": "105",
+      "name": "Karlsruher SC",
+      "shortName": "Karlsruhe"
+    },
+    {
+      "teamId": "134",
+      "name": "SV Werder Bremen",
+      "shortName": "Bremen"
+    },
+    {
+      "teamId": "175",
+      "name": "TSG Hoffenheim",
+      "shortName": "Hoffenheim"
+    },
+    {
+      "teamId": "16",
+      "name": "VfB Stuttgart",
+      "shortName": "Stuttgart"
+    },
+    {
+      "teamId": "129",
+      "name": "VfL Bochum",
+      "shortName": "Bochum"
+    },
+    {
+      "teamId": "131",
+      "name": "VfL Wolfsburg",
+      "shortName": "Wolfsburg"
+    }
+  ],
+  "groupChecks": {}
+}

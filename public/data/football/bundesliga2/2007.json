@@ -1,0 +1,5872 @@
+{
+  "schemaVersion": 1,
+  "id": "bundesliga2",
+  "shortcut": "bl2",
+  "year": 2007,
+  "seasonLabel": "2007/08",
+  "complete": true,
+  "calendarCheckedAt": "2026-11-18T13:57:49.417Z",
+  "updatedAt": "2026-11-18T13:57:49.417Z",
+  "matches": [
+    {
+      "id": "725",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2007-08-10T16:00:00Z",
+      "updated": "2008-10-02T22:16:46.197",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "731",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2007-08-10T16:00:00Z",
+      "updated": "2008-10-02T22:16:46.37",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "732",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2007-08-10T16:00:00Z",
+      "updated": "2008-10-02T22:16:46.463",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "724",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2007-08-12T12:00:00Z",
+      "updated": "2008-10-02T22:16:47.4",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "727",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2007-08-12T12:00:00Z",
+      "updated": "2008-10-02T22:16:47.51",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 6
+      }
+    },
+    {
+      "id": "728",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2007-08-12T12:00:00Z",
+      "updated": "2008-10-02T22:16:47.633",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "729",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2007-08-12T12:00:00Z",
+      "updated": "2008-10-02T22:16:47.76",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "730",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2007-08-12T12:00:00Z",
+      "updated": "2008-10-02T22:16:47.853",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "726",
+      "groupOrderId": 1,
+      "groupName": "1. Spieltag",
+      "date": "2007-08-13T18:15:00Z",
+      "updated": "2008-10-02T22:16:48.213",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "735",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2007-08-17T16:00:00Z",
+      "updated": "2008-10-02T22:16:48.323",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "746",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2007-08-17T16:00:00Z",
+      "updated": "2008-10-02T22:16:48.463",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "752",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2007-08-17T16:00:00Z",
+      "updated": "2008-10-02T22:16:48.603",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "734",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2007-08-19T12:00:00Z",
+      "updated": "2008-10-02T22:16:49.54",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "737",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2007-08-19T12:00:00Z",
+      "updated": "2008-10-02T22:16:49.4",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "740",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2007-08-19T12:00:00Z",
+      "updated": "2008-10-02T22:16:49.463",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "748",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2007-08-19T12:00:00Z",
+      "updated": "2008-10-02T22:16:49.29",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "750",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2007-08-19T12:00:00Z",
+      "updated": "2008-10-02T22:16:49.337",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "743",
+      "groupOrderId": 2,
+      "groupName": "2. Spieltag",
+      "date": "2007-08-20T18:15:00Z",
+      "updated": "2008-10-02T22:16:49.727",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "760",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2007-08-24T16:00:00Z",
+      "updated": "2008-10-02T22:16:49.777",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "768",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2007-08-24T16:00:00Z",
+      "updated": "2008-10-02T22:16:49.837",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    {
+      "id": "777",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2007-08-24T16:00:00Z",
+      "updated": "2008-10-02T22:16:49.883",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "761",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2007-08-26T12:00:00Z",
+      "updated": "2008-10-02T22:16:51.15",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 4,
+        "away": 0
+      }
+    },
+    {
+      "id": "763",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2007-08-26T12:00:00Z",
+      "updated": "2008-10-02T22:16:51.213",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "770",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2007-08-26T12:00:00Z",
+      "updated": "2008-10-02T22:16:50.993",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "774",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2007-08-26T12:00:00Z",
+      "updated": "2008-10-02T22:16:50.87",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "776",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2007-08-26T12:00:00Z",
+      "updated": "2008-10-02T22:16:51.277",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "766",
+      "groupOrderId": 3,
+      "groupName": "3. Spieltag",
+      "date": "2007-08-27T18:15:00Z",
+      "updated": "2008-10-02T22:16:51.447",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "790",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2007-08-31T16:00:00Z",
+      "updated": "2008-10-02T22:16:51.51",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "794",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2007-08-31T16:00:00Z",
+      "updated": "2008-10-02T22:16:51.587",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "798",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2007-08-31T16:00:00Z",
+      "updated": "2008-10-02T22:16:51.65",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "784",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2007-09-02T12:00:00Z",
+      "updated": "2008-10-02T22:16:52.4",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "789",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2007-09-02T12:00:00Z",
+      "updated": "2008-10-02T22:16:52.337",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "791",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2007-09-02T12:00:00Z",
+      "updated": "2008-10-02T22:16:52.29",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "795",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2007-09-02T12:00:00Z",
+      "updated": "2008-10-02T22:16:52.227",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "800",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2007-09-02T12:00:00Z",
+      "updated": "2008-10-02T22:16:52.167",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "786",
+      "groupOrderId": 4,
+      "groupName": "4. Spieltag",
+      "date": "2007-09-03T18:15:00Z",
+      "updated": "2008-10-02T22:16:52.573",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "810",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2007-09-14T16:00:00Z",
+      "updated": "2008-10-02T22:16:52.65",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "817",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2007-09-14T16:00:00Z",
+      "updated": "2008-10-02T22:16:52.713",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "821",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2007-09-14T16:00:00Z",
+      "updated": "2008-10-02T22:16:52.777",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "806",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2007-09-16T12:00:00Z",
+      "updated": "2008-10-02T22:16:53.51",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "808",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2007-09-16T12:00:00Z",
+      "updated": "2008-10-02T22:16:53.557",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "812",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2007-09-16T12:00:00Z",
+      "updated": "2008-10-02T22:16:53.307",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "813",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2007-09-16T12:00:00Z",
+      "updated": "2008-10-02T22:16:53.447",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "819",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2007-09-16T12:00:00Z",
+      "updated": "2008-10-02T22:16:53.243",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "815",
+      "groupOrderId": 5,
+      "groupName": "5. Spieltag",
+      "date": "2007-09-17T18:15:00Z",
+      "updated": "2008-10-02T22:16:53.76",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "825",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2007-09-21T16:00:00Z",
+      "updated": "2008-10-02T22:16:53.807",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "829",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2007-09-21T16:00:00Z",
+      "updated": "2008-10-02T22:16:53.87",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "831",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2007-09-21T16:00:00Z",
+      "updated": "2008-10-02T22:16:54.18",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "833",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2007-09-21T16:00:00Z",
+      "updated": "2008-10-02T22:16:54.227",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "840",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2007-09-21T16:00:00Z",
+      "updated": "2008-10-02T22:16:54.29",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "827",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2007-09-22T12:00:00Z",
+      "updated": "2008-10-02T22:16:54.557",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "835",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2007-09-22T12:00:00Z",
+      "updated": "2008-10-02T22:16:54.51",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "837",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2007-09-22T12:00:00Z",
+      "updated": "2008-10-02T22:16:54.4",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "839",
+      "groupOrderId": 6,
+      "groupName": "6. Spieltag",
+      "date": "2007-09-22T12:00:00Z",
+      "updated": "2008-10-02T22:16:54.447",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "842",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2007-09-25T15:30:00Z",
+      "updated": "2008-10-02T22:16:55.073",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "844",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2007-09-25T15:30:00Z",
+      "updated": "2008-10-02T22:16:55.12",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "846",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2007-09-25T15:30:00Z",
+      "updated": "2008-10-02T22:16:55.167",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "849",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2007-09-25T15:30:00Z",
+      "updated": "2008-10-02T22:16:55.227",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "843",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2007-09-26T15:30:00Z",
+      "updated": "2008-10-02T22:16:55.667",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "845",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2007-09-26T15:30:00Z",
+      "updated": "2008-10-02T22:16:55.62",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "847",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2007-09-26T15:30:00Z",
+      "updated": "2008-10-02T22:16:55.51",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "848",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2007-09-26T15:30:00Z",
+      "updated": "2008-10-02T22:16:55.557",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "841",
+      "groupOrderId": 7,
+      "groupName": "7. Spieltag",
+      "date": "2007-09-27T18:15:00Z",
+      "updated": "2008-10-02T22:16:56.323",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "850",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2007-09-28T16:00:00Z",
+      "updated": "2008-10-02T22:16:56.4",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "856",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2007-09-28T16:00:00Z",
+      "updated": "2008-10-02T22:16:56.477",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "867",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2007-09-28T16:00:00Z",
+      "updated": "2008-10-02T22:16:56.573",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "851",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2007-09-30T12:00:00Z",
+      "updated": "2008-10-02T22:16:57.227",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "852",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2007-09-30T12:00:00Z",
+      "updated": "2008-10-02T22:16:57.307",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "853",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2007-09-30T12:00:00Z",
+      "updated": "2008-10-02T22:16:57.37",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "860",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2007-09-30T12:00:00Z",
+      "updated": "2008-10-02T22:16:57.12",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    {
+      "id": "861",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2007-09-30T12:00:00Z",
+      "updated": "2008-10-02T22:16:57.18",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "858",
+      "groupOrderId": 8,
+      "groupName": "8. Spieltag",
+      "date": "2007-10-01T18:15:00Z",
+      "updated": "2008-10-02T22:16:57.54",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "871",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2007-10-05T16:00:00Z",
+      "updated": "2008-10-02T22:16:57.587",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "875",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2007-10-05T16:00:00Z",
+      "updated": "2008-10-02T22:16:57.65",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "878",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2007-10-05T16:00:00Z",
+      "updated": "2008-10-02T22:16:57.697",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "868",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2007-10-07T12:00:00Z",
+      "updated": "2008-10-02T22:16:58.353",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "872",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2007-10-07T12:00:00Z",
+      "updated": "2008-10-02T22:16:58.26",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "873",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2007-10-07T12:00:00Z",
+      "updated": "2008-10-02T22:16:58.307",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "877",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2007-10-07T12:00:00Z",
+      "updated": "2008-10-02T22:16:58.417",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 5
+      }
+    },
+    {
+      "id": "880",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2007-10-07T12:00:00Z",
+      "updated": "2008-10-02T22:16:58.197",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "869",
+      "groupOrderId": 9,
+      "groupName": "9. Spieltag",
+      "date": "2007-10-08T18:15:00Z",
+      "updated": "2008-10-02T22:16:58.587",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "895",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2007-10-19T16:00:00Z",
+      "updated": "2008-10-02T22:16:58.65",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "899",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2007-10-19T16:00:00Z",
+      "updated": "2008-10-02T22:16:58.713",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "900",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2007-10-19T16:00:00Z",
+      "updated": "2008-10-02T22:16:58.76",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "887",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2007-10-21T12:00:00Z",
+      "updated": "2008-10-02T22:16:59.43",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "889",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2007-10-21T12:00:00Z",
+      "updated": "2008-10-02T22:16:59.51",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "891",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2007-10-21T12:00:00Z",
+      "updated": "2008-10-02T22:16:59.573",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "893",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2007-10-21T12:00:00Z",
+      "updated": "2008-10-02T22:16:59.337",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "897",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2007-10-21T12:00:00Z",
+      "updated": "2008-10-02T22:16:59.68",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "886",
+      "groupOrderId": 10,
+      "groupName": "10. Spieltag",
+      "date": "2007-10-22T18:15:00Z",
+      "updated": "2008-10-02T22:17:00.01",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "904",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2007-10-26T16:00:00Z",
+      "updated": "2008-10-02T22:17:00.133",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "905",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2007-10-26T16:00:00Z",
+      "updated": "2008-10-02T22:17:00.197",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "906",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2007-10-26T16:00:00Z",
+      "updated": "2008-10-02T22:17:00.307",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "908",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2007-10-26T16:00:00Z",
+      "updated": "2008-10-02T22:17:00.4",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "912",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2007-10-26T16:00:00Z",
+      "updated": "2008-10-02T22:17:00.057",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "907",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2007-10-28T13:00:00Z",
+      "updated": "2008-10-02T22:17:01.633",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "909",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2007-10-28T13:00:00Z",
+      "updated": "2008-10-02T22:17:01.213",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "910",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2007-10-28T13:00:00Z",
+      "updated": "2008-10-02T22:17:01.353",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "911",
+      "groupOrderId": 11,
+      "groupName": "11. Spieltag",
+      "date": "2007-10-28T13:00:00Z",
+      "updated": "2008-10-02T22:17:01.447",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "921",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2007-11-01T19:15:00Z",
+      "updated": "2008-10-02T22:17:03.947",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "916",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2007-11-02T17:00:00Z",
+      "updated": "2008-10-02T22:17:04.29",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "918",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2007-11-02T17:00:00Z",
+      "updated": "2008-10-02T22:17:04.167",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "920",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2007-11-02T17:00:00Z",
+      "updated": "2008-10-02T22:17:04.04",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "914",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2007-11-04T13:00:00Z",
+      "updated": "2008-10-02T22:17:05.277",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "915",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2007-11-04T13:00:00Z",
+      "updated": "2008-10-02T22:17:05.37",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "917",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2007-11-04T13:00:00Z",
+      "updated": "2008-10-02T22:17:05.197",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "919",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2007-11-04T13:00:00Z",
+      "updated": "2008-10-02T22:17:05.51",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "913",
+      "groupOrderId": 12,
+      "groupName": "12. Spieltag",
+      "date": "2007-11-05T19:15:00Z",
+      "updated": "2008-10-02T22:17:05.837",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "922",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2007-11-09T17:00:00Z",
+      "updated": "2008-10-02T22:17:05.977",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "926",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2007-11-09T17:00:00Z",
+      "updated": "2008-10-02T22:17:06.197",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "929",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2007-11-09T17:00:00Z",
+      "updated": "2008-10-02T22:17:06.087",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "923",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2007-11-11T13:00:00Z",
+      "updated": "2008-10-02T22:17:07.323",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "924",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2007-11-11T13:00:00Z",
+      "updated": "2008-10-02T22:17:07.477",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "928",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2007-11-11T13:00:00Z",
+      "updated": "2008-10-02T22:17:07.62",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "930",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2007-11-11T13:00:00Z",
+      "updated": "2008-10-02T22:17:07.197",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "925",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2007-11-12T19:15:00Z",
+      "updated": "2008-10-02T22:17:08.26",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "927",
+      "groupOrderId": 13,
+      "groupName": "13. Spieltag",
+      "date": "2007-11-13T17:00:00Z",
+      "updated": "2008-10-02T22:17:08.477",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "931",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2007-11-23T17:00:00Z",
+      "updated": "2008-10-02T22:17:08.667",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "936",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2007-11-23T17:00:00Z",
+      "updated": "2008-10-02T22:17:08.977",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "937",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2007-11-23T17:00:00Z",
+      "updated": "2008-10-02T22:17:09.103",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "939",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2007-11-23T17:00:00Z",
+      "updated": "2008-10-02T22:17:09.29",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "932",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2007-11-25T13:00:00Z",
+      "updated": "2008-10-02T22:17:12.353",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "934",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2007-11-25T13:00:00Z",
+      "updated": "2008-10-02T22:17:12.87",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "935",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2007-11-25T13:00:00Z",
+      "updated": "2008-10-02T22:17:13.323",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "938",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2007-11-25T13:00:00Z",
+      "updated": "2008-10-02T22:17:12.133",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "933",
+      "groupOrderId": 14,
+      "groupName": "14. Spieltag",
+      "date": "2007-11-26T19:15:00Z",
+      "updated": "2008-10-02T22:17:15.027",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "945",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2007-11-30T17:00:00Z",
+      "updated": "2008-10-02T22:17:15.977",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "947",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2007-11-30T17:00:00Z",
+      "updated": "2008-10-02T22:17:15.493",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "948",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2007-11-30T17:00:00Z",
+      "updated": "2008-10-02T22:17:15.823",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 3,
+        "away": 4
+      }
+    },
+    {
+      "id": "941",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2007-12-02T13:00:00Z",
+      "updated": "2008-10-02T22:17:18.12",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 6,
+        "away": 3
+      }
+    },
+    {
+      "id": "942",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2007-12-02T13:00:00Z",
+      "updated": "2008-10-02T22:17:18.307",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "943",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2007-12-02T13:00:00Z",
+      "updated": "2008-10-02T22:17:18.51",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "944",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2007-12-02T13:00:00Z",
+      "updated": "2008-10-02T22:17:18.853",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "946",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2007-12-02T13:00:00Z",
+      "updated": "2008-10-02T22:17:17.963",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "940",
+      "groupOrderId": 15,
+      "groupName": "15. Spieltag",
+      "date": "2007-12-03T19:15:00Z",
+      "updated": "2008-10-02T22:17:19.93",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "949",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2007-12-07T17:00:00Z",
+      "updated": "2008-10-02T22:17:20.837",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "950",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2007-12-07T17:00:00Z",
+      "updated": "2008-10-02T22:17:21.213",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "954",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2007-12-07T17:00:00Z",
+      "updated": "2008-10-02T22:17:21.667",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "952",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2007-12-09T13:00:00Z",
+      "updated": "2008-10-02T22:17:24.557",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "953",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2007-12-09T13:00:00Z",
+      "updated": "2008-10-02T22:17:24.807",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "955",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2007-12-09T13:00:00Z",
+      "updated": "2008-10-02T22:17:23.823",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "956",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2007-12-09T13:00:00Z",
+      "updated": "2008-10-02T22:17:24.01",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "957",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2007-12-09T13:00:00Z",
+      "updated": "2008-10-02T22:17:24.277",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "951",
+      "groupOrderId": 16,
+      "groupName": "16. Spieltag",
+      "date": "2007-12-10T19:15:00Z",
+      "updated": "2008-10-02T22:17:26.26",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "962",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2007-12-14T17:00:00Z",
+      "updated": "2008-10-02T22:17:26.853",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "964",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2007-12-14T17:00:00Z",
+      "updated": "2008-10-02T22:17:27.087",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "966",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2007-12-14T17:00:00Z",
+      "updated": "2008-10-02T22:17:27.383",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "958",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2007-12-16T13:00:00Z",
+      "updated": "2008-10-02T22:17:29.633",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "959",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2007-12-16T13:00:00Z",
+      "updated": "2008-10-02T22:17:29.9",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "960",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2007-12-16T13:00:00Z",
+      "updated": "2008-10-02T22:17:30.087",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "963",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2007-12-16T13:00:00Z",
+      "updated": "2008-10-02T22:17:29.417",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "965",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2007-12-16T13:00:00Z",
+      "updated": "2008-10-02T22:17:29.167",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "961",
+      "groupOrderId": 17,
+      "groupName": "17. Spieltag",
+      "date": "2007-12-17T19:15:00Z",
+      "updated": "2008-10-02T22:17:31.243",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "969",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2008-02-01T17:00:00Z",
+      "updated": "2008-10-02T22:17:33.227",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "973",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2008-02-01T17:00:00Z",
+      "updated": "2008-10-02T22:17:33.447",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "974",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2008-02-01T17:00:00Z",
+      "updated": "2008-10-02T22:17:33.633",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "967",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2008-02-03T13:00:00Z",
+      "updated": "2008-10-02T22:17:36.417",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "970",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2008-02-03T13:00:00Z",
+      "updated": "2008-10-02T22:17:36.62",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "971",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2008-02-03T13:00:00Z",
+      "updated": "2008-10-02T22:17:36.917",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "972",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2008-02-03T13:00:00Z",
+      "updated": "2008-10-02T22:17:37.15",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "975",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2008-02-03T13:00:00Z",
+      "updated": "2008-10-02T22:17:35.947",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "968",
+      "groupOrderId": 18,
+      "groupName": "18. Spieltag",
+      "date": "2008-02-04T19:15:00Z",
+      "updated": "2008-10-02T22:17:38.12",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "979",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2008-02-08T17:00:00Z",
+      "updated": "2008-10-02T22:17:38.26",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "981",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2008-02-08T17:00:00Z",
+      "updated": "2008-10-02T22:17:38.463",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "982",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2008-02-08T17:00:00Z",
+      "updated": "2008-10-02T22:17:38.697",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "976",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2008-02-10T13:00:00Z",
+      "updated": "2008-10-02T22:17:40.9",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "977",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2008-02-10T13:00:00Z",
+      "updated": "2008-10-02T22:17:41.01",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "978",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2008-02-10T13:00:00Z",
+      "updated": "2008-10-02T22:17:41.167",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "983",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2008-02-10T13:00:00Z",
+      "updated": "2008-10-02T22:17:40.447",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "984",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2008-02-10T13:00:00Z",
+      "updated": "2008-10-02T22:17:40.667",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "980",
+      "groupOrderId": 19,
+      "groupName": "19. Spieltag",
+      "date": "2008-02-11T19:15:00Z",
+      "updated": "2008-10-02T22:17:41.417",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "989",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2008-02-15T17:00:00Z",
+      "updated": "2008-10-02T22:17:41.477",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "990",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2008-02-15T17:00:00Z",
+      "updated": "2008-10-02T22:17:41.587",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "992",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2008-02-15T17:00:00Z",
+      "updated": "2008-10-02T22:17:41.68",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "986",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2008-02-17T13:00:00Z",
+      "updated": "2008-10-02T22:17:42.807",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "987",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2008-02-17T13:00:00Z",
+      "updated": "2008-10-02T22:17:42.9",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "988",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2008-02-17T13:00:00Z",
+      "updated": "2008-10-02T22:17:43.027",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "991",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2008-02-17T13:00:00Z",
+      "updated": "2008-10-02T22:17:42.697",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "993",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2008-02-17T13:00:00Z",
+      "updated": "2008-10-02T22:17:42.587",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "985",
+      "groupOrderId": 20,
+      "groupName": "20. Spieltag",
+      "date": "2008-02-18T19:15:00Z",
+      "updated": "2008-10-02T22:17:43.383",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "1000",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2008-02-22T17:00:00Z",
+      "updated": "2008-10-02T22:17:43.633",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "995",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2008-02-22T17:00:00Z",
+      "updated": "2008-10-02T22:17:43.527",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "997",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2008-02-22T17:00:00Z",
+      "updated": "2008-10-02T22:17:43.727",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "1001",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2008-02-24T13:00:00Z",
+      "updated": "2008-10-02T22:17:44.837",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1002",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2008-02-24T13:00:00Z",
+      "updated": "2008-10-02T22:17:44.947",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "994",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2008-02-24T13:00:00Z",
+      "updated": "2008-10-02T22:17:45.04",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "996",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2008-02-24T13:00:00Z",
+      "updated": "2008-10-02T22:17:44.993",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "998",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2008-02-24T13:00:00Z",
+      "updated": "2008-10-02T22:17:44.697",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 6,
+        "away": 0
+      }
+    },
+    {
+      "id": "999",
+      "groupOrderId": 21,
+      "groupName": "21. Spieltag",
+      "date": "2008-02-25T19:15:00Z",
+      "updated": "2008-10-02T22:17:45.213",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "1006",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2008-02-29T17:00:00Z",
+      "updated": "2008-10-02T22:17:45.51",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "1007",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2008-02-29T17:00:00Z",
+      "updated": "2008-10-02T22:17:45.573",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "1008",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2008-02-29T17:00:00Z",
+      "updated": "2008-10-02T22:17:45.633",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "1004",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2008-03-02T13:00:00Z",
+      "updated": "2008-10-02T22:17:46.213",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "1005",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2008-03-02T13:00:00Z",
+      "updated": "2008-10-02T22:17:46.26",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "1009",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2008-03-02T13:00:00Z",
+      "updated": "2008-10-02T22:17:46.04",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "1010",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2008-03-02T13:00:00Z",
+      "updated": "2008-10-02T22:17:46.103",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "1011",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2008-03-02T13:00:00Z",
+      "updated": "2008-10-02T22:17:46.15",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    {
+      "id": "1003",
+      "groupOrderId": 22,
+      "groupName": "22. Spieltag",
+      "date": "2008-03-03T19:15:00Z",
+      "updated": "2008-10-02T22:17:46.43",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1012",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2008-03-07T17:00:00Z",
+      "updated": "2008-10-02T22:17:46.493",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "1013",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2008-03-07T17:00:00Z",
+      "updated": "2008-10-02T22:17:46.54",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "1014",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2008-03-07T17:00:00Z",
+      "updated": "2008-10-02T22:17:46.603",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 2,
+        "away": 5
+      }
+    },
+    {
+      "id": "1016",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2008-03-09T13:00:00Z",
+      "updated": "2008-10-02T22:17:47.057",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "1017",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2008-03-09T13:00:00Z",
+      "updated": "2008-10-02T22:17:47.167",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "1018",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2008-03-09T13:00:00Z",
+      "updated": "2008-10-02T22:17:47.227",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "1019",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2008-03-09T13:00:00Z",
+      "updated": "2008-10-02T22:17:47.277",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "1020",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2008-03-09T13:00:00Z",
+      "updated": "2008-10-02T22:17:47.337",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "1015",
+      "groupOrderId": 23,
+      "groupName": "23. Spieltag",
+      "date": "2008-03-10T19:15:00Z",
+      "updated": "2008-10-02T22:17:47.493",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "1022",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2008-03-14T17:00:00Z",
+      "updated": "2008-10-02T22:17:47.603",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "1023",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2008-03-14T17:00:00Z",
+      "updated": "2008-10-02T22:17:47.68",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "1028",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2008-03-14T17:00:00Z",
+      "updated": "2008-10-02T22:17:47.743",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "1021",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2008-03-16T13:00:00Z",
+      "updated": "2008-10-02T22:17:48.43",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1024",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2008-03-16T13:00:00Z",
+      "updated": "2008-10-02T22:17:48.37",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "1026",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2008-03-16T13:00:00Z",
+      "updated": "2008-10-02T22:17:48.26",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "1027",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2008-03-16T13:00:00Z",
+      "updated": "2008-10-02T22:17:48.323",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "1029",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2008-03-16T13:00:00Z",
+      "updated": "2008-10-02T22:17:48.213",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "1025",
+      "groupOrderId": 24,
+      "groupName": "24. Spieltag",
+      "date": "2008-03-17T19:15:00Z",
+      "updated": "2008-10-02T22:17:48.587",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "1034",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2008-03-20T17:00:00Z",
+      "updated": "2008-10-02T22:17:48.76",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "1035",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2008-03-20T17:00:00Z",
+      "updated": "2008-10-02T22:17:48.807",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1038",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2008-03-20T17:00:00Z",
+      "updated": "2008-10-02T22:17:48.87",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "1031",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2008-03-23T13:00:00Z",
+      "updated": "2008-10-02T22:17:49.527",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "1032",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2008-03-23T13:00:00Z",
+      "updated": "2008-10-02T22:17:49.587",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "1033",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2008-03-23T13:00:00Z",
+      "updated": "2008-10-02T22:17:49.633",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "1036",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2008-03-23T13:00:00Z",
+      "updated": "2008-10-02T22:17:49.4",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "1037",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2008-03-23T13:00:00Z",
+      "updated": "2008-10-02T22:17:49.463",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1030",
+      "groupOrderId": 25,
+      "groupName": "25. Spieltag",
+      "date": "2008-03-24T19:15:00Z",
+      "updated": "2008-10-02T22:17:49.807",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1039",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2008-03-28T17:00:00Z",
+      "updated": "2008-10-02T22:17:49.93",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "1040",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2008-03-28T17:00:00Z",
+      "updated": "2008-10-02T22:17:50.213",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "1043",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2008-03-28T17:00:00Z",
+      "updated": "2008-10-02T22:17:49.853",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "1041",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2008-03-30T12:00:00Z",
+      "updated": "2008-10-02T22:17:50.667",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1044",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2008-03-30T12:00:00Z",
+      "updated": "2008-10-02T22:17:50.713",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "1045",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2008-03-30T12:00:00Z",
+      "updated": "2008-10-02T22:17:50.807",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "1046",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2008-03-30T12:00:00Z",
+      "updated": "2008-10-02T22:17:50.9",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "1047",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2008-03-30T12:00:00Z",
+      "updated": "2008-10-02T22:17:50.963",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    {
+      "id": "1042",
+      "groupOrderId": 26,
+      "groupName": "26. Spieltag",
+      "date": "2008-03-31T18:15:00Z",
+      "updated": "2008-10-02T22:17:51.12",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "1050",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2008-04-04T16:00:00Z",
+      "updated": "2008-10-02T22:17:51.18",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "1053",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2008-04-04T16:00:00Z",
+      "updated": "2008-10-02T22:17:51.227",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1055",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2008-04-04T16:00:00Z",
+      "updated": "2008-10-02T22:17:51.29",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "1049",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2008-04-06T12:00:00Z",
+      "updated": "2008-10-02T22:17:51.947",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "1051",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2008-04-06T12:00:00Z",
+      "updated": "2008-10-02T22:17:51.837",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1052",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2008-04-06T12:00:00Z",
+      "updated": "2008-10-02T22:17:51.9",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "1054",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2008-04-06T12:00:00Z",
+      "updated": "2008-10-02T22:17:51.79",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "1056",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2008-04-06T12:00:00Z",
+      "updated": "2008-10-02T22:17:51.727",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "1048",
+      "groupOrderId": 27,
+      "groupName": "27. Spieltag",
+      "date": "2008-04-07T18:15:00Z",
+      "updated": "2008-10-02T22:17:52.12",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1057",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2008-04-11T16:00:00Z",
+      "updated": "2008-10-02T22:17:52.18",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "1060",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2008-04-11T16:00:00Z",
+      "updated": "2008-10-02T22:17:52.29",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "1062",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2008-04-11T16:00:00Z",
+      "updated": "2008-10-02T22:17:52.337",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "1063",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2008-04-11T16:00:00Z",
+      "updated": "2008-10-02T22:17:52.4",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "1065",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2008-04-11T16:00:00Z",
+      "updated": "2008-10-02T22:17:52.227",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "1058",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2008-04-13T12:00:00Z",
+      "updated": "2008-10-02T22:17:52.9",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "1059",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2008-04-13T12:00:00Z",
+      "updated": "2008-10-02T22:17:52.947",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "1061",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2008-04-13T12:00:00Z",
+      "updated": "2008-10-02T22:17:52.837",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "1064",
+      "groupOrderId": 28,
+      "groupName": "28. Spieltag",
+      "date": "2008-04-13T12:00:00Z",
+      "updated": "2008-10-02T22:17:52.777",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "1071",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2008-04-15T15:30:00Z",
+      "updated": "2008-10-02T22:17:53.12",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "1076",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2008-04-15T15:30:00Z",
+      "updated": "2008-10-02T22:17:53.227",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    },
+    {
+      "id": "1082",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2008-04-15T15:30:00Z",
+      "updated": "2008-10-02T22:17:53.167",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "1068",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2008-04-16T15:30:00Z",
+      "updated": "2008-10-02T22:17:53.713",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "1070",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2008-04-16T15:30:00Z",
+      "updated": "2008-10-02T22:17:53.557",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "1073",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2008-04-16T15:30:00Z",
+      "updated": "2008-10-02T22:17:53.62",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "1077",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2008-04-16T15:30:00Z",
+      "updated": "2008-10-02T22:17:53.51",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "1081",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2008-04-16T15:30:00Z",
+      "updated": "2008-10-02T22:17:53.667",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "1079",
+      "groupOrderId": 29,
+      "groupName": "29. Spieltag",
+      "date": "2008-04-17T18:15:00Z",
+      "updated": "2008-10-02T22:17:54.073",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "1089",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2008-04-25T16:00:00Z",
+      "updated": "2008-10-02T22:17:54.26",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "1094",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2008-04-25T16:00:00Z",
+      "updated": "2008-10-02T22:17:54.337",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 3,
+        "away": 3
+      }
+    },
+    {
+      "id": "1096",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2008-04-25T16:00:00Z",
+      "updated": "2008-10-02T22:17:54.383",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "1087",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2008-04-27T12:00:00Z",
+      "updated": "2008-10-02T22:17:55.027",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    {
+      "id": "1092",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2008-04-27T12:00:00Z",
+      "updated": "2008-10-02T22:17:55.073",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "1098",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2008-04-27T12:00:00Z",
+      "updated": "2008-10-02T22:17:54.87",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "1100",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2008-04-27T12:00:00Z",
+      "updated": "2008-10-02T22:17:54.917",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "1101",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2008-04-27T12:00:00Z",
+      "updated": "2008-10-02T22:17:54.963",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    {
+      "id": "1091",
+      "groupOrderId": 30,
+      "groupName": "30. Spieltag",
+      "date": "2008-04-28T18:15:00Z",
+      "updated": "2008-10-02T22:17:55.243",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "1112",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2008-05-02T16:00:00Z",
+      "updated": "2008-10-02T22:17:55.323",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    {
+      "id": "1113",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2008-05-02T16:00:00Z",
+      "updated": "2008-10-02T22:17:55.4",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    {
+      "id": "1118",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2008-05-02T16:00:00Z",
+      "updated": "2008-10-02T22:17:55.477",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    {
+      "id": "1119",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2008-05-02T16:00:00Z",
+      "updated": "2008-10-02T22:17:55.557",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1125",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2008-05-02T16:00:00Z",
+      "updated": "2008-10-02T22:17:55.633",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1109",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2008-05-04T12:00:00Z",
+      "updated": "2008-10-02T22:17:56.837",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 1,
+        "away": 7
+      }
+    },
+    {
+      "id": "1115",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2008-05-04T12:00:00Z",
+      "updated": "2008-10-02T22:17:56.557",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "1121",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2008-05-04T12:00:00Z",
+      "updated": "2008-10-02T22:17:56.727",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "1123",
+      "groupOrderId": 31,
+      "groupName": "31. Spieltag",
+      "date": "2008-05-04T12:00:00Z",
+      "updated": "2008-10-02T22:17:56.667",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "1130",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2008-05-06T15:30:00Z",
+      "updated": "2008-10-02T22:17:57.353",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    {
+      "id": "1131",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2008-05-06T15:30:00Z",
+      "updated": "2008-10-02T22:17:57.463",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "1137",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2008-05-06T15:30:00Z",
+      "updated": "2008-10-02T22:17:57.573",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "1143",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2008-05-06T15:30:00Z",
+      "updated": "2008-10-02T22:17:57.243",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "1129",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2008-05-07T15:30:00Z",
+      "updated": "2008-10-02T22:17:58.947",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "1133",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2008-05-07T15:30:00Z",
+      "updated": "2008-10-02T22:17:58.633",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "1135",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2008-05-07T15:30:00Z",
+      "updated": "2008-10-02T22:17:58.823",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 1
+      }
+    },
+    {
+      "id": "1139",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2008-05-07T15:30:00Z",
+      "updated": "2008-10-02T22:17:58.51",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    {
+      "id": "1141",
+      "groupOrderId": 32,
+      "groupName": "32. Spieltag",
+      "date": "2008-05-07T15:30:00Z",
+      "updated": "2008-10-02T22:17:58.307",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "1147",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2008-05-11T12:00:00Z",
+      "updated": "2008-10-02T22:18:01.277",
+      "finished": true,
+      "homeTeamId": "65",
+      "homeTeam": "1. FC Köln",
+      "homeShortName": "Köln",
+      "awayTeamId": "81",
+      "awayTeam": "1. FSV Mainz 05",
+      "awayShortName": "Mainz",
+      "result": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    {
+      "id": "1148",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2008-05-11T12:00:00Z",
+      "updated": "2008-10-02T22:18:01.417",
+      "finished": true,
+      "homeTeamId": "98",
+      "homeTeam": "FC St. Pauli",
+      "homeShortName": "St. Pauli",
+      "awayTeamId": "23",
+      "awayTeam": "Alemannia Aachen",
+      "awayShortName": "Aachen",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "1150",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2008-05-11T12:00:00Z",
+      "updated": "2008-10-02T22:18:01.837",
+      "finished": true,
+      "homeTeamId": "87",
+      "homeTeam": "Borussia Mönchengladbach",
+      "homeShortName": "Gladbach",
+      "awayTeamId": "112",
+      "awayTeam": "SC Freiburg",
+      "awayShortName": "Freiburg",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "1151",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2008-05-11T12:00:00Z",
+      "updated": "2008-10-02T22:18:02.01",
+      "finished": true,
+      "homeTeamId": "69",
+      "homeTeam": "FC Carl Zeiss Jena",
+      "homeShortName": "Jena",
+      "awayTeamId": "76",
+      "awayTeam": "1. FC Kaiserslautern",
+      "awayShortName": "Kaiserslautern",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "1153",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2008-05-11T12:00:00Z",
+      "updated": "2008-10-02T22:18:01.573",
+      "finished": true,
+      "homeTeamId": "115",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "homeShortName": "Fürth",
+      "awayTeamId": "95",
+      "awayTeam": "FC Augsburg",
+      "awayShortName": "Augsburg",
+      "result": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    {
+      "id": "1155",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2008-05-11T12:00:00Z",
+      "updated": "2008-10-02T22:18:01.727",
+      "finished": true,
+      "homeTeamId": "127",
+      "homeTeam": "TuS Koblenz",
+      "homeShortName": "",
+      "awayTeamId": "66",
+      "awayTeam": "Erzgebirge Aue",
+      "awayShortName": "Aue",
+      "result": {
+        "home": 2,
+        "away": 2
+      }
+    },
+    {
+      "id": "1157",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2008-05-11T12:00:00Z",
+      "updated": "2008-10-02T22:18:02.463",
+      "finished": true,
+      "homeTeamId": "174",
+      "homeTeam": "SV Wehen Wiesbaden",
+      "homeShortName": "",
+      "awayTeamId": "31",
+      "awayTeam": "SC Paderborn 07",
+      "awayShortName": "Paderborn",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1159",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2008-05-11T12:00:00Z",
+      "updated": "2008-10-02T22:18:02.307",
+      "finished": true,
+      "homeTeamId": "29",
+      "homeTeam": "Kickers Offenbach",
+      "homeShortName": "",
+      "awayTeamId": "123",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "awayShortName": "TSG 1899 Hoffenheim",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1161",
+      "groupOrderId": 33,
+      "groupName": "33. Spieltag",
+      "date": "2008-05-11T12:00:00Z",
+      "updated": "2008-10-02T22:18:02.133",
+      "finished": true,
+      "homeTeamId": "125",
+      "homeTeam": "TSV 1860 München",
+      "homeShortName": "1860 München",
+      "awayTeamId": "36",
+      "awayTeam": "VfL Osnabrück",
+      "awayShortName": "Osnabrück",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1165",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2008-05-18T12:00:00Z",
+      "updated": "2008-10-02T22:18:06.51",
+      "finished": true,
+      "homeTeamId": "31",
+      "homeTeam": "SC Paderborn 07",
+      "homeShortName": "Paderborn",
+      "awayTeamId": "87",
+      "awayTeam": "Borussia Mönchengladbach",
+      "awayShortName": "Gladbach",
+      "result": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    {
+      "id": "1166",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2008-05-18T12:00:00Z",
+      "updated": "2008-10-02T22:18:06.697",
+      "finished": true,
+      "homeTeamId": "123",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "homeShortName": "TSG 1899 Hoffenheim",
+      "awayTeamId": "115",
+      "awayTeam": "SpVgg Greuther Fürth",
+      "awayShortName": "Fürth",
+      "result": {
+        "home": 5,
+        "away": 0
+      }
+    },
+    {
+      "id": "1167",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2008-05-18T12:00:00Z",
+      "updated": "2008-10-02T22:18:06.9",
+      "finished": true,
+      "homeTeamId": "66",
+      "homeTeam": "Erzgebirge Aue",
+      "homeShortName": "Aue",
+      "awayTeamId": "125",
+      "awayTeam": "TSV 1860 München",
+      "awayShortName": "1860 München",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1168",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2008-05-18T12:00:00Z",
+      "updated": "2008-10-02T22:18:07.26",
+      "finished": true,
+      "homeTeamId": "76",
+      "homeTeam": "1. FC Kaiserslautern",
+      "homeShortName": "Kaiserslautern",
+      "awayTeamId": "65",
+      "awayTeam": "1. FC Köln",
+      "awayShortName": "Köln",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "1169",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2008-05-18T12:00:00Z",
+      "updated": "2008-10-02T22:18:07.633",
+      "finished": true,
+      "homeTeamId": "23",
+      "homeTeam": "Alemannia Aachen",
+      "homeShortName": "Aachen",
+      "awayTeamId": "127",
+      "awayTeam": "TuS Koblenz",
+      "awayShortName": "",
+      "result": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    {
+      "id": "1170",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2008-05-18T12:00:00Z",
+      "updated": "2008-10-02T22:18:07.883",
+      "finished": true,
+      "homeTeamId": "95",
+      "homeTeam": "FC Augsburg",
+      "homeShortName": "Augsburg",
+      "awayTeamId": "69",
+      "awayTeam": "FC Carl Zeiss Jena",
+      "awayShortName": "Jena",
+      "result": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    {
+      "id": "1171",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2008-05-18T12:00:00Z",
+      "updated": "2008-10-02T22:18:08.027",
+      "finished": true,
+      "homeTeamId": "36",
+      "homeTeam": "VfL Osnabrück",
+      "homeShortName": "Osnabrück",
+      "awayTeamId": "29",
+      "awayTeam": "Kickers Offenbach",
+      "awayShortName": "",
+      "result": {
+        "home": 3,
+        "away": 0
+      }
+    },
+    {
+      "id": "1172",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2008-05-18T12:00:00Z",
+      "updated": "2008-10-02T22:18:08.197",
+      "finished": true,
+      "homeTeamId": "112",
+      "homeTeam": "SC Freiburg",
+      "homeShortName": "Freiburg",
+      "awayTeamId": "174",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "awayShortName": "",
+      "result": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    {
+      "id": "1173",
+      "groupOrderId": 34,
+      "groupName": "34. Spieltag",
+      "date": "2008-05-18T12:00:00Z",
+      "updated": "2008-10-02T22:18:08.527",
+      "finished": true,
+      "homeTeamId": "81",
+      "homeTeam": "1. FSV Mainz 05",
+      "homeShortName": "Mainz",
+      "awayTeamId": "98",
+      "awayTeam": "FC St. Pauli",
+      "awayShortName": "St. Pauli",
+      "result": {
+        "home": 5,
+        "away": 1
+      }
+    }
+  ],
+  "standings": [
+    {
+      "teamId": "76",
+      "name": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern",
+      "position": 1,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "65",
+      "name": "1. FC Köln",
+      "shortName": "Köln",
+      "position": 2,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "81",
+      "name": "1. FSV Mainz 05",
+      "shortName": "Mainz",
+      "position": 3,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "23",
+      "name": "Alemannia Aachen",
+      "shortName": "Aachen",
+      "position": 4,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "87",
+      "name": "Borussia Mönchengladbach",
+      "shortName": "Gladbach",
+      "position": 5,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "66",
+      "name": "Erzgebirge Aue",
+      "shortName": "Aue",
+      "position": 6,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "95",
+      "name": "FC Augsburg",
+      "shortName": "Augsburg",
+      "position": 7,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "69",
+      "name": "FC Carl Zeiss Jena",
+      "shortName": "Jena",
+      "position": 8,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "98",
+      "name": "FC St. Pauli",
+      "shortName": "St. Pauli",
+      "position": 9,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "29",
+      "name": "Kickers Offenbach",
+      "shortName": "Kickers Offenbach",
+      "position": 10,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "112",
+      "name": "SC Freiburg",
+      "shortName": "Freiburg",
+      "position": 11,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "31",
+      "name": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "position": 12,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "115",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth",
+      "position": 13,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "121",
+      "name": "SV Wehen Wiesbaden",
+      "shortName": "SV Wehen Wiesbaden",
+      "position": 14,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "123",
+      "name": "TSG 1899 Hoffenheim",
+      "shortName": "TSG 1899 Hoffenheim",
+      "position": 15,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "125",
+      "name": "TSV 1860 München",
+      "shortName": "1860 München",
+      "position": 16,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "127",
+      "name": "TuS Koblenz",
+      "shortName": "TuS Koblenz",
+      "position": 17,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    },
+    {
+      "teamId": "36",
+      "name": "VfL Osnabrück",
+      "shortName": "Osnabrück",
+      "position": 18,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0
+    }
+  ],
+  "teams": [
+    {
+      "teamId": "76",
+      "name": "1. FC Kaiserslautern",
+      "shortName": "Kaiserslautern"
+    },
+    {
+      "teamId": "65",
+      "name": "1. FC Köln",
+      "shortName": "Köln"
+    },
+    {
+      "teamId": "81",
+      "name": "1. FSV Mainz 05",
+      "shortName": "Mainz"
+    },
+    {
+      "teamId": "23",
+      "name": "Alemannia Aachen",
+      "shortName": "Aachen"
+    },
+    {
+      "teamId": "87",
+      "name": "Borussia Mönchengladbach",
+      "shortName": "Gladbach"
+    },
+    {
+      "teamId": "66",
+      "name": "Erzgebirge Aue",
+      "shortName": "Aue"
+    },
+    {
+      "teamId": "95",
+      "name": "FC Augsburg",
+      "shortName": "Augsburg"
+    },
+    {
+      "teamId": "69",
+      "name": "FC Carl Zeiss Jena",
+      "shortName": "Jena"
+    },
+    {
+      "teamId": "98",
+      "name": "FC St. Pauli",
+      "shortName": "St. Pauli"
+    },
+    {
+      "teamId": "29",
+      "name": "Kickers Offenbach",
+      "shortName": "Kickers Offenbach"
+    },
+    {
+      "teamId": "112",
+      "name": "SC Freiburg",
+      "shortName": "Freiburg"
+    },
+    {
+      "teamId": "31",
+      "name": "SC Paderborn 07",
+      "shortName": "Paderborn"
+    },
+    {
+      "teamId": "115",
+      "name": "SpVgg Greuther Fürth",
+      "shortName": "Fürth"
+    },
+    {
+      "teamId": "121",
+      "name": "SV Wehen Wiesbaden",
+      "shortName": "SV Wehen Wiesbaden"
+    },
+    {
+      "teamId": "174",
+      "name": "SV Wehen Wiesbaden",
+      "shortName": ""
+    },
+    {
+      "teamId": "123",
+      "name": "TSG 1899 Hoffenheim",
+      "shortName": "TSG 1899 Hoffenheim"
+    },
+    {
+      "teamId": "125",
+      "name": "TSV 1860 München",
+      "shortName": "1860 München"
+    },
+    {
+      "teamId": "127",
+      "name": "TuS Koblenz",
+      "shortName": "TuS Koblenz"
+    },
+    {
+      "teamId": "36",
+      "name": "VfL Osnabrück",
+      "shortName": "Osnabrück"
+    }
+  ],
+  "groupChecks": {}
+}

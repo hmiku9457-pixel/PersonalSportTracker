@@ -680,6 +680,38 @@ function demoSession(race, name) {
   panel.append(wrap);
   return panel;
 }
+function practiceSession(race, name) {
+  // Initial rollout: OpenF1 practice results only for the 2026 championship.
+  if (Number(season.year) !== 2026) return demoSession(race, name);
+  const panel = card(name, 'f1-practice-session');
+  sessionTitle(panel, name, false);
+  const session = race.practiceSessions?.[name];
+  if (!session?.results?.length) {
+    panel.append(elt('p', 'f1-muted f1-session-meta',
+      'OpenF1 · ' + (session ? 'Ergebnis noch nicht verfügbar' : 'Noch keine Trainingsdaten gespeichert')));
+    return panel;
+  }
+  panel.append(elt('p', 'f1-muted f1-session-meta', 'OpenF1 · schnellste Runden'));
+  const { wrap, body } = sessionTable(['#', 'Fahrer', 'Zeit', 'Abstand', 'Rd.']);
+  for (const result of session.results) {
+    const tr = elt('tr');
+    const driverName = result.name || result.shortName || String(result.driverNumber);
+    const short = result.shortName || driverName;
+    const nameCell = td(short);
+    nameCell.classList.add('f1-session-name');
+    nameCell.title = driverName;
+    const gap = typeof result.gap === 'number' ?
+      (result.gap === 0 ? '–' : '+' + result.gap.toFixed(3)) :
+      result.gap || '–';
+    tr.append(td(result.position ?? '–'), nameCell,
+      td(result.time > 0 ? lapTime(Math.round(result.time * 1000)) : '–'),
+      td(gap), td(result.laps ?? '–'));
+    body.append(tr);
+  }
+  panel.append(wrap);
+  return panel;
+}
+
 function renderSeason() {
   content.className = 'f1-detail-grid f1-view-season';
   const columns = elt('div', 'f1-season-columns');
@@ -711,9 +743,9 @@ function renderGrandPrix(race) {
   top.append(resultSession(race), demoSession(race, 'Qualifying'));
   const sessions = elt('div', 'f1-gp-sessions');
   const sprint = Boolean(race.sprintDate);
-  sessions.append(demoSession(race, 'FP1'),
-    sprint ? demoSession(race, 'Sprint-Qualifying') : demoSession(race, 'FP2'),
-    sprint ? resultSession(race, true) : demoSession(race, 'FP3'));
+  sessions.append(practiceSession(race, 'FP1'),
+    sprint ? demoSession(race, 'Sprint-Qualifying') : practiceSession(race, 'FP2'),
+    sprint ? resultSession(race, true) : practiceSession(race, 'FP3'));
   content.append(heading, top, sessions);
 }
 

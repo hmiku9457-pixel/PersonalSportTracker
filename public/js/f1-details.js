@@ -5,6 +5,7 @@ const picker = document.querySelector('#f1-season');
 const info = document.querySelector('#f1-season-info');
 const status = document.querySelector('#f1-status');
 const content = document.querySelector('#f1-detail-content');
+const gpNavigation = document.querySelector('#f1-gp-navigation');
 const dialog = document.querySelector('#f1-race-dialog');
 const dialogBody = document.querySelector('#f1-dialog-body');
 const dialogTitle = document.querySelector('#f1-dialog-title');
@@ -15,6 +16,8 @@ let season = null;
 let rows = [];
 let shown = new Set();
 let focusId = null;
+let selectedRound = null;
+let seasonLoadToken = 0;
 let matrixPage = 0;
 let matrixPageSize = getPageSize();
 
@@ -341,36 +344,259 @@ function panelMatrix() {
     'Wochenendpunkte = Grand Prix + Sprint. „–“ bedeutet keine erfasste Teilnahme. Eine Zelle öffnet die Einzelheiten.'));
   return panel;
 }
-function render() {
-  if (!season) return;
-  const nextPageSize = getPageSize();
-  if (nextPageSize !== matrixPageSize) { matrixPage = 0; matrixPageSize = nextPageSize; }
-  content.replaceChildren(panelStandings('drivers'), panelChart(), panelMatrix(), panelStandings('constructors'));
-  status.textContent = '';
-  const completed = season.races.filter(r => r.results?.length).length;
-  info.textContent = completed + ' von ' + season.races.length + ' Grands Prix · ' +
-    (season.complete ? 'abgeschlossene Saison' : 'laufende Saison');
+
+const COUNTRY_CODES = {
+  argentina: 'AR', australia: 'AU', austria: 'AT', azerbaijan: 'AZ',
+  bahrain: 'BH', belgium: 'BE', brazil: 'BR', brasil: 'BR',
+  canada: 'CA', china: 'CN', france: 'FR', germany: 'DE',
+  hungary: 'HU', india: 'IN', italy: 'IT', japan: 'JP',
+  korea: 'KR', 'south korea': 'KR', malaysia: 'MY', mexico: 'MX',
+  monaco: 'MC', morocco: 'MA', netherlands: 'NL', holland: 'NL',
+  portugal: 'PT', qatar: 'QA', russia: 'RU', 'saudi arabia': 'SA',
+  singapore: 'SG', 'south africa': 'ZA', spain: 'ES', sweden: 'SE',
+  switzerland: 'CH', turkey: 'TR', türkiye: 'TR',
+  uae: 'AE', 'united arab emirates': 'AE', 'abu dhabi': 'AE',
+  uk: 'GB', 'united kingdom': 'GB', 'great britain': 'GB',
+  usa: 'US', us: 'US', 'united states': 'US', 'united states of america': 'US'
+};
+function countryFlag(country) {
+  const normalized = String(country || '').trim().toLowerCase();
+  const code = COUNTRY_CODES[normalized];
+  if (!code) return '🏁';
+  return [...code].map(c => String.fromCodePoint(127397 + c.charCodeAt(0))).join('');
+}
+function venueName(race) {
+  return race.locality || race.circuit || race.name;
+}
+function updateAddress() {
+  const url = new URL(location.href);
+  url.searchParams.set('season', String(season.year));
+  if (selectedRound !== null) url.searchParams.set('round', String(selectedRound));
+  else url.searchParams.delete('round');
+  history.replaceState(null, '', url);
+}
+function renderGPNav() {
+  const previousYear = gpNavigation.dataset.season;
+  const previousScroll = gpNavigation.scrollLeft;
+  gpNavigation.dataset.season = String(season.year);
+  const fragment = document.createDocumentFragment();
+  function item(label, symbol, selected, onSelect, title, extraClass = '') {
+    const node = button('', onSelect, 'f1-gp-button' +
+      (selected ? ' f1-gp-button--selected' : '') + extraClass);
+    node.setAttribute('aria-pressed', String(selected));
+    node.setAttribute('aria-label', title);
+    node.title = title;
+    node.append(elt('span', 'f1-gp-circle', symbol), elt('span', 'f1-gp-label', label));
+    fragment.append(node);
+  }
+  item('Season', '🏆', selectedRound === null, () => {
+    selectedRound = null;
+    updateAddress();
+    render();
+  }, 'Saisonübersicht ' + season.year, ' f1-gp-button--season');
+  for (const race of season.races) {
+    const round = Number(race.round);
+    item(venueName(race), countryFlag(race.country), selectedRound === round, () => {
+      selectedRound = round;
+      updateAddress();
+      render();
+    }, race.name + ' · ' + venueName(race) + ' · ' + season.year);
+  }
+  gpNavigation.replaceChildren(fragment);
+  if (previousYear === String(season.year)) {
+    gpNavigation.scrollLeft = previousScroll;
+  } else {
+    const activeIndex = selectedRound === null ? 0 :
+      season.races.findIndex(r => Number(r.round) === selectedRound) + 1;
+    gpNavigation.scrollLeft = Math.max(0, activeIndex * 84 - gpNavigation.clientWidth / 2);
+  }
+}
+function weekendDate(date) {
+  if (!date) return 'Termin noch offen';
+  const parsed = new Date(date);
+  return Number.isNaN(parsed.getTime()) ? 'Termin noch offen' :
+    parsed.toLocaleDateString('de-DE', { timeZone: 'UTC', day: '2-digit', month: 'long', year: 'numeric' });
+}
+function weekendParticipants(race) {
+  const source = race.results?.length ? race.results :
+    race.sprintResults?.length ? race.sprintResults : rows;
+  const seen = new Set();
+  return source.filter(driver => {
+    if (!driver.driverId || seen.has(driver.driverId)) return false;
+    seen.add(driver.driverId);
+    return true;
+  }).slice(0, 24);
+}
+function demoMillis(race, sessionName, position, phase = 0) {
+  const base = 75500 + (Number(race.round) * 1237 % 19500);
+  const session = [...sessionName].reduce((n, c) => n + c.charCodeAt(0), 0);
+  return base + (session % 1100) + position * 154 +
+    (position * position % 13) * 14 - phase * 810;
+}
+function lapTime(millis) {
+  const wholeMinutes = Math.floor(millis / 60000);
+  const seconds = ((millis % 60000) / 1000).toFixed(3).padStart(6, '0');
+  return wholeMinutes + ':' + seconds;
+}
+function sessionTable(headers) {
+  const [result, body] = table(headers);
+  result.classList.add('f1-session-table');
+  const wrap = elt('div', 'f1-session-table-wrap');
+  wrap.append(result);
+  return { wrap, body };
+}
+function sessionTitle(panel, label, demo) {
+  // card() already creates an h2; add an unambiguous demo label beside it.
+  const heading = elt('div', 'f1-session-heading');
+  const title = panel.querySelector('h2');
+  heading.append(title);
+  if (demo) heading.append(elt('span', 'f1-demo-badge', 'DEMO'));
+  panel.prepend(heading);
+}
+function resultSession(race, isSprint = false) {
+  const title = isSprint ? 'Sprint-Rennen' : 'Rennen';
+  const panel = card(title, 'f1-session-result');
+  sessionTitle(panel, title, false);
+  const items = isSprint ? race.sprintResults : race.results;
+  panel.append(elt('p', 'f1-muted f1-session-meta', isSprint ?
+    'Gespeichertes Sprintergebnis' : 'Gespeichertes Rennergebnis'));
+  if (!items?.length) {
+    panel.append(elt('p', 'f1-muted', 'Noch kein Ergebnis gespeichert.'));
+    return panel;
+  }
+  const { wrap, body } = sessionTable(['#', 'Fahrer', 'Team', 'Pkt.']);
+  for (const item of items) {
+    const tr = elt('tr');
+    const position = item.positionText || item.position || '–';
+    tr.append(td(position), td(item.name || item.driverId), td(item.constructorName || '–'),
+      td(number(item.points)));
+    tr.children[1].classList.add('f1-session-name');
+    tr.children[1].title = item.name || '';
+    tr.children[2].classList.add('f1-session-status');
+    tr.children[2].title = (item.constructorName || '') + (item.status ? ' · ' + item.status : '');
+    body.append(tr);
+  }
+  panel.append(wrap);
+  return panel;
+}
+function demoSession(race, name) {
+  const qualifying = name === 'Qualifying' || name === 'Sprint-Qualifying';
+  const panel = card(name, 'f1-demo-session');
+  sessionTitle(panel, name, true);
+  panel.append(elt('p', 'f1-muted f1-session-meta', 'Beispielzeiten – keine echten Session-Ergebnisse'));
+  const drivers = weekendParticipants(race);
+  if (!drivers.length) {
+    panel.append(elt('p', 'f1-muted', 'Keine Fahrerdaten vorhanden.'));
+    return panel;
+  }
+  // Reproducible fictitious positions and lap times; never modify real results.
+  const ranked = drivers.map((d, index) => ({
+    driver: d,
+    order: (index * 37 + Number(race.round) * 23 +
+      name.length * 17) % 997
+  })).sort((a, b) => a.order - b.order);
+  const shortColumn = name !== 'Qualifying' && name !== 'Sprint-Qualifying';
+  const headers = qualifying ?
+    ['#', 'Fahrer', name === 'Qualifying' ? 'Q1' : 'SQ1',
+      name === 'Qualifying' ? 'Q2' : 'SQ2',
+      name === 'Qualifying' ? 'Q3' : 'SQ3'] :
+    ['#', 'Fahrer', 'Zeit', 'Abstand'];
+  const { wrap, body } = sessionTable(headers);
+  ranked.forEach((entry, i) => {
+    const tr = elt('tr');
+    const fullName = entry.driver.name || entry.driver.driverId;
+    const label = shortColumn ? (entry.driver.shortName || entry.driver.familyName || fullName) :
+      (entry.driver.familyName || entry.driver.name || entry.driver.driverId);
+    const nameCell = td(label);
+    nameCell.classList.add('f1-session-name');
+    nameCell.title = fullName;
+    tr.append(td(i + 1), nameCell);
+    if (qualifying) {
+      for (let phase = 0; phase < 3; phase++) {
+        const cutoff = phase === 0 ? ranked.length : phase === 1 ? 15 : 10;
+        tr.append(td(i < cutoff ? lapTime(demoMillis(race, name, i, phase)) : '–'));
+      }
+    } else {
+      const fastest = demoMillis(race, name, 0);
+      tr.append(td(lapTime(demoMillis(race, name, i))),
+        td(i === 0 ? '–' : '+' + ((demoMillis(race, name, i) - fastest) / 1000).toFixed(3)));
+    }
+    body.append(tr);
+  });
+  panel.append(wrap);
+  return panel;
+}
+function renderSeason() {
+  content.className = 'f1-detail-grid f1-view-season';
+  const columns = elt('div', 'f1-season-columns');
+  const left = elt('div', 'f1-season-column');
+  const right = elt('div', 'f1-season-column');
+  left.append(panelStandings('drivers'), panelStandings('constructors'));
+  right.append(panelChart(), panelMatrix());
+  columns.append(left, right);
+  content.append(columns, elt('h2', 'f1-season-extra-title', 'Weitere WM-Stände'));
+  const extra = elt('div', 'f1-season-extra');
+  for (const name of ['FP1', 'FP2', 'FP3', 'Qualifying']) {
+    const panel = card(name + ' · WM-Stand', 'f1-season-placeholder');
+    panel.append(elt('p', 'f1-muted', 'Wertung folgt in einem späteren Schritt.'));
+    extra.append(panel);
+  }
+  content.append(extra);
   if (season.year <= 1990) {
     content.append(elt('p', 'f1-history-note',
       'Historische Wertungsregel: Bis 1990 konnten Streichresultate gelten. Der Linienchart zeigt aufsummierte erzielte Rennpunkte; die WM-Tabelle verwendet die offiziellen Wertungspunkte.'));
   }
 }
-async function loadSeason(year) {
+function renderGrandPrix(race) {
+  content.className = 'f1-detail-grid f1-view-grand-prix';
+  const heading = elt('div', 'f1-gp-heading');
+  heading.append(elt('h2', '', race.name),
+    elt('p', 'f1-muted', venueName(race) + ' · ' + race.country +
+      ' · ' + weekendDate(race.date) + (race.sprintDate ? ' · Sprint-Wochenende' : '')));
+  const top = elt('div', 'f1-gp-top');
+  top.append(resultSession(race), demoSession(race, 'Qualifying'));
+  const sessions = elt('div', 'f1-gp-sessions');
+  const sprint = Boolean(race.sprintDate);
+  sessions.append(demoSession(race, 'FP1'),
+    sprint ? demoSession(race, 'Sprint-Qualifying') : demoSession(race, 'FP2'),
+    sprint ? resultSession(race, true) : demoSession(race, 'FP3'));
+  content.append(heading, top, sessions);
+}
+
+function render() {
+  if (!season) return;
+  const nextPageSize = getPageSize();
+  if (nextPageSize !== matrixPageSize) { matrixPage = 0; matrixPageSize = nextPageSize; }
+  renderGPNav();
+  content.replaceChildren();
+  const race = selectedRound === null ? null :
+    season.races.find(r => Number(r.round) === selectedRound);
+  if (race) renderGrandPrix(race);
+  else renderSeason();
+  status.textContent = '';
+  const completed = season.races.filter(r => r.results?.length).length;
+  info.textContent = completed + ' / ' + season.races.length + ' GP · ' +
+    (season.complete ? 'Saison beendet' : 'laufende Saison');
+}
+async function loadSeason(year, requestedRound = null) {
+  const token = ++seasonLoadToken;
   status.textContent = 'Saison ' + year + ' wird geladen …';
   content.replaceChildren();
   try {
     const data = await loadJson('./data/f1/' + year + '.json');
+    if (token !== seasonLoadToken) return;
     if (!Array.isArray(data.races)) throw new Error('Ungültiges Datenformat.');
     season = data;
     rows = allDrivers(season);
     shown = new Set(rows.map(row => row.driverId));
     focusId = null;
     matrixPage = 0;
-    const url = new URL(location.href);
-    url.searchParams.set('season', String(year));
-    history.replaceState(null, '', url);
+    selectedRound = data.races.some(r => Number(r.round) === Number(requestedRound)) && requestedRound !== null ?
+      Number(requestedRound) : null;
+    updateAddress();
     render();
   } catch (error) {
+    if (token !== seasonLoadToken) return;
     console.error(error);
     status.textContent = 'Saison ' + year + ' konnte nicht geladen werden. Bitte nach dem nächsten Datenupdate erneut versuchen.';
   }
@@ -392,7 +618,8 @@ async function start() {
     const year = years.includes(requested) ? requested : years[0];
     picker.value = String(year);
     picker.addEventListener('change', () => loadSeason(Number(picker.value)));
-    await loadSeason(year);
+    const roundParam = new URLSearchParams(location.search).get('round');
+    await loadSeason(year, roundParam === null ? null : Number(roundParam));
   } catch (error) {
     console.error(error);
     status.textContent = 'Das Saisonverzeichnis konnte nicht geladen werden. Bitte nach dem nächsten Datenupdate erneut versuchen.';

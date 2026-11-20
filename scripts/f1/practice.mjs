@@ -76,15 +76,27 @@ export function normalizePracticeResults(raw, driverInfo = [], standingDrivers =
  * A failed OpenF1 call never overwrites previously stored results.
  */
 export async function updatePracticeSeason(saved, {
-  now = Date.now(), fetchData = fetchJson, pauseMs = 1150,
+  now = Date.now(), fetchData = fetchJson, pauseMs = 2100,
   maxSessions = Number(process.env.F1_PRACTICE_BATCH ?? 85)
 } = {}) {
   if (saved.year !== 2026) return saved;
   const season = structuredClone(saved);
   let changed = false;
   const request = async (resource, query) => {
-    if (pauseMs) await pause(pauseMs);
-    return fetchData(BASE + '/' + resource + '?' + new URLSearchParams(query));
+    const url = BASE + '/' + resource + '?' + new URLSearchParams(query);
+    for (let attempt = 0; ; attempt++) {
+      if (pauseMs) await pause(pauseMs);
+      try {
+        return await fetchData(url);
+      } catch (error) {
+        // OpenF1's free tier is rate limited. Back off instead of losing an
+        // entire FP result during the initial backfill; a 404 is not retried.
+        if (!/\b429\b/.test(String(error.message)) || attempt >= 2) throw error;
+        const delay = 30_000 * (attempt + 1);
+        console.warn('OpenF1 rate limit reached; retrying in ' + delay / 1000 + 's.');
+        await pause(delay);
+      }
+    }
   };
 
   const calendar = await request('sessions', { year: season.year, session_type: 'Practice' });

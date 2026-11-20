@@ -865,10 +865,9 @@ tbody tr[class*="zone-"] td:first-child {
 .f1-gp-navigation {
   display: flex;
   align-items: flex-start;
-  gap: 9px;
   width: 100%;
-  min-height: 91px;
-  padding: 12px 2px 5px;
+  min-height: 86px;
+  padding: 10px 0 5px;
   overflow-x: auto;
   overflow-y: hidden;
   scrollbar-width: thin;
@@ -876,13 +875,22 @@ tbody tr[class*="zone-"] td:first-child {
   overscroll-behavior-x: contain;
   scroll-snap-type: x proximity;
 }
+.f1-gp-track {
+  position: relative;
+  display: flex;
+  flex: 0 0 auto;
+  align-items: flex-start;
+  gap: 3px;
+  width: max-content;
+  margin-inline: auto;
+}
 .f1-gp-button {
-  flex: 0 0 75px;
+  flex: 0 0 56px;
   min-width: 0;
   display: flex;
   align-items: center;
   flex-direction: column;
-  gap: 5px;
+  gap: 4px;
   padding: 0;
   background: transparent;
   border: 0;
@@ -895,30 +903,41 @@ tbody tr[class*="zone-"] td:first-child {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 51px;
-  height: 51px;
+  width: 36px;
+  height: 36px;
   border-radius: 50%;
+  overflow: hidden;
   border: 2px solid #424a57;
   background: var(--card-alt);
-  font-size: 29px;
+  font-size: 19px;
   line-height: 1;
   box-shadow: 0 1px 7px rgba(0,0,0,.12);
   transition: border-color .15s, background .15s;
 }
+.f1-gp-flag {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.f1-flag-fallback { line-height: 1; }
 .f1-gp-button:hover .f1-gp-circle { border-color: #8bbdeb; background: #293442; }
 .f1-gp-button--selected .f1-gp-circle { border-color: #70baff; background: #283c50; box-shadow: 0 0 0 2px rgba(112,186,255,.14); }
 .f1-gp-button--selected .f1-gp-label { color: #f4f8ff; font-weight: 700; }
 .f1-gp-button:focus-visible { outline: 2px solid #9acbff; outline-offset: 2px; border-radius: 8px; }
-.f1-gp-button--season .f1-gp-circle { font-size: 24px; }
+.f1-gp-button--season .f1-gp-circle { font-size: 18px; }
 .f1-gp-label {
-  display: block;
-  max-width: 75px;
+  display: -webkit-box;
+  max-width: 56px;
+  min-height: 26px;
   overflow: hidden;
-  text-overflow: ellipsis;
   text-align: center;
-  white-space: nowrap;
-  font-size: .7rem;
-  line-height: 1.25;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  font-size: .64rem;
+  line-height: 1.2;
 }
 
 .f1-detail main { padding-top: 18px; }
@@ -927,7 +946,7 @@ tbody tr[class*="zone-"] td:first-child {
   flex-direction: column;
   gap: 16px;
 }
-.f1-season-columns { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); align-items: start; gap: 16px; }
+.f1-season-columns { display: grid; grid-template-columns: 440px minmax(0, 1fr); align-items: start; gap: 16px; }
 .f1-season-column { display: flex; flex-direction: column; gap: 16px; min-width: 0; }
 .f1-season-extra { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; }
 .f1-season-extra-title { margin: 8px 0 0; font-size: 1.08rem; }
@@ -937,7 +956,7 @@ tbody tr[class*="zone-"] td:first-child {
 .f1-gp-heading { padding: 4px 2px 0; }
 .f1-gp-heading h2 { margin: 0 0 5px; font-size: 1.2rem; }
 .f1-gp-heading p { margin: 0; }
-.f1-gp-top { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; align-items: start; }
+.f1-gp-top { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; align-items: start; }
 .f1-gp-sessions { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; align-items: start; }
 .f1-gp-top > *, .f1-gp-sessions > * { min-width: 0; }
 .f1-session-meta { margin: -5px 0 12px !important; font-size: .76rem; }
@@ -968,11 +987,11 @@ tbody tr[class*="zone-"] td:first-child {
 .f1-gp-sessions .f1-session-table th, .f1-gp-sessions .f1-session-table td { padding: 7px 3px; }
 
 @media (max-width: 1080px) {
-  .f1-season-columns { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .f1-season-columns { grid-template-columns: minmax(0, 1fr); }
   .f1-season-extra { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (max-width: 850px) {
-  .f1-season-columns, .f1-gp-top { grid-template-columns: minmax(0, 1fr); }
+  .f1-gp-top { grid-template-columns: minmax(0, 1fr); }
   .f1-gp-sessions {
     grid-auto-flow: column;
     grid-auto-columns: minmax(270px, 80%);
@@ -994,10 +1013,10 @@ tbody tr[class*="zone-"] td:first-child {
   .f1-detail__header .header-button { padding: 6px 8px; min-height: 34px; font-size: .72rem; }
   .f1-detail__header h1 { font-size: 1.18rem; }
   .f1-header-title .f1-muted { font-size: .62rem; max-width: 130px; }
-  .f1-gp-navigation { min-height: 83px; gap: 5px; padding-top: 9px; }
-  .f1-gp-button { flex-basis: 67px; }
-  .f1-gp-circle { width: 45px; height: 45px; font-size: 26px; }
-  .f1-gp-label { max-width: 67px; font-size: .65rem; }
+  .f1-gp-navigation { min-height: 85px; padding-top: 9px; }
+  .f1-gp-button { flex-basis: 56px; }
+  .f1-gp-circle { width: 36px; height: 36px; font-size: 19px; }
+  .f1-gp-label { max-width: 56px; font-size: .62rem; }
   .f1-season-extra { grid-template-columns: minmax(0, 1fr); }
   .f1-gp-sessions { grid-auto-columns: minmax(270px, 91%); gap: 10px; }
   .f1-gp-heading h2 { font-size: 1.05rem; }

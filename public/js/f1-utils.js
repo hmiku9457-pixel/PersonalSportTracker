@@ -110,3 +110,90 @@ export function championshipGaps(items, index) {
     previous: index === 0 ? null : Math.max(0, asNumber(items[index - 1]?.points) - points)
   };
 }
+
+
+/** Fictional session championships; this does not change official F1 points. */
+export const FUN_SESSION_POINTS = Object.freeze([25, 18, 15, 12, 10, 8, 6, 4, 2, 1]);
+export const FUN_SESSION_TYPES = Object.freeze(['FP1', 'FP2', 'FP3', 'Qualifying']);
+
+export function sessionResultsFor(race, type) {
+  if (!FUN_SESSION_TYPES.includes(type)) return null;
+  if (type === 'Qualifying') {
+    // The Qualifying importer will populate this key in a later step.
+    return race.qualifyingSessions?.Qualifying?.results ?? null;
+  }
+  // There is no second or third free practice during sprint weekends.
+  if ((type === 'FP2' || type === 'FP3') && race.sprintDate) return null;
+  return race.practiceSessions?.[type]?.results ?? null;
+}
+
+/**
+ * Sum the usual GP points independently for each free-practice or qualifying
+ * classification. Only imported, real sessions count; no synthetic times
+ * and no points for absent participants. FP-only reserve drivers are included.
+ * Ties are resolved by number of better session finishes, then by name.
+ */
+export function funSessionChampionship(season, type) {
+  if (!FUN_SESSION_TYPES.includes(type)) throw new Error('Unknown F1 session: ' + type);
+  const names = new Map((season.drivers ?? []).map(d => [d.driverId, d]));
+  const byDriver = new Map();
+  let completed = 0;
+  let scheduled = 0;
+
+  for (const race of season.races ?? []) {
+    if (race.sprintDate && (type === 'FP2' || type === 'FP3')) continue;
+    scheduled++;
+    const results = sessionResultsFor(race, type);
+    if (!Array.isArray(results) || !results.length) continue;
+    completed++;
+    const seen = new Set();
+
+    for (const entry of results) {
+      const id = String(entry.driverId ?? '').trim();
+      if (!id || seen.has(id)) continue;
+      seen.add(id);
+      const official = names.get(id);
+      const position = Number(entry.position);
+      const classified = Number.isInteger(position) && position > 0 ? position : null;
+      const points = classified ? (FUN_SESSION_POINTS[classified - 1] ?? 0) : 0;
+      if (!byDriver.has(id)) {
+        byDriver.set(id, {
+          driverId: id,
+          name: official?.name || entry.name || id,
+          shortName: official?.shortName || entry.shortName || '',
+          currentConstructorId: official?.currentConstructorId ?? official?.constructorIds?.at(-1) ?? null,
+          points: 0,
+          starts: 0,
+          wins: 0,
+          finishes: []
+        });
+      }
+      const driver = byDriver.get(id);
+      driver.points += points;
+      driver.starts++;
+      if (classified === 1) driver.wins++;
+      if (classified) driver.finishes[classified] = (driver.finishes[classified] || 0) + 1;
+    }
+  }
+
+  const rows = [...byDriver.values()].sort((a, b) => {
+    if (a.points !== b.points) return b.points - a.points;
+    const positions = Math.max(a.finishes.length, b.finishes.length);
+    for (let position = 1; position < positions; position++) {
+      const delta = (b.finishes[position] || 0) - (a.finishes[position] || 0);
+      if (delta) return delta;
+    }
+    return a.name.localeCompare(b.name, 'de');
+  }).map((driver, index) => ({
+    ...driver,
+    position: index + 1,
+    gapLeader: 0,
+    gapPrevious: 0
+  }));
+  const leader = rows[0]?.points ?? 0;
+  rows.forEach((driver, index) => {
+    driver.gapLeader = leader - driver.points;
+    driver.gapPrevious = index ? rows[index - 1].points - driver.points : 0;
+  });
+  return { type, scheduled, completed, rows };
+}

@@ -156,12 +156,32 @@ function teamBadge(id, secondary = false) {
     return badge;
   }
   const year = Number(season.year);
-  const preferredYear = year >= 2018 && year <= 2026 ? year : 2025;
-  const candidateYears = [...new Set([preferredYear, 2025])];
-  const urls = candidateYears.flatMap(y => [
-    'https://media.formula1.com/image/upload/common/f1/' + y + '/' + slug + '/' + y + slug + 'logowhite.svg',
-    'https://media.formula1.com/image/upload/common/f1/' + y + '/' + slug + '/' + y + slug + 'logowhite.webp'
-  ]);
+  // Formula1.com publishes full-colour "logo" marks from 2024 onward.
+  // The original CDN endpoints do not require an image extension.
+  // Earlier grids (2019–2023) used small coloured PNG marks instead.
+  const oldSlugs = {
+    red_bull: 'red-bull-racing', aston_martin: 'aston-martin',
+    haas: 'haas-f1-team', sauber: 'alfa-romeo', alfa: 'alfa-romeo-racing',
+    rb: 'alphatauri', alphatauri: 'alphatauri',
+    toro_rosso: 'toro-rosso', force_india: 'force-india',
+    racing_point: 'racing-point'
+  };
+  const oldSlug = oldSlugs[id] || slug;
+  const candidates = year >= 2024
+    ? [...new Set([year, 2025, 2026])].filter(y => y >= 2024).flatMap(y => {
+      const currentSlug = y === 2024 && id === 'rb' ? 'rb' :
+        y === 2024 && id === 'haas' ? 'haas' : slug;
+      return [
+        'https://media.formula1.com/image/upload/common/f1/' + y + '/' +
+          currentSlug + '/' + y + currentSlug + 'logo',
+        'https://media.formula1.com/image/upload/common/f1/' + y + '/' +
+          currentSlug + '/' + y + currentSlug + 'logo.svg'
+      ];
+    })
+    : year >= 2019 ? [
+      'https://media.formula1.com/content/dam/fom-website/teams/' + year + '/' + oldSlug + '-logo.png'
+    ] : [];
+  const urls = candidates;
   const img = elt('img', 'f1-team-badge-image');
   img.alt = '';
   img.loading = 'lazy';
@@ -172,6 +192,10 @@ function teamBadge(id, secondary = false) {
     if (attempt < urls.length) img.src = urls[attempt];
     else fallback();
   });
+  if (!urls.length) {
+    fallback();
+    return badge;
+  }
   img.src = urls[0];
   badge.append(img);
   return badge;
@@ -213,12 +237,18 @@ function panelStandings(type) {
       td(number(item.points)), td(formatGap(gaps.leader)),
       td(formatGap(gaps.previous)), td(labelValue(bounds, 'best')),
       td(labelValue(bounds, 'worst')));
-    if (!isTeam) {
+    if (isTeam) {
+      tr.classList.add('f1-constructor-row');
+      tr.style.setProperty('--team-row-color', PALETTE[item.constructorId] || '#64748b');
+    } else {
       addFocus(tr, item.driverId);
       if (item.driverId === focusId) tr.classList.add('f1-focused');
-      const namedCell = tr.children[2];
-      namedCell.style.setProperty('--driver-color', teamColor(item));
-      namedCell.classList.add('f1-name-with-stripe');
+      const color = teamColor(item);
+      // The continuous accent extends across both the logo and driver name.
+      for (const cell of [tr.children[1], tr.children[2]]) {
+        cell.style.setProperty('--driver-color', color);
+        cell.classList.add('f1-name-with-stripe');
+      }
     }
     body.append(tr);
   }

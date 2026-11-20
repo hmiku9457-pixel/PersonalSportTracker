@@ -3,7 +3,7 @@
   "year": 2026,
   "complete": false,
   "calendarCheckedAt": "2026-11-19T14:25:45.911Z",
-  "updatedAt": "2026-11-20T13:53:51.559Z",
+  "updatedAt": "2026-11-20T13:57:25.964Z",
   "races": [
     {
       "round": 1,
@@ -9357,6 +9357,454 @@
           ],
           "attempts": 0,
           "checkedAt": "2026-11-20T13:53:51.559Z"
+        },
+        "FP2": {
+          "sessionKey": 11336,
+          "date": "2026-07-24T15:00:00+00:00",
+          "source": "OpenF1",
+          "results": [
+            {
+              "driverId": "hamilton",
+              "name": "Lewis Hamilton",
+              "shortName": "HAM",
+              "driverNumber": 44,
+              "position": 1,
+              "time": 78.729,
+              "gap": 0,
+              "laps": 26
+            },
+            {
+              "driverId": "leclerc",
+              "name": "Charles Leclerc",
+              "shortName": "LEC",
+              "driverNumber": 16,
+              "position": 2,
+              "time": 78.877,
+              "gap": 0.148,
+              "laps": 30
+            },
+            {
+              "driverId": "norris",
+              "name": "Lando Norris",
+              "shortName": "NOR",
+              "driverNumber": 1,
+              "position": 3,
+              "time": 79.228,
+              "gap": 0.499,
+              "laps": 30
+            },
+            {
+              "driverId": "max_verstappen",
+              "name": "Max Verstappen",
+              "shortName": "VER",
+              "driverNumber": 3,
+              "position": 4,
+              "time": 79.421,
+              "gap": 0.692,
+              "laps": 27
+            },
+            {
+              "driverId": "russell",
+              "name": "George Russell",
+              "shortName": "RUS",
+              "driverNumber": 63,
+              "position": 5,
+              "time": 79.662,
+              "gap": 0.933,
+              "laps": 30
+            },
+            {
+              "driverId": "hadjar",
+              "name": "Isack Hadjar",
+              "shortName": "HAD",
+              "driverNumber": 6,
+              "position": 6,
+              "time": 79.8,
+              "gap": 1.071,
+              "laps": 20
+            },
+            {
+              "driverId": "lawson",
+              "name": "Liam Lawson",
+              "shortName": "LAW",
+              "driverNumber": 30,
+              "position": 7,
+              "time": 80.041,
+              "gap": 1.312,
+              "laps": 29
+            },
+            {
+              "driverId": "piastri",
+              "name": "Oscar Piastri",
+              "shortName": "PIA",
+              "driverNumber": 81,
+              "position": 8,
+              "time": 80.101,
+              "gap": 1.372,
+              "laps": 28
+            },
+            {
+              "driverId": "hulkenberg",
+              "name": "Nico Hülkenberg",
+              "shortName": "HUL",
+              "driverNumber": 27,
+              "position": 9,
+              "time": 80.125,
+              "gap": 1.396,
+              "laps": 30
+            },
+            {
+              "driverId": "arvid_lindblad",
+              "name": "Arvid Lindblad",
+              "shortName": "LIN",
+              "driverNumber": 41,
+              "position": 10,
+              "time": 80.253,
+              "gap": 1.524,
+              "laps": 29
+            },
+            {
+              "driverId": "bortoleto",
+              "name": "Gabriel Bortoleto",
+              "shortName": "BOR",
+              "driverNumber": 5,
+              "position": 11,
+              "time": 80.474,
+              "gap": 1.745,
+              "laps": 27
+            },
+            {
+              "driverId": "ocon",
+              "name": "Esteban Ocon",
+              "shortName": "OCO",
+              "driverNumber": 31,
+              "position": 12,
+              "time": 80.557,
+              "gap": 1.828,
+              "laps": 26
+            },
+            {
+              "driverId": "antonelli",
+              "name": "Andrea Kimi Antonelli",
+              "shortName": "ANT",
+              "driverNumber": 12,
+              "position": 13,
+              "time": 80.693,
+              "gap": 1.964,
+              "laps": 30
+            },
+            {
+              "driverId": "gasly",
+              "name": "Pierre Gasly",
+              "shortName": "GAS",
+              "driverNumber": 10,
+              "position": 14,
+              "time": 80.816,
+              "gap": 2.087,
+              "laps": 24
+            },
+            {
+              "driverId": "bearman",
+              "name": "Oliver Bearman",
+              "shortName": "BEA",
+              "driverNumber": 87,
+              "position": 15,
+              "time": 80.95,
+              "gap": 2.221,
+              "laps": 28
+            },
+            {
+              "driverId": "albon",
+              "name": "Alexander Albon",
+              "shortName": "ALB",
+              "driverNumber": 23,
+              "position": 16,
+              "time": 80.973,
+              "gap": 2.244,
+              "laps": 33
+            },
+            {
+              "driverId": "sainz",
+              "name": "Carlos Sainz",
+              "shortName": "SAI",
+              "driverNumber": 55,
+              "position": 17,
+              "time": 81.426,
+              "gap": 2.697,
+              "laps": 31
+            },
+            {
+              "driverId": "bottas",
+              "name": "Valtteri Bottas",
+              "shortName": "BOT",
+              "driverNumber": 77,
+              "position": 18,
+              "time": 81.442,
+              "gap": 2.713,
+              "laps": 31
+            },
+            {
+              "driverId": "alonso",
+              "name": "Fernando Alonso",
+              "shortName": "ALO",
+              "driverNumber": 14,
+              "position": 19,
+              "time": 81.719,
+              "gap": 2.99,
+              "laps": 24
+            },
+            {
+              "driverId": "perez",
+              "name": "Sergio Pérez",
+              "shortName": "PER",
+              "driverNumber": 11,
+              "position": 20,
+              "time": 81.792,
+              "gap": 3.063,
+              "laps": 28
+            },
+            {
+              "driverId": "colapinto",
+              "name": "Franco Colapinto",
+              "shortName": "COL",
+              "driverNumber": 43,
+              "position": 21,
+              "time": 82.531,
+              "gap": 3.802,
+              "laps": 11
+            }
+          ],
+          "attempts": 0,
+          "checkedAt": "2026-11-20T13:57:25.964Z"
+        },
+        "FP3": {
+          "sessionKey": 11337,
+          "date": "2026-07-25T10:30:00+00:00",
+          "source": "OpenF1",
+          "results": [
+            {
+              "driverId": "norris",
+              "name": "Lando Norris",
+              "shortName": "NOR",
+              "driverNumber": 1,
+              "position": 1,
+              "time": 77.939,
+              "gap": 0,
+              "laps": 20
+            },
+            {
+              "driverId": "hamilton",
+              "name": "Lewis Hamilton",
+              "shortName": "HAM",
+              "driverNumber": 44,
+              "position": 2,
+              "time": 78.056,
+              "gap": 0.117,
+              "laps": 22
+            },
+            {
+              "driverId": "antonelli",
+              "name": "Andrea Kimi Antonelli",
+              "shortName": "ANT",
+              "driverNumber": 12,
+              "position": 3,
+              "time": 78.068,
+              "gap": 0.129,
+              "laps": 16
+            },
+            {
+              "driverId": "leclerc",
+              "name": "Charles Leclerc",
+              "shortName": "LEC",
+              "driverNumber": 16,
+              "position": 4,
+              "time": 78.291,
+              "gap": 0.352,
+              "laps": 24
+            },
+            {
+              "driverId": "piastri",
+              "name": "Oscar Piastri",
+              "shortName": "PIA",
+              "driverNumber": 81,
+              "position": 5,
+              "time": 78.438,
+              "gap": 0.499,
+              "laps": 22
+            },
+            {
+              "driverId": "russell",
+              "name": "George Russell",
+              "shortName": "RUS",
+              "driverNumber": 63,
+              "position": 6,
+              "time": 78.541,
+              "gap": 0.602,
+              "laps": 18
+            },
+            {
+              "driverId": "max_verstappen",
+              "name": "Max Verstappen",
+              "shortName": "VER",
+              "driverNumber": 3,
+              "position": 7,
+              "time": 78.656,
+              "gap": 0.717,
+              "laps": 14
+            },
+            {
+              "driverId": "hadjar",
+              "name": "Isack Hadjar",
+              "shortName": "HAD",
+              "driverNumber": 6,
+              "position": 8,
+              "time": 78.943,
+              "gap": 1.004,
+              "laps": 17
+            },
+            {
+              "driverId": "lawson",
+              "name": "Liam Lawson",
+              "shortName": "LAW",
+              "driverNumber": 30,
+              "position": 9,
+              "time": 79.088,
+              "gap": 1.149,
+              "laps": 23
+            },
+            {
+              "driverId": "hulkenberg",
+              "name": "Nico Hülkenberg",
+              "shortName": "HUL",
+              "driverNumber": 27,
+              "position": 10,
+              "time": 79.16,
+              "gap": 1.221,
+              "laps": 24
+            },
+            {
+              "driverId": "bortoleto",
+              "name": "Gabriel Bortoleto",
+              "shortName": "BOR",
+              "driverNumber": 5,
+              "position": 11,
+              "time": 79.338,
+              "gap": 1.399,
+              "laps": 22
+            },
+            {
+              "driverId": "gasly",
+              "name": "Pierre Gasly",
+              "shortName": "GAS",
+              "driverNumber": 10,
+              "position": 12,
+              "time": 79.723,
+              "gap": 1.784,
+              "laps": 20
+            },
+            {
+              "driverId": "arvid_lindblad",
+              "name": "Arvid Lindblad",
+              "shortName": "LIN",
+              "driverNumber": 41,
+              "position": 13,
+              "time": 79.895,
+              "gap": 1.956,
+              "laps": 6
+            },
+            {
+              "driverId": "colapinto",
+              "name": "Franco Colapinto",
+              "shortName": "COL",
+              "driverNumber": 43,
+              "position": 14,
+              "time": 80.055,
+              "gap": 2.116,
+              "laps": 30
+            },
+            {
+              "driverId": "ocon",
+              "name": "Esteban Ocon",
+              "shortName": "OCO",
+              "driverNumber": 31,
+              "position": 15,
+              "time": 80.295,
+              "gap": 2.356,
+              "laps": 18
+            },
+            {
+              "driverId": "bearman",
+              "name": "Oliver Bearman",
+              "shortName": "BEA",
+              "driverNumber": 87,
+              "position": 16,
+              "time": 80.312,
+              "gap": 2.373,
+              "laps": 14
+            },
+            {
+              "driverId": "alonso",
+              "name": "Fernando Alonso",
+              "shortName": "ALO",
+              "driverNumber": 14,
+              "position": 17,
+              "time": 80.393,
+              "gap": 2.454,
+              "laps": 17
+            },
+            {
+              "driverId": "stroll",
+              "name": "Lance Stroll",
+              "shortName": "STR",
+              "driverNumber": 18,
+              "position": 18,
+              "time": 80.933,
+              "gap": 2.994,
+              "laps": 20
+            },
+            {
+              "driverId": "bottas",
+              "name": "Valtteri Bottas",
+              "shortName": "BOT",
+              "driverNumber": 77,
+              "position": 19,
+              "time": 81.299,
+              "gap": 3.36,
+              "laps": 15
+            },
+            {
+              "driverId": "sainz",
+              "name": "Carlos Sainz",
+              "shortName": "SAI",
+              "driverNumber": 55,
+              "position": 20,
+              "time": 81.406,
+              "gap": 3.467,
+              "laps": 17
+            },
+            {
+              "driverId": "albon",
+              "name": "Alexander Albon",
+              "shortName": "ALB",
+              "driverNumber": 23,
+              "position": 21,
+              "time": 81.513,
+              "gap": 3.574,
+              "laps": 13
+            },
+            {
+              "driverId": "perez",
+              "name": "Sergio Pérez",
+              "shortName": "PER",
+              "driverNumber": 11,
+              "position": 22,
+              "time": null,
+              "gap": null,
+              "laps": 1
+            }
+          ],
+          "attempts": 0,
+          "checkedAt": "2026-11-20T13:57:25.964Z"
         }
       }
     },
@@ -9899,7 +10347,238 @@
           "points": 0,
           "status": "Lapped"
         }
-      ]
+      ],
+      "practiceSessions": {
+        "FP1": {
+          "sessionKey": 11343,
+          "date": "2026-08-21T10:30:00+00:00",
+          "source": "OpenF1",
+          "results": [
+            {
+              "driverId": "antonelli",
+              "name": "Andrea Kimi Antonelli",
+              "shortName": "ANT",
+              "driverNumber": 12,
+              "position": 1,
+              "time": 72.949,
+              "gap": 0,
+              "laps": 36
+            },
+            {
+              "driverId": "norris",
+              "name": "Lando Norris",
+              "shortName": "NOR",
+              "driverNumber": 1,
+              "position": 2,
+              "time": 73.07,
+              "gap": 0.121,
+              "laps": 30
+            },
+            {
+              "driverId": "russell",
+              "name": "George Russell",
+              "shortName": "RUS",
+              "driverNumber": 63,
+              "position": 3,
+              "time": 73.074,
+              "gap": 0.125,
+              "laps": 37
+            },
+            {
+              "driverId": "hamilton",
+              "name": "Lewis Hamilton",
+              "shortName": "HAM",
+              "driverNumber": 44,
+              "position": 4,
+              "time": 73.139,
+              "gap": 0.19,
+              "laps": 34
+            },
+            {
+              "driverId": "leclerc",
+              "name": "Charles Leclerc",
+              "shortName": "LEC",
+              "driverNumber": 16,
+              "position": 5,
+              "time": 73.238,
+              "gap": 0.289,
+              "laps": 39
+            },
+            {
+              "driverId": "piastri",
+              "name": "Oscar Piastri",
+              "shortName": "PIA",
+              "driverNumber": 81,
+              "position": 6,
+              "time": 73.608,
+              "gap": 0.659,
+              "laps": 35
+            },
+            {
+              "driverId": "hulkenberg",
+              "name": "Nico Hülkenberg",
+              "shortName": "HUL",
+              "driverNumber": 27,
+              "position": 7,
+              "time": 73.784,
+              "gap": 0.835,
+              "laps": 34
+            },
+            {
+              "driverId": "gasly",
+              "name": "Pierre Gasly",
+              "shortName": "GAS",
+              "driverNumber": 10,
+              "position": 8,
+              "time": 73.911,
+              "gap": 0.962,
+              "laps": 28
+            },
+            {
+              "driverId": "bortoleto",
+              "name": "Gabriel Bortoleto",
+              "shortName": "BOR",
+              "driverNumber": 5,
+              "position": 9,
+              "time": 73.992,
+              "gap": 1.043,
+              "laps": 29
+            },
+            {
+              "driverId": "arvid_lindblad",
+              "name": "Arvid Lindblad",
+              "shortName": "LIN",
+              "driverNumber": 41,
+              "position": 10,
+              "time": 74.285,
+              "gap": 1.336,
+              "laps": 37
+            },
+            {
+              "driverId": "max_verstappen",
+              "name": "Max Verstappen",
+              "shortName": "VER",
+              "driverNumber": 3,
+              "position": 11,
+              "time": 74.325,
+              "gap": 1.376,
+              "laps": 25
+            },
+            {
+              "driverId": "alonso",
+              "name": "Fernando Alonso",
+              "shortName": "ALO",
+              "driverNumber": 14,
+              "position": 12,
+              "time": 74.511,
+              "gap": 1.562,
+              "laps": 25
+            },
+            {
+              "driverId": "colapinto",
+              "name": "Franco Colapinto",
+              "shortName": "COL",
+              "driverNumber": 43,
+              "position": 13,
+              "time": 74.826,
+              "gap": 1.877,
+              "laps": 31
+            },
+            {
+              "driverId": "lawson",
+              "name": "Liam Lawson",
+              "shortName": "LAW",
+              "driverNumber": 30,
+              "position": 14,
+              "time": 74.861,
+              "gap": 1.912,
+              "laps": 30
+            },
+            {
+              "driverId": "bearman",
+              "name": "Oliver Bearman",
+              "shortName": "BEA",
+              "driverNumber": 87,
+              "position": 15,
+              "time": 74.874,
+              "gap": 1.925,
+              "laps": 32
+            },
+            {
+              "driverId": "ocon",
+              "name": "Esteban Ocon",
+              "shortName": "OCO",
+              "driverNumber": 31,
+              "position": 16,
+              "time": 74.897,
+              "gap": 1.948,
+              "laps": 31
+            },
+            {
+              "driverId": "tsunoda",
+              "name": "Yuki Tsunoda",
+              "shortName": "TSU",
+              "driverNumber": 22,
+              "position": 17,
+              "time": 75.11,
+              "gap": 2.161,
+              "laps": 35
+            },
+            {
+              "driverId": "stroll",
+              "name": "Lance Stroll",
+              "shortName": "STR",
+              "driverNumber": 18,
+              "position": 18,
+              "time": 75.199,
+              "gap": 2.25,
+              "laps": 24
+            },
+            {
+              "driverId": "albon",
+              "name": "Alexander Albon",
+              "shortName": "ALB",
+              "driverNumber": 23,
+              "position": 19,
+              "time": 75.357,
+              "gap": 2.408,
+              "laps": 33
+            },
+            {
+              "driverId": "bottas",
+              "name": "Valtteri Bottas",
+              "shortName": "BOT",
+              "driverNumber": 77,
+              "position": 20,
+              "time": 75.58,
+              "gap": 2.631,
+              "laps": 28
+            },
+            {
+              "driverId": "perez",
+              "name": "Sergio Pérez",
+              "shortName": "PER",
+              "driverNumber": 11,
+              "position": 21,
+              "time": 75.7,
+              "gap": 2.751,
+              "laps": 28
+            },
+            {
+              "driverId": "sainz",
+              "name": "Carlos Sainz",
+              "shortName": "SAI",
+              "driverNumber": 55,
+              "position": 22,
+              "time": 76.345,
+              "gap": 3.396,
+              "laps": 32
+            }
+          ],
+          "attempts": 0,
+          "checkedAt": "2026-11-20T13:57:25.964Z"
+        }
+      }
     },
     {
       "round": 13,
@@ -10634,6 +11313,235 @@
           ],
           "attempts": 0,
           "checkedAt": "2026-11-20T13:53:51.559Z"
+        },
+        "FP1": {
+          "sessionKey": 11354,
+          "date": "2026-09-04T10:30:00+00:00",
+          "source": "OpenF1",
+          "results": [
+            {
+              "driverId": "leclerc",
+              "name": "Charles Leclerc",
+              "shortName": "LEC",
+              "driverNumber": 16,
+              "position": 1,
+              "time": 83.008,
+              "gap": 0,
+              "laps": 29
+            },
+            {
+              "driverId": "hamilton",
+              "name": "Lewis Hamilton",
+              "shortName": "HAM",
+              "driverNumber": 44,
+              "position": 2,
+              "time": 83.181,
+              "gap": 0.173,
+              "laps": 26
+            },
+            {
+              "driverId": "russell",
+              "name": "George Russell",
+              "shortName": "RUS",
+              "driverNumber": 63,
+              "position": 3,
+              "time": 83.312,
+              "gap": 0.304,
+              "laps": 27
+            },
+            {
+              "driverId": "lawson",
+              "name": "Liam Lawson",
+              "shortName": "LAW",
+              "driverNumber": 30,
+              "position": 4,
+              "time": 83.433,
+              "gap": 0.425,
+              "laps": 26
+            },
+            {
+              "driverId": "antonelli",
+              "name": "Andrea Kimi Antonelli",
+              "shortName": "ANT",
+              "driverNumber": 12,
+              "position": 5,
+              "time": 83.644,
+              "gap": 0.636,
+              "laps": 27
+            },
+            {
+              "driverId": "norris",
+              "name": "Lando Norris",
+              "shortName": "NOR",
+              "driverNumber": 1,
+              "position": 6,
+              "time": 83.719,
+              "gap": 0.711,
+              "laps": 26
+            },
+            {
+              "driverId": "arvid_lindblad",
+              "name": "Arvid Lindblad",
+              "shortName": "LIN",
+              "driverNumber": 41,
+              "position": 7,
+              "time": 83.802,
+              "gap": 0.794,
+              "laps": 29
+            },
+            {
+              "driverId": "bortoleto",
+              "name": "Gabriel Bortoleto",
+              "shortName": "BOR",
+              "driverNumber": 5,
+              "position": 8,
+              "time": 84.006,
+              "gap": 0.998,
+              "laps": 21
+            },
+            {
+              "driverId": "colapinto",
+              "name": "Franco Colapinto",
+              "shortName": "COL",
+              "driverNumber": 43,
+              "position": 9,
+              "time": 84.028,
+              "gap": 1.02,
+              "laps": 27
+            },
+            {
+              "driverId": "openf1_61",
+              "name": "Paul ARON",
+              "shortName": "ARO",
+              "driverNumber": 61,
+              "position": 10,
+              "time": 84.177,
+              "gap": 1.169,
+              "laps": 23
+            },
+            {
+              "driverId": "piastri",
+              "name": "Oscar Piastri",
+              "shortName": "PIA",
+              "driverNumber": 81,
+              "position": 11,
+              "time": 84.184,
+              "gap": 1.176,
+              "laps": 26
+            },
+            {
+              "driverId": "tsunoda",
+              "name": "Yuki Tsunoda",
+              "shortName": "TSU",
+              "driverNumber": 22,
+              "position": 12,
+              "time": 84.571,
+              "gap": 1.563,
+              "laps": 27
+            },
+            {
+              "driverId": "hulkenberg",
+              "name": "Nico Hülkenberg",
+              "shortName": "HUL",
+              "driverNumber": 27,
+              "position": 13,
+              "time": 84.626,
+              "gap": 1.618,
+              "laps": 27
+            },
+            {
+              "driverId": "bearman",
+              "name": "Oliver Bearman",
+              "shortName": "BEA",
+              "driverNumber": 87,
+              "position": 14,
+              "time": 84.646,
+              "gap": 1.638,
+              "laps": 28
+            },
+            {
+              "driverId": "openf1_46",
+              "name": "Luke BROWNING",
+              "shortName": "BRO",
+              "driverNumber": 46,
+              "position": 15,
+              "time": 84.74,
+              "gap": 1.732,
+              "laps": 25
+            },
+            {
+              "driverId": "sainz",
+              "name": "Carlos Sainz",
+              "shortName": "SAI",
+              "driverNumber": 55,
+              "position": 16,
+              "time": 84.827,
+              "gap": 1.819,
+              "laps": 25
+            },
+            {
+              "driverId": "openf1_36",
+              "name": "Ayumu IWASA",
+              "shortName": "IWA",
+              "driverNumber": 36,
+              "position": 17,
+              "time": 84.873,
+              "gap": 1.865,
+              "laps": 24
+            },
+            {
+              "driverId": "ocon",
+              "name": "Esteban Ocon",
+              "shortName": "OCO",
+              "driverNumber": 31,
+              "position": 18,
+              "time": 85.852,
+              "gap": 2.844,
+              "laps": 26
+            },
+            {
+              "driverId": "bottas",
+              "name": "Valtteri Bottas",
+              "shortName": "BOT",
+              "driverNumber": 77,
+              "position": 19,
+              "time": 85.984,
+              "gap": 2.976,
+              "laps": 27
+            },
+            {
+              "driverId": "stroll",
+              "name": "Lance Stroll",
+              "shortName": "STR",
+              "driverNumber": 18,
+              "position": 20,
+              "time": 86.066,
+              "gap": 3.058,
+              "laps": 23
+            },
+            {
+              "driverId": "alonso",
+              "name": "Fernando Alonso",
+              "shortName": "ALO",
+              "driverNumber": 14,
+              "position": 21,
+              "time": 86.072,
+              "gap": 3.064,
+              "laps": 21
+            },
+            {
+              "driverId": "openf1_25",
+              "name": "Colton HERTA",
+              "shortName": "HER",
+              "driverNumber": 25,
+              "position": 22,
+              "time": 89.922,
+              "gap": 6.914,
+              "laps": 5
+            }
+          ],
+          "attempts": 0,
+          "checkedAt": "2026-11-20T13:57:25.964Z"
         }
       }
     },

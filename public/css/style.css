@@ -1021,3 +1021,140 @@ tbody tr[class*="zone-"] td:first-child {
   .f1-gp-sessions { grid-auto-columns: minmax(270px, 91%); gap: 10px; }
   .f1-gp-heading h2 { font-size: 1.05rem; }
 }
+
+
+/* F1 standings logos and round-button matrix */
+.f1-season-columns { grid-template-columns: 610px minmax(0, 1fr); }
+.f1-standings-viewport {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scrollbar-width: thin;
+}
+.f1-standings-table--logos {
+  table-layout: auto;
+  min-width: 555px;
+  width: 100%;
+  font-variant-numeric: tabular-nums;
+}
+.f1-standings-table--logos th,
+.f1-standings-table--logos td {
+  padding: 7px 4px;
+  font-size: .75rem;
+  line-height: 1.3;
+  vertical-align: middle;
+}
+.f1-standings-table--logos th:nth-child(1),
+.f1-standings-table--logos td:nth-child(1) {
+  width: 27px;
+  min-width: 27px;
+  text-align: center;
+}
+.f1-standings-table--logos th:nth-child(2),
+.f1-standings-table--logos td:nth-child(2) {
+  width: 82px;
+  min-width: 65px;
+  text-align: left;
+  white-space: nowrap;
+}
+.f1-standings-table--logos th:nth-child(3),
+.f1-standings-table--logos td:nth-child(3) {
+  min-width: 112px;
+  width: auto;
+  text-align: left;
+  white-space: nowrap;
+}
+.f1-standings-table--logos th:nth-child(n+4),
+.f1-standings-table--logos td:nth-child(n+4) {
+  width: 52px;
+  min-width: 45px;
+  text-align: center;
+  white-space: nowrap;
+}
+.f1-standings-table--logos th:nth-child(6),
+.f1-standings-table--logos td:nth-child(6) { min-width: 56px; }
+.f1-standings-table--logos .f1-name-with-stripe { padding-left: 8px; }
+.f1-team-badges {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 3px;
+  width: max-content;
+  min-height: 26px;
+}
+.f1-team-badge {
+  width: 34px;
+  height: 27px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  overflow: hidden;
+  border-radius: 4px;
+}
+.f1-team-badge-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.f1-team-badge--previous {
+  width: 26px;
+  opacity: .38;
+  filter: grayscale(1);
+}
+.f1-team-badge-fallback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 22px;
+  border-radius: 4px;
+  background: var(--team-logo-color, #64748b);
+  color: #fff;
+  font-weight: 700;
+  font-size: .62rem;
+  letter-spacing: -.02em;
+  line-height: 1;
+}
+
+.f1-matrix-gp-heading { vertical-align: top; }
+.f1-matrix-gp-button {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 0 auto;
+  padding: 3px 0;
+  min-height: 66px;
+  width: 100%;
+  border: none;
+  background: transparent;
+  color: var(--text-soft);
+}
+.f1-matrix-gp-button:hover:not(:disabled) { background: #293442; }
+.f1-matrix-gp-button .f1-gp-circle { width: 34px; height: 34px; }
+.f1-matrix-gp-button .f1-gp-label {
+  max-width: 66px;
+  font-size: .61rem;
+  line-height: 1.15;
+  min-height: 24px;
+  text-wrap: pretty;
+}
+.f1-matrix-gp-button:focus-visible { outline: 2px solid #9acbff; outline-offset: -2px; }
+
+@media (max-width: 1190px) {
+  .f1-season-columns { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 620px) {
+  .f1-standings-table--logos th,
+  .f1-standings-table--logos td { padding: 7px 4px; font-size: .74rem; }
+  .f1-standings-table--logos th:nth-child(2),
+  .f1-standings-table--logos td:nth-child(2) { min-width: 65px; }
+  .f1-standings-table--logos th:nth-child(3),
+  .f1-standings-table--logos td:nth-child(3) { min-width: 112px; }
+  .f1-matrix-gp-button .f1-gp-circle { width: 30px; height: 30px; }
+  .f1-matrix-gp-button .f1-gp-label { max-width: 54px; }
+}

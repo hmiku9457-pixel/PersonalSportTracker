@@ -1306,3 +1306,91 @@ tbody tr[class*="zone-"] td:first-child {
   }
   .f1-chart-zoom-fit { font-size: .7rem; }
 }
+
+
+/* F1 fun championships: FP1 / FP2 / FP3 / qualifying season tables. */
+.f1-season-extra-info {
+  margin: -8px 0 0;
+  line-height: 1.45;
+}
+.f1-fun-championship {
+  padding: 14px 10px;
+  min-width: 0;
+}
+.f1-fun-championship h2 {
+  margin-bottom: 5px;
+}
+.f1-fun-summary {
+  margin: 0 0 13px !important;
+  font-size: .74rem;
+}
+.f1-fun-empty {
+  min-height: 70px;
+  font-size: .8rem;
+}
+.f1-fun-table-wrap {
+  max-width: 100%;
+  overflow-x: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #566273 transparent;
+}
+.f1-fun-table {
+  width: 100%;
+  min-width: 320px;
+  table-layout: auto;
+  font-variant-numeric: tabular-nums;
+}
+.f1-fun-table th,
+.f1-fun-table td {
+  padding: 6px 3px;
+  font-size: .72rem;
+  line-height: 1.3;
+  vertical-align: middle;
+}
+.f1-fun-table th:first-child,
+.f1-fun-table td:first-child {
+  width: 27px;
+  min-width: 27px;
+  text-align: center;
+}
+.f1-fun-table th:nth-child(2),
+.f1-fun-table td:nth-child(2) {
+  min-width: 130px;
+  width: auto;
+  text-align: left;
+}
+.f1-fun-table th:nth-child(n+3),
+.f1-fun-table td:nth-child(n+3) {
+  text-align: center;
+  width: 39px;
+  min-width: 34px;
+  white-space: nowrap;
+}
+.f1-fun-table th:last-child,
+.f1-fun-table td:last-child {
+  min-width: 43px;
+}
+.f1-fun-driver {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  min-width: 0;
+}
+.f1-fun-team-badge {
+  width: 26px;
+  height: 23px;
+}
+.f1-fun-driver-name {
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+@media (max-width: 620px) {
+  .f1-fun-championship { padding: 14px 10px; }
+  .f1-fun-table th,
+  .f1-fun-table td { padding: 7px 4px; font-size: .74rem; }
+  .f1-fun-table th:nth-child(2),
+  .f1-fun-table td:nth-child(2) { min-width: 130px; }
+}

@@ -162,7 +162,9 @@ export async function updateCurrentSeason(saved, year, now = Date.now()) {
       const merged = revised.map(r => ({
         ...r,
         results: existing.get(r.round)?.results ?? null,
-        sprintResults: existing.get(r.round)?.sprintResults ?? null
+        sprintResults: existing.get(r.round)?.sprintResults ?? null,
+        ...(existing.get(r.round)?.practiceSessions
+          ? { practiceSessions: existing.get(r.round).practiceSessions } : {})
       }));
       changed = changedResults(season.races, merged) || changed;
       season.races = merged;

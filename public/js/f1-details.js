@@ -1,5 +1,5 @@
 import { loadJson } from './data-loader.js';
-import { allDrivers, seriesFor, totalWeekendPoints, rankBounds, pointsRankAt } from './f1-utils.js';
+import { allDrivers, seriesFor, totalWeekendPoints, rankBounds, pointsRankAt, championshipGaps } from './f1-utils.js';
 
 const picker = document.querySelector('#f1-season');
 const info = document.querySelector('#f1-season-info');
@@ -111,6 +111,85 @@ function labelValue(bounds, side) {
   if (!bounds[side]) return '–';
   return 'P' + bounds[side];
 }
+
+const TEAM_LOGO_SLUGS = {
+  ferrari: 'ferrari', mercedes: 'mercedes', mclaren: 'mclaren',
+  red_bull: 'redbullracing', rb: 'racingbulls',
+  aston_martin: 'astonmartin', alpine: 'alpine',
+  williams: 'williams', haas: 'haasf1team',
+  audi: 'audi', cadillac: 'cadillac',
+  sauber: 'kicksauber', alfa: 'alfaromeo',
+  alpha_tauri: 'alphatauri', alphatauri: 'alphatauri',
+  toro_rosso: 'tororosso', force_india: 'forceindia',
+  racing_point: 'racingpoint', renault: 'renault',
+  lotus_f1: 'lotus', brawn: 'brawn', manor: 'manor',
+  marussia: 'marussia', hrt: 'hrt', caterham: 'caterham'
+};
+function teamName(id) {
+  const standing = season.constructors?.find(team => team.constructorId === id);
+  if (standing?.name) return standing.name;
+  for (const race of season.races ?? []) {
+    const participant = [...(race.results ?? []), ...(race.sprintResults ?? [])]
+      .find(item => item.constructorId === id && item.constructorName);
+    if (participant) return participant.constructorName;
+  }
+  return id.replace(/_/g, ' ');
+}
+function teamBadge(id, secondary = false) {
+  const name = teamName(id);
+  const badge = elt('span', 'f1-team-badge' + (secondary ? ' f1-team-badge--previous' : ''));
+  badge.title = name + (secondary ? ' · früheres Saisonteam' : ' · zuletzt gefahrenes Team');
+  badge.setAttribute('role', 'img');
+  badge.setAttribute('aria-label', badge.title);
+  const fallback = () => {
+    const words = id.split(/[_\s-]+/g);
+    const abbrev = words.length > 1 ?
+      words.map(part => part.slice(0, 1)).join('').slice(0, 3).toUpperCase() :
+      id.slice(0, 2).toUpperCase();
+    const mark = elt('span', 'f1-team-badge-fallback', abbrev);
+    mark.style.setProperty('--team-logo-color', PALETTE[id] || '#64748b');
+    badge.replaceChildren(mark);
+  };
+  const slug = TEAM_LOGO_SLUGS[id];
+  if (!slug) {
+    fallback();
+    return badge;
+  }
+  const year = Number(season.year);
+  const preferredYear = year >= 2018 && year <= 2026 ? year : 2025;
+  const candidateYears = [...new Set([preferredYear, 2025])];
+  const urls = candidateYears.flatMap(y => [
+    'https://media.formula1.com/image/upload/common/f1/' + y + '/' + slug + '/' + y + slug + 'logowhite.svg',
+    'https://media.formula1.com/image/upload/common/f1/' + y + '/' + slug + '/' + y + slug + 'logowhite.webp'
+  ]);
+  const img = elt('img', 'f1-team-badge-image');
+  img.alt = '';
+  img.loading = 'lazy';
+  img.decoding = 'async';
+  let attempt = 0;
+  img.addEventListener('error', () => {
+    attempt++;
+    if (attempt < urls.length) img.src = urls[attempt];
+    else fallback();
+  });
+  img.src = urls[0];
+  badge.append(img);
+  return badge;
+}
+function teamBadgeCell(item, isTeam) {
+  const cell = td('');
+  cell.classList.add('f1-standings-logo-cell');
+  const badges = elt('div', 'f1-team-badges');
+  const teams = isTeam ? [item.constructorId] : (item.teamsThisSeason ?? []);
+  for (const [i, id] of teams.entries()) if (id) badges.append(teamBadge(id, i > 0));
+  if (!badges.childElementCount) badges.append(elt('span', 'f1-muted', '–'));
+  cell.append(badges);
+  return cell;
+}
+function formatGap(value) {
+  return value === null || value === 0 ? '–' : '−' + number(value);
+}
+
 function panelStandings(type) {
   const isTeam = type === 'constructors';
   const items = isTeam ? (season.constructors ?? []) : rows;
@@ -119,24 +198,33 @@ function panelStandings(type) {
     panel.append(elt('p', 'f1-muted', 'In dieser Saison gab es noch keine Konstrukteursweltmeisterschaft.'));
     return panel;
   }
-  const [result, body] = table(['#', isTeam ? 'Team' : 'Fahrer', 'Punkte', 'Best*', 'Worst*']);
-  for (const item of items) {
+  const [result, body] = table(['#', '', isTeam ? 'Team' : 'Fahrer', 'Pkt.',
+    'Δ 1.', 'Δ davor', 'Best*', 'Worst*']);
+  result.classList.add('f1-standings-table--logos');
+  result.tHead.rows[0].cells[1].setAttribute('aria-label', 'Teamlogos');
+  result.tHead.rows[0].cells[4].title = 'Punkterückstand auf die führende Position';
+  result.tHead.rows[0].cells[5].title = 'Punkterückstand auf die Position unmittelbar davor';
+  for (const [index, item] of items.entries()) {
     const tr = elt('tr');
     if (item.position >= 1 && item.position <= 3) tr.classList.add(['zone-gold', 'zone-silver', 'zone-bronze'][item.position - 1]);
-    const label = isTeam ? item.name : item.name;
     const bounds = rankBounds(season, item, items, isTeam);
-    tr.append(td(item.position ?? '–'), td(label), td(number(item.points)),
-      td(labelValue(bounds, 'best')), td(labelValue(bounds, 'worst')));
+    const gaps = championshipGaps(items, index);
+    tr.append(td(item.position ?? '–'), teamBadgeCell(item, isTeam), td(item.name),
+      td(number(item.points)), td(formatGap(gaps.leader)),
+      td(formatGap(gaps.previous)), td(labelValue(bounds, 'best')),
+      td(labelValue(bounds, 'worst')));
     if (!isTeam) {
       addFocus(tr, item.driverId);
       if (item.driverId === focusId) tr.classList.add('f1-focused');
-      const namedCell = tr.children[1];
+      const namedCell = tr.children[2];
       namedCell.style.setProperty('--driver-color', teamColor(item));
       namedCell.classList.add('f1-name-with-stripe');
     }
     body.append(tr);
   }
-  panel.append(result);
+  const wrap = elt('div', 'f1-standings-viewport');
+  wrap.append(result);
+  panel.append(wrap);
   const explanation = elt('p', 'f1-card-note');
   const hasRemaining = season.races.some(r => !r.results?.length || (r.sprintDate && !r.sprintResults?.length));
   explanation.textContent = hasRemaining ?
@@ -307,8 +395,19 @@ function panelMatrix() {
   const thead = elt('thead'), heading = elt('tr');
   heading.append(elt('th', '', 'Fahrer'));
   for (const race of segment) {
-    const head = elt('th', '', 'R' + race.round);
-    head.title = race.name + (race.sprintDate ? ' (Sprint)' : '');
+    const head = elt('th', 'f1-matrix-gp-heading');
+    const gpButton = button('', () => {
+      selectedRound = Number(race.round);
+      updateAddress();
+      render();
+      window.scrollTo({ top: 0, behavior: 'auto' });
+    }, 'f1-matrix-gp-button');
+    gpButton.title = race.name + ' · ' + venueName(race) + (race.sprintDate ? ' (Sprint)' : '');
+    gpButton.setAttribute('aria-label', 'Grand Prix öffnen: ' + gpButton.title);
+    const circle = elt('span', 'f1-gp-circle');
+    circle.append(flagImage(race.country));
+    gpButton.append(circle, elt('span', 'f1-gp-label', venueName(race)));
+    head.append(gpButton);
     heading.append(head);
   }
   thead.append(heading);

@@ -359,11 +359,18 @@ const COUNTRY_CODES = {
   uk: 'GB', 'united kingdom': 'GB', 'great britain': 'GB',
   usa: 'US', us: 'US', 'united states': 'US', 'united states of america': 'US'
 };
-function countryFlag(country) {
-  const normalized = String(country || '').trim().toLowerCase();
-  const code = COUNTRY_CODES[normalized];
-  if (!code) return '🏁';
-  return [...code].map(c => String.fromCodePoint(127397 + c.charCodeAt(0))).join('');
+function flagImage(country) {
+  const code = COUNTRY_CODES[String(country || '').trim().toLowerCase()];
+  if (!code) return elt('span', 'f1-flag-fallback', '🏁');
+  const image = elt('img', 'f1-gp-flag');
+  image.src = 'https://flagcdn.com/w80/' + code.toLowerCase() + '.png';
+  image.alt = '';
+  image.setAttribute('aria-hidden', 'true');
+  image.loading = 'lazy';
+  image.decoding = 'async';
+  image.draggable = false;
+  image.addEventListener('error', () => image.replaceWith(elt('span', 'f1-flag-fallback', '🏁')));
+  return image;
 }
 function venueName(race) {
   return race.locality || race.circuit || race.name;
@@ -379,15 +386,17 @@ function renderGPNav() {
   const previousYear = gpNavigation.dataset.season;
   const previousScroll = gpNavigation.scrollLeft;
   gpNavigation.dataset.season = String(season.year);
-  const fragment = document.createDocumentFragment();
-  function item(label, symbol, selected, onSelect, title, extraClass = '') {
+  const track = elt('div', 'f1-gp-track');
+  function item(label, graphic, selected, onSelect, title, extraClass = '') {
     const node = button('', onSelect, 'f1-gp-button' +
       (selected ? ' f1-gp-button--selected' : '') + extraClass);
     node.setAttribute('aria-pressed', String(selected));
     node.setAttribute('aria-label', title);
     node.title = title;
-    node.append(elt('span', 'f1-gp-circle', symbol), elt('span', 'f1-gp-label', label));
-    fragment.append(node);
+    const circle = elt('span', 'f1-gp-circle');
+    circle.append(typeof graphic === 'string' ? document.createTextNode(graphic) : graphic);
+    node.append(circle, elt('span', 'f1-gp-label', label));
+    track.append(node);
   }
   item('Season', '🏆', selectedRound === null, () => {
     selectedRound = null;
@@ -396,19 +405,21 @@ function renderGPNav() {
   }, 'Saisonübersicht ' + season.year, ' f1-gp-button--season');
   for (const race of season.races) {
     const round = Number(race.round);
-    item(venueName(race), countryFlag(race.country), selectedRound === round, () => {
+    item(venueName(race), flagImage(race.country), selectedRound === round, () => {
       selectedRound = round;
       updateAddress();
       render();
     }, race.name + ' · ' + venueName(race) + ' · ' + season.year);
   }
-  gpNavigation.replaceChildren(fragment);
+  gpNavigation.replaceChildren(track);
   if (previousYear === String(season.year)) {
     gpNavigation.scrollLeft = previousScroll;
   } else {
     const activeIndex = selectedRound === null ? 0 :
       season.races.findIndex(r => Number(r.round) === selectedRound) + 1;
-    gpNavigation.scrollLeft = Math.max(0, activeIndex * 84 - gpNavigation.clientWidth / 2);
+    const selected = track.children[activeIndex];
+    gpNavigation.scrollLeft = selected ?
+      Math.max(0, selected.offsetLeft + selected.offsetWidth / 2 - gpNavigation.clientWidth / 2) : 0;
   }
 }
 function weekendDate(date) {

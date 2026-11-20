@@ -9,16 +9,23 @@
 </head>
 <body class="details-page f1-detail">
   <header class="page-header f1-detail__header">
-    <div class="page-header__top">
-      <h1>Formel 1 · Detailansicht</h1>
-      <nav class="page-header__nav" aria-label="Seitennavigation">
-        <a class="header-button" href="./index.html">Zur Übersicht</a>
-      </nav>
-    </div>
-    <div class="f1-season-picker">
-      <label for="f1-season">Saison</label>
-      <select id="f1-season" aria-label="Formel-1-Saison auswählen"></select>
-      <span id="f1-season-info" class="f1-muted" aria-live="polite"></span>
+    <div class="f1-header-inner">
+      <div class="f1-header-top">
+        <div class="f1-header-title">
+          <h1>Formel 1</h1>
+          <span id="f1-season-info" class="f1-muted" aria-live="polite"></span>
+        </div>
+        <div class="f1-header-actions">
+          <div class="f1-season-picker">
+            <label for="f1-season">Saison</label>
+            <select id="f1-season" aria-label="Formel-1-Saison auswählen"></select>
+          </div>
+          <nav aria-label="Seitennavigation">
+            <a class="header-button" href="./index.html">Zur Übersicht</a>
+          </nav>
+        </div>
+      </div>
+      <nav id="f1-gp-navigation" class="f1-gp-navigation" aria-label="Grand Prix der ausgewählten Saison"></nav>
     </div>
   </header>
   <main>

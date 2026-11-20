@@ -1,5 +1,5 @@
 import { loadJson } from './data-loader.js';
-import { allDrivers, seriesFor, totalWeekendPoints, rankBounds, pointsRankAt, championshipGaps } from './f1-utils.js';
+import { allDrivers, seriesFor, totalWeekendPoints, rankBounds, pointsRankAt, championshipGaps, funSessionChampionship } from './f1-utils.js';
 
 const picker = document.querySelector('#f1-season');
 const info = document.querySelector('#f1-season-info');
@@ -712,6 +712,61 @@ function practiceSession(race, name) {
   return panel;
 }
 
+
+function panelFunChampionship(type) {
+  const { completed, scheduled, rows: standings } = funSessionChampionship(season, type);
+  const panel = card(type + ' · Spaß-WM', 'f1-fun-championship');
+  const recordedLabel = type === 'Qualifying' ? 'Qualifyings' : 'Trainings';
+  panel.append(elt('p', 'f1-muted f1-fun-summary',
+    completed + ' von ' + scheduled + ' ' + recordedLabel + ' gewertet'));
+
+  if (!completed) {
+    panel.append(elt('p', 'f1-muted f1-fun-empty',
+      type === 'Qualifying'
+        ? 'Noch keine echten Qualifying-Ergebnisse importiert. Die Wertung wird nach dem Datenimport automatisch berechnet.'
+        : 'Für diese Saison liegen noch keine echten ' + type + '-Ergebnisse vor.'));
+    return panel;
+  }
+
+  const [standingsTable, body] = table(['#', 'Fahrer', 'S', 'P1', 'Pkt.', 'Δ 1.']);
+  standingsTable.classList.add('f1-fun-table');
+  standingsTable.tHead.rows[0].cells[2].title = 'Anzahl gewerteter Session-Teilnahmen';
+  standingsTable.tHead.rows[0].cells[3].title = 'Anzahl erster Plätze';
+  standingsTable.tHead.rows[0].cells[5].title = 'Punkterückstand auf den Führenden';
+  const currentDrivers = new Map(rows.map(d => [d.driverId, d]));
+
+  for (const item of standings) {
+    const tr = elt('tr');
+    if (item.position >= 1 && item.position <= 3)
+      tr.classList.add(['zone-gold', 'zone-silver', 'zone-bronze'][item.position - 1]);
+    const known = currentDrivers.get(item.driverId);
+    const nameCell = td('');
+    const driver = elt('span', 'f1-fun-driver');
+    const teamId = known?.currentConstructorId || item.currentConstructorId;
+    if (teamId) {
+      const badge = teamBadge(teamId);
+      badge.classList.add('f1-fun-team-badge');
+      driver.append(badge);
+    }
+    const name = elt('span', 'f1-fun-driver-name', item.name);
+    name.title = item.name;
+    driver.append(name);
+    nameCell.append(driver);
+
+    tr.append(td(item.position), nameCell, td(item.starts), td(item.wins),
+      td(number(item.points)), td(item.gapLeader ? '−' + number(item.gapLeader) : '–'));
+    if (known) {
+      addFocus(tr, item.driverId);
+      if (focusId === item.driverId) tr.classList.add('f1-focused');
+    }
+    body.append(tr);
+  }
+  const viewport = elt('div', 'f1-fun-table-wrap');
+  viewport.append(standingsTable);
+  panel.append(viewport);
+  return panel;
+}
+
 function renderSeason() {
   content.className = 'f1-detail-grid f1-view-season';
   const columns = elt('div', 'f1-season-columns');
@@ -720,13 +775,13 @@ function renderSeason() {
   left.append(panelStandings('drivers'), panelStandings('constructors'));
   right.append(panelChart(), panelMatrix());
   columns.append(left, right);
-  content.append(columns, elt('h2', 'f1-season-extra-title', 'Weitere WM-Stände'));
+  content.append(columns,
+    elt('h2', 'f1-season-extra-title', 'Spaß-Weltmeisterschaften'),
+    elt('p', 'f1-muted f1-season-extra-info',
+      'Separate Wertungen für FP1, FP2, FP3 und Qualifying · Punkte pro Session: 25–18–15–12–10–8–6–4–2–1 · keine offiziellen WM-Punkte.'));
   const extra = elt('div', 'f1-season-extra');
-  for (const name of ['FP1', 'FP2', 'FP3', 'Qualifying']) {
-    const panel = card(name + ' · WM-Stand', 'f1-season-placeholder');
-    panel.append(elt('p', 'f1-muted', 'Wertung folgt in einem späteren Schritt.'));
-    extra.append(panel);
-  }
+  for (const name of ['FP1', 'FP2', 'FP3', 'Qualifying'])
+    extra.append(panelFunChampionship(name));
   content.append(extra);
   if (season.year <= 1990) {
     content.append(elt('p', 'f1-history-note',

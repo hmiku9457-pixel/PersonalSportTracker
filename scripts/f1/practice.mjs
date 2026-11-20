@@ -20,17 +20,37 @@ export function practiceType(session) {
   return match ? 'FP' + match[1] : null;
 }
 
-/** Map session to a known Jolpica race; never use a session from another country. */
-export function matchPracticeRace(session, races) {
+/** Qualifying includes the regular and sprint classifications. */
+export function qualifyingType(session) {
+  const name = String(session?.session_name || '').trim().toLowerCase();
+  if (name === 'qualifying') return 'Qualifying';
+  if (name === 'sprint qualifying' || name === 'sprint shootout') return 'Sprint-Qualifying';
+  return null;
+}
+const normalizeLocation = value => String(value || '').trim().normalize('NFD')
+  .replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]/g, '');
+
+/** Match a session to a Jolpica GP by date and country OR its exact venue.
+ * Some 2026 meetings use a different host-country label than the calendar
+ * (e.g. Bahrain GP at Kuala Lumpur); location is decisive in those cases.
+ */
+export function matchSessionRace(session, races) {
   const start = timestamp(session?.date_start);
-  if (!start || !practiceType(session) || session?.is_cancelled) return null;
+  if (!start || session?.is_cancelled || (!practiceType(session) && !qualifyingType(session))) return null;
   const country = normalizedCountry(session.country_name);
+  const venue = normalizeLocation(session.location);
   const candidates = (races || []).filter(race => {
     const delta = timestamp(race.date) - start;
     if (delta < -DAY || delta > 6 * DAY) return false;
-    return !country || country === normalizedCountry(race.country);
+    const countryMatch = country && country === normalizedCountry(race.country);
+    const place = normalizeLocation(race.locality);
+    const venueMatch = venue && place && (venue === place || venue.includes(place) || place.includes(venue));
+    return countryMatch || venueMatch || (!country && !venue);
   }).sort((a, b) => Math.abs(timestamp(a.date) - start) - Math.abs(timestamp(b.date) - start));
   return candidates[0] || null;
+}
+export function matchPracticeRace(session, races) {
+  return practiceType(session) ? matchSessionRace(session, races) : null;
 }
 const cleanName = text => String(text || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '')
   .toLowerCase().replace(/[^a-z]/g, '');
@@ -70,6 +90,52 @@ export function normalizePracticeResults(raw, driverInfo = [], standingDrivers =
     (a.time ?? Infinity) - (b.time ?? Infinity));
 }
 
+function bestTime(seconds) {
+  const value = Number(seconds);
+  return seconds !== null && seconds !== undefined && Number.isFinite(value) && value > 0
+    ? value : null;
+}
+
+export function normalizeQualifyingResults(raw, driverInfo = [], standingDrivers = []) {
+  // Use the same driver-number / acronym matching as FP sessions, including
+  // reserve drivers absent from the official season points standings.
+  const common = normalizePracticeResults((raw || []).map(row => ({
+    ...row, duration: null, gap_to_leader: null
+  })), driverInfo, standingDrivers);
+  const original = new Map((raw || []).map(row => [Number(row.driver_number), row]));
+  return common.map(driver => {
+    const item = original.get(driver.driverNumber) || {};
+    const durations = Array.isArray(item.duration) ? item.duration : [item.duration];
+    const gaps = Array.isArray(item.gap_to_leader)
+      ? item.gap_to_leader : [item.gap_to_leader];
+    return {
+      ...driver,
+      q1: bestTime(durations[0]),
+      q2: bestTime(durations[1]),
+      q3: bestTime(durations[2]),
+      q1gap: typeof gaps[0] === 'number' ? gaps[0] : null,
+      q2gap: typeof gaps[1] === 'number' ? gaps[1] : null,
+      q3gap: typeof gaps[2] === 'number' ? gaps[2] : null,
+      status: item.dsq ? 'DSQ' : item.dns ? 'DNS' : item.dnf ? 'DNF' : null
+    };
+  });
+}
+
+function rosterFromPractice(race) {
+  const byNumber = new Map();
+  for (const session of Object.values(race.practiceSessions || {})) {
+    for (const driver of session.results || []) {
+      if (driver.driverNumber) byNumber.set(Number(driver.driverNumber), {
+        driver_number: driver.driverNumber,
+        name_acronym: driver.shortName,
+        full_name: driver.name,
+        last_name: String(driver.name || '').split(' ').at(-1)
+      });
+    }
+  }
+  return [...byNumber.values()];
+}
+
 /**
  * Only 2026 is enabled for this first rollout. Snapshot all already completed
  * sessions once; afterwards fetch only new results and recent corrections.
@@ -99,26 +165,31 @@ export async function updatePracticeSeason(saved, {
     }
   };
 
-  const calendar = await request('sessions', { year: season.year, session_type: 'Practice' });
-  if (!Array.isArray(calendar)) throw new Error('OpenF1: practice session list is not an array.');
+  const calendar = await request('sessions', { year: season.year });
+  if (!Array.isArray(calendar)) throw new Error('OpenF1: session list is not an array.');
   const entries = calendar.map(session => ({
-    session, type: practiceType(session),
-    race: matchPracticeRace(session, season.races)
+    session,
+    type: practiceType(session) || qualifyingType(session),
+    race: matchSessionRace(session, season.races)
   })).filter(entry => entry.type && entry.race && entry.session.session_key);
 
   // Best effort for sessions whose older source misclassifies session_type.
   if (!entries.length && season.races.some(r => timestamp(r.date) < now)) {
-    throw new Error('OpenF1: no practice sessions matched the 2026 calendar.');
+    throw new Error('OpenF1: no FP/Qualifying sessions matched the 2026 calendar.');
   }
 
   const rosterCache = new Map();
   let fetched = 0, imported = 0, errors = 0;
   for (const { session, race, type } of entries.sort((a, b) =>
+    // Qualifying and missing old FPs first. Vegas is deliberately lower priority.
+    Number(a.race.locality === 'Las Vegas') - Number(b.race.locality === 'Las Vegas') ||
     timestamp(a.session.date_start) - timestamp(b.session.date_start))) {
     const start = timestamp(session.date_end) || timestamp(session.date_start);
     if (!start || now < start + 4 * 60 * 60_000) continue;
     const target = season.races.find(r => r.round === race.round);
-    const existing = target.practiceSessions?.[type];
+    const isQualifying = type === 'Qualifying' || type === 'Sprint-Qualifying';
+    const key = isQualifying ? 'qualifyingSessions' : 'practiceSessions';
+    const existing = target[key]?.[type];
     const previousCheck = timestamp(existing?.checkedAt);
     const hasResult = Boolean(existing?.results?.length);
     const withinCorrections = now - start < 14 * DAY;
@@ -133,23 +204,27 @@ export async function updatePracticeSeason(saved, {
       data = await request('session_result', { session_key: session.session_key });
     } catch (error) {
       errors++;
-      console.warn('OpenF1 practice ' + season.year + '/' + race.round + '/' + type +
+      console.warn('OpenF1 session ' + season.year + '/' + race.round + '/' + type +
         ' temporarily unavailable: ' + error.message);
       continue;
     }
     if (!Array.isArray(data)) continue;
     let roster = rosterCache.get(session.meeting_key);
     if (!roster && data.length) {
-      try {
-        roster = await request('drivers', { meeting_key: session.meeting_key });
-        if (!Array.isArray(roster)) roster = [];
-        rosterCache.set(session.meeting_key, roster);
-      } catch (error) {
-        console.warn('OpenF1 driver lookup failed for ' + session.meeting_key + ': ' + error.message);
-        roster = [];
+      roster = rosterFromPractice(target);
+      if (!roster.length || roster.length < data.length - 2) {
+        try {
+          const fetchedDrivers = await request('drivers', { meeting_key: session.meeting_key });
+          if (Array.isArray(fetchedDrivers) && fetchedDrivers.length) roster = fetchedDrivers;
+        } catch (error) {
+          console.warn('OpenF1 driver lookup failed for ' + session.meeting_key + ': ' + error.message);
+        }
       }
+      rosterCache.set(session.meeting_key, roster);
     }
-    const normalized = normalizePracticeResults(data, roster || [], season.drivers);
+    const normalized = isQualifying
+      ? normalizeQualifyingResults(data, roster || [], season.drivers)
+      : normalizePracticeResults(data, roster || [], season.drivers);
     const next = {
       sessionKey: Number(session.session_key),
       date: session.date_start,
@@ -158,13 +233,13 @@ export async function updatePracticeSeason(saved, {
       attempts: normalized.length ? 0 : (existing?.attempts || 0) + 1,
       checkedAt: new Date(now).toISOString()
     };
-    if (!target.practiceSessions) target.practiceSessions = {};
-    target.practiceSessions[type] = next;
+    if (!target[key]) target[key] = {};
+    target[key][type] = next;
     changed = true;
     if (normalized.length) imported++;
   }
   if (changed) season.updatedAt = new Date(now).toISOString();
-  console.log('OpenF1 2026 practice: ' + entries.length + ' sessions in calendar; ' +
+  console.log('OpenF1 2026 FP/Qualifying: ' + entries.length + ' sessions in calendar; ' +
     fetched + ' checked; ' + imported + ' result sets imported; ' + errors + ' errors.');
   return changed ? season : saved;
 }

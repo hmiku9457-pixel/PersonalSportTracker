@@ -1158,3 +1158,41 @@ tbody tr[class*="zone-"] td:first-child {
   .f1-matrix-gp-button .f1-gp-circle { width: 30px; height: 30px; }
   .f1-matrix-gp-button .f1-gp-label { max-width: 54px; }
 }
+
+
+/* F1 team colour refinements */
+/* Constructor rows get a restrained tint in their own team colour. */
+.f1-standings-table--logos tbody tr.f1-constructor-row {
+  background: color-mix(in srgb, var(--team-row-color) 19%, var(--card));
+}
+.f1-standings-table--logos tbody tr.f1-constructor-row:hover {
+  background: color-mix(in srgb, var(--team-row-color) 27%, var(--card-alt));
+}
+/* Keep podium position markers while continuing the team tint under them. */
+.f1-standings-table--logos tbody tr.f1-constructor-row[class*="zone-"] td:first-child {
+  background: color-mix(in srgb, var(--team-row-color) 19%, var(--card));
+}
+.f1-standings-table--logos tbody tr.f1-constructor-row[class*="zone-"]:hover td:first-child {
+  background: color-mix(in srgb, var(--team-row-color) 27%, var(--card-alt));
+}
+
+/* One continuous team-coloured underline through the logo and the driver name. */
+.f1-standings-table--logos td.f1-name-with-stripe {
+  box-shadow: inset 0 -3px 0 var(--driver-color);
+}
+.f1-standings-table--logos td.f1-standings-logo-cell.f1-name-with-stripe {
+  padding-left: 4px;
+}
+
+/* Colour logo variants also need a light surface for their dark details. */
+.f1-team-badge {
+  background: #f5f6f8;
+  padding: 2px;
+}
+.f1-team-badge--previous {
+  filter: grayscale(1);
+  opacity: .38;
+}
+.f1-team-badge-fallback {
+  height: 100%;
+}

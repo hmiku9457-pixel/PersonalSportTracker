@@ -18,8 +18,8 @@ let shown = new Set();
 let focusId = null;
 let selectedRound = null;
 let seasonLoadToken = 0;
-let matrixPage = 0;
-let matrixPageSize = getPageSize();
+let chartZoom = 100;
+let matrixScrollLeft = 0;
 
 const NS = 'http://www.w3.org/2000/svg';
 const PALETTE = {
@@ -31,9 +31,6 @@ const PALETTE = {
   lotus_f1: '#cabd7b', brawn: '#d6d6d6'
 };
 
-function getPageSize() {
-  return window.innerWidth < 620 ? 4 : window.innerWidth < 1000 ? 6 : 10;
-}
 function elt(tag, cls = '', text = null) {
   const node = document.createElement(tag);
   if (cls) node.className = cls;
@@ -283,8 +280,10 @@ function panelChart() {
     legend.append(chip);
   }
   const commands = elt('div', 'f1-chart-commands');
-  commands.append(button('Alle', () => { shown = new Set(rows.map(r => r.driverId)); render(); }),
+  const driverCommands = elt('div', 'f1-chart-driver-commands');
+  driverCommands.append(button('Alle', () => { shown = new Set(rows.map(r => r.driverId)); render(); }),
     button('Keine', () => { shown.clear(); focusId = null; render(); }));
+  commands.append(driverCommands);
   toolbar.append(legend, commands);
   panel.append(toolbar);
 
@@ -311,8 +310,30 @@ function panelChart() {
     viewBox: '0 0 ' + width + ' ' + height, role: 'img',
     'aria-label': 'Kumulierter Punkteverlauf aller eingeblendeten Fahrer'
   });
-  svg.style.minWidth = width + 'px';
-  svg.style.width = '100%';
+  // At 100%, the complete chart fits the card. Larger percentages enable
+  // horizontal scrolling; the SVG's native aspect ratio is preserved.
+  svg.style.width = chartZoom + '%';
+  svg.style.minWidth = '0';
+  const zoomControls = elt('div', 'f1-chart-zoom-controls');
+  const zoomOut = button('−', () => changeZoom(chartZoom - 25), 'f1-chart-zoom-button');
+  const zoomIn = button('+', () => changeZoom(chartZoom + 25), 'f1-chart-zoom-button');
+  const zoomValue = elt('output', 'f1-chart-zoom-value');
+  const fit = button('Anpassen', () => changeZoom(100), 'f1-chart-zoom-fit');
+  zoomOut.setAttribute('aria-label', 'Punkteverlauf verkleinern');
+  zoomIn.setAttribute('aria-label', 'Punkteverlauf vergrößern');
+  zoomValue.setAttribute('aria-live', 'polite');
+  function changeZoom(next) {
+    chartZoom = Math.max(75, Math.min(250, next));
+    svg.style.width = chartZoom + '%';
+    zoomValue.textContent = chartZoom + '%';
+    zoomOut.disabled = chartZoom <= 75;
+    zoomIn.disabled = chartZoom >= 250;
+    fit.disabled = chartZoom === 100;
+    if (chartZoom <= 100) graph.scrollLeft = 0;
+  }
+  zoomControls.append(zoomOut, zoomValue, zoomIn, fit);
+  commands.append(zoomControls);
+  changeZoom(chartZoom);
   for (let tick = 0; tick <= 4; tick++) {
     const score = maxY * tick / 4;
     const yy = y(score);
@@ -408,19 +429,12 @@ function openRaceDetail(race, driver) {
 }
 function panelMatrix() {
   const panel = card('Punkte je Rennwochenende', 'f1-wide');
-  const controls = elt('div', 'f1-matrix-controls');
-  const pages = Math.max(1, Math.ceil(season.races.length / matrixPageSize));
-  matrixPage = Math.min(matrixPage, pages - 1);
-  const prev = button('‹ Zurück', () => { matrixPage--; render(); });
-  prev.disabled = matrixPage === 0;
-  const next = button('Weiter ›', () => { matrixPage++; render(); });
-  next.disabled = matrixPage >= pages - 1;
-  controls.append(prev, elt('span', 'f1-muted', 'Rennen ' + (matrixPage * matrixPageSize + 1) +
-    '–' + Math.min(season.races.length, (matrixPage + 1) * matrixPageSize) +
-    ' von ' + season.races.length), next);
-  panel.append(controls);
-  const segment = season.races.slice(matrixPage * matrixPageSize, (matrixPage + 1) * matrixPageSize);
+  const segment = season.races;
   const scroll = elt('div', 'f1-matrix-viewport');
+  scroll.tabIndex = 0;
+  scroll.setAttribute('role', 'region');
+  scroll.setAttribute('aria-label', 'Rennwochenenden horizontal durchscrollen');
+  scroll.addEventListener('scroll', () => { matrixScrollLeft = scroll.scrollLeft; }, { passive: true });
   const matrix = elt('table', 'f1-matrix');
   const thead = elt('thead'), heading = elt('tr');
   heading.append(elt('th', '', 'Fahrer'));
@@ -470,7 +484,7 @@ function panelMatrix() {
   scroll.append(matrix);
   panel.append(scroll);
   panel.append(elt('p', 'f1-card-note',
-    'Wochenendpunkte = Grand Prix + Sprint. „–“ bedeutet keine erfasste Teilnahme. Eine Zelle öffnet die Einzelheiten.'));
+    'Horizontal scrollen für weitere Rennwochenenden. Wochenendpunkte = Grand Prix + Sprint. „–“ bedeutet keine erfasste Teilnahme. Eine Zelle öffnet die Einzelheiten.'));
   return panel;
 }
 
@@ -705,14 +719,15 @@ function renderGrandPrix(race) {
 
 function render() {
   if (!season) return;
-  const nextPageSize = getPageSize();
-  if (nextPageSize !== matrixPageSize) { matrixPage = 0; matrixPageSize = nextPageSize; }
   renderGPNav();
   content.replaceChildren();
   const race = selectedRound === null ? null :
     season.races.find(r => Number(r.round) === selectedRound);
   if (race) renderGrandPrix(race);
   else renderSeason();
+  // Restore the matrix position after driver selection / chart rerenders.
+  const matrixViewport = content.querySelector('.f1-matrix-viewport');
+  if (matrixViewport) matrixViewport.scrollLeft = matrixScrollLeft;
   status.textContent = '';
   const completed = season.races.filter(r => r.results?.length).length;
   info.textContent = completed + ' / ' + season.races.length + ' GP · ' +
@@ -730,7 +745,8 @@ async function loadSeason(year, requestedRound = null) {
     rows = allDrivers(season);
     shown = new Set(rows.map(row => row.driverId));
     focusId = null;
-    matrixPage = 0;
+    chartZoom = 100;
+    matrixScrollLeft = 0;
     selectedRound = data.races.some(r => Number(r.round) === Number(requestedRound)) && requestedRound !== null ?
       Number(requestedRound) : null;
     updateAddress();
@@ -765,7 +781,4 @@ async function start() {
     status.textContent = 'Das Saisonverzeichnis konnte nicht geladen werden. Bitte nach dem nächsten Datenupdate erneut versuchen.';
   }
 }
-window.addEventListener('resize', () => {
-  if (season && getPageSize() !== matrixPageSize) render();
-});
 start();

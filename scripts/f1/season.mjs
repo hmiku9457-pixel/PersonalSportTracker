@@ -164,7 +164,9 @@ export async function updateCurrentSeason(saved, year, now = Date.now()) {
         results: existing.get(r.round)?.results ?? null,
         sprintResults: existing.get(r.round)?.sprintResults ?? null,
         ...(existing.get(r.round)?.practiceSessions
-          ? { practiceSessions: existing.get(r.round).practiceSessions } : {})
+          ? { practiceSessions: existing.get(r.round).practiceSessions } : {}),
+        ...(existing.get(r.round)?.qualifyingSessions
+          ? { qualifyingSessions: existing.get(r.round).qualifyingSessions } : {})
       }));
       changed = changedResults(season.races, merged) || changed;
       season.races = merged;

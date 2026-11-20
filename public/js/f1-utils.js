@@ -25,6 +25,11 @@ export function allDrivers(season) {
       if (item.constructorId) driver.currentConstructorId = item.constructorId;
     }
   }
+  for (const driver of byId.values()) {
+    driver.teamsThisSeason = driverTeamsByRace(season, driver.driverId);
+    driver.currentConstructorId = driver.teamsThisSeason[0] ??
+      driver.currentConstructorId ?? driver.constructorIds?.at(-1);
+  }
   return [...byId.values()].sort((a, b) =>
     (a.position ?? 999) - (b.position ?? 999) || a.name.localeCompare(b.name, 'de'));
 }
@@ -67,4 +72,41 @@ export function pointsRankAt(season, roundIndex, driverId, drivers) {
   }));
   const own = totals.find(row => row.id === driverId)?.points ?? 0;
   return 1 + totals.filter(row => row.points > own).length;
+}
+
+/**
+ * Distinct team IDs, most recent race participation first.
+ * Only recorded Grand Prix / sprint-race appearances count; metadata is
+ * consulted solely for drivers with no recorded race appearance this year.
+ * A retirement still counts as a race start, a DNS/withdrawal does not.
+ */
+export function driverTeamsByRace(season, driverId) {
+  const teams = [];
+  const didStart = item => item?.constructorId &&
+    !['W', 'D', 'F'].includes(String(item.positionText ?? '').toUpperCase()) &&
+    !/did not start|did not qualify|not qualified|withdrawn|withdrew|failed to qualify|did not practice/i
+      .test(String(item.status ?? ''));
+  const record = item => {
+    if (!didStart(item)) return;
+    const index = teams.indexOf(item.constructorId);
+    if (index !== -1) teams.splice(index, 1);
+    teams.unshift(item.constructorId);
+  };
+  const races = [...(season.races ?? [])].sort((a, b) => Number(a.round) - Number(b.round));
+  for (const race of races) {
+    record(race.sprintResults?.find(item => item.driverId === driverId));
+    record(race.results?.find(item => item.driverId === driverId));
+  }
+  if (teams.length) return teams;
+  const driver = (season.drivers ?? []).find(item => item.driverId === driverId);
+  return [...new Set(driver?.constructorIds ?? [])].reverse();
+}
+
+/** Championship gaps in points, independent of the ranking's tie-breaks. */
+export function championshipGaps(items, index) {
+  const points = asNumber(items[index]?.points);
+  return {
+    leader: index === 0 ? null : Math.max(0, asNumber(items[0]?.points) - points),
+    previous: index === 0 ? null : Math.max(0, asNumber(items[index - 1]?.points) - points)
+  };
 }

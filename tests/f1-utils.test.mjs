@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { totalWeekendPoints, seriesFor, rankBounds, allDrivers } from '../public/js/f1-utils.js';
+import { totalWeekendPoints, seriesFor, rankBounds, allDrivers, driverTeamsByRace, championshipGaps } from '../public/js/f1-utils.js';
 import { eventDue, withinCorrectionWindow } from '../scripts/f1/season.mjs';
 
 const drivers = [
@@ -43,4 +43,35 @@ test('Sunday Grand Prix is polled on Monday morning, not 24 hours later', () => 
 test('result corrections are eligible for a limited window', () => {
   assert.equal(withinCorrectionWindow(completed.date, Date.parse('2026-11-17T05:17:00Z')), true);
   assert.equal(withinCorrectionWindow(completed.date, Date.parse('2026-12-03T05:17:00Z')), false);
+});
+
+test('driver team logos use last started race; historical teams remain distinct', () => {
+  const calendar = {
+    drivers: [{ driverId: 'a', name: 'Driver A', position: 1, points: 35, constructorIds: ['old', 'new'] }],
+    races: [
+      { round: 1, results: [{ driverId: 'a', constructorId: 'old', positionText: '4', status: 'Finished' }] },
+      { round: 2, sprintResults: [{ driverId: 'a', constructorId: 'new', positionText: 'R', status: 'Retired' }],
+        results: [{ driverId: 'a', constructorId: 'new', positionText: '2', status: 'Finished' }] },
+      { round: 3, results: [{ driverId: 'a', constructorId: 'old', positionText: 'W', status: 'Did not start' }] },
+      { round: 4, results: null }
+    ]
+  };
+  assert.deepEqual(driverTeamsByRace(calendar, 'a'), ['new', 'old']);
+  const [driver] = allDrivers(calendar);
+  assert.equal(driver.currentConstructorId, 'new');
+  assert.deepEqual(driver.teamsThisSeason, ['new', 'old']);
+});
+test('team history fallback only applies before recorded race starts', () => {
+  const noRaces = { drivers: [{ driverId: 'a', constructorIds: ['old', 'new'] }], races: [] };
+  assert.deepEqual(driverTeamsByRace(noRaces, 'a'), ['new', 'old']);
+  assert.deepEqual(driverTeamsByRace(noRaces, 'unknown'), []);
+});
+test('standings gaps use official points; tied predecessor displays zero gap', () => {
+  const table = [
+    { points: 100 }, { points: 90 }, { points: 90 }, { points: 75 }
+  ];
+  assert.deepEqual(championshipGaps(table, 0), { leader: null, previous: null });
+  assert.deepEqual(championshipGaps(table, 1), { leader: 10, previous: 10 });
+  assert.deepEqual(championshipGaps(table, 2), { leader: 10, previous: 0 });
+  assert.deepEqual(championshipGaps(table, 3), { leader: 25, previous: 15 });
 });

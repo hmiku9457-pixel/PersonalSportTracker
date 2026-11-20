@@ -1,6 +1,7 @@
 import { mkdir, readFile, readdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fetchCompleteSeason, updateCurrentSeason, toOverview } from './season.mjs';
+import { updatePracticeSeason } from './practice.mjs';
 
 const BEGIN = 1950;
 const file = (root, year) => join(root, year + '.json');
@@ -26,6 +27,13 @@ export async function refreshF1Archive({ dataDir, competition, year = new Date()
   let season;
   try {
     season = await updateCurrentSeason(saved, year);
+    // Practice imports are supplementary. A transient OpenF1 outage must not
+    // prevent standings, GP results or the existing overview from updating.
+    try {
+      season = await updatePracticeSeason(season);
+    } catch (error) {
+      console.warn('OpenF1 practice update failed; keeping existing race data:', error.message);
+    }
     await saveIfChanged(currentPath, season);
   } catch (error) {
     if (!saved) throw error;

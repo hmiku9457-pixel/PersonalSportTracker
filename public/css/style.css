@@ -1196,3 +1196,113 @@ tbody tr[class*="zone-"] td:first-child {
 .f1-team-badge-fallback {
   height: 100%;
 }
+
+
+/* F1 chart zoom and continuous race matrix */
+.f1-chart-commands {
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+}
+.f1-chart-driver-commands,
+.f1-chart-zoom-controls {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.f1-chart-zoom-controls { white-space: nowrap; }
+.f1-chart-zoom-button {
+  min-width: 34px;
+  padding: 5px 9px;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.f1-chart-zoom-value {
+  min-width: 45px;
+  text-align: center;
+  font-size: .78rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-soft);
+}
+.f1-chart-zoom-fit {
+  font-size: .74rem;
+  padding: 5px 8px;
+}
+.f1-chart-scroll {
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: thin;
+  scrollbar-color: #566273 transparent;
+  overscroll-behavior-x: contain;
+}
+.f1-chart-scroll svg {
+  display: block;
+  height: auto;
+  max-width: none;
+}
+
+/* Keep all races in one scrollable matrix, with the driver column visible. */
+.f1-matrix-viewport {
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  overscroll-behavior-x: contain;
+  scrollbar-width: thin;
+  scrollbar-color: #566273 transparent;
+}
+.f1-matrix-viewport:focus-visible {
+  outline: 2px solid #9acbff;
+  outline-offset: -2px;
+}
+.f1-matrix {
+  width: max-content;
+  min-width: 100%;
+  table-layout: fixed;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+.f1-matrix th:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 2;
+  width: 105px !important;
+  min-width: 105px !important;
+  max-width: 105px;
+  background: var(--card-alt);
+  box-shadow: 1px 0 0 var(--border);
+}
+.f1-matrix thead th:first-child { z-index: 3; }
+.f1-matrix tbody tr:nth-child(odd) > th:first-child { background: var(--card); }
+.f1-matrix tbody tr:nth-child(even) > th:first-child { background: var(--card-alt); }
+.f1-matrix tbody tr.f1-focused > th:first-child { background: #253746; }
+.f1-matrix thead th:not(:first-child),
+.f1-matrix tbody td {
+  width: 78px !important;
+  min-width: 78px;
+  max-width: 78px;
+}
+@media (max-width: 850px) {
+  .f1-chart-toolbar { flex-direction: column; }
+  .f1-chart-commands {
+    align-items: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 620px) {
+  .f1-matrix th:first-child {
+    width: 85px !important;
+    min-width: 85px !important;
+    max-width: 85px;
+  }
+  .f1-matrix thead th:not(:first-child),
+  .f1-matrix tbody td {
+    width: 72px !important;
+    min-width: 72px;
+    max-width: 72px;
+  }
+  .f1-chart-zoom-fit { font-size: .7rem; }
+}

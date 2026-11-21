@@ -6,7 +6,7 @@
   "seasonLabel": "2026/27",
   "complete": false,
   "calendarCheckedAt": "2026-11-19T14:25:52.181Z",
-  "updatedAt": "2026-11-19T14:25:52.181Z",
+  "updatedAt": "2026-11-21T13:28:16.096Z",
   "matches": [
     {
       "id": "84745",
@@ -2353,15 +2353,18 @@
       "groupOrderId": 14,
       "groupName": "14. Spieltag",
       "date": "2026-11-20T18:00:00Z",
-      "updated": "2026-09-28T16:52:01.84",
-      "finished": false,
+      "updated": "2026-11-20T20:52:08.243",
+      "finished": true,
       "homeTeamId": "126",
       "homeTeam": "TSV Havelse",
       "homeShortName": "",
       "awayTeamId": "2199",
       "awayTeam": "Viktoria Köln",
       "awayShortName": "Viktoria Köln",
-      "result": null
+      "result": {
+        "home": 1,
+        "away": 6
+      }
     },
     {
       "id": "84875",
@@ -6105,14 +6108,14 @@
       "name": "Viktoria Köln",
       "shortName": "Viktoria Köln",
       "position": 1,
-      "played": 13,
-      "wins": 9,
+      "played": 14,
+      "wins": 10,
       "draws": 2,
       "losses": 2,
-      "goalsFor": 36,
-      "goalsAgainst": 18,
-      "goalDifference": 18,
-      "points": 29
+      "goalsFor": 42,
+      "goalsAgainst": 19,
+      "goalDifference": 23,
+      "points": 32
     },
     {
       "teamId": "107",
@@ -6371,13 +6374,13 @@
       "name": "TSV Havelse",
       "shortName": "TSV Havelse",
       "position": 20,
-      "played": 13,
+      "played": 14,
       "wins": 2,
       "draws": 4,
-      "losses": 7,
-      "goalsFor": 17,
-      "goalsAgainst": 29,
-      "goalDifference": -12,
+      "losses": 8,
+      "goalsFor": 18,
+      "goalsAgainst": 35,
+      "goalDifference": -17,
       "points": 10
     }
   ],
@@ -6485,7 +6488,8 @@
   ],
   "groupChecks": {
     "12": "2026-11-16T13:38:24.478Z",
-    "13": "2026-11-20T12:43:00.201Z"
+    "13": "2026-11-21T13:28:16.096Z",
+    "14": "2026-11-21T13:28:16.096Z"
   },
   "groupChanges": {
     "12": "2026-11-01T21:22:59.953",

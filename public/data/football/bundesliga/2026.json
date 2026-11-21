@@ -6,7 +6,7 @@
   "seasonLabel": "2026/27",
   "complete": false,
   "calendarCheckedAt": "2026-11-19T14:25:48.322Z",
-  "updatedAt": "2026-11-11T22:45:24.278Z",
+  "updatedAt": "2026-11-21T13:28:14.835Z",
   "matches": [
     {
       "id": "83156",
@@ -1471,22 +1471,25 @@
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-20T19:30:00Z",
-      "updated": "2026-09-10T17:29:43.763",
-      "finished": false,
+      "updated": "2026-11-20T22:23:56.397",
+      "finished": true,
       "homeTeamId": "40",
       "homeTeam": "FC Bayern München",
       "homeShortName": "Bayern",
       "awayTeamId": "65",
       "awayTeam": "1. FC Köln",
       "awayShortName": "Köln",
-      "result": null
+      "result": {
+        "home": 1,
+        "away": 1
+      }
     },
     {
       "id": "83238",
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-21T14:30:00Z",
-      "updated": "2026-07-03T08:15:41.453",
+      "updated": "2026-11-20T11:50:53.58",
       "finished": false,
       "homeTeamId": "6",
       "homeTeam": "Bayer 04 Leverkusen",
@@ -1501,7 +1504,7 @@
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-21T14:30:00Z",
-      "updated": "2026-07-03T08:16:02.887",
+      "updated": "2026-11-20T11:51:14.787",
       "finished": false,
       "homeTeamId": "91",
       "homeTeam": "Eintracht Frankfurt",
@@ -1516,7 +1519,7 @@
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-21T14:30:00Z",
-      "updated": "2026-07-03T08:16:26.903",
+      "updated": "2026-11-20T11:51:50.597",
       "finished": false,
       "homeTeamId": "80",
       "homeTeam": "1. FC Union Berlin",
@@ -1531,7 +1534,7 @@
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-21T14:30:00Z",
-      "updated": "2026-07-03T08:16:35.227",
+      "updated": "2026-11-20T11:52:27.313",
       "finished": false,
       "homeTeamId": "87",
       "homeTeam": "Borussia Mönchengladbach",
@@ -1546,7 +1549,7 @@
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-21T14:30:00Z",
-      "updated": "2026-07-03T08:17:04.54",
+      "updated": "2026-11-20T11:52:52.843",
       "finished": false,
       "homeTeamId": "198",
       "homeTeam": "SV 07 Elversberg",
@@ -1561,7 +1564,7 @@
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-21T17:30:00Z",
-      "updated": "2026-09-10T17:29:58.837",
+      "updated": "2026-11-20T11:53:22.503",
       "finished": false,
       "homeTeamId": "9",
       "homeTeam": "FC Schalke 04",
@@ -1576,7 +1579,7 @@
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-22T14:30:00Z",
-      "updated": "2026-09-10T17:30:08.693",
+      "updated": "2026-11-20T11:53:53.98",
       "finished": false,
       "homeTeamId": "95",
       "homeTeam": "FC Augsburg",
@@ -1591,7 +1594,7 @@
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-22T16:30:00Z",
-      "updated": "2026-09-10T17:30:25.293",
+      "updated": "2026-11-20T11:54:16.897",
       "finished": false,
       "homeTeamId": "134",
       "homeTeam": "SV Werder Bremen",
@@ -4848,14 +4851,14 @@
       "name": "FC Bayern München",
       "shortName": "Bayern",
       "position": 1,
-      "played": 9,
+      "played": 10,
       "wins": 6,
-      "draws": 3,
+      "draws": 4,
       "losses": 0,
-      "goalsFor": 29,
-      "goalsAgainst": 9,
+      "goalsFor": 30,
+      "goalsAgainst": 10,
       "goalDifference": 20,
-      "points": 21
+      "points": 22
     },
     {
       "teamId": "7",
@@ -5026,10 +5029,24 @@
       "points": 10
     },
     {
+      "teamId": "65",
+      "name": "1. FC Köln",
+      "shortName": "Köln",
+      "position": 14,
+      "played": 10,
+      "wins": 2,
+      "draws": 4,
+      "losses": 4,
+      "goalsFor": 11,
+      "goalsAgainst": 15,
+      "goalDifference": -4,
+      "points": 10
+    },
+    {
       "teamId": "95",
       "name": "FC Augsburg",
       "shortName": "Augsburg",
-      "position": 14,
+      "position": 15,
       "played": 9,
       "wins": 2,
       "draws": 3,
@@ -5037,20 +5054,6 @@
       "goalsFor": 20,
       "goalsAgainst": 20,
       "goalDifference": 0,
-      "points": 9
-    },
-    {
-      "teamId": "65",
-      "name": "1. FC Köln",
-      "shortName": "Köln",
-      "position": 15,
-      "played": 9,
-      "wins": 2,
-      "draws": 3,
-      "losses": 4,
-      "goalsFor": 10,
-      "goalsAgainst": 14,
-      "goalDifference": -4,
       "points": 9
     },
     {
@@ -5190,7 +5193,8 @@
   ],
   "groupChecks": {
     "8": "2026-11-16T13:38:20.114Z",
-    "9": "2026-11-20T12:42:59.052Z"
+    "9": "2026-11-21T13:28:14.835Z",
+    "10": "2026-11-21T13:28:14.835Z"
   },
   "groupChanges": {
     "8": "2026-11-02T10:24:43.753",

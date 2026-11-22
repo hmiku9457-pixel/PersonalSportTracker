@@ -6,7 +6,7 @@
   "seasonLabel": "2026/27",
   "complete": false,
   "calendarCheckedAt": "2026-11-19T14:25:48.322Z",
-  "updatedAt": "2026-11-21T13:28:14.835Z",
+  "updatedAt": "2026-11-22T13:20:42.951Z",
   "matches": [
     {
       "id": "83156",
@@ -1471,7 +1471,7 @@
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-20T19:30:00Z",
-      "updated": "2026-11-20T22:23:56.397",
+      "updated": "2026-11-21T18:21:38.077",
       "finished": true,
       "homeTeamId": "40",
       "homeTeam": "FC Bayern München",
@@ -1489,90 +1489,108 @@
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-21T14:30:00Z",
-      "updated": "2026-11-20T11:50:53.58",
-      "finished": false,
+      "updated": "2026-11-21T17:22:45.207",
+      "finished": true,
       "homeTeamId": "6",
       "homeTeam": "Bayer 04 Leverkusen",
       "homeShortName": "Leverkusen",
       "awayTeamId": "31",
       "awayTeam": "SC Paderborn 07",
       "awayShortName": "Paderborn",
-      "result": null
+      "result": {
+        "home": 4,
+        "away": 0
+      }
     },
     {
       "id": "83239",
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-21T14:30:00Z",
-      "updated": "2026-11-20T11:51:14.787",
-      "finished": false,
+      "updated": "2026-11-21T17:24:50.76",
+      "finished": true,
       "homeTeamId": "91",
       "homeTeam": "Eintracht Frankfurt",
       "homeShortName": "Frankfurt",
       "awayTeamId": "175",
       "awayTeam": "TSG Hoffenheim",
       "awayShortName": "Hoffenheim",
-      "result": null
+      "result": {
+        "home": 1,
+        "away": 0
+      }
     },
     {
       "id": "83241",
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-21T14:30:00Z",
-      "updated": "2026-11-20T11:51:50.597",
-      "finished": false,
+      "updated": "2026-11-21T17:25:48.093",
+      "finished": true,
       "homeTeamId": "80",
       "homeTeam": "1. FC Union Berlin",
       "homeShortName": "Union Berlin",
       "awayTeamId": "1635",
       "awayTeam": "RB Leipzig",
       "awayShortName": "Leipzig",
-      "result": null
+      "result": {
+        "home": 1,
+        "away": 5
+      }
     },
     {
       "id": "83242",
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-21T14:30:00Z",
-      "updated": "2026-11-20T11:52:27.313",
-      "finished": false,
+      "updated": "2026-11-21T17:22:13.223",
+      "finished": true,
       "homeTeamId": "87",
       "homeTeam": "Borussia Mönchengladbach",
       "homeShortName": "Gladbach",
       "awayTeamId": "7",
       "awayTeam": "Borussia Dortmund",
       "awayShortName": "Dortmund",
-      "result": null
+      "result": {
+        "home": 0,
+        "away": 1
+      }
     },
     {
       "id": "83245",
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-21T14:30:00Z",
-      "updated": "2026-11-20T11:52:52.843",
-      "finished": false,
+      "updated": "2026-11-21T17:21:32.747",
+      "finished": true,
       "homeTeamId": "198",
       "homeTeam": "SV 07 Elversberg",
       "homeShortName": "Elversberg",
       "awayTeamId": "112",
       "awayTeam": "SC Freiburg",
       "awayShortName": "Freiburg",
-      "result": null
+      "result": {
+        "home": 0,
+        "away": 1
+      }
     },
     {
       "id": "83244",
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-21T17:30:00Z",
-      "updated": "2026-11-20T11:53:22.503",
-      "finished": false,
+      "updated": "2026-11-21T20:22:10.937",
+      "finished": true,
       "homeTeamId": "9",
       "homeTeam": "FC Schalke 04",
       "homeShortName": "S04",
       "awayTeamId": "16",
       "awayTeam": "VfB Stuttgart",
       "awayShortName": "Stuttgart",
-      "result": null
+      "result": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "83240",
@@ -4847,10 +4865,24 @@
   ],
   "standings": [
     {
+      "teamId": "7",
+      "name": "Borussia Dortmund",
+      "shortName": "Dortmund",
+      "position": 1,
+      "played": 10,
+      "wins": 7,
+      "draws": 3,
+      "losses": 0,
+      "goalsFor": 17,
+      "goalsAgainst": 7,
+      "goalDifference": 10,
+      "points": 24
+    },
+    {
       "teamId": "40",
       "name": "FC Bayern München",
       "shortName": "Bayern",
-      "position": 1,
+      "position": 2,
       "played": 10,
       "wins": 6,
       "draws": 4,
@@ -4861,60 +4893,46 @@
       "points": 22
     },
     {
-      "teamId": "7",
-      "name": "Borussia Dortmund",
-      "shortName": "Dortmund",
-      "position": 2,
-      "played": 9,
-      "wins": 6,
-      "draws": 3,
-      "losses": 0,
-      "goalsFor": 16,
-      "goalsAgainst": 7,
-      "goalDifference": 9,
-      "points": 21
-    },
-    {
       "teamId": "112",
       "name": "SC Freiburg",
       "shortName": "Freiburg",
       "position": 3,
-      "played": 9,
-      "wins": 6,
+      "played": 10,
+      "wins": 7,
       "draws": 1,
       "losses": 2,
-      "goalsFor": 20,
+      "goalsFor": 21,
       "goalsAgainst": 10,
-      "goalDifference": 10,
-      "points": 19
+      "goalDifference": 11,
+      "points": 22
     },
     {
       "teamId": "1635",
       "name": "RB Leipzig",
       "shortName": "Leipzig",
       "position": 4,
-      "played": 9,
-      "wins": 6,
+      "played": 10,
+      "wins": 7,
       "draws": 0,
       "losses": 3,
-      "goalsFor": 27,
-      "goalsAgainst": 13,
-      "goalDifference": 14,
-      "points": 18
+      "goalsFor": 32,
+      "goalsAgainst": 14,
+      "goalDifference": 18,
+      "points": 21
     },
     {
       "teamId": "6",
       "name": "Bayer 04 Leverkusen",
       "shortName": "Leverkusen",
       "position": 5,
-      "played": 9,
-      "wins": 5,
+      "played": 10,
+      "wins": 6,
       "draws": 1,
       "losses": 3,
-      "goalsFor": 20,
+      "goalsFor": 24,
       "goalsAgainst": 17,
-      "goalDifference": 3,
-      "points": 16
+      "goalDifference": 7,
+      "points": 19
     },
     {
       "teamId": "134",
@@ -4931,59 +4949,59 @@
       "points": 15
     },
     {
-      "teamId": "198",
-      "name": "SV 07 Elversberg",
-      "shortName": "Elversberg",
+      "teamId": "91",
+      "name": "Eintracht Frankfurt",
+      "shortName": "Frankfurt",
       "position": 7,
-      "played": 9,
+      "played": 10,
       "wins": 4,
-      "draws": 1,
-      "losses": 4,
-      "goalsFor": 17,
-      "goalsAgainst": 18,
-      "goalDifference": -1,
-      "points": 13
+      "draws": 3,
+      "losses": 3,
+      "goalsFor": 16,
+      "goalsAgainst": 20,
+      "goalDifference": -4,
+      "points": 15
     },
     {
       "teamId": "16",
       "name": "VfB Stuttgart",
       "shortName": "Stuttgart",
       "position": 8,
-      "played": 9,
+      "played": 10,
       "wins": 4,
-      "draws": 0,
+      "draws": 1,
       "losses": 5,
       "goalsFor": 15,
       "goalsAgainst": 15,
       "goalDifference": 0,
-      "points": 12
+      "points": 13
+    },
+    {
+      "teamId": "198",
+      "name": "SV 07 Elversberg",
+      "shortName": "Elversberg",
+      "position": 9,
+      "played": 10,
+      "wins": 4,
+      "draws": 1,
+      "losses": 5,
+      "goalsFor": 17,
+      "goalsAgainst": 19,
+      "goalDifference": -2,
+      "points": 13
     },
     {
       "teamId": "175",
       "name": "TSG Hoffenheim",
       "shortName": "Hoffenheim",
-      "position": 9,
-      "played": 9,
+      "position": 10,
+      "played": 10,
       "wins": 4,
       "draws": 0,
-      "losses": 5,
+      "losses": 6,
       "goalsFor": 16,
-      "goalsAgainst": 17,
-      "goalDifference": -1,
-      "points": 12
-    },
-    {
-      "teamId": "91",
-      "name": "Eintracht Frankfurt",
-      "shortName": "Frankfurt",
-      "position": 10,
-      "played": 9,
-      "wins": 3,
-      "draws": 3,
-      "losses": 3,
-      "goalsFor": 15,
-      "goalsAgainst": 20,
-      "goalDifference": -5,
+      "goalsAgainst": 18,
+      "goalDifference": -2,
       "points": 12
     },
     {
@@ -5015,24 +5033,10 @@
       "points": 10
     },
     {
-      "teamId": "31",
-      "name": "SC Paderborn 07",
-      "shortName": "Paderborn",
-      "position": 13,
-      "played": 9,
-      "wins": 2,
-      "draws": 4,
-      "losses": 3,
-      "goalsFor": 8,
-      "goalsAgainst": 11,
-      "goalDifference": -3,
-      "points": 10
-    },
-    {
       "teamId": "65",
       "name": "1. FC Köln",
       "shortName": "Köln",
-      "position": 14,
+      "position": 13,
       "played": 10,
       "wins": 2,
       "draws": 4,
@@ -5040,6 +5044,20 @@
       "goalsFor": 11,
       "goalsAgainst": 15,
       "goalDifference": -4,
+      "points": 10
+    },
+    {
+      "teamId": "31",
+      "name": "SC Paderborn 07",
+      "shortName": "Paderborn",
+      "position": 14,
+      "played": 10,
+      "wins": 2,
+      "draws": 4,
+      "losses": 4,
+      "goalsFor": 8,
+      "goalsAgainst": 15,
+      "goalDifference": -7,
       "points": 10
     },
     {
@@ -5057,45 +5075,45 @@
       "points": 9
     },
     {
-      "teamId": "80",
-      "name": "1. FC Union Berlin",
-      "shortName": "Union Berlin",
-      "position": 16,
-      "played": 9,
-      "wins": 1,
-      "draws": 4,
-      "losses": 4,
-      "goalsFor": 7,
-      "goalsAgainst": 21,
-      "goalDifference": -14,
-      "points": 7
-    },
-    {
       "teamId": "9",
       "name": "FC Schalke 04",
       "shortName": "S04",
-      "position": 17,
-      "played": 9,
+      "position": 16,
+      "played": 10,
       "wins": 1,
-      "draws": 3,
+      "draws": 4,
       "losses": 5,
       "goalsFor": 5,
       "goalsAgainst": 11,
       "goalDifference": -6,
-      "points": 6
+      "points": 7
+    },
+    {
+      "teamId": "80",
+      "name": "1. FC Union Berlin",
+      "shortName": "Union Berlin",
+      "position": 17,
+      "played": 10,
+      "wins": 1,
+      "draws": 4,
+      "losses": 5,
+      "goalsFor": 8,
+      "goalsAgainst": 26,
+      "goalDifference": -18,
+      "points": 7
     },
     {
       "teamId": "87",
       "name": "Borussia Mönchengladbach",
       "shortName": "Gladbach",
       "position": 18,
-      "played": 9,
+      "played": 10,
       "wins": 1,
       "draws": 1,
-      "losses": 7,
+      "losses": 8,
       "goalsFor": 12,
-      "goalsAgainst": 25,
-      "goalDifference": -13,
+      "goalsAgainst": 26,
+      "goalDifference": -14,
       "points": 4
     }
   ],
@@ -5193,8 +5211,8 @@
   ],
   "groupChecks": {
     "8": "2026-11-16T13:38:20.114Z",
-    "9": "2026-11-21T13:28:14.835Z",
-    "10": "2026-11-21T13:28:14.835Z"
+    "9": "2026-11-22T13:20:42.951Z",
+    "10": "2026-11-22T13:20:42.951Z"
   },
   "groupChanges": {
     "8": "2026-11-02T10:24:43.753",

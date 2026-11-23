@@ -6,7 +6,7 @@
   "seasonLabel": "2026/27",
   "complete": false,
   "calendarCheckedAt": "2026-11-19T14:25:51.624Z",
-  "updatedAt": "2026-11-22T13:20:43.912Z",
+  "updatedAt": "2026-11-23T15:58:09.672Z",
   "matches": [
     {
       "id": "83509",
@@ -1885,7 +1885,7 @@
       "groupOrderId": 12,
       "groupName": "12. Spieltag",
       "date": "2026-11-21T19:30:00Z",
-      "updated": "2026-11-21T22:25:37.713",
+      "updated": "2026-11-22T14:23:57.617",
       "finished": true,
       "homeTeamId": "98",
       "homeTeam": "FC St. Pauli",
@@ -1903,45 +1903,54 @@
       "groupOrderId": 12,
       "groupName": "12. Spieltag",
       "date": "2026-11-22T12:30:00Z",
-      "updated": "2026-11-22T13:46:38.413",
-      "finished": false,
+      "updated": "2026-11-22T15:27:41.037",
+      "finished": true,
       "homeTeamId": "76",
       "homeTeam": "1. FC Kaiserslautern",
       "homeShortName": "Kaiserslautern",
       "awayTeamId": "177",
       "awayTeam": "Dynamo Dresden",
       "awayShortName": "Dresden",
-      "result": null
+      "result": {
+        "home": 2,
+        "away": 2
+      }
     },
     {
       "id": "83702",
       "groupOrderId": 12,
       "groupName": "12. Spieltag",
       "date": "2026-11-22T12:30:00Z",
-      "updated": "2026-11-22T13:31:39.983",
-      "finished": false,
+      "updated": "2026-11-22T15:23:26.597",
+      "finished": true,
       "homeTeamId": "105",
       "homeTeam": "Karlsruher SC",
       "homeShortName": "Karlsruhe",
       "awayTeamId": "36",
       "awayTeam": "VfL Osnabrück",
       "awayShortName": "Osnabrück",
-      "result": null
+      "result": {
+        "home": 0,
+        "away": 0
+      }
     },
     {
       "id": "83706",
       "groupOrderId": 12,
       "groupName": "12. Spieltag",
       "date": "2026-11-22T12:30:00Z",
-      "updated": "2026-11-22T13:39:55.89",
-      "finished": false,
+      "updated": "2026-11-22T15:27:42.653",
+      "finished": true,
       "homeTeamId": "93",
       "homeTeam": "Energie Cottbus",
       "homeShortName": "Cottbus",
       "awayTeamId": "54",
       "awayTeam": "Hertha BSC",
       "awayShortName": "Hertha",
-      "result": null
+      "result": {
+        "home": 0,
+        "away": 4
+      }
     },
     {
       "id": "83707",
@@ -4924,9 +4933,9 @@
       "wins": 11,
       "draws": 1,
       "losses": 0,
-      "goalsFor": 26,
+      "goalsFor": 29,
       "goalsAgainst": 9,
-      "goalDifference": 17,
+      "goalDifference": 20,
       "points": 34
     },
     {
@@ -4978,12 +4987,12 @@
       "position": 5,
       "played": 12,
       "wins": 6,
-      "draws": 3,
-      "losses": 3,
-      "goalsFor": 11,
+      "draws": 4,
+      "losses": 2,
+      "goalsFor": 12,
       "goalsAgainst": 9,
-      "goalDifference": 2,
-      "points": 21
+      "goalDifference": 3,
+      "points": 22
     },
     {
       "teamId": "83",
@@ -5056,24 +5065,10 @@
       "points": 14
     },
     {
-      "teamId": "177",
-      "name": "Dynamo Dresden",
-      "shortName": "Dresden",
-      "position": 11,
-      "played": 12,
-      "wins": 4,
-      "draws": 2,
-      "losses": 6,
-      "goalsFor": 17,
-      "goalsAgainst": 21,
-      "goalDifference": -4,
-      "points": 14
-    },
-    {
       "teamId": "129",
       "name": "VfL Bochum",
       "shortName": "Bochum",
-      "position": 12,
+      "position": 11,
       "played": 12,
       "wins": 4,
       "draws": 2,
@@ -5087,7 +5082,7 @@
       "teamId": "36",
       "name": "VfL Osnabrück",
       "shortName": "Osnabrück",
-      "position": 13,
+      "position": 12,
       "played": 12,
       "wins": 3,
       "draws": 3,
@@ -5095,6 +5090,20 @@
       "goalsFor": 14,
       "goalsAgainst": 18,
       "goalDifference": -4,
+      "points": 12
+    },
+    {
+      "teamId": "177",
+      "name": "Dynamo Dresden",
+      "shortName": "Dresden",
+      "position": 13,
+      "played": 12,
+      "wins": 3,
+      "draws": 3,
+      "losses": 6,
+      "goalsFor": 17,
+      "goalsAgainst": 22,
+      "goalDifference": -5,
       "points": 12
     },
     {
@@ -5149,8 +5158,8 @@
       "draws": 5,
       "losses": 5,
       "goalsFor": 18,
-      "goalsAgainst": 21,
-      "goalDifference": -3,
+      "goalsAgainst": 24,
+      "goalDifference": -6,
       "points": 11
     },
     {
@@ -5263,7 +5272,7 @@
   "groupChecks": {
     "10": "2026-11-15T12:44:24.414Z",
     "11": "2026-11-22T13:20:43.912Z",
-    "12": "2026-11-22T13:20:43.912Z"
+    "12": "2026-11-23T15:58:09.672Z"
   },
   "groupChanges": {
     "10": "2026-11-01T15:23:09.253",

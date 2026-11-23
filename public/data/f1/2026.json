@@ -3,7 +3,7 @@
   "year": 2026,
   "complete": false,
   "calendarCheckedAt": "2026-11-19T14:25:45.911Z",
-  "updatedAt": "2026-11-22T13:20:32.540Z",
+  "updatedAt": "2026-11-23T15:57:53.458Z",
   "races": [
     {
       "round": 1,
@@ -27951,7 +27951,272 @@
       "circuit": "Las Vegas Strip Street Circuit",
       "locality": "Las Vegas",
       "country": "USA",
-      "results": null,
+      "results": [
+        {
+          "driverId": "max_verstappen",
+          "name": "Max Verstappen",
+          "familyName": "Verstappen",
+          "shortName": "VER",
+          "position": 1,
+          "positionText": "1",
+          "constructorId": "red_bull",
+          "constructorName": "Red Bull",
+          "points": 25,
+          "status": "Finished"
+        },
+        {
+          "driverId": "norris",
+          "name": "Lando Norris",
+          "familyName": "Norris",
+          "shortName": "NOR",
+          "position": 2,
+          "positionText": "2",
+          "constructorId": "mclaren",
+          "constructorName": "McLaren",
+          "points": 18,
+          "status": "Finished"
+        },
+        {
+          "driverId": "piastri",
+          "name": "Oscar Piastri",
+          "familyName": "Piastri",
+          "shortName": "PIA",
+          "position": 3,
+          "positionText": "3",
+          "constructorId": "mclaren",
+          "constructorName": "McLaren",
+          "points": 15,
+          "status": "Finished"
+        },
+        {
+          "driverId": "antonelli",
+          "name": "Andrea Kimi Antonelli",
+          "familyName": "Antonelli",
+          "shortName": "ANT",
+          "position": 4,
+          "positionText": "4",
+          "constructorId": "mercedes",
+          "constructorName": "Mercedes",
+          "points": 12,
+          "status": "Finished"
+        },
+        {
+          "driverId": "gasly",
+          "name": "Pierre Gasly",
+          "familyName": "Gasly",
+          "shortName": "GAS",
+          "position": 5,
+          "positionText": "5",
+          "constructorId": "alpine",
+          "constructorName": "Alpine F1 Team",
+          "points": 10,
+          "status": "Finished"
+        },
+        {
+          "driverId": "colapinto",
+          "name": "Franco Colapinto",
+          "familyName": "Colapinto",
+          "shortName": "COL",
+          "position": 6,
+          "positionText": "6",
+          "constructorId": "alpine",
+          "constructorName": "Alpine F1 Team",
+          "points": 8,
+          "status": "Finished"
+        },
+        {
+          "driverId": "hamilton",
+          "name": "Lewis Hamilton",
+          "familyName": "Hamilton",
+          "shortName": "HAM",
+          "position": 7,
+          "positionText": "7",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 6,
+          "status": "Finished"
+        },
+        {
+          "driverId": "sainz",
+          "name": "Carlos Sainz",
+          "familyName": "Sainz",
+          "shortName": "SAI",
+          "position": 8,
+          "positionText": "8",
+          "constructorId": "williams",
+          "constructorName": "Williams",
+          "points": 4,
+          "status": "Finished"
+        },
+        {
+          "driverId": "russell",
+          "name": "George Russell",
+          "familyName": "Russell",
+          "shortName": "RUS",
+          "position": 9,
+          "positionText": "9",
+          "constructorId": "mercedes",
+          "constructorName": "Mercedes",
+          "points": 2,
+          "status": "Finished"
+        },
+        {
+          "driverId": "leclerc",
+          "name": "Charles Leclerc",
+          "familyName": "Leclerc",
+          "shortName": "LEC",
+          "position": 10,
+          "positionText": "10",
+          "constructorId": "ferrari",
+          "constructorName": "Ferrari",
+          "points": 1,
+          "status": "Finished"
+        },
+        {
+          "driverId": "hulkenberg",
+          "name": "Nico Hülkenberg",
+          "familyName": "Hülkenberg",
+          "shortName": "HUL",
+          "position": 11,
+          "positionText": "11",
+          "constructorId": "audi",
+          "constructorName": "Audi",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "bortoleto",
+          "name": "Gabriel Bortoleto",
+          "familyName": "Bortoleto",
+          "shortName": "BOR",
+          "position": 12,
+          "positionText": "12",
+          "constructorId": "audi",
+          "constructorName": "Audi",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "bearman",
+          "name": "Oliver Bearman",
+          "familyName": "Bearman",
+          "shortName": "BEA",
+          "position": 13,
+          "positionText": "13",
+          "constructorId": "haas",
+          "constructorName": "Haas F1 Team",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "lawson",
+          "name": "Liam Lawson",
+          "familyName": "Lawson",
+          "shortName": "LAW",
+          "position": 14,
+          "positionText": "14",
+          "constructorId": "rb",
+          "constructorName": "RB F1 Team",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "hadjar",
+          "name": "Isack Hadjar",
+          "familyName": "Hadjar",
+          "shortName": "HAD",
+          "position": 15,
+          "positionText": "15",
+          "constructorId": "red_bull",
+          "constructorName": "Red Bull",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "rafael_camara",
+          "name": "Rafael Camara",
+          "familyName": "Camara",
+          "shortName": "CAM",
+          "position": 16,
+          "positionText": "16",
+          "constructorId": "haas",
+          "constructorName": "Haas F1 Team",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "stroll",
+          "name": "Lance Stroll",
+          "familyName": "Stroll",
+          "shortName": "STR",
+          "position": 17,
+          "positionText": "17",
+          "constructorId": "aston_martin",
+          "constructorName": "Aston Martin",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "bottas",
+          "name": "Valtteri Bottas",
+          "familyName": "Bottas",
+          "shortName": "BOT",
+          "position": 18,
+          "positionText": "18",
+          "constructorId": "cadillac",
+          "constructorName": "Cadillac F1 Team",
+          "points": 0,
+          "status": "Finished"
+        },
+        {
+          "driverId": "alonso",
+          "name": "Fernando Alonso",
+          "familyName": "Alonso",
+          "shortName": "ALO",
+          "position": 19,
+          "positionText": "19",
+          "constructorId": "aston_martin",
+          "constructorName": "Aston Martin",
+          "points": 0,
+          "status": "Retired"
+        },
+        {
+          "driverId": "arvid_lindblad",
+          "name": "Arvid Lindblad",
+          "familyName": "Lindblad",
+          "shortName": "LIN",
+          "position": 20,
+          "positionText": "R",
+          "constructorId": "rb",
+          "constructorName": "RB F1 Team",
+          "points": 0,
+          "status": "Retired"
+        },
+        {
+          "driverId": "perez",
+          "name": "Sergio Pérez",
+          "familyName": "Pérez",
+          "shortName": "PER",
+          "position": 21,
+          "positionText": "R",
+          "constructorId": "cadillac",
+          "constructorName": "Cadillac F1 Team",
+          "points": 0,
+          "status": "Retired"
+        },
+        {
+          "driverId": "albon",
+          "name": "Alexander Albon",
+          "familyName": "Albon",
+          "shortName": "ALB",
+          "position": 22,
+          "positionText": "W",
+          "constructorId": "williams",
+          "constructorName": "Williams",
+          "points": 0,
+          "status": "Did not start"
+        }
+      ],
       "sprintResults": null,
       "practiceSessions": {
         "FP2": {
@@ -28181,7 +28446,7 @@
             }
           ],
           "attempts": 0,
-          "checkedAt": "2026-11-22T13:20:32.540Z"
+          "checkedAt": "2026-11-23T15:57:53.458Z"
         },
         "FP3": {
           "sessionKey": 11415,
@@ -28410,7 +28675,7 @@
             }
           ],
           "attempts": 0,
-          "checkedAt": "2026-11-21T13:28:02.397Z"
+          "checkedAt": "2026-11-23T15:57:53.458Z"
         }
       },
       "qualifyingSessions": {
@@ -28795,9 +29060,10 @@
             }
           ],
           "attempts": 0,
-          "checkedAt": "2026-11-21T13:28:02.397Z"
+          "checkedAt": "2026-11-23T15:57:53.458Z"
         }
-      }
+      },
+      "raceCheckedAt": "2026-11-23T15:57:51.337Z"
     },
     {
       "round": 22,
@@ -28829,7 +29095,7 @@
       "familyName": "Antonelli",
       "shortName": "ANT",
       "position": 1,
-      "points": 390,
+      "points": 402,
       "wins": 9,
       "constructorIds": [
         "mercedes"
@@ -28841,22 +29107,10 @@
       "familyName": "Verstappen",
       "shortName": "VER",
       "position": 2,
-      "points": 279,
-      "wins": 3,
+      "points": 304,
+      "wins": 4,
       "constructorIds": [
         "red_bull"
-      ]
-    },
-    {
-      "driverId": "russell",
-      "name": "George Russell",
-      "familyName": "Russell",
-      "shortName": "RUS",
-      "position": 3,
-      "points": 262,
-      "wins": 3,
-      "constructorIds": [
-        "mercedes"
       ]
     },
     {
@@ -28864,23 +29118,23 @@
       "name": "Lewis Hamilton",
       "familyName": "Hamilton",
       "shortName": "HAM",
-      "position": 4,
-      "points": 261,
+      "position": 3,
+      "points": 267,
       "wins": 1,
       "constructorIds": [
         "ferrari"
       ]
     },
     {
-      "driverId": "leclerc",
-      "name": "Charles Leclerc",
-      "familyName": "Leclerc",
-      "shortName": "LEC",
-      "position": 5,
-      "points": 249,
-      "wins": 1,
+      "driverId": "russell",
+      "name": "George Russell",
+      "familyName": "Russell",
+      "shortName": "RUS",
+      "position": 4,
+      "points": 264,
+      "wins": 3,
       "constructorIds": [
-        "ferrari"
+        "mercedes"
       ]
     },
     {
@@ -28888,11 +29142,23 @@
       "name": "Lando Norris",
       "familyName": "Norris",
       "shortName": "NOR",
-      "position": 6,
-      "points": 246,
+      "position": 5,
+      "points": 264,
       "wins": 3,
       "constructorIds": [
         "mclaren"
+      ]
+    },
+    {
+      "driverId": "leclerc",
+      "name": "Charles Leclerc",
+      "familyName": "Leclerc",
+      "shortName": "LEC",
+      "position": 6,
+      "points": 250,
+      "wins": 1,
+      "constructorIds": [
+        "ferrari"
       ]
     },
     {
@@ -28901,7 +29167,7 @@
       "familyName": "Piastri",
       "shortName": "PIA",
       "position": 7,
-      "points": 152,
+      "points": 167,
       "wins": 0,
       "constructorIds": [
         "mclaren"
@@ -28938,7 +29204,7 @@
       "familyName": "Gasly",
       "shortName": "GAS",
       "position": 10,
-      "points": 42,
+      "points": 52,
       "wins": 0,
       "constructorIds": [
         "alpine"
@@ -28962,7 +29228,7 @@
       "familyName": "Colapinto",
       "shortName": "COL",
       "position": 12,
-      "points": 27,
+      "points": 35,
       "wins": 0,
       "constructorIds": [
         "alpine"
@@ -29005,11 +29271,23 @@
       ]
     },
     {
+      "driverId": "sainz",
+      "name": "Carlos Sainz",
+      "familyName": "Sainz",
+      "shortName": "SAI",
+      "position": 16,
+      "points": 11,
+      "wins": 0,
+      "constructorIds": [
+        "williams"
+      ]
+    },
+    {
       "driverId": "ocon",
       "name": "Esteban Ocon",
       "familyName": "Ocon",
       "shortName": "OCO",
-      "position": 16,
+      "position": 17,
       "points": 7,
       "wins": 0,
       "constructorIds": [
@@ -29021,23 +29299,11 @@
       "name": "Fernando Alonso",
       "familyName": "Alonso",
       "shortName": "ALO",
-      "position": 17,
-      "points": 7,
-      "wins": 0,
-      "constructorIds": [
-        "aston_martin"
-      ]
-    },
-    {
-      "driverId": "sainz",
-      "name": "Carlos Sainz",
-      "familyName": "Sainz",
-      "shortName": "SAI",
       "position": 18,
       "points": 7,
       "wins": 0,
       "constructorIds": [
-        "williams"
+        "aston_martin"
       ]
     },
     {
@@ -29130,28 +29396,28 @@
       "constructorId": "mercedes",
       "name": "Mercedes",
       "position": 1,
-      "points": 652,
+      "points": 666,
       "wins": 12
     },
     {
       "constructorId": "ferrari",
       "name": "Ferrari",
       "position": 2,
-      "points": 510,
+      "points": 517,
       "wins": 2
     },
     {
       "constructorId": "red_bull",
       "name": "Red Bull",
       "position": 3,
-      "points": 415,
-      "wins": 3
+      "points": 440,
+      "wins": 4
     },
     {
       "constructorId": "mclaren",
       "name": "McLaren",
       "position": 4,
-      "points": 398,
+      "points": 431,
       "wins": 3
     },
     {
@@ -29165,7 +29431,7 @@
       "constructorId": "alpine",
       "name": "Alpine F1 Team",
       "position": 6,
-      "points": 69,
+      "points": 87,
       "wins": 0
     },
     {
@@ -29186,7 +29452,7 @@
       "constructorId": "williams",
       "name": "Williams",
       "position": 9,
-      "points": 12,
+      "points": 16,
       "wins": 0
     },
     {

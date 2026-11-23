@@ -6,7 +6,7 @@
   "seasonLabel": "2026/27",
   "complete": false,
   "calendarCheckedAt": "2026-11-19T14:25:48.322Z",
-  "updatedAt": "2026-11-22T13:20:42.951Z",
+  "updatedAt": "2026-11-23T15:58:08.704Z",
   "matches": [
     {
       "id": "83156",
@@ -1597,30 +1597,36 @@
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-22T14:30:00Z",
-      "updated": "2026-11-20T11:53:53.98",
-      "finished": false,
+      "updated": "2026-11-22T17:25:18.087",
+      "finished": true,
       "homeTeamId": "95",
       "homeTeam": "FC Augsburg",
       "homeShortName": "Augsburg",
       "awayTeamId": "81",
       "awayTeam": "1. FSV Mainz 05",
       "awayShortName": "Mainz",
-      "result": null
+      "result": {
+        "home": 3,
+        "away": 1
+      }
     },
     {
       "id": "83243",
       "groupOrderId": 10,
       "groupName": "10. Spieltag",
       "date": "2026-11-22T16:30:00Z",
-      "updated": "2026-11-20T11:54:16.897",
-      "finished": false,
+      "updated": "2026-11-22T19:30:39.223",
+      "finished": true,
       "homeTeamId": "134",
       "homeTeam": "SV Werder Bremen",
       "homeShortName": "Bremen",
       "awayTeamId": "100",
       "awayTeam": "Hamburger SV",
       "awayShortName": "HSV",
-      "result": null
+      "result": {
+        "home": 4,
+        "away": 0
+      }
     },
     {
       "id": "83253",
@@ -4939,14 +4945,14 @@
       "name": "SV Werder Bremen",
       "shortName": "Bremen",
       "position": 6,
-      "played": 9,
-      "wins": 4,
+      "played": 10,
+      "wins": 5,
       "draws": 3,
       "losses": 2,
-      "goalsFor": 17,
+      "goalsFor": 21,
       "goalsAgainst": 15,
-      "goalDifference": 2,
-      "points": 15
+      "goalDifference": 6,
+      "points": 18
     },
     {
       "teamId": "91",
@@ -4991,10 +4997,24 @@
       "points": 13
     },
     {
+      "teamId": "95",
+      "name": "FC Augsburg",
+      "shortName": "Augsburg",
+      "position": 10,
+      "played": 10,
+      "wins": 3,
+      "draws": 3,
+      "losses": 4,
+      "goalsFor": 23,
+      "goalsAgainst": 21,
+      "goalDifference": 2,
+      "points": 12
+    },
+    {
       "teamId": "175",
       "name": "TSG Hoffenheim",
       "shortName": "Hoffenheim",
-      "position": 10,
+      "position": 11,
       "played": 10,
       "wins": 4,
       "draws": 0,
@@ -5008,35 +5028,35 @@
       "teamId": "100",
       "name": "Hamburger SV",
       "shortName": "HSV",
-      "position": 11,
-      "played": 9,
+      "position": 12,
+      "played": 10,
       "wins": 4,
       "draws": 0,
-      "losses": 5,
+      "losses": 6,
       "goalsFor": 10,
-      "goalsAgainst": 20,
-      "goalDifference": -10,
+      "goalsAgainst": 24,
+      "goalDifference": -14,
       "points": 12
     },
     {
       "teamId": "81",
       "name": "1. FSV Mainz 05",
       "shortName": "Mainz",
-      "position": 12,
-      "played": 9,
+      "position": 13,
+      "played": 10,
       "wins": 3,
       "draws": 1,
-      "losses": 5,
-      "goalsFor": 18,
-      "goalsAgainst": 19,
-      "goalDifference": -1,
+      "losses": 6,
+      "goalsFor": 19,
+      "goalsAgainst": 22,
+      "goalDifference": -3,
       "points": 10
     },
     {
       "teamId": "65",
       "name": "1. FC Köln",
       "shortName": "Köln",
-      "position": 13,
+      "position": 14,
       "played": 10,
       "wins": 2,
       "draws": 4,
@@ -5050,7 +5070,7 @@
       "teamId": "31",
       "name": "SC Paderborn 07",
       "shortName": "Paderborn",
-      "position": 14,
+      "position": 15,
       "played": 10,
       "wins": 2,
       "draws": 4,
@@ -5059,20 +5079,6 @@
       "goalsAgainst": 15,
       "goalDifference": -7,
       "points": 10
-    },
-    {
-      "teamId": "95",
-      "name": "FC Augsburg",
-      "shortName": "Augsburg",
-      "position": 15,
-      "played": 9,
-      "wins": 2,
-      "draws": 3,
-      "losses": 4,
-      "goalsFor": 20,
-      "goalsAgainst": 20,
-      "goalDifference": 0,
-      "points": 9
     },
     {
       "teamId": "9",
@@ -5211,8 +5217,8 @@
   ],
   "groupChecks": {
     "8": "2026-11-16T13:38:20.114Z",
-    "9": "2026-11-22T13:20:42.951Z",
-    "10": "2026-11-22T13:20:42.951Z"
+    "9": "2026-11-23T15:58:08.704Z",
+    "10": "2026-11-23T15:58:08.704Z"
   },
   "groupChanges": {
     "8": "2026-11-02T10:24:43.753",
